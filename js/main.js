@@ -1,8 +1,8 @@
 
 ;(function(){
 
-  var photoCollection = [ '001.jpg', '002.jpg', '003.jpg', '004.jpg', '005.jpg', 
-                          '006.jpg', '007.jpg', '008.jpg', '009.jpg', '010.jpg', 
+  var photoCollection = [ '001.jpg', '002.jpg', '003.jpg', '004.jpg', '005.jpg',
+                          '006.jpg', '007.jpg', '008.jpg', '009.jpg', '010.jpg',
                           '011.jpg' ];
   var currentPhotoPhase = 0;
 
@@ -62,7 +62,7 @@
       else
       {
         currentMessageAction = 0;
-        setTimeout(typer, 3000);        
+        setTimeout(typer, 3000);
       }
     }
   };
@@ -74,7 +74,7 @@
 
     switch(currentPhotoPhase) {
       // fade out
-      case 0: 
+      case 0:
         delay = 1000;
         elem.fadeOut();
         break;
@@ -84,11 +84,11 @@
         delay = 1000;
         break;
       // fade in
-      case 2: 
+      case 2:
         delay = 2000;
         elem.fadeIn();
         break;
-      // wait a little bit 
+      // wait a little bit
       case 3:
         delay = 12000;
         break;
@@ -98,7 +98,7 @@
     window.setTimeout(changePhoto, delay);
   };
 
-  $(window).load(function() {
+  $(window).on('load', function() {
 
     init();
 
@@ -113,10 +113,10 @@
       var origin = $(this);
 
       // select the panel with the same data-key
-      var panel = $('.panel').filter(function() { 
+      var panel = $('.panel').filter(function() {
         return $(this).data('key') == origin.data('key');
       });
-      
+
       // if there is a destination panel
       if (panel.length > 0)
       {
