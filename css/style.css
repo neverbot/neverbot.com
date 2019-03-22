@@ -41,10 +41,7 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 300;
   color: #777777;
-  width: 100%;
-  /*min-width: 1000px;*/
   min-height: 100%;
-  /*overflow-y: scroll;*/
   font-size: 14pt;
   line-height: 1.75em;
 }
@@ -55,7 +52,7 @@ html, body {
 
 #wrapper {
   margin: 0 auto;
-  padding-top: 10%;
+  padding-top: 5em;
   width: 650px;
 }
 
@@ -63,6 +60,9 @@ html, body {
   text-align: center;
   height: 4.25em;
   cursor: default;
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap;
 }
   #nav a {
     width: 80px;
@@ -86,7 +86,7 @@ html, body {
       display: block;
       position: absolute;
       left: 50%;
-      bottom: -1.6em;
+      bottom: 0em;
       margin-left: -0.5em;
       border-bottom: solid 0em #ffffff;
       border-left: solid 0.5em transparent;
@@ -145,6 +145,9 @@ html, body {
     #nav a.active:after {
       border-bottom-width: 0.5em;
     }
+  #nav .line {
+    display: none;
+  }
 
 .icon {
   position: relative;
@@ -198,11 +201,9 @@ h1 {
   margin: 50px 0 20px 0;
   font-size: 2.4em;
 }
-
 h2 {
   font-size: 1.8em;
 }
-
 h3, h4, h5, h6 {
   font-size: 1.25em;
 }
@@ -212,6 +213,7 @@ h3, h4, h5, h6 {
   text-align: center;
   padding: 2em 0 0 0;
   font-size: 0.75em;
+  line-height: 1.4em;
 }
 
   #footer a {
@@ -228,18 +230,17 @@ h3, h4, h5, h6 {
     font-size: 0.7em;
   }
 
-#me {
+#home {
 }
 .text-wrapper {
   float: left;
-  padding-left: 30px;
-  padding-top: 10px;
+  padding: 10px 30px 0 30px;
 }
-#me .text-wrapper {
+#home .text-wrapper {
   width: 52%;
   padding-top: 30px;
 }
-#me h1 {
+#home h1 {
   margin-bottom: 0;
 }
   .text-wrapper > p {
@@ -280,27 +281,26 @@ h3, h4, h5, h6 {
       100% { opacity:1; }
     }
 
-#me .photo-wrapper {
+#home .photo-wrapper {
   float: right;
   width: 48%;
   position: relative;
+  display: flex;
+  justify-content: center;
 }
   .photo{
-    position: absolute;
-    top: 0;
-    left: 0;
-    border-radius:50%;
-    display:inline-block;
-    padding:0;
-    line-height:0;
-    box-shadow:1px 1px 0 rgba(255,255,255,.4);
+    position: relative;
+    display: inline-block;
+    border-radius: 50%;
+    box-shadow: 1px 1px 0 rgba(255,255,255,.4);
   }
 
   .photo:before{
-    border-radius:50%;
-    content:';
-    width:100%;
-    height:100%;
+    position: absolute;
+    border-radius: 50%;
+    content: '';
+    width: 250px;
+    height: 250px;
 
     background: -moz-linear-gradient(-45deg,  rgba(255,255,255,1) 0%, rgba(255,255,255,0.35) 50%, rgba(225,225,225,0) 51%, rgba(246,246,246,0) 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(50%,rgba(255,255,255,0.35)), color-stop(51%,rgba(225,225,225,0)), color-stop(100%,rgba(246,246,246,0))); /* Chrome,Safari4+ */
@@ -308,9 +308,7 @@ h3, h4, h5, h6 {
     background: -o-linear-gradient(-45deg,  rgba(255,255,255,1) 0%,rgba(255,255,255,0.35) 50%,rgba(225,225,225,0) 51%,rgba(246,246,246,0) 100%); /* Opera 11.10+ */
     background: -ms-linear-gradient(-45deg,  rgba(255,255,255,1) 0%,rgba(255,255,255,0.35) 50%,rgba(225,225,225,0) 51%,rgba(246,246,246,0) 100%); /* IE10+ */
     background: linear-gradient(135deg,  rgba(255,255,255,1) 0%,rgba(255,255,255,0.35) 50%,rgba(225,225,225,0) 51%,rgba(246,246,246,0) 100%); /* W3C */
-    box-shadow:inset 0px 0 26px rgba(0,0,0,.7);
-
-    position:absolute;
+    box-shadow: inset 0px 0 26px rgba(0,0,0,.7);
   }
   .photo img {
     width: 250px;
@@ -321,9 +319,10 @@ h3, h4, h5, h6 {
 
   .photo-ring {
     position: absolute;
+    display: inline-block;
     top: 0;
     left: 0;
-    border-radius:50%;
+    border-radius: 50%;
     width: 250px;
     height: 250px;
     -webkit-transition: all 0.2s ease;
@@ -342,3 +341,57 @@ h3, h4, h5, h6 {
     width: 270px;
     height: 270px;
   }
+
+@media (max-width: 650px) {
+  #wrapper {
+    width: 100%;
+    padding-top: 1em;
+  }
+
+  #nav {
+    height: 6.5em;
+  }
+    #nav a:after {
+      bottom: -3.5em;
+    }
+    #nav a span {
+      display: none;
+    }
+    #nav .line {
+      display: initial;
+      flex-basis: 100%;
+    }
+
+  .panel {
+    padding: 0.6em 1.4em;
+  }
+
+  .text-wrapper {
+    float: initial;
+    padding: 10px 10px 0 10px;
+  }
+    .text-wrapper > header {
+      text-align: center;
+    }
+    .text-wrapper p {
+      margin: 0;
+    }
+    #home .text-wrapper {
+      width: 100%;
+      padding-top: 10px;
+      padding-bottom: 20px;
+    }
+
+  #home .photo-wrapper {
+    float: initial;
+    width: 100%;
+    height: 250px;
+    margin: 0 auto;
+    position: relative;
+  }
+
+  h1 {
+    margin: 10px 0 20px 0;
+    font-size: 1.8em;
+  }
+}

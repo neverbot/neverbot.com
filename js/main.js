@@ -102,10 +102,7 @@
 
     init();
 
-    window.setTimeout(changePhoto, 4000);
-
-    $('.icon').on('click', function() {
-
+    $('.icon').on('click', function(event) {
       // ignore current panel
       if ($(this).hasClass('active') === true)
         return;
@@ -120,6 +117,8 @@
       // if there is a destination panel
       if (panel.length > 0)
       {
+        event.preventDefault();
+
         // hide every panel
         $('.panel').fadeOut(250);
 
