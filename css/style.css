@@ -1,0 +1,351 @@
+
+@import url('http://fonts.googleapis.com/css?family=Indie+Flower');
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic");
+
+@import url('../fonts/font-awesome.min.css');
+
+/*
+  Made by Ivan Alonso (@neverbot)
+
+  Based on the Astral Template by HTML5 UP (@n33co)
+  License: Creative Commons Attribution 3.0
+
+  Some places where I took ideas from:
+  (take a look too, it's the better way to learn)
+
+  Protrait effect:
+  http://codepen.io/maxme/pen/AobLn
+
+  Image halo effect:
+  http://jsfiddle.net/zcPVj/22/
+
+  Typewriter:
+  http://themes.playnethemes.com/mayde/
+*/
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  min-width: 100%;
+  min-height: 100%;
+}
+body {
+  background-image: url('../images/overlay.png'), url('../images/bg-grey.png');
+  background-repeat: repeat, no-repeat;
+  background-size: auto, 100% 100%;
+  background-attachment: fixed;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 300;
+  color: #777777;
+  width: 100%;
+  /*min-width: 1000px;*/
+  min-height: 100%;
+  overflow-y: scroll;
+  font-size: 14pt;
+  line-height: 1.75em;
+}
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+#wrapper {
+  margin: 0 auto;
+  padding-top: 10%;
+  width: 650px;
+}
+
+#nav {
+  text-align: center;
+  height: 4.25em;
+  cursor: default;
+}
+  #nav a {
+    width: 80px;
+    opacity: 0.35;
+    outline: 0;
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
+    -ms-transition: opacity .25s ease-in-out;
+    transition: opacity .25s ease-in-out;
+    position: relative;
+    display: inline-block;
+    color: #1B1B1B;
+    text-align: center;
+    cursor: default;
+  }
+    #nav a:before {
+      font-size: 0.8em;
+    }
+    #nav a:after {
+      content: '';
+      display: block;
+      position: absolute;
+      left: 50%;
+      bottom: -2em;
+      margin-left: -0.5em;
+      border-bottom: solid 0em #ffffff;
+      border-left: solid 0.5em transparent;
+      border-right: solid 0.5em transparent;
+      -moz-transition: border-bottom-width .25s ease-in-out;
+      -webkit-transition: border-bottom-width .25s ease-in-out;
+      -ms-transition: border-bottom-width .25s ease-in-out;
+      transition: border-bottom-width .25s ease-in-out;
+    }
+
+  #nav a.icon:before {
+    padding-right: 0;
+    font-size: 2.5em;
+    margin: 0 0.25em 0 0.25em;
+    opacity: 0.35;
+    outline: 0;
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
+    -ms-transition: opacity .25s ease-in-out;
+    transition: opacity .25s ease-in-out;
+  }
+
+  #nav a span {
+    display: inline-block;
+    position: absolute;
+    background: #222222;
+    color: #ffffff;
+    top: -3.75em;
+    left: 30px;
+    opacity: 0;
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
+    -ms-transition: opacity .25s ease-in-out;
+    transition: opacity .25s ease-in-out;
+    width: 100px;
+    margin-left: -2.75em;
+    border-radius: 10px;
+    font-size: 0.8em;
+  }
+
+  #nav a span:after {
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: -0.4em;
+    left: 50%;
+    margin-left: -0.6em;
+    border-top: solid 0.6em #222222;
+    border-left: solid 0.6em transparent;
+    border-right: solid 0.6em transparent;
+  }
+
+  #nav a:hover {
+    opacity: 1.0;
+  }
+    #nav a:hover span {
+      opacity: 1.0;
+    }
+
+  #nav a.active {
+    opacity: 1.0;
+  }
+    #nav a.active:after {
+      border-bottom-width: 0.5em;
+    }
+
+.icon {
+  position: relative;
+  text-decoration: none;
+}
+
+.icon:before {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-transform: none !important;
+}
+
+  .icon > .label {
+    display: none;
+  }
+
+#main {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  min-height: 385px;
+  background: #ffffff;
+  box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.25);
+}
+.panel {
+  padding: 3.5em 2.5em 3.5em 2.5em;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: 'Indie Flower', sans-serif;  
+  -moz-transition: visibility 0s linear 0.5s;
+  -webkit-transition: visibility 0s linear 0.5s;
+  -ms-transition: visibility 0s linear 0.5s;
+  transition: visibility 0s linear 0.5s;
+  width: 100%;
+}
+  .panel p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16pt;
+  }
+
+strong, b, h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+  color: #363636;
+}
+
+h1 {
+  margin: 50px 0 20px 0;
+  font-size: 2.4em;
+}
+
+h2 {
+  font-size: 1.8em;
+}
+
+h3, h4, h5, h6 {
+  font-size: 1.25em;
+}
+
+#footer {
+  color: #777777;
+  text-align: center;
+  padding: 2em 0 0 0;
+  font-size: 0.75em;
+}
+
+  #footer a {
+    color: #777777;
+    -moz-transition: color .25s ease-in-out;
+    -webkit-transition: color .25s ease-in-out;
+    -ms-transition: color .25s ease-in-out;
+    transition: color .25s ease-in-out;
+  }
+  #footer a:hover {
+    color: #383838;
+  }
+  #footer .fa {
+    font-size: 0.7em;
+  }
+
+#me {
+}
+.text-wrapper {
+  float: left;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+#me .text-wrapper {
+  width: 52%;  
+  padding-top: 30px;
+}
+#me h1 {
+  margin-bottom: 0;
+}
+  .text-wrapper > p {
+    margin: 0.5em 0 0 0;
+  }
+  .text-wrapper a {
+    color: #777777;
+    -moz-transition: color .25s ease-in-out;
+    -webkit-transition: color .25s ease-in-out;
+    -ms-transition: color .25s ease-in-out;
+    transition: color .25s ease-in-out;
+  }
+  .text-wrapper a:hover {
+    color: #383838;
+  }
+
+  .typed-cursor {
+    position: relative;
+    top: -0.05em;
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+  }
+    @keyframes blink {
+      0% { opacity:1; }
+      50% { opacity:0; }
+      100% { opacity:1; }
+    }
+    @-webkit-keyframes blink {
+      0% { opacity:1; }
+      50% { opacity:0; }
+      100% { opacity:1; }
+    }
+    @-moz-keyframes blink {
+      0% { opacity:1; }
+      50% { opacity:0; }
+      100% { opacity:1; }
+    }
+
+#me .photo-wrapper {
+  float: right;
+  width: 48%;
+  position: relative;
+}
+  .photo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius:50%;
+    display:inline-block;
+    padding:0;
+    line-height:0;
+    box-shadow:1px 1px 0 rgba(255,255,255,.4);
+  }
+
+  .photo:before{
+    border-radius:50%;
+    content:"";
+    width:100%;
+    height:100%;
+    
+    background: -moz-linear-gradient(-45deg,  rgba(255,255,255,1) 0%, rgba(255,255,255,0.35) 50%, rgba(225,225,225,0) 51%, rgba(246,246,246,0) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(50%,rgba(255,255,255,0.35)), color-stop(51%,rgba(225,225,225,0)), color-stop(100%,rgba(246,246,246,0))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(-45deg,  rgba(255,255,255,1) 0%,rgba(255,255,255,0.35) 50%,rgba(225,225,225,0) 51%,rgba(246,246,246,0) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(-45deg,  rgba(255,255,255,1) 0%,rgba(255,255,255,0.35) 50%,rgba(225,225,225,0) 51%,rgba(246,246,246,0) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(-45deg,  rgba(255,255,255,1) 0%,rgba(255,255,255,0.35) 50%,rgba(225,225,225,0) 51%,rgba(246,246,246,0) 100%); /* IE10+ */
+    background: linear-gradient(135deg,  rgba(255,255,255,1) 0%,rgba(255,255,255,0.35) 50%,rgba(225,225,225,0) 51%,rgba(246,246,246,0) 100%); /* W3C */
+    box-shadow:inset 0px 0 26px rgba(0,0,0,.7);
+
+    position:absolute;
+  }
+  .photo img {
+    width: 250px;
+    height: 250px; 
+    z-index:0;
+    border-radius:50%;
+  }
+
+  .photo-ring {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius:50%;
+    width: 250px;
+    height: 250px; 
+    -webkit-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    transition: all 0.2s ease;    
+  }
+  .photo-ring:hover {
+    border-radius:50%;
+    border:5px solid #E7E7E7;
+    padding: 15px;
+    margin: 20px;
+    top: -30px;
+    left: -30px;
+    width: 270px;
+    height: 270px;
+  }
