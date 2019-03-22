@@ -11,8 +11,8 @@ aj@lkn.io | [@ajlkn](https://twitter.com/ajlkn)
 
 ### Other licenses:
 
- * Icons from [Font Awesome](http://fontawesome.io/) (CC BY 3.0)
- * [jQuery](http://jquery.com/) from jQuery Foundation (MIT License)
+ * Icons from [Font Awesome](http://fontawesome.io/) v5.8.1 (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ * [jQuery](http://jquery.com/) v3.3.1 from jQuery Foundation (MIT License)
 
 ### Some places where I took ideas from (take a look too, it's the better way to learn):
 
