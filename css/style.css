@@ -215,21 +215,21 @@ h3, h4, h5, h6 {
 }
 
 #footer {
-  color: #777777;
+  color: #999;
   text-align: center;
   padding: 2em 0 0 0;
   font-size: 0.75em;
 }
 
   #footer a {
-    color: #777777;
+    color: #999;
     -moz-transition: color .25s ease-in-out;
     -webkit-transition: color .25s ease-in-out;
     -ms-transition: color .25s ease-in-out;
     transition: color .25s ease-in-out;
   }
   #footer a:hover {
-    color: #383838;
+    color: #777;
   }
   #footer .fa {
     font-size: 0.7em;
