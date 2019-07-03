@@ -10,6 +10,8 @@ aj@lkn.io | [@ajlkn](https://twitter.com/ajlkn)
 
 [Creative Commons Attribution 3.0](license.txt)
 
+Except photographs in `images/photos`, which are © [@neverbot](https://github.com/neverbot)
+
 ### Other licenses:
 
  * Icons from [Font Awesome](http://fontawesome.io/) v5.8.1 (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
