@@ -6,6 +6,8 @@ Based on the [Astral Template by HTML5 UP](http://html5up.net/astral)
 (old @n33co, now @ajlkn)
 aj@lkn.io | [@ajlkn](https://twitter.com/ajlkn)
 
+![](screenshot.png)
+
 ### License:
 
 [Creative Commons Attribution 3.0](license.txt)
