@@ -2,8 +2,8 @@
 ;(function(){
 
   var photoCollection = [ '001.jpg', '002.jpg', '003.jpg', '004.jpg', '005.jpg',
-                          '006.jpg', '007.jpg', '008.jpg', '009.jpg', '010.jpg',
-                          '011.jpg' ];
+                          '006.jpg', '007.jpg', '008.jpg', '009.png', '010.png',
+                          '011.png' ];
   var currentPhotoPhase = 0;
 
   var textMessages = [ 'Master Chief Officer',
@@ -26,7 +26,7 @@
     $('#text-animated').html(textMessages[ random ]);
     currentMessage = textMessages[ random ];
 
-    window.setTimeout(changePhoto, 4000);
+    window.setTimeout(changePhoto, 2000);
     window.setTimeout(typer, 3000);
   };
 
@@ -76,21 +76,21 @@
       // fade out
       case 0:
         delay = 1000;
-        elem.fadeOut();
+        elem.fadeOut(1000);
         break;
       // change img src
       case 1:
         elem.children('img').attr('src', 'images/photos/' + photoCollection[Math.floor(Math.random()*photoCollection.length)]);
-        delay = 1000;
+        delay = 100;
         break;
       // fade in
       case 2:
-        delay = 2000;
-        elem.fadeIn();
+        delay = 1000;
+        elem.fadeIn(1000);
         break;
       // wait a little bit
       case 3:
-        delay = 12000;
+        delay = 6000;
         break;
     }
 
