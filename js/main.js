@@ -85,7 +85,7 @@
         break;
       // fade in
       case 2:
-        delay = 1000;
+        delay = 2000;
         elem.fadeIn(1000);
         break;
       // wait a little bit
