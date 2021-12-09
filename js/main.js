@@ -26,7 +26,7 @@
     $('#text-animated').html(textMessages[ random ]);
     currentMessage = textMessages[ random ];
 
-    window.setTimeout(changePhoto, 2000);
+    window.setTimeout(changePhoto, 4000);
     window.setTimeout(typer, 3000);
   };
 
@@ -76,17 +76,17 @@
       // fade out
       case 0:
         delay = 1000;
-        elem.fadeOut(1000);
+        elem.fadeOut();
         break;
       // change img src
       case 1:
         elem.children('img').attr('src', 'images/photos/' + photoCollection[Math.floor(Math.random()*photoCollection.length)]);
-        delay = 100;
+        delay = 1000;
         break;
       // fade in
       case 2:
         delay = 2000;
-        elem.fadeIn(1000);
+        elem.fadeIn();
         break;
       // wait a little bit
       case 3:
