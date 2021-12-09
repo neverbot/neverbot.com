@@ -19,7 +19,7 @@ Except photographs in `images/photos`, which are © [@neverbot](https://github.c
  * Icons from [Font Awesome](http://fontawesome.io/) v5.8.1 (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  * [jQuery](http://jquery.com/) v3.3.1 from jQuery Foundation (MIT License)
 
-### Some places where I took ideas from (take a look too, it's the better way to learn):
+### Some places where I took ideas from (take a look too, it's the best way to learn):
 
  * Portrait effect: [http://codepen.io/maxme/pen/AobLn](http://codepen.io/maxme/pen/AobLn)
  * Image halo effect: [http://jsfiddle.net/zcPVj/22/](http://jsfiddle.net/zcPVj/22/)
