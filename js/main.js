@@ -3,7 +3,7 @@
 
   var photoCollection = [ '001.jpg', '002.jpg', '003.jpg', '004.jpg', '005.jpg',
                           '006.jpg', '007.jpg', '008.jpg', '009.png', '010.png',
-                          '011.png' ];
+                          '011.jpg' ];
   var currentPhotoPhase = 0;
 
   var textMessages = [ 'Master Chief Officer',
