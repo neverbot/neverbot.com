@@ -13,19 +13,16 @@
   .post-title:hover
     text-decoration: none;
     
-  .post-meta
-    color rgba(85, 85, 85, 0.52941) !important
+  .post-meta, .post-footer
+    color $font-secondary-color
 
     a
-      color $post-link-color
+      color $font-secondary-color
+      text-decoration: underline;
 
       &:hover
-        color $post-link-hover-color
-
-    .post-author,
-    .post-time,
-    .post-category
-      margin-right 10px
+        color $global-link-hover-color
+        text-decoration: none;
         
 .post-content
   // padding-top 2rem

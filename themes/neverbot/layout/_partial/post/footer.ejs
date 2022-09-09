@@ -1,0 +1,13 @@
+<section class="post-footer">
+    <div>
+        <% if (post.tags.length !== 0) { %>
+        <span>Etiqueta<%- (post.tags.length > 1) ? 's' : '' %>:</span>
+        <span class="tag">
+            <% post.tags.forEach((item, i) => { %>
+                <a href="<%- url_for(item.path) %>">#<%- item.name %></a><%- (i < post.tags.length - 1) ? ',' : '' %>
+            <% }) %>
+        </span>
+        | <span class="permalink"><a href="<%- post.permalink %>">#</a></span>
+        <% } %>
+    </div>
+</section>
