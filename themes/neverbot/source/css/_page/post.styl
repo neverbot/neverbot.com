@@ -1,0 +1,202 @@
+.post
+  font-family: georgia, serif;
+  
+  p
+    font-size 1em
+    margin 1em 0 1em 0
+
+  .post-title
+    font-size: 1.2em;
+    line-height: 1.5em;
+    text-decoration: underline;
+    font-weight: bold;
+  .post-title:hover
+    text-decoration: none;
+    
+  .post-meta
+    color rgba(85, 85, 85, 0.52941) !important
+
+    a
+      color $post-link-color
+
+      &:hover
+        color $post-link-hover-color
+
+    .post-author,
+    .post-time,
+    .post-category
+      margin-right 10px
+        
+.post-content
+  // padding-top 2rem
+  text-align justify
+
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  word-break: break-word;
+
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6
+    margin-top 1em
+    margin-bottom 1em
+    // padding-top .8em
+    // padding-bottom .3em
+  h1::before
+       content "#"
+       margin-right 5px
+       color $post-link-color
+  h2::before
+       content "#"
+       margin-right 5px
+       color $post-link-color
+  h3
+    font-size 1em
+  h3::before
+       content "|"
+       margin-right 5px
+       color $post-link-color
+  h4::before
+       content "*"
+       margin-right 5px
+       color $post-link-color
+  h5
+    font-size 1em
+
+  a
+    color $post-link-color
+
+  a:hover
+    color $post-link-hover-color
+
+  ul
+    padding-left 2em
+
+  table
+    max-width 100%
+    margin 10px auto
+    border-spacing 0
+    thead
+      background $post-table-background-color
+    th, td
+      padding 5px 15px
+      border .5px solid $border-color
+
+  .image-caption:not(:empty)
+    min-width 20%
+    max-width 80%
+    display inline-block
+    padding 10px
+    margin 0 auto
+    border-bottom 1px solid #d9d9d9
+    font-size 14px
+    color #969696
+    line-height 1.7
+
+  img
+    display block
+    max-width 100%
+    height auto
+    margin 0 auto
+    overflow hidden
+
+  img[data-action="zoom"]
+    cursor zoom-in
+
+  blockquote
+    font-size 1rem
+    display block
+    margin 1em 0
+    padding 1em 1.2em 1em 1.2em
+    position relative
+    color rgba(#34495e, 0.8)
+    background-color $post-blockquote-background-color
+    border-left 2px solid $post-blockquote-border-color
+    //box-shadow 1px 1px 2px rgba(0,0,0,0.125)
+    p
+      margin 0
+    footer
+      strong
+        margin-right 0.5em
+    &.pullquote
+      background-color transparent
+      max-width 45%
+      border 0
+      &.left
+        float left
+        text-align left
+      &.right
+        float right
+        text-align right 
+
+  .svg-inline--fa
+     font-size 1.7em
+     vertical-align bottom
+
+  hr
+    margin-top 2em
+    margin-bottom 2em
+
+  iframe
+    display block
+    max-width 100%
+    margin 0 auto
+    overflow hidden
+    
+.post-content
+  code, pre
+    line-height 1.7em
+    padding 7px
+    font-size 14px
+    font-family Consolas, Monaco, Menlo, Consolas, monospace
+  code
+    line-height 1.7em
+    padding 3px 5px
+    border-radius 4px
+    color $code-font-color
+    background $code-background-color
+
+  figure.highlight
+    margin 1em 0
+    overflow-x auto
+    position relative
+    &::-webkit-scrollbar
+      width 6px
+      height 6px
+    &::-webkit-scrollbar-thumb
+      width 6px
+      background-color #eee
+      border-radius 2px
+    figcaption
+      padding 0 0.5em
+      text-align right
+      font-size 13px
+      span
+        margin 0 0.5em
+    table
+      position relative
+    table, tr, td
+      margin 0
+      padding 0
+      border 0
+      width 100%
+      border-collapse collapse
+    .code
+      pre
+        margin 0 10px
+
+    // line number
+    .gutter
+      width 10px
+      color #d0d0d0
+      pre
+        margin 0

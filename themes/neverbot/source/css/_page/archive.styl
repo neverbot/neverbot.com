@@ -1,0 +1,27 @@
+.post-list
+  padding-left: 0px;
+
+.post-wrap
+  position relative
+  width 100%
+  max-width 780px
+  margin 0 auto
+  padding-top 2rem
+
+  .archive-item
+    margin-left 2rem
+
+.archive-item-link
+    display inline-block
+    text-decoration none
+    overflow hidden
+    //text-overflow ellipsis
+    white-space nowrap
+    &:hover
+      color $global-link-hover-color
+      background-color transparent
+
+  .archive-item-date
+    float right
+    text-align right
+    color $font-secondary-color

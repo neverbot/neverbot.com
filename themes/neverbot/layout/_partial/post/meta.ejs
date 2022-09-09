@@ -1,0 +1,17 @@
+<% if (post.author && post.date) { %>
+    <div class="post-meta">
+      <% if (is_post()) { %>
+        Publicado por <%- post.author %>, el
+        <time datetime="<%= date_xml(post.date) %>" itemprop="datePublished"><%= date(post.date, theme.date_format) %></time>
+        <% if (theme.show_updated && post.date !== post.updated) { %>
+        (modificado: <time datetime="<%= date_xml(post.updated) %>" itemprop="dateModified"><%= date(post.updated, theme.date_format) %></time>)
+        <% } %>
+      <% } else { %>
+        <% if (theme.archive.sort_updated ) { %>
+          <time datetime="<%= date_xml(post.updated) %>" itemprop="dateModified"><%= date(post.updated, theme.date_format) %></time>
+        <% } else { %>
+          <time datetime="<%= date_xml(post.date) %>" itemprop="datePublished"><%= date(post.date, theme.date_format) %></time>
+        <% } %>
+      <% } %>
+    </div>
+<% } %>
