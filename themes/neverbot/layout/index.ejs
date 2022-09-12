@@ -1,4 +1,4 @@
 <% if(is_home()) {%>
-This is the home!
+    <%- partial('_partial/home', { index: true }) %>
 <%}%>
 <%- partial('_page/archive', { index: true }) %>
