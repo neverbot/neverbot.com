@@ -1,13 +1,23 @@
 .post
   font-family: georgia, serif;
+  margin-bottom: 4em;  
   
   .post-title
     font-size: 1.2em;
     line-height: 1.5em;
     text-decoration: underline;
     font-weight: bold;
+    position: relative;
   .post-title:hover
     text-decoration: none;
+  .post-title::before
+    content: "#";
+    color: $post-link-hover-color;
+    font-size: 5em;
+    display: block;
+    position: absolute;
+    left: -70px;
+    opacity: 0.2;
     
   .post-meta, .post-footer
     font-size 1em
@@ -26,6 +36,7 @@
   font-size 1.1em
   line-height: 1.5em;
   text-align justify
+  margin-bottom: 1em;
 
   overflow-wrap: break-word;
   word-wrap: break-word;
@@ -49,23 +60,23 @@
     // padding-top .8em
     // padding-bottom .3em
   h1::before
-       content "#"
-       margin-right 5px
-       color $post-link-color
+    content "#"
+    margin-right 5px
+    color $post-link-color
   h2::before
-       content "#"
-       margin-right 5px
-       color $post-link-color
+    content "#"
+    margin-right 5px
+    color $post-link-color
   h3
     font-size 1em
   h3::before
-       content "|"
-       margin-right 5px
-       color $post-link-color
+    content "|"
+    margin-right 5px
+    color $post-link-color
   h4::before
-       content "*"
-       margin-right 5px
-       color $post-link-color
+    content "*"
+    margin-right 5px
+    color $post-link-color
   h5
     font-size 1em
 
