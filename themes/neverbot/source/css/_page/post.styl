@@ -138,14 +138,19 @@
     cursor zoom-in
 
   blockquote
-    font-size 1rem
-    display block
-    margin 1em 0
+    background: url('/images/quotes.gif') no-repeat top left;
+    border: none;
     padding 1em 1.2em 1em 1.2em
-    position relative
-    color rgba(#34495e, 0.8)
-    background-color $post-blockquote-background-color
-    border-left 2px solid $post-blockquote-border-color
+    font-style: italic;
+
+    // font-size 1rem
+    // display block
+    // margin 1em 0
+    // padding 1em 1.2em 1em 1.2em
+    // position relative
+    // color rgba(#34495e, 0.8)
+    // background-color $post-blockquote-background-color
+    // border-left 2px solid $post-blockquote-border-color
     //box-shadow 1px 1px 2px rgba(0,0,0,0.125)
     p
       margin 0
@@ -225,3 +230,45 @@
       color #d0d0d0
       pre
         margin 0
+
+.post-nav 
+  font-family: georgia, serif;
+  font-size: 1em;
+  color $font-secondary-color
+
+  a
+    color $font-secondary-color
+    &:hover
+      color $global-link-hover-color
+
+  &:before,
+  &:after 
+    content: " "
+    display: table
+  
+  & a.prev,
+  & a.next 
+    transition-property: transform
+    transition-timing-function: ease-out
+    transition-duration: 0.3s
+  
+  & a.prev 
+    float: left
+  
+  & a.prev::before 
+    content "<"
+    margin-right .5em
+
+  & a.prev:hover 
+    transform: translateX(-4px)
+  
+  & a.next 
+    float: right
+  
+  & a.next::after 
+    content ">"
+    margin-left .5em
+  
+  & a.next:hover 
+    transform: translateX(4px)
+  
