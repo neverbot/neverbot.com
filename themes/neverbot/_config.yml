@@ -90,6 +90,7 @@ archive:
   sort_updated: false
   show_all_posts: false
   post_per_page: 10
+  post_per_page_in_list: 20
 
 ## toc
 toc:
