@@ -1,0 +1,13 @@
+---
+title: Danger, Zombies!
+id: '2302'
+author: neverbot
+tags:
+  - Mundo Real™
+  - Pensamientos aleatorios
+date: 2010-01-28 17:20:59
+---
+
+![201001281720.jpg](./201001281720.jpg)
+
+Vía [Is that real life?](http://sebseballade.tumblr.com/post/357705861)

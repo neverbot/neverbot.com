@@ -1,0 +1,12 @@
+---
+title: Hermione Granger
+id: '6364'
+author: neverbot
+tags:
+  - Pensamientos aleatorios
+date: 2013-07-01 10:37:56
+---
+
+[![Hermione Granger](./hermione_granger.gif)](http://localhost:8000/wp-content/uploads/2013/07/hermione_granger.gif)
+
+_Cómo hemos cambiado..._
