@@ -8,7 +8,7 @@ tags:
 date: 2017-05-12 23:35:55
 ---
 
-[![](guardians_of_the_galaxy_2.png)](./guardians_of_the_galaxy_2.png)
+[![](./guardians_of_the_galaxy_2.png)](./guardians_of_the_galaxy_2.png)
 
 **[Guardians of the Galaxy, Vol. 2](http://www.imdb.com/title/tt3896198/)** (_James Gunn_, 2017)
 
@@ -24,7 +24,7 @@ Pero naves espaciales, chistes, pium pium, piñao piñao, muchos colores y ganan
 
 PD: Colorines y chistes, DC, colorines y chistes. Te lo tengo dicho.
 
-**[![](split.png)](./split.png)**
+**[![](./split.png)](./split.png)**
 
 **[Split](http://www.imdb.com/title/tt4972582/)** (_M. Night Shyamalan_, 2016)
 

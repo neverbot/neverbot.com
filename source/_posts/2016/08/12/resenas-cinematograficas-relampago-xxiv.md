@@ -8,7 +8,7 @@ tags:
 date: 2016-08-12 12:00:53
 ---
 
-[![demolition-jake-gyllenhaal](demolition-jake-gyllenhaal.png)](./demolition-jake-gyllenhaal.png)
+[![](./demolition-jake-gyllenhaal.png)](./demolition-jake-gyllenhaal.png)
 
 **[Demolition](http://www.imdb.com/title/tt1172049/)** (_Jean-Marc Vallée_, 2015)
 
@@ -16,7 +16,7 @@ En mi particular cosmovisión de las estrellas cinematográficas, tengo una pequ
 
 Aunque se pierde en ocasiones no quedando claro exactamente qué es lo que quiere contar ni hacia dónde se va a desarrollar la historia, tiene muy buenos momentos tragicómicos, algunos de llevarse las manos a la cabeza y, aunque le sobran algunas decisiones argumentales que no añaden gran cosa, el conjunto global no desmerece.
 
-[![legend-tom-hardy](legend-tom-hardy.png)](./legend-tom-hardy.png)
+[![](./legend-tom-hardy.png)](./legend-tom-hardy.png)
 
 **[Legend](http://www.imdb.com/title/tt3569230/)** (_Brian Helgeland_, 2015)
 

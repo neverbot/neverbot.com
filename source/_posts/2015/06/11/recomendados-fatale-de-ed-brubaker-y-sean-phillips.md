@@ -7,7 +7,7 @@ tags:
 date: 2015-06-11 21:32:37
 ---
 
-[![36ce6365320af95d92e56c629e9a20e7](36ce6365320af95d92e56c629e9a20e7.jpg)](./36ce6365320af95d92e56c629e9a20e7.jpg)
+[![](./36ce6365320af95d92e56c629e9a20e7.jpg)](./36ce6365320af95d92e56c629e9a20e7.jpg)
 
 Un punto de unión entre el terror cósmico _lovecraftiano_ y el género negro (como no podía ser de otra forma, con el tándem autoral formado por [Brubaker](https://en.wikipedia.org/wiki/Ed_Brubaker) y [Phillips](https://en.wikipedia.org/wiki/Sean_Phillips)). El primer tomo, **La muerte me persigue**, se construye en base a habilidosos _flashbacks_ hacia la década de los 50, a una San Francisco de policías corruptos y cultos secretos, de violencia y oscuridad. Apropiada lectura para las noches veraniegas que deja con ganas de más.
 

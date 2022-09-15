@@ -10,7 +10,7 @@ date: 2017-09-26 19:42:05
 
 Con un título de post que queda un poco pornográfico en esta trigésima entrada, damos un repaso rápido a algunas de las últimas películas que he visto.
 
-![](bone_tomahawk.png)
+![](./bone_tomahawk.png)
 
 **[Bone Tomahawk](http://www.imdb.com/title/tt2494362/)** (_S. Craig Zahler_, 2015)
 
@@ -18,13 +18,13 @@ Un _western_ durante dos actos que se transforma en una película de horror con 
 
 Me desquitaré leyendo algún tomo de _Blueberry_ y viendo algún otro _western_ durante la semana.
 
-![](baby-driver.png)
+![](./baby-driver.png)
 
 **[Baby Driver](http://www.imdb.com/title/tt3890160/)** (_Edgar Wright_, 2017)
 
 [Nicolas Winding Refn](http://www.imdb.com/name/nm0716347/) lo hizo mejor con [Drive](http://www.imdb.com/title/tt0780504/), sobre todo porque a Baby Driver se le olvidó no resultar tan expositiva en pequeños detalles, en contarnos historias de más que nos sobraban y que a la larga empantanan ligeramente una película que, por lo demás, resulta de impecable factura. Y es que es una verdad histórica innegable que todas las películas con persecuciones en coche siempre tienen algo interesante; como mínimo las persecuciones en coche. Muy buen ritmo que deja con ganas de más.
 
-![](transformers-the-last-knight.png)
+![](./transformers-the-last-knight.png)
 
 **[Transformers: The Last Knight](http://www.imdb.com/title/tt3371366/)** (_Michael Bay_, 2017)
 
@@ -32,7 +32,7 @@ Si digo que fácilmente le sobra una hora de metraje no os estoy contando nada n
 
 Una cierta parte de mi se apena porque [Michael Bay](http://www.imdb.com/name/nm0000881/) haya pervertido el concepto de Transformer para toda una generación, con robots raros y confusos visualmente, y que aquellas cosas tan bonitas de Hasbro, con tebeos de Marvel y series de Toei se hayan perdido en el recuerdo como lágrimas en la lluvia.
 
-![](hector-and-the-search-for-happiness.png)
+![](./hector-and-the-search-for-happiness.png)
 
 **[Hector and the Search for Happiness](http://www.imdb.com/title/tt1626146/)** (_Peter Chelsom_, 2014)
 

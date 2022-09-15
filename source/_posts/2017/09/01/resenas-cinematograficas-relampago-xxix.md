@@ -8,13 +8,13 @@ tags:
 date: 2017-09-01 18:13:07
 ---
 
-![](the_hitmans_bodyguard.png)
+![](./the_hitmans_bodyguard.png)
 
 **[The Hitman's Bodyguard](http://www.imdb.com/title/tt1959563/)** (_Patrick Hughes_, 2017)
 
 Oportunidad desaprovechada. Sobre el papel debería existir una buena química entre los dos actores protagonistas, [Ryan Reynolds](http://www.imdb.com/name/nm0005351/?ref_=tt_cl_t2) y [Samuel L. Jackson](http://www.imdb.com/name/nm0000168), pero a la hora de la verdad un guión insulso y un mal ritmo deja que se vean todas las costuras. Algunas de las escenas de acción merecen la pena, pero ni eso mantiene una coherencia durante el metraje, haciéndome pensar que las distintas unidades no estaban demasiado coordinadas. Prescindible.
 
-![](dave_made_a_maze.png)
+![](./dave_made_a_maze.png)
 
 **[Dave made a maze](http://www.imdb.com/title/tt4457344/)** (_Bill Waterson_, 2017)
 

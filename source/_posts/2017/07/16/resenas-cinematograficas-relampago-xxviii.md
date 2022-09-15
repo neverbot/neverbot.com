@@ -8,7 +8,7 @@ tags:
 date: 2017-07-16 14:42:11
 ---
 
-![](john_wick_chapter_2.png)
+![](./john_wick_chapter_2.png)
 
 [**John Wick Chapter 2**](http://www.imdb.com/title/tt4425200/) (_Chad Stahelski_, 2017)
 
@@ -22,13 +22,13 @@ A lo mejor no tiene nada que ver. A lo mejor. Pero yo veo un punto de inflexión
 
 Y sé que no os estoy hablando de este _Chapter 2_, pero es que no sé para qué queréis una opinión cuando es obvio de qué va esto: bang, bang, tiros, peleas, persecuciones, _gun-porn_, coches y motos, una narrativa videojueguil y un deleite visual en cada minuto. Y aunque se cierra de un modo más o menos convincente no deja de ser a su vez un gran "continuará", que para algo el título ya os pone bien clarito _Chapter 2_. Así que esperando ya por el _Chapter 3_.
 
-![](wonder_woman.png)
+![](./wonder_woman.png)
 
 [**Wonder Woman**](http://www.imdb.com/title/tt0451279/) (_Patty Jenkins_, 2017)
 
 &lt;emoji con corazoncitos en los ojos&gt;
 
-![](sucker_punch.png)
+![](./sucker_punch.png)
 
 [**Sucker Punch**](http://www.imdb.com/title/tt0978764/) (_Zack Snyder_, 2011)
 
