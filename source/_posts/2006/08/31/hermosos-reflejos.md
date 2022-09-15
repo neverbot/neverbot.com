@@ -9,7 +9,6 @@ date: 2006-08-31 21:09:51
 
 [](./GabrielleRigon.jpg "GabrielleRigon.jpg")
 
-[](./GabrielleRigon.jpg "GabrielleRigon.jpg")[![Gabrielle Rigon](./GabrielleRigon.jpg "Gabrielle Rigon")](./GabrielleRigon.jpg "Gabrielle Rigon")
 
 Obra de [Gabrielle Rigon](http://www.gabrielerigon.it/pages/gelleriesset.htm), fotógrafo italiano.  
 Lo de siempre, ya sabéis. Visitad su web y tal.  
