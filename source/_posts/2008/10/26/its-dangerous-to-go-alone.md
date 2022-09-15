@@ -9,4 +9,4 @@ tags:
 date: 2008-10-26 10:12:38
 ---
 
-![Zelda](./zelda_dangerous.png "Zelda")
+![Zelda](./its-dangerous-to-go-alone/zelda_dangerous.png "Zelda")

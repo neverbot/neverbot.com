@@ -11,7 +11,7 @@ Los dos tomos de [**Umbrella Academy**](http://en.wikipedia.org/wiki/Umbrella_Ac
 
 Plagado de referencias a la cultura pulp y pop, el guión de [**Gerard Way**](http://en.wikipedia.org/wiki/Gerard_Way) -- sí, acabemos con esto cuanto antes, el mismo _Gerard Way_ que es vocalista de _My Chemical Romance_ -- es un excelente caldo de cultivo para el dibujo de un [**Gabriel Bá**](http://en.wikipedia.org/wiki/Gabriel_B%C3%A1) detallista e imaginativo, en la línea del arte de un _Mike Mignola_ o _Eduardo Risso_ con más calor y color.
 
-![](./umbrella_academy_gabriel_ba.jpg "Umbrella Academy, ilustración de Gabriel Bá")
+![](./miercoles-de-tebeos-umbrella-academy/umbrella_academy_gabriel_ba.jpg "Umbrella Academy, ilustración de Gabriel Bá")
 
 _Umbrella Academy, ilustración de Gabriel Bá_
 

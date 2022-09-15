@@ -7,4 +7,4 @@ tags:
 date: 2009-06-26 10:56:02
 ---
 
-![no_dogs](./no_dogs.jpg "no_dogs")
+![no_dogs](./like-real-life/no_dogs.jpg "no_dogs")

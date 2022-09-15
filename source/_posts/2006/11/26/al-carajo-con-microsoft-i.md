@@ -23,7 +23,7 @@ Pero es que ya me da igual, porque esto ha cambiado mucho últimamente:
 
 Así que llevo todo el día haciendo una gran limpieza en ese ordenador. Un disco duro IDE de 40 GB, otro SATA de 160 y uno externo USB de 250. Es sorprendente lo que uno almacena con el paso del tiempo. He tenido que limpiar bastante, pero ya estoy en condiciones de empezar con la migración. Porque si las cosas se hacen, se hacen bien. Me olvido de compaginar varios sistemas operativos y demás mandangas. Me voy a instalar la última versión de [Ubuntu](http://www.ubuntu.com/) (6.10) y que sea lo que [El Monstruo Espagueti Volador](http://es.wikipedia.org/wiki/Pastafarismo) quiera.
 
-![Ubuntu](./UbuntuLogo.png "Ubuntu")
+![Ubuntu](./al-carajo-con-microsoft-i/UbuntuLogo.png "Ubuntu")
 
 Iré informando de los posibles problemas que una migración completa puedan traer. Así, a bote pronto, no sé como me irá el tema de la grabadora de dvds, o la descarga de archivos por redes P2P, porque nunca he usado programas para esas tareas bajo Linux. Para otras cosas la mayor parte del software que voy a utilizar ya es como de la familia, pero habrá que ver qué tal me va en el día a día.
 

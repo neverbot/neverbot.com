@@ -11,6 +11,6 @@ Una de las sagas más interesantes que estaba leyendo últimamente era la del So
 
 El caso es que la saga está muy bien, pero este post no era para eso. Era para que le echárais un vistazo a esta caja:
 
-[![Marvel Super Hero Squad - Winter Soldier Saga](./winter_soldier_saga.jpg "Marvel Super Hero Squad - Winter Soldier Saga")](http://www.hasbro.com/marvel/default.cfm?page=Products/Detail&product_id=21772)
+[![Marvel Super Hero Squad - Winter Soldier Saga](./el-soldado-de-invierno-as-never-seen-before/winter_soldier_saga.jpg "Marvel Super Hero Squad - Winter Soldier Saga")](http://www.hasbro.com/marvel/default.cfm?page=Products/Detail&product_id=21772)
 
 La colección de personajes de "[El Soldado de Invierno](http://en.wikipedia.org/wiki/Bucky#Winter_Soldier)" con los muñecos [Marvel Super Hero Squad](http://www.hasbro.com/marvel/default.cfm?page=Products/SuperheroSquad) de Hasbro. Impresionante, ¿no? Y de todo esto me he enterado porque parece ser que THQ va a realizar un [videojuego basado en esta línea de figuras](http://www.20minutos.es/noticia/377636/0/marvel/thq/spideman/).

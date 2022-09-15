@@ -13,6 +13,6 @@ El ordenador de sobremesa de mi casa estaba empezando a hacer cosas... raras. A 
 
 El caso es que me he acordado de esto y he pensado en compartirlo:
 
-![Firewall XP](./firewallxp.jpg "Firewall XP")
+![Firewall XP](./inteligencia-artificial/firewallxp.jpg "Firewall XP")
 
 Nunca confíes en tu Windows... vigílalo.

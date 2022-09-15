@@ -13,7 +13,7 @@ Se me plantea una enorme duda al respecto de la película. Vaya por delante el p
 
 Una de las cosas que me quedaban pendiente por leer de él era [300](http://en.wikipedia.org/wiki/300_%28comics%29) (tampoco he leido [Ronin](http://en.wikipedia.org/wiki/Ronin_%28comic_book_series%29), ni nada de [Martha Washington](http://en.wikipedia.org/wiki/Give_Me_Liberty) por ejemplo). Viendo que la película está en ciernes, he preferido hacerme con el tomo antes para saber a qué atenerme.
 
-![300](./300.jpg "300")
+![300](./300-un-posible-bluff-descomunal/300.jpg "300")
 
 Honestamente, es un bluff. Apaisado y muy espectacular, pero se acerca más a un libro de ilustraciones que a un verdadero cómic. La narrativa es prácticamente nula, siendo casi todas las páginas una gran ilustración con algunas pequeñas viñetas alrededor para tener dónde colocar los bocadillos. Se lee en apenas unos minutos, y es que la historia no da para mucho más.
 

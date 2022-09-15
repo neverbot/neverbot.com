@@ -7,7 +7,7 @@ tags:
 date: 2006-12-19 11:42:52
 ---
 
-![Global Orgasm](./globalorgasm.jpg "Global Orgasm")
+![Global Orgasm](./orgasmo-global/globalorgasm.jpg "Global Orgasm")
 
 Un recordatorio para todos aquellos que estén interesados. Aunque pilla un poco cerca, creo que hay tiempo más que de sobra para prepararlo todo. El día 22 de Diciembre es el día del orgasmo mundial. Eh, el del fondo, menos risas que te estoy viendo y esto es muy serio. Copio y pego de la declaración de intenciones de la página web [www.globalorgasm.org](http://www.globalorgasm.org/esp/):
 

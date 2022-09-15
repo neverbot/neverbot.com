@@ -13,7 +13,7 @@ date: 2007-01-30 11:03:40
 
 Ayer no hubo recomendación del lunes porque las temibles hordas invasoras del consumismo me atraparon en la cola de cajas del [Media Markt](http://www.mediamarkt.es/). Parecía el metro en hora punta. Las colas daban la vuelta sobre sí mismas, convirtiéndose en una especie de [botella de Klein](http://en.wikipedia.org/wiki/Klein_bottle) donde ya no había diferencia entre quién estaba dentro y quién fuera de la cola.
 
-![LostPlanet.jpg](./LostPlanet.jpg "LostPlanet.jpg")Lo peor de todo es que no iba a comprar nada, pero acompañé a un amigo "por si encontraba algo"...
+![LostPlanet.jpg](./recomendacion-del-lunes-dia-sin-iva-de-media-markt/LostPlanet.jpg "LostPlanet.jpg")Lo peor de todo es que no iba a comprar nada, pero acompañé a un amigo "por si encontraba algo"...
 
 Primera temporada de [Prison Break](http://www.tv.com/prison-break/show/31635/summary.html), mando inalámbrico (oficial, por supuesto) de XBox 360, [Lost Planet: Extreme Condition](http://en.wikipedia.org/wiki/Lost_planet) y [Ninety Nine Nights](http://en.wikipedia.org/wiki/Ninety-Nine_Nights). Qué forma más curiosa de hacer desaparecer dinero.
 

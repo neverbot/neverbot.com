@@ -21,7 +21,7 @@ Sabiendo esto, lo segundo que haremos será preguntarnos entonces de dónde est�
 
 Probamos a [cargar en el navegador únicamente el archivo swf](http://www.pandasecurity.com/virus_info/flash/pandaThreatWatch_migracion.swf?idiom=1&dir=/img/enc/&dircfg=/virus_info/exports/alerta/&acercade=/spain/homeusers/security-info/gtw/) y resulta que aparece a pantalla completa con el mismo video.
 
-![¡Inclúyelo gratis en tu web!](./incluyelo_gratis.gif "¡Inclúyelo gratis en tu web!")Esto no puede ser, tengo que estar equivocándome. Buscamos información sobre el medidor y encontramos unas [parrafadas de marketing](http://www.pandasecurity.com/spain/homeusers/security-info/gtw/) sobre cómo funciona esto y qué significa que me dan auténtica verguenza ajena. Si hasta tienen un enlace para que la gente pueda mostrar el "estado de amenzas global en sus propias webs". Menos mal que está como "pendiente de terminar".
+![¡Inclúyelo gratis en tu web!](./como-nos-timan-las-companias-de-software/incluyelo_gratis.gif "¡Inclúyelo gratis en tu web!")Esto no puede ser, tengo que estar equivocándome. Buscamos información sobre el medidor y encontramos unas [parrafadas de marketing](http://www.pandasecurity.com/spain/homeusers/security-info/gtw/) sobre cómo funciona esto y qué significa que me dan auténtica verguenza ajena. Si hasta tienen un enlace para que la gente pueda mostrar el "estado de amenzas global en sus propias webs". Menos mal que está como "pendiente de terminar".
 
 Vamos a intentar el más difícil todavía... ¿podre cargar el video desde otra web? Total, ellos mismos proponen que incluyamos esta información en nuestras webs. A ver si así puedo sentirme más seguro:
 

@@ -7,4 +7,4 @@ tags:
 date: 2009-03-26 08:57:18
 ---
 
-![Be Yourself](./be_yourself.jpg "Be Yourself")
+![Be Yourself](./se-tu-mismo/be_yourself.jpg "Be Yourself")

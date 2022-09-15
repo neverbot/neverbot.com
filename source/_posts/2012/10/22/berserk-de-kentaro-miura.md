@@ -9,7 +9,7 @@ date: 2012-10-22 22:34:43
 
 Si tienes un nombre como **[Kentaro Miura](http://en.wikipedia.org/wiki/Kentaro_Miura)**, en la vida sólo puedes aspirar a molar. A los 22 años, en 1988, tras algunas obras menores presentadas a concursos, dibujó una historia corta titulada _Berserk Prototype_ -- incluída, por cierto, en el tomo 14 de la edición española actual --, que le sirvió para empezar a trabajar para la revista _Animal House_ dibujando sobre los guiones de otros escritores. Un par de años después retomó aquella historia y empezó a publicar [**Berserk**](http://en.wikipedia.org/wiki/Berserk_(manga)). Desde entonces han pasado 22 años. Publicando al ritmo que le da la gana.
 
-[![](./berserk_guts.gif "Berserk")](./berserk_guts.gif)
+[![](./berserk-de-kentaro-miura/berserk_guts.gif "Berserk")](./berserk_guts.gif)
 
 > La historia de su publicación en España daría para otro artículo, ya que ha pasado por múltiples editoriales, empresas que se separan, leyendas del mundillo no muy claras sobre ediciones piratas, y un largo etcétera que no nos importa. Desde hace un año _Glénat España_ (ahora _EDT - Editores de Tebeos_) publica _Berserk_ siguiendo dos numeraciones: cada mes aparecen varios tomos desde el número uno y desde el número 31 -- siguiendo donde se quedó la anterior editorial en España, en un gesto de agradecer para los antiguos lectores --. Quienes empezamos desde el primero algún día alcanzaremos a la edición actual, que se publica a un ritmo más lento. 36 tomos existen hasta hoy en la edición japonesa, en español a la hora de escribir estas líneas del 1 al 16 (los que yo llevo leídos) y del 31 al 35.
 

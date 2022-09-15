@@ -22,7 +22,7 @@ Halo 2 no terminaba, quedaba en mitad de la nada con el Jefe Maestro cayendo a t
 
 La excusa que les quedó siempre es que Microsoft tenía prisa por sacar el juego y necesitaban tenerlo en unas fechas concretas en el mercado, aunque no estuviera terminado. No sé qué opinar, la verdad, la jugabilidad está muy depurada y todo está muy testeado como para pensar que realmente tuvieron prisa por sacarlo, "simplemente" le falta contenido. Recuerdo que los chicos de [Penny-Arcade](http://www.penny-arcade.com/) tuvieron una competición online con algunos miembros de [Bungie](http://www.bungie.net/), los creadores del juego, y fueron apaleados miserablemente, a lo que alegaron que si quizá el staff hubiera pasado más tiempo creando el final del juego en lugar de probando el modo online quizá no hubiesen perdido.
 
-![Halo](./halo_solar.jpg "Halo")
+![Halo](./he-oido-hype-o-he-oido-timo-impresiones-sobre-halo-3/halo_solar.jpg "Halo")
 
 Logo de Halo por Borzz, sacado de [halo.bungie.org](http://halo.bungie.org/logos.html?background=white) \[página no oficial\]
 
@@ -56,7 +56,7 @@ Tras las primeras impresiones (no todas ellas muy positivas, como se puede ver) 
 *   Y, por último, \[**Spoiler again**\] intentar repetir el emocionante final del primer juego con otro nivel centrado en la huída en un Warthog es como intentar un sucedáneo cutre de la gloria original. \[**Fin de los spoilers**\]
     
 
-![Los personajes del modo cooperativo](./halo3_cooperativo.jpg "Los personajes del modo cooperativo")
+![Los personajes del modo cooperativo](./he-oido-hype-o-he-oido-timo-impresiones-sobre-halo-3/halo3_cooperativo.jpg "Los personajes del modo cooperativo")
 
 Además, básicamente hay dos agujeros negros de diseño imperdonables: Centrarse demasiado en el juego online (que yo aún no he probado en ninguno de los tres juegos porque no me importa), olvidándose de la campaña principal, y olvidarse de que el potencial jugador no sólo es el que viene de los juegos anteriores, sino que podría ser alguien que no sepa nada del universo Halo, y habría que explicarle muchas más cosas.
 

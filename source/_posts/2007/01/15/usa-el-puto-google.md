@@ -8,7 +8,7 @@ tags:
 date: 2007-01-15 17:52:41
 ---
 
-![Hoygan](./Hoygan.gif "Hoygan")
+![Hoygan](./usa-el-puto-google/Hoygan.gif "Hoygan")
 
 [www.usaelputogoogle.com](http://www.usaelputogoogle.com/), Vía [86400.es](http://86400.es/2006/12/30/usa-el-puto-google/)
 

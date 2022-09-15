@@ -7,7 +7,7 @@ tags:
 date: 2006-10-14 21:22:27
 ---
 
-![Superman - Red Son](./Superman%20Red%20Son.jpg "Superman - Red Son")Aunque en realidad ya lo compré hace un par de semanas, y desde entonces tenía ganas de ponerlo por aquí. Estas cosas siempre cuestan un dineral y suelen responder únicamente a compras impulsivas e inexplicables. Estaba en la estantería y me lo llevé.
+![Superman - Red Son](./mi-nuevo-juguete/Superman%20Red%20Son.jpg "Superman - Red Son")Aunque en realidad ya lo compré hace un par de semanas, y desde entonces tenía ganas de ponerlo por aquí. Estas cosas siempre cuestan un dineral y suelen responder únicamente a compras impulsivas e inexplicables. Estaba en la estantería y me lo llevé.
 
 De las nuevas colecciones [ElseWorlds](http://en.wikipedia.org/wiki/Elseworlds) de figuras de [DC](http://www.dccomics.com/), es el único que me interesaba de la primera serie. De la segunda sin embargo, ya están las figuras de [Batman](http://www.dccomics.com/dcdirect/?dcd=5023&lst=all&cat=ACTION+FIGURES) y [Superman Presidente](http://www.dccomics.com/dcdirect/?dcd=5024&lst=all&cat=ACTION+FIGURES) que llaman bastante la atención. Aún está por salir la tercera serie que incluye, entre otros, la versión [Red Son](http://en.wikipedia.org/wiki/Superman:_Red_Son) de [Hal Jordan](http://www.dccomics.com/dcdirect/?dcd=6178&lst=all&cat=ACTION+FIGURES) (Green Lantern).
 

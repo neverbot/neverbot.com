@@ -9,4 +9,4 @@ tags:
 date: 2011-04-01 20:37:54
 ---
 
-![](./culpable-senyoria.gif "Culpable, señoría")
+![](./culpable-senoria/culpable-senyoria.gif "Culpable, señoría")

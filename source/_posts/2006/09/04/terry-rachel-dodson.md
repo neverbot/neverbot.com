@@ -7,7 +7,7 @@ tags:
 date: 2006-09-04 14:21:18
 ---
 
-[![Terry Dodson](./TerryDodson.jpg "Terry Dodson")](./TerryDodson.jpg "Terry Dodson")
+[![Terry Dodson](./terry-rachel-dodson/TerryDodson.jpg "Terry Dodson")](./terry-rachel-dodson/TerryDodson.jpg "Terry Dodson")
 
 Ilustración del matrimonio Dodson ([Terry Dodson](http://en.wikipedia.org/wiki/Terry_Dodson) a los lápices, Rachel Dodson a la tinta).
 

@@ -8,7 +8,7 @@ tags:
 date: 2007-09-16 03:54:45
 ---
 
-[![iPod classic 80 GB](./ipod.jpg "iPod classic 80 GB")](http://www.apple.com/ipodclassic/ "iPod classic 80 GB")
+[![iPod classic 80 GB](./peticion-de-consejo/ipod.jpg "iPod classic 80 GB")](http://www.apple.com/ipodclassic/ "iPod classic 80 GB")
 
 Estoy pensando (bastante seriamente) en comprarme [esto](http://www.apple.com/ipodclassic/).
 

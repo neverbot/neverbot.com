@@ -11,4 +11,4 @@ date: 2009-09-29 10:39:25
 
 Me lo pasan por e-mail una aburrida mañana de martes.
 
-![puntos-del-carnet](./puntos-del-carnet.jpg "puntos-del-carnet")
+![puntos-del-carnet](./como-perder-todos-los-puntos-del-carnet-de-golpe/puntos-del-carnet.jpg "puntos-del-carnet")

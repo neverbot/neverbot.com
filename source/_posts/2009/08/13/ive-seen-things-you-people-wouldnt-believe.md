@@ -8,7 +8,7 @@ tags:
 date: 2009-08-13 13:34:46
 ---
 
-![You wouldn't believe](./you-wouldnt-believe.gif "You wouldn't believe")
+![You wouldn't believe](./ive-seen-things-you-people-wouldnt-believe/you-wouldnt-believe.gif "You wouldn't believe")
 
 \[gif, ~4MB, perdón por el tamaño\]
 

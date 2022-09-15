@@ -8,7 +8,7 @@ tags:
 date: 2006-12-23 13:45:34
 ---
 
-[![Heroclix - Days of Future Past](./Heroclix-DaysofFuturePast.jpg "Heroclix - Days of Future Past")Marvel Heroclix: Days of the future past Action Pack](http://www.wizkidsgames.com/heroclix/marvel/products.asp?cid=40852): Lo encontré ayer por 25 euros en el Arte 9 de Doctor Esquerdo (Madrid, claro). La tienda de la calle Cruz tiene página web, pero es tan horrible que no voy ni a enlazarla.
+[![Heroclix - Days of Future Past](./mi-nuevo-juguete-dias-del-futuro-pasado/Heroclix-DaysofFuturePast.jpg "Heroclix - Days of Future Past")Marvel Heroclix: Days of the future past Action Pack](http://www.wizkidsgames.com/heroclix/marvel/products.asp?cid=40852): Lo encontré ayer por 25 euros en el Arte 9 de Doctor Esquerdo (Madrid, claro). La tienda de la calle Cruz tiene página web, pero es tan horrible que no voy ni a enlazarla.
 
 Incluye la figura del centinela, Rachel Summers con el fénix y el Lobezno viejuno del tebeo. Los dos personajes pequeños coloreados en gris (como figuras únicas) y el Centinela en rojo (aunque creo que tiene reglas para jugar con diferentes valores de puntos). [Lista de figuras de la caja](http://www.wizkidsgames.com/heroclix/marvel/figuregallery.asp?releaseid=88).
 

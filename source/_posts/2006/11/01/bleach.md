@@ -8,7 +8,7 @@ tags:
 date: 2006-11-01 20:49:43
 ---
 
-![Bleach](./bleach_01.jpg "Bleach")**Bleach** (Tomos 1 a 6) Autor: [Tite Kubo](http://en.wikipedia.org/wiki/Tite_Kubo) Edita: [Glenat España](http://www.edicionesglenat.es/)
+![Bleach](./bleach/bleach_01.jpg "Bleach")**Bleach** (Tomos 1 a 6) Autor: [Tite Kubo](http://en.wikipedia.org/wiki/Tite_Kubo) Edita: [Glenat España](http://www.edicionesglenat.es/)
 
 **Otros enlaces**: [Bleach Portal](http://www.bleachportal.net/) Bleach en [Shonen Jump](http://www.shonenjump.com/mangatitles/b/manga_b.php) (edición original) [Wikipedia](http://en.wikipedia.org/wiki/Bleach_%28manga%29)
 

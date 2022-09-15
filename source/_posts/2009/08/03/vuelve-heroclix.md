@@ -17,7 +17,7 @@ Hechos aparentemente confirmados:
 *   En la página de Topps (supuestamente la anterior dueña de Wizkids) [hay un enlace en la que aparece](http://www.topps.com/wizkidsgames/HammerandThorChariot.htm). Esto confunde bastante.
 *   Esto coincide con los antiguos planes de Wizkids, que eran sacar la siguiente expansión, de nombre **Hammer of Thor**, que se canceló cuando sus actividades cesaron al decidir Topps que la línea Wizkids no les interesaba.
 
-![Thor's Mighty Chariot](./Thors-Mighty-Chariot.jpg "Thor's Mighty Chariot")
+![Thor's Mighty Chariot](./vuelve-heroclix/Thors-Mighty-Chariot.jpg "Thor's Mighty Chariot")
 
 Rumore, rumore:
 

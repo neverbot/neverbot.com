@@ -11,7 +11,7 @@ date: 2006-11-01 10:57:14
 
 En japonés, vía [Kirai](http://www.kirainet.com/el-aho-sethi-ullman-en-japones/):
 
-![Compiladores](./Compiladores.jpg "Compiladores")
+![Compiladores](./el-libro-del-dragon-rojo/Compiladores.jpg "Compiladores")
 
 En mi facultad era (asumo que sigue siendo) una de las asignaturas más complicadas de la carrera. No por la asignatura en sí, cuyo examen era sencillo, sino por una práctica absurda y exageradamente larga que se hace bastante cuesta arriba. Y esto lo sé porque me la han contado, porque se hace en grupo y, por suerte o por desgracia, el año que me tocó a mí tuve que hacer bastante poco.
 

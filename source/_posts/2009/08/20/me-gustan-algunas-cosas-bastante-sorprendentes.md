@@ -9,6 +9,6 @@ tags:
 date: 2009-08-20 17:09:11
 ---
 
-![vegeta vs. goku](./vegeta-vs-goku.jpg "vegeta vs. goku")
+![vegeta vs. goku](./me-gustan-algunas-cosas-bastante-sorprendentes/vegeta-vs-goku.jpg "vegeta vs. goku")
 
 Por ejemplo, me parto con esta imagen

@@ -13,7 +13,7 @@ Gran potencial y escaso desarrollo, eso es lo que me viene a la mente tras termi
 
 Descubierta en el sistema solar una estación espacial alienígena abandonada mucho tiempo atrás, la humanidad se organiza para utilizar las herramientas y lanzaderas encontradas e intentar explorar el espacio con instrumentos incomprensibles e impredecibles. Así, cualquier viaje se convierte en un juego de azar donde los tripulantes de cada lanzadera no saben a dónde viajarán, cuánto tiempo tardarán o incluso si llegarán a volver.
 
-[![](./Frederik_Pohl_1976_Gateway_Boris_Vallejo.jpg "Portada de la edición original, por Boris Vallejo")](./Frederik_Pohl_1976_Gateway_Boris_Vallejo.jpg)
+[![](./portico-de-frederik-pohl/Frederik_Pohl_1976_Gateway_Boris_Vallejo.jpg "Portada de la edición original, por Boris Vallejo")](./Frederik_Pohl_1976_Gateway_Boris_Vallejo.jpg)
 
 _Portada de la edición original, por Boris Vallejo. Ni punto de comparación con [lo que tenemos hoy en día](http://localhost:8000/instagram/instagram-leido-portico-de-frederik-pohl/)._
 

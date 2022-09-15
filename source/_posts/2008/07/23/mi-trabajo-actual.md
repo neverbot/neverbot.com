@@ -8,7 +8,7 @@ tags:
 date: 2008-07-23 11:42:28
 ---
 
-![We the Robots - Head](./we-the-robots-head.jpg "We the Robots - Head")
+![We the Robots - Head](./mi-trabajo-actual/we-the-robots-head.jpg "We the Robots - Head")
 
 Tira de hoy, representando el trabajo que hago cada día
 

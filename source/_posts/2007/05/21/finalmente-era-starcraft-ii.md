@@ -10,7 +10,7 @@ date: 2007-05-21 10:24:26
 
 Al final el juego presentado en Korea fue el esperado, [Starcraft II](http://eu.starcraft2.com/). Y sé que todos me diréis que no tengo criterio, pero la verdad es que es un juego que me deja frío y que me llama bastante poco la atención. Tendré que ver más videos, pero no le veo tantas diferencias con respecto a la primera parte.
 
-![StarCraft 2](./StarCraft2.jpg "StarCraft 2")
+![StarCraft 2](./finalmente-era-starcraft-ii/StarCraft2.jpg "StarCraft 2")
 
 Claro que, por otra parte, Halo 3 será básicamente igual que los anteriores (como si lo viera venir) y eso no quitará para que juegue. Así que los fans de StarCraft estarán que no entran en sí de gozo, alborozo y algarabía. Cada uno es fan de lo suyo.
 

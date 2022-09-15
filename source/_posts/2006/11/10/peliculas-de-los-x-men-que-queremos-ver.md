@@ -16,6 +16,6 @@ Por favor, quiero personajes un poco más... adultos. Todo lector de los X-Men h
 
 Por favor, quiero que salga la [Reina Blanca](http://en.wikipedia.org/wiki/Emma_Frost) en una película de los X-Men. Si algún director es capaz de poner en pantalla a Emma Frost sin transmitir sensualidad en cada movimiento que me diga cómo lo hace, porque me parece imposible.
 
-![Emma Frost, la Reina Blanca](./ReinaBlanca.jpg "Emma Frost, la Reina Blanca")
+![Emma Frost, la Reina Blanca](./peliculas-de-los-x-men-que-queremos-ver/ReinaBlanca.jpg "Emma Frost, la Reina Blanca")
 
 **Actualización**: Esta imagen estaba por mi disco duro desde hace algo así como un millón de años (y eso sin exagerar). Siempre había pensado que sería algún tipo de "[fanfic](http://en.wikipedia.org/wiki/Fan_fiction)" o algo parecido... hasta que me he puesto a pensar que los fans de cosas como los tebeos de los X-Men no tienen amigas como ésta (yo sí, pero es que yo soy un caso especial). La curiosidad me ha hecho buscar por internet, y resulta ser [Ashley Hartman](http://www.ashleyhartman.com/) (lo pone en pequeño en la foto, pero casi no se entiende), que por lo visto participó en el casting de X-Men 3, porque originalmente el personaje de la Reina Blanca era una opción. Tampoco me he puesto a contrastarlo, pero parece que de ahí sale la foto.

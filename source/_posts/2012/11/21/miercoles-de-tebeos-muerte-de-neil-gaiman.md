@@ -11,7 +11,7 @@ Ahora que está de moda rasgarse las vestiduras porque volvemos a los grandes te
 
 En 1999, junto a _Yoshitaka Amano_, en _Sandman: Cazadores de Sueños_, readaptada a posteriori por _Philip Craig Russell_. Junto a este último y una serie de autores consagrados como _Frank Quitely_, _Migelantxo Prado_, _Glenn Fabry_, _Bill Sienkiewicz_ o _Milo Manara_ entre otros, se publicó en el décimo aniversario de la serie _Sandman: Noches Eternas_. Y ahora, al llegar el cuarto de siglo, se está trabajando en un nuevo tomo. Nada nuevo bajo el sol.
 
-[![](./Muerte-por-Chris-Bachalo.jpg "Muerte, por Chris Bachalo")](./Muerte-por-Chris-Bachalo.jpg)
+[![](./miercoles-de-tebeos-muerte-de-neil-gaiman/Muerte-por-Chris-Bachalo.jpg "Muerte, por Chris Bachalo")](./Muerte-por-Chris-Bachalo.jpg)
 
 _La afable Muerte, dibujada por Chris Bachalo_
 

@@ -8,4 +8,4 @@ tags:
 date: 2009-08-13 01:23:33
 ---
 
-![Good morning lemmings](./Good-morning-lemmings.jpg "Good morning lemmings")
+![Good morning lemmings](./good-morning-lemmings/Good-morning-lemmings.jpg "Good morning lemmings")

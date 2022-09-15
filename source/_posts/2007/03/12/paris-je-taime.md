@@ -9,7 +9,7 @@ tags:
 date: 2007-03-12 00:46:17
 ---
 
-![Paris Je T'aime](./Paris.jpg "Paris Je T'aime")\[...\]
+![Paris Je T'aime](./paris-je-taime/Paris.jpg "Paris Je T'aime")\[...\]
 
 Por cierto, el título del post viene por la película \[[imdb](http://imdb.com/title/tt0401711/)\]. No está mal, pequeñas historias de multitud de directores diferentes, con el nexo común de tener París como escenario. Algunas de las historias eran realmente buenas, así que se deja ver con facilidad.
 

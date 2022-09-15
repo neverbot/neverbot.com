@@ -9,7 +9,7 @@ date: 2006-09-06 19:25:48
 
 Ha empezado a llover en Madrid, y hacía bastante que no sucedía. Es un momento como cualquier otro para pensar en algo hermoso.
 
-[![Mike Ruiz](./MikeRuiz.jpg "Mike Ruiz")](./MikeRuiz.jpg "Mike Ruiz")
+[![Mike Ruiz](./tormenta-de-verano/MikeRuiz.jpg "Mike Ruiz")](./tormenta-de-verano/MikeRuiz.jpg "Mike Ruiz")
 
 Fotografía de [Mike Ruiz](http://www.mikeruiz.com/).
 

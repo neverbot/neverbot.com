@@ -8,7 +8,7 @@ tags:
 date: 2006-11-01 23:34:37
 ---
 
-![Rosas rojas](./Rosas_rojas.jpg "Rosas rojas")
+![Rosas rojas](./miercoles-de-cine/Rosas_rojas.jpg "Rosas rojas")
 
 **Rosas Rojas** ([Imagine me & you](http://www.imdb.com/title/tt0421994/)) [Ol Parker](http://www.imdb.com/name/nm0662530/), 2005
 
@@ -16,7 +16,7 @@ Rachel y Heck se casan. En la boda Rachel conoce a Luce, la florista, y surge un
 
 Y tiene la mejor escena de "amago de beso de sí pero no" que he visto nunca. 
 
-![Tránsito](./Transito.jpg "Tránsito")**Tránsito** ([Stay](http://www.imdb.com/title/tt0371257/)) [Mark Forster](http://www.imdb.com/name/nm0286975/), 2005
+![Tránsito](./miercoles-de-cine/Transito.jpg "Tránsito")**Tránsito** ([Stay](http://www.imdb.com/title/tt0371257/)) [Mark Forster](http://www.imdb.com/name/nm0286975/), 2005
 
 De esta no os puedo contar nada sin estropear el argumento, así que no lo voy a hacer. Alguien tiene un accidente, o no. Las cosas no son lo que parecen, aparece alguien que puede predecir el futuro, o quizá no es el futuro, o... Perfecta para ver de noche, sólo y sin otra cosa que hacer, pero mala idea para una tarde con compañía, porque así pierde mucho.
 

@@ -7,7 +7,7 @@ tags:
 date: 2007-04-02 16:45:58
 ---
 
-[![Espinete no existe](./EspineteNoExiste.jpg "Espinete no existe")](http://www.espinetenoexiste.com/ "Espinete no existe")Monólogo de Eduardo Aldán en el Teatro Pequeño Gran Vía (es decir, la sala un poco más pequeña del teatro Gran Vía... ahora mismo está debajo del espectáculo de Joaquín Cortés, creo recordar).
+[![Espinete no existe](./recomendacion-del-lunes-espinete-no-existe/EspineteNoExiste.jpg "Espinete no existe")](http://www.espinetenoexiste.com/ "Espinete no existe")Monólogo de Eduardo Aldán en el Teatro Pequeño Gran Vía (es decir, la sala un poco más pequeña del teatro Gran Vía... ahora mismo está debajo del espectáculo de Joaquín Cortés, creo recordar).
 
 Casi un par de horitas acerca de aquellos buenos tiempos en los que todo nos hacía más ilusión que ahora, y podíamos meter media tableta de chocolate dentro de un trozo de pan y llamarlo merienda.
 

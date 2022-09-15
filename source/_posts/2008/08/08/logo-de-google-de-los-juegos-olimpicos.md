@@ -10,7 +10,7 @@ date: 2008-08-08 08:34:30
 
 Previsible, pero no por ello dejan de gustarme los cambios de logotipos puntuales en las empresas.
 
-![Google Olympics08 Opening](./google_olympics08_opening.gif "Google Olympics08 Opening")
+![Google Olympics08 Opening](./logo-de-google-de-los-juegos-olimpicos/google_olympics08_opening.gif "Google Olympics08 Opening")
 
 **Pensamientos paralelos (para lelos)**: Aunque de estos juegos olímpicos **creo que voy a ver más bien poco**. Empiezo a perderle interés a ver este tipo de campeonatos donde cientos de chavales medio analfabetos, hipervitaminados y becados con los impuestos de todos (a mi no me da dinero el estado para que pueda convertir mis aficiones en un trabajo) compiten unos contra otros en pruebas individuales donde no tiene sentido agruparlos por equipos nacionales.
 

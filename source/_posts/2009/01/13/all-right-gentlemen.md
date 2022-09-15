@@ -8,4 +8,4 @@ tags:
 date: 2009-01-13 14:14:37
 ---
 
-![How do we kill Superman?](./how_do_we_kill_superman.jpg "How do we kill Superman?")
+![How do we kill Superman?](./all-right-gentlemen/how_do_we_kill_superman.jpg "How do we kill Superman?")

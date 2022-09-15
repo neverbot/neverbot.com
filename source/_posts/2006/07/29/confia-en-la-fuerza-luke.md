@@ -9,7 +9,7 @@ date: 2006-07-29 10:31:44
 
 Los X-Wing parecen difíciles de pilotar:
 
-![X-Wing](./xwing.jpg "X-Wing")
+![X-Wing](./confia-en-la-fuerza-luke/xwing.jpg "X-Wing")
 
 Vía [Enrolados](http://www.enrolados.com/?p=308)
 

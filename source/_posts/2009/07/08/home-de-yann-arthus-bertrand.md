@@ -10,7 +10,7 @@ date: 2009-07-08 21:44:42
 
 Tras haber visto ayer [Home, el documental de Yann Arthus-Bertrand](http://www.home-2009.com) \[[wikipedia](http://en.wikipedia.org/wiki/Home_(documentary))\] (y de estar cerca, cerca de soltar la lagrimilla hacia el final), no puedo hacer otra cosa, en conciencia, que no sea **recomendarlo a todo el mundo**.
 
-![Home - Yann Arthus-Bertrand](./Home-Yann-Arthus-Bertrand.jpg "Home - Yann Arthus-Bertrand")
+![Home - Yann Arthus-Bertrand](./home-de-yann-arthus-bertrand/Home-Yann-Arthus-Bertrand.jpg "Home - Yann Arthus-Bertrand")
 
 Se puede ver gratis en [su propio canal de Youtube](http://www.youtube.com/user/homeprojectES) (fue estreno gratuito mundial a través de Youtube), en Dvd (menos de cinco euros en fnac, opción que recomiendo) o Bluray (formato que me parece un timo).
 

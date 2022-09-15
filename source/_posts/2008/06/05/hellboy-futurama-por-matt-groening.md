@@ -9,7 +9,7 @@ tags:
 date: 2008-06-05 10:04:59
 ---
 
-[![Hellboy vs Futurama](./hellboy_futurama1.jpg "Hellboy vs Futurama")](http://farm3.static.flickr.com/2223/2461940709_c32705a8b7_o.jpg)
+[![Hellboy vs Futurama](./hellboy-futurama-por-matt-groening/hellboy_futurama1.jpg "Hellboy vs Futurama")](http://farm3.static.flickr.com/2223/2461940709_c32705a8b7_o.jpg)
 
 Acaricia la imagen para verla en grande
 

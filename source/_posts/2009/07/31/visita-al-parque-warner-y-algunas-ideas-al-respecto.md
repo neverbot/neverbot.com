@@ -28,13 +28,13 @@ Y, por añadir una nota de color, algunos comentarios sobre **las atracciones qu
 
 En esas dos montañas rusas, ambas cuentan además con un único tren en todo el recorrido, en la elección más estúpida que puede comprenderse. En tren viaja, da la vuelta completa, vuelve a llegar, la gente baja, la gente sube, se comprueban todos los mecanismos de seguridad, y se vuelve a dar la salida. Siete pasos por viaje de los cuales sólo en uno la gente se está divirtiendo. Un andén más largo permitiría dos trenes, uno siempre parado y otro siempre en movimiento: mientras un tren hace el viaje, en el otro se bajan y se suben y se comprueban los mecanismos de seguridad. Cuando el primero se para tras entrar en el andén, el segundo da su salida, y estaríamos hablando de casi el doble de clientes por hora atendidos con una infraestructura prácticamente idéntica. Absurdo funcionamiento, aunque repito que, una vez montado en ellas, son dos de las atracciones que más me han gustado de toda mi vida atraccionil.
 
-![parque warner madrid](./parque-warner-madrid.jpg "parque warner madrid")
+![parque warner madrid](./visita-al-parque-warner-y-algunas-ideas-al-respecto/parque-warner-madrid.jpg "parque warner madrid")
 
 _En rojo la montaña de Superman, en Amarillo la de Batman, al fondo la Vengaza del Enigma en blanco. Foto de lanetro.com_
 
 Bastante cerca también está el [Stunt Fall](http://www.infocoasters.com/stunt-fall-ida-y-vuelta), en la que monté por la mañana nada más entrar y es lo más brutal que probé en todo el parque. Por la tarde la cerraron para ponerla en pruebas (lo que no da mucha confianza) y me quedé con las ganas de repetir. Te suben en una pared vertical dejándote colgado y te sueltan mirando hacia el suelo y cayendo, lo que provoca una sensación de acongoje suprema y continúa con una serie de vueltas y más vueltas hasta que te paras... y repites todo el recorrido hacia atrás, terminando de nuevo colgado mirando hacia el suelo.
 
-![Stunt Fall](./Stunt-Fall.jpg "Stunt Fall")
+![Stunt Fall](./visita-al-parque-warner-y-algunas-ideas-al-respecto/Stunt-Fall.jpg "Stunt Fall")
 
 _El Stunt Fall, con la plataforma de evacuación que impide usar los asientos de la primera y última fila (desde ellos no se llega a la plataforma). Foto de [ThemeParkReview.com](http://www.themeparkreview.com/wbmw2006/wbmw4.htm)_
 

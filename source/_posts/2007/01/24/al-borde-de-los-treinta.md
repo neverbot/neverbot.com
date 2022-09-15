@@ -8,7 +8,7 @@ tags:
 date: 2007-01-24 14:17:49
 ---
 
-![Al borde de los treinta](./AlBordeDeLos30.jpg "Al borde de los treinta")Al borde de los treinta, de [Mike Gayle](http://www.mikegayle.co.uk/) \[[Casa del libro](http://www.casadellibro.com/fichas/fichabiblio/0,1094,2900001112978,00.html?codigo=2900001112978&titulo=AL+BORDE+DE+LOS+TREINTA), [Fnac](http://www.fnac.es/dsp/?servlet=extended.HomeExtendedServlet&Code1=2109003155&Code2=154&prodID=595087)\]
+![Al borde de los treinta](./al-borde-de-los-treinta/AlBordeDeLos30.jpg "Al borde de los treinta")Al borde de los treinta, de [Mike Gayle](http://www.mikegayle.co.uk/) \[[Casa del libro](http://www.casadellibro.com/fichas/fichabiblio/0,1094,2900001112978,00.html?codigo=2900001112978&titulo=AL+BORDE+DE+LOS+TREINTA), [Fnac](http://www.fnac.es/dsp/?servlet=extended.HomeExtendedServlet&Code1=2109003155&Code2=154&prodID=595087)\]
 
 No es lo que suelo leer. El best-seller facilón siempre ha sido algo que me supera, y trato de huir de ellos como de la peste. Si el nombre del autor está escrito en la portada más grande que el título del libro, queda descartado generalmente. No es el caso, pero me apetecía desvariar un poco. Los libros con portadas en color chicle quedan descartados también, y este sí es el caso. Son los que suelen estar en esos stands circulares ridículos en supermercados de barrio y similares. De hecho lo compré en un Supersol, y creo que con eso ya lo digo todo.
 

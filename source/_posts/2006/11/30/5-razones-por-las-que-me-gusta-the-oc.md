@@ -8,7 +8,7 @@ tags:
 date: 2006-11-30 16:16:42
 ---
 
-![The O.C.](./The_O-C.jpg "The O.C.")
+![The O.C.](./5-razones-por-las-que-me-gusta-the-oc/The_O-C.jpg "The O.C.")
 
 *   5.- Aunque fue creada por [Josh Schwartz](http://en.wikipedia.org/wiki/Josh_Schwartz) (con la edad récord de 26 años, convirtiéndose en el creador más joven de una serie para televisión... according to the wikipedia, claro), cuenta con [Allan Heinberg](http://en.wikipedia.org/wiki/Allan_Heinberg) como escritor y productor, que ha trabajado en [5 en familia](http://www.tv.com/show/194/summary.html), [Sexo en Nueva York](http://www.tv.com/sex-and-the-city/show/456/summary.html), [Las chicas Gilmore](http://www.tv.com/gilmore-girls/show/44/summary.html) y [Anatomía de Grey](http://www.tv.com/greys-anatomy/show/24440/summary.html), entre otras. Eso es algo que me daría un poco igual, aunque no es un mal currículum. Lo importante es que es el creador de [Jóvenes Vengadores](http://en.wikipedia.org/wiki/Young_Avengers) para Marvel (gran serie) y que trabaja en un estudio de escritores compartido con [Geoff Johns](http://en.wikipedia.org/wiki/Geoff_Johns) y [Jeph Loeb](http://en.wikipedia.org/wiki/Jeph_Loeb). Y eso le da muchos puntos a la serie, aunque no lo parezca.
 

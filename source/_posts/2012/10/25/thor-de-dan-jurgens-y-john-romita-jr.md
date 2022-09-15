@@ -9,7 +9,7 @@ date: 2012-10-25 00:39:52
 
 Hace ya algo más de un año que _Panini Comics_ rescató el antiguo sello "_Colección Extra Superhéroes_", ahora en formato tomo económico de entre 300 y 500 páginas, con precios fluctuantes desde los 15 hasta los 25 euros. Gangas con un precio por número americano muy ajustado, aunque a un tamaño menor del acostumbrado en _comic-book_. Curiosidades de tamaño y edición, para quien quiera discutir sobre ello.
 
-[![](./thor_dan_jurgens_john_romita_jr.jpg "Thor de Dan Jurgens y John Romita Jr.")](./thor_dan_jurgens_john_romita_jr.jpg)
+[![](./thor-de-dan-jurgens-y-john-romita-jr/thor_dan_jurgens_john_romita_jr.jpg "Thor de Dan Jurgens y John Romita Jr.")](./thor_dan_jurgens_john_romita_jr.jpg)
 
 _Thor: En busca de los dioses (a la izquierda, tomo 1) y Thor: Lágrimas de dioses (a la derecha, tomo 2)_
 

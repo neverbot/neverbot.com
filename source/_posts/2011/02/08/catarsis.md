@@ -14,7 +14,7 @@ Y el Lunes siguiente, quise taparme con una manta protectora. Esconderme bajo un
 
 Me di dos hostias. Me vestí. Vine a trabajar. Encontré un email de hace tres o cuatro años, de la última vez que me sentí perdido. Recibí otro email de la primera persona que me hizo sentirme perdido. Joder, cuánto ha llovido desde entonces, cuántos nuevos sentimientos y cuántas nuevas personas han pasado. Todo pasa. Siempre pasa. Catarsis. Bajé hasta el fondo, y desde allí me impulsé. Me he sentido perdido otras veces. Me he encontrado y me han encontrado otras veces.
 
-[![](./wake_up.jpg "Wake up")](./wake_up.jpg)
+[![](./catarsis/wake_up.jpg "Wake up")](./wake_up.jpg)
 
 _[wake up](http://www.flickr.com/photos/isobrown/4208526321/) (cc by-nc) por [isobrown](http://www.flickr.com/photos/isobrown/)_
 

@@ -8,7 +8,7 @@ tags:
 date: 2006-11-01 11:05:09
 ---
 
-![El Capitán Kirk... qué grande](./insp_captkirk.jpg "El Capitán Kirk... qué grande")
+![El Capitán Kirk... qué grande](./posters-inspirados-en-star-trek/insp_captkirk.jpg "El Capitán Kirk... qué grande")
 
 [Posters ficticios](http://echosphere.net/star_trek_insp/star_trek_insp.html) (¡4 páginas!) inspirados en el universo Star Trek, vía [Monkinetic](http://redmonk.net/archives/2006/08/08/star-trek-inspirational-posters/).
 

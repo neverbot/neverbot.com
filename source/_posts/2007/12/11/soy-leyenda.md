@@ -9,7 +9,7 @@ date: 2007-12-11 15:52:59
 
 El día 19 estrenan [Soy Leyenda](http://www.imdb.com/title/tt0480249/). Yo voy a ir a verla de cabeza, más teniendo en cuenta que me estaba leyendo el libro (digo estaba porque es otro de esos libros que tengo parados a medio leer).
 
-![Soy Leyenda](./soy-leyenda-madrid.jpg "Soy Leyenda")
+![Soy Leyenda](./soy-leyenda/soy-leyenda-madrid.jpg "Soy Leyenda")
 
 La imagen de arriba es uno de los carteles publicitarios (como poco sé que se ha usado en Corea), que supongo ya habréis visto todos a estas alturas, pero por si tenéis la capacidad observadora de un mandril os aviso de que lo que aparece en el cartel son la plaza de la Cibeles y el palacio de las comunicaciones de Madrid.
 

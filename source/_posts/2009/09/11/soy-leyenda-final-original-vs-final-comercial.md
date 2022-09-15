@@ -9,7 +9,7 @@ date: 2009-09-11 13:50:19
 
 Hace ya un tiempo que tenía rondando por casa el dvd de [Soy Leyenda](http://www.imdb.com/title/tt0480249/) con las dos versiones existentes de la película (y aún sin desprecintar, como tantas otras). Aprovechando la excelente oferta televisiva española, ayer fue día de cine en casa. Y como tengo un blog y puedo haceros perder el tiempo paso a contar algunas impresiones sobre la película y sobre los dos finales existentes. **Hay _spoilers_**.
 
-![Soy leyenda](./i-am-legend.jpg "Soy leyenda")
+![Soy leyenda](./soy-leyenda-final-original-vs-final-comercial/i-am-legend.jpg "Soy leyenda")
 
 **Hecho innegable número uno**: esta película se llevó muchas críticas negativas innecesarias, por parte de mucho aficionado de tres al cuarto que no sabe lo que va a ver, en lo que yo llamo el "_Síndrome Señales_".
 

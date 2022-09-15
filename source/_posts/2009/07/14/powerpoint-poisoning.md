@@ -11,4 +11,4 @@ tags:
 date: 2009-07-14 13:04:24
 ---
 
-[![Dilbert - Powerpoint poisoning](./Dilbert-Powerpoint-poisoning.gif "Dilbert - Powerpoint poisoning")](http://www.dilbert.com/)
+[![Dilbert - Powerpoint poisoning](./powerpoint-poisoning/Dilbert-Powerpoint-poisoning.gif "Dilbert - Powerpoint poisoning")](http://www.dilbert.com/)

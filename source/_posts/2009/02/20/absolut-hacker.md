@@ -10,7 +10,7 @@ date: 2009-02-20 11:58:26
 
 Tenía por ahí guardada una carpeta con imágenes curiosas (de todo tipo) desde tiempos inmemoriales, pendientes de poder ir escribiendo posts cuando tuviera tiempo. Ahora me da la gana tener tiempo, así que voy a empezar a ir posteándolos poco a poco.
 
-![Absolut hacker](./absolut-hacker.jpg "Absolut hacker")
+![Absolut hacker](./absolut-hacker/absolut-hacker.jpg "Absolut hacker")
 
 Creo que nunca sabré si fue algún tipo de publicidad real, pero lo dudo.
 

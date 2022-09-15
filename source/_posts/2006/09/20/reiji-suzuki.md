@@ -7,7 +7,7 @@ tags:
 date: 2006-09-20 17:51:57
 ---
 
-[![Rope Magic.jpg](./Rope%20Magic.jpg "Reiji Suzuki")](./Rope%20Magic.jpg "Reiji Suzuki")
+[![Rope Magic.jpg](./reiji-suzuki/Rope%20Magic.jpg "Reiji Suzuki")](./reiji-suzuki/Rope%20Magic.jpg "Reiji Suzuki")
 
 No seas tonto y [acaricia](./Rope%20Magic.jpg) la foto
 

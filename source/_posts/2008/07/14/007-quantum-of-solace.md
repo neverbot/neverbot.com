@@ -7,7 +7,7 @@ tags:
 date: 2008-07-14 09:29:14
 ---
 
-[![007 Quantum of Solace](./007-quantum-of-solace.jpg "007 Quantum of Solace")](http://www.imdb.com/title/tt0830515/)
+[![007 Quantum of Solace](./007-quantum-of-solace/007-quantum-of-solace.jpg "007 Quantum of Solace")](http://www.imdb.com/title/tt0830515/)
 
 **Nombre**: Bond, James Bond. **Profesión**: Molar.
 

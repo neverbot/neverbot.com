@@ -8,7 +8,7 @@ tags:
 date: 2006-08-15 16:27:16
 ---
 
-[![Amor, Secretos y Sexo](./Mentiras.jpg "Amor, Secretos y Sexo")](./Mentiras.jpg "Mentiras.jpg")
+[![Amor, Secretos y Sexo](./amor-secretos-y-sexo/Mentiras.jpg "Amor, Secretos y Sexo")](./amor-secretos-y-sexo/Mentiras.jpg "Mentiras.jpg")
 
 Serie que se emite en [Cuatro](http://www.cuatro.com/), los lunes noche (a partir de las 23:00 creo recordar). La estaba viendo últimamente, ya que se le había dado cierta publicidad, el argumento me atraía... y sale [Denise Richards](http://www.imdb.com/name/nm0000612/).
 

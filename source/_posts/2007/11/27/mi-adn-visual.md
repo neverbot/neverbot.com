@@ -9,7 +9,7 @@ date: 2007-11-27 12:28:22
 
 [Selecciona visualmente](http://dna.imagini.net/friends/) tu elección de entre una serie de imágenes-respuesta a cada una de las preguntas que te realicen. Un test de personalidad como cualquier otro.
 
-![VisualDNA](./visualdna.JPG "VisualDNA")
+![VisualDNA](./mi-adn-visual/visualdna.JPG "VisualDNA")
 
 Vía: [La serie de mi vida](http://laseriedemivida.wordpress.com/2007/11/21/2x12-mi-adn-visual-my-visualdna/).
 

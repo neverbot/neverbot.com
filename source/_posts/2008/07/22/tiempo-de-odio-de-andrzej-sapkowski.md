@@ -8,7 +8,7 @@ tags:
 date: 2008-07-22 14:28:36
 ---
 
-![Tiempo de Odio, de Andrzej Sapkowski](./tiempo_de_odio_-_sapkowski.jpg "Tiempo de Odio, de Andrzej Sapkowski")Cuarta entrega de la saga de Geralt de Rivia, editada por [Bibliópolis Fantástica](http://www.bibliopolis.org/editorial/bibliofan/tiempoodio.htm) (y, dentro de poco, reeditada por [Alamut](http://www.alamutediciones.com/alamut/), supongo).
+![Tiempo de Odio, de Andrzej Sapkowski](./tiempo-de-odio-de-andrzej-sapkowski/tiempo_de_odio_-_sapkowski.jpg "Tiempo de Odio, de Andrzej Sapkowski")Cuarta entrega de la saga de Geralt de Rivia, editada por [Bibliópolis Fantástica](http://www.bibliopolis.org/editorial/bibliofan/tiempoodio.htm) (y, dentro de poco, reeditada por [Alamut](http://www.alamutediciones.com/alamut/), supongo).
 
 Aunque ya estaba en el mercado (y en mi pila de libros pendientes) desde hace varios años, aún no lo había empezado. La razón: son siete libros pero el último aún no está editado en castellano, pese a llevar escrito en polaco mucho tiempo y a los años que han pasado desde la edición de la sexta parte (que también tengo, así como la quinta, aún sin leer).
 

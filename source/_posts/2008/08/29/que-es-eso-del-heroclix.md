@@ -35,7 +35,7 @@ Cuando enfrentas a una miniatura contra otra, unos números más una tirada de d
 
 Para nivelar las partidas cada miniatura tiene un valor de puntos, por lo que la suma de todas las tuyas debería ser similar al total del contrario (y eso, en teoría, debería bastar).
 
-![Heroclix - Coloso](./heroclix_coloso.jpg "Heroclix - Coloso")
+![Heroclix - Coloso](./que-es-eso-del-heroclix/heroclix_coloso.jpg "Heroclix - Coloso")
 
 **Problemas y virtudes:**
 

@@ -14,7 +14,7 @@ Hacía mucho tiempo que no veía [Nip/Tuck](http://en.wikipedia.org/wiki/Nip/Tuc
 
 A quienes les den mal rollo las series de médicos (por eso de la sangre y tal) deberían saber que esas escenas son muy escasas y que no son para nada la nota predominante en la serie. Las que salen son horribles, eso es cierto. Está muy alejada como concepto de otras series como Urgencias. Aquí el centro de todos los argumentos está en los personajes principales, que son pocos (lo que hace que se puedan seguir las historias con facilidad) y están excepcionalmente bien construídos (a mi parecer), y en las relaciones entre ellos. Es una serie en la que sí se puede apreciar la evolución de cada personaje.
 
-![Nip/Tuck](./NipTuck.jpg "Nip/Tuck")
+![Nip/Tuck](./recomendacion-del-lunes-niptuck/NipTuck.jpg "Nip/Tuck")
 
 **¿Razones para verla?**
 

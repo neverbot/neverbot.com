@@ -9,7 +9,7 @@ date: 2006-11-28 20:10:26
 
 Acabo de terminar de leerlo, y es... en fin, es como... digamos que simplemente es. No voy a escribir una reseña absurda con una puntuación al final porque creo que no lo merece. Después de ocho tomos maravillosos con algunas de las más hermosas historias que haya leído nunca (bien sea en narrativa gráfica o textual), creía tener claro qué podía esperar de los volúmenes restantes. Pero no. Hasta ahora no parecía haber un hilo conductor claro, y entendía Sandman como un "campo de juegos" para Neil Gaiman, donde hacía y deshacía, y donde jugueteaba con todas las técnicas narrativas que se le ocurrían sin orden ni concierto, teniendo como fin último probablemente la mera estética. La hermosura del Arte con mayúsculas.
 
-![Sandman](./sandman.jpg "Sandman")
+![Sandman](./the-sandman-vol-ix-las-benevolas/sandman.jpg "Sandman")
 
 Sueño y su hermana mayor, Muerte
 

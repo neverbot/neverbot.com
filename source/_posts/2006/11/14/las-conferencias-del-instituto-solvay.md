@@ -9,7 +9,7 @@ date: 2006-11-14 14:41:25
 
 Esta institución está en Bruselas, y cada tres años acoge unas [conferencias sobre Física y Química](http://en.wikipedia.org/wiki/Solvay_Conference) a un nivel bastante serio. La verdad es que esto es algo que a ningún lector de esta página le va a interesar lo más mínimo, así que incluyo simplemente una curiosidad bastante interesante sobre dichas conferencias.
 
-![La conferencia de 1927](./1927meeting.jpg "La conferencia de 1927")
+![La conferencia de 1927](./las-conferencias-del-instituto-solvay/1927meeting.jpg "La conferencia de 1927")
 
 Los asistentes a la conferencia de 1927
 

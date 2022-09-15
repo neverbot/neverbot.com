@@ -8,7 +8,7 @@ tags:
 date: 2009-03-03 11:20:08
 ---
 
-![Faborit de San Bernardo](./faborit.png "Faborit de San Bernardo")
+![Faborit de San Bernardo](./cafeterias-o-apple-stores/faborit.png "Faborit de San Bernardo")
 
 _Fotografía sacada de la web de la cafetería_
 

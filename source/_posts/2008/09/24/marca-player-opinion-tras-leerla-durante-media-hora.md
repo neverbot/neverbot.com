@@ -9,7 +9,7 @@ tags:
 date: 2008-09-24 14:39:49
 ---
 
-![Marcaplayer #1](./marcaplayer_num1.gif "Marcaplayer #1")
+![Marcaplayer #1](./marca-player-opinion-tras-leerla-durante-media-hora/marcaplayer_num1.gif "Marcaplayer #1")
 
 Varios puntos a tener en cuenta: **no me ha interesado leer absolutamente nada**. Ni los artículos, que es lo que suele salvar otras revistas del sector. Entrevistas insulsas y mal traducidas. Muchas cosas sacadas de páginas web (ign, akihabara blues... para eso no compro papel). Notas (\*sigh\*). Notas por encima del ocho en el 90% de los casos (¿qué esperábamos?).
 

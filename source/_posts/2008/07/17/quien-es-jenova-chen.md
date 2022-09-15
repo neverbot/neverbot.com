@@ -23,7 +23,7 @@ Y ahora están enfrascados en el desarrollo de [flower](http://www.thatgamecompa
 
 Hace juegos bonitos y sencillos. Recalco el **bonitos**, porque es algo que apenas se ve hoy día. Y se preocupa por mantener una verdadera jugabilidad sencilla con curva de aprendizaje cero, donde todo es obvio: echad una partida a flOw y lo entenderéis; no hay tutorial, no hay instrucciones, no hay varios botones, todo es sencillo y simple.
 
-![flower](./flower_banner.jpg "flower")
+![flower](./quien-es-jenova-chen/flower_banner.jpg "flower")
 
 Habría que mantener un ojo en lo que hace esta gente porque pueden salir unas cuantas cosas bastante interesantes...
 

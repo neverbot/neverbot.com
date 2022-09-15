@@ -8,7 +8,7 @@ tags:
 date: 2006-10-01 16:05:37
 ---
 
-![Ferrari](./Ferrari-Logo.png "Ferrari")El "Cavallino Rampante" ya es primero. Quedan dos carreras. A ver si el título vuelve a donde debería estar.
+![Ferrari](./un-buen-ano/Ferrari-Logo.png "Ferrari")El "Cavallino Rampante" ya es primero. Quedan dos carreras. A ver si el título vuelve a donde debería estar.
 
 El año pasado (entendiendo años por laborables/lectivos, es decir, de Septiembre a Septiembre) fue lo que viene a ser llamado, mayormente, una mierda; en lo profesional, académico, sentimental, familiar... en casi todos los aspectos, incluso en las aficiones. Al menos el Barça se portó, pero el resto... pff.
 

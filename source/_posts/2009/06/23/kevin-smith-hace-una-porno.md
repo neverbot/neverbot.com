@@ -13,7 +13,7 @@ Tras haber visto ayer **¿Hacemos una porno?** ([Zack & Miri make a porno](http:
 
 No tengo mucho que añadir al tema, aparte de lo que ya incluía en los comentarios de [un post de H.](http://www.moleculasinestables.com/archivo/la-cancion-de-zack-y-miri/) en **moléculas inestables**, aunque allí el tema era la historia sobre la canción de fondo en una escena concreta de la película (grandísima secuencia, si se me permite puntualizar). Amplío mis aportaciones originales:
 
-![Kevin Smith](./kevin-smith.jpg "Kevin Smith")
+![Kevin Smith](./kevin-smith-hace-una-porno/kevin-smith.jpg "Kevin Smith")
 
 1.  [Kevin Smith](http://www.imdb.com/name/nm0003620/) es un directorazo cuando se pone… no entiendo su fijación en la comedia a medio camino entre el ñoñerismo romántico y el humor escatológico más zafio, cuando en ocasiones muestra algunos detalles que me hacen estar seguro de que este tio sería candidato al Oscar si hiciera una película de estudio grande. Lo cual no tiene que ser necesariamente bueno, pero me sorprende que sea el único de "su promoción" que no se haya vendido al vil metal y siga en su línea.
 2.  Burbujas es [Traci Lords](http://en.wikipedia.org/wiki/Traci_Lords). Por si alguien no se había dado cuenta.

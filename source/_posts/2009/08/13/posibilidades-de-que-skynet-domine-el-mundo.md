@@ -10,7 +10,7 @@ date: 2009-08-13 11:41:22
 
 Teniendo en cuenta que la dominación del planeta comienza con una guerra termonuclear mundial (término que me encanta desde que vi por primera vez [Juegos de Guerra](http://www.imdb.com/title/tt0086567/)), parece que no es posible exterminar a un porcentaje significativo de la población mediante estos medios.
 
-![how many nukes will destroy the world?](./nukes-to-destroy-the-world.jpg "how many nukes will destroy the world?")
+![how many nukes will destroy the world?](./posibilidades-de-que-skynet-domine-el-mundo/nukes-to-destroy-the-world.jpg "how many nukes will destroy the world?")
 
 Imagen con licencia [Creative Commons Attribution Non Commercial](http://creativecommons.org/licenses/by-nc/3.0/)
 

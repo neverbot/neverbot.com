@@ -10,7 +10,7 @@ date: 2008-09-05 11:14:14
 
 Asumámoslo. Es una tontería inventada por los medios de comunicación modernos **para mantener a la gente feliz y contenta**, pensando que la misma miseria que embarga su vida es compartida por sus congéneres, y que, por tener un nombre, es algo aceptable.
 
-[![Gijón en verano](./gijon.jpg "Gijón en verano")](http://www.flickr.com/photos/neverbot/2778071433/)
+[![Gijón en verano](./el-sindrome-post-vacacional-no-existe/gijon.jpg "Gijón en verano")](http://www.flickr.com/photos/neverbot/2778071433/)
 
 **Mentira**. El verdadero problema radica en que, tras unas vacaciones felices, la gente vuelve a la realidad diaria, y esa realidad no le gusta. El verdadero problema es que vuelve comprendiendo que desearía estar en otro lugar, haciendo otras cosas con otra gente.
 

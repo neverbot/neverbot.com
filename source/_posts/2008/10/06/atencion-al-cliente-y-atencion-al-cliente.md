@@ -14,7 +14,7 @@ Una posible solución que me dieron era que buscara (yo) una tarjeta sim de un t
 
 Por curiosidad, cuando llegué a la oficina probé a llamar al servicio técnico propio de Apple (**Apple Care**, 902 151 992) por preguntar si les sonaba mi fallo concreto y si había hecho bien dejándolo en el servicio técnico de Movistar.
 
-![Apple Care](./ac_email_logo.gif "Apple Care")
+![Apple Care](./atencion-al-cliente-y-atencion-al-cliente/ac_email_logo.gif "Apple Care")
 
 Lo primero que me pide el teleoperador es un número de teléfono para poder volver a llamarme si la comunicación se corta (bien, seguimiento personalizado por parte del mismo operador y además no les preocupa el concepto de pagar una llamada de teléfono, me gusta). El operador escucha atentamente mi relato de todo lo que le ha sucedido al teléfono (cosa que nunca hacen en las operadoras de telecomunicaciones) y seguidamente me pregunta todo lo que se le ocurre para rellenar el informe.
 

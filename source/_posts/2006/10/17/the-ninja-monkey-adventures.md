@@ -12,6 +12,6 @@ Hace tiempo que estaba pensando en incluir una tira cómica en la web, aunque s�
 
 Probablemente no pase de una leve pataleta transitoria, o quizá al final sí que me ponga a hacerlo en serio. El caso es que tengo algunos bocetos hechos, pero tampoco es cuestión de empezar a gastar ancho de banda así sin más. Con esto "vais daos".
 
-![The Ninja Monkey Adventures](./Ninja-Monkey-01.jpg "The Ninja Monkey Adventures")
+![The Ninja Monkey Adventures](./the-ninja-monkey-adventures/Ninja-Monkey-01.jpg "The Ninja Monkey Adventures")
 
 Es un mono porque... porque ya dice [Frank Cho](http://www.libertymeadows.com/) \[[wikipedia](http://en.wikipedia.org/wiki/Frank_Cho)\] que cuando hay monos de por medio todo es más divertido, y no seré yo quien le lleve la contraria. Y es ninja porque... porque un mono samurái no tendría ningún sentido.

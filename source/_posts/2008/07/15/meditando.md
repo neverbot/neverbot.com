@@ -9,7 +9,7 @@ tags:
 date: 2008-07-15 08:40:00
 ---
 
-![El Jefe Maestro está meditando](./master-chief.jpg "El Jefe Maestro esta meditando")
+![El Jefe Maestro está meditando](./meditando/master-chief.jpg "El Jefe Maestro esta meditando")
 
 **Meditando**
 

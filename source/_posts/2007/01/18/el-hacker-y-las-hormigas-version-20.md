@@ -8,7 +8,7 @@ tags:
 date: 2007-01-18 10:06:10
 ---
 
-![El hacker y las hormigas](./ElHackerYLasHormigas.jpg "El hacker y las hormigas")[El Hacker y las hormigas, versión 2.0](http://tienda.cyberdark.net/el-hacker-y-las-hormigas-n11010.html) [Rudy Rucker](http://en.wikipedia.org/wiki/Rudy_Rucker)
+![El hacker y las hormigas](./el-hacker-y-las-hormigas-version-20/ElHackerYLasHormigas.jpg "El hacker y las hormigas")[El Hacker y las hormigas, versión 2.0](http://tienda.cyberdark.net/el-hacker-y-las-hormigas-n11010.html) [Rudy Rucker](http://en.wikipedia.org/wiki/Rudy_Rucker)
 
 He tardado bastante en leerlo. Varios meses. Es que es... joder, es que es un libro muy malo.
 

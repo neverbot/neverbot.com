@@ -9,6 +9,6 @@ tags:
 date: 2010-12-10 11:16:15
 ---
 
-[![](./bat-vader.jpg "bat-vader")](./bat-vader.jpg)
+[![](./bat-vader/bat-vader.jpg "bat-vader")](./bat-vader.jpg)
 
 Vía [¡Cuánta razón!](http://www.cuantarazon.com/58373/bat-vader)

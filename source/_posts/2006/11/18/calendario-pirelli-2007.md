@@ -13,6 +13,6 @@ Y con ésto mato dos pájaros de un tiro... Mi amiga [V.](http://malgustoytipica
 
 Así que le dejo aquí esta foto y este enlace a la [colección de calendarios Pirelli](http://www.pirellical.com/). La foto es una parte de una de las páginas de este año, con [Naomi Watts](http://www.imdb.com/name/nm0915208/).
 
-![Naomi Watts en el calendario Pirelli](./NaomiWattsPirelli.jpg "Naomi Watts en el calendario Pirelli")
+![Naomi Watts en el calendario Pirelli](./calendario-pirelli-2007/NaomiWattsPirelli.jpg "Naomi Watts en el calendario Pirelli")
 
 Vía [nadaimporta.com](http://www.nadaimporta.com/?p=276)

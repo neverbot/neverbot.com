@@ -8,7 +8,7 @@ tags:
 date: 2009-03-11 09:25:42
 ---
 
-![Science flies you to the moon](./science-flies-you-to-the-moon.jpg "Science flies you to the moon")
+![Science flies you to the moon](./ciencia-y-religion/science-flies-you-to-the-moon.jpg "Science flies you to the moon")
 
 _La ciencia te hace volar hasta la luna. La religión te hace volar hasta los edificios._
 

@@ -27,6 +27,6 @@ date: 2008-06-14 11:56:54
  - Kingpin 35%
  - Two-Face 28%
 
-You believe in survival of the fittest and you believe that you are the fittest.![Apocalypse](./apocalypse.jpg "Apocalypse")
+You believe in survival of the fittest and you believe that you are the fittest.![Apocalypse](./which-super-villain-are-you/apocalypse.jpg "Apocalypse")
 
 [Apocalipsis](http://en.wikipedia.org/wiki/Apocalypse_(comics)), [Magneto](http://en.wikipedia.org/wiki/Magneto_(comics)) y el [Doctor Muerte](http://en.wikipedia.org/wiki/Dr._Doom) los tres primeros. Si es que molo un puñao. Menos mal que no tengo poderes, que si no os iba a subyugar a todos en dos días.

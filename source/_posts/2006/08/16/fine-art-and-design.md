@@ -7,7 +7,7 @@ tags:
 date: 2006-08-16 00:19:51
 ---
 
-[![Ray Leaning](./RayLeaning.jpg "Ray Leaning")](./RayLeaning.jpg "RayLeaning.jpg")
+[![Ray Leaning](./fine-art-and-design/RayLeaning.jpg "Ray Leaning")](./fine-art-and-design/RayLeaning.jpg "RayLeaning.jpg")
 
 Ilustración de [Ray Leaning](http://www.leaning.co.uk/)
 

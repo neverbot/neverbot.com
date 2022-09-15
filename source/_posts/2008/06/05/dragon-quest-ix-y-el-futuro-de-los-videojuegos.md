@@ -14,7 +14,7 @@ El caso es que la próxima iteración de la franquicia es exclusiva de Nintendo 
 
 Teniendo en cuenta que estas cifras de ventas [sólo las han alcanzado anteriormente](http://www.dsfanboy.com/2008/06/03/analyst-dragon-quest-ix-to-sell-5-million-in-japan/) productos first-party (de la propia Nintendo) como Pokemons y Super Marios, conseguir esto siendo una Third-Party como es Square-Enix sería todo un logro.
 
-![Dragon Quest IX](./dragon_quest_ix_logo.jpg "Dragon Quest IX Logo")
+![Dragon Quest IX](./dragon-quest-ix-y-el-futuro-de-los-videojuegos/dragon_quest_ix_logo.jpg "Dragon Quest IX Logo")
 
 ¿Por qué hacer esto ahora? La primera respuesta es obvia: los gastos de desarrollo de un juego **triple A** a día de hoy son prácticamente inabordables. Con juegos que gastan el 50% de su presupuesto "simplemente" en marketing (no quiero saber las cifras de GTAIV), los números se suben a muchos, muchos millones. El desarrollo de un juego de DS es más barato, más corto y más simple. Y al final la experiencia de juego no es muy distinta de la que se puede conseguir en una plataforma mayor. Con menos dinero vendes muchos juegos y puedes ingresar (al menos proporcionalmente) más dinero.
 

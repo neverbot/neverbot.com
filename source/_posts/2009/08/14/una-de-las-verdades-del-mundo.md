@@ -7,4 +7,4 @@ tags:
 date: 2009-08-14 10:18:58
 ---
 
-![mujeres y desempleados](./mujeres-y-desempleados.jpg "mujeres y desempleados")
+![mujeres y desempleados](./una-de-las-verdades-del-mundo/mujeres-y-desempleados.jpg "mujeres y desempleados")

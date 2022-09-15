@@ -11,7 +11,7 @@ Pensaba que me iba a tocar algo un poco más... extraño, pero la verdad es que 
 
 **King Nebuchadnezzar**, es decir, Nabucodonosor II \[ver wikipedia [en inglés](http://en.wikipedia.org/wiki/Nebuchadnezzar_II) o [en castellano](http://es.wikipedia.org/wiki/Nabucodonosor_II)\].
 
-![Nabucodonosor II](./nebuchadnezzar.jpg "Nabucodonosor II")
+![Nabucodonosor II](./que-villano-biblico-eres/nebuchadnezzar.jpg "Nabucodonosor II")
 
 Coincido en nombre con [una de las leyendas de Magic](http://www.evocacion.com/nebuchadnezzar-c19229.html) (expansión Legends si no recuerdo mal) y con la nave de Morfeo en Matrix.
 

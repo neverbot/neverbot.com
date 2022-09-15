@@ -11,7 +11,7 @@ date: 2008-07-09 08:47:40
 
 La semana pasada terminé de leer [Muy pronto seré invencible](http://en.wikipedia.org/wiki/Soon_I_Will_Be_Invincible), de [Austin Grossman](http://en.wikipedia.org/wiki/Austin_Grossman). No tiene mucho que reseñar si no quiero estropearos la historia, así que seré breve: es un tebeo de superhéroes novelado. Entendiendo superhéroes por tipos vestidos con mallas ajustadas que salen a la calle a partirse la cara unos a otros, no superhéroes en plan "serio y adulto".
 
-![Muy pronto seré invencible (portada inglesa)](./soon_i_will_be_invincible_uk_cover.jpg "Muy pronto seré invencible (portada inglesa)")
+![Muy pronto seré invencible (portada inglesa)](./muy-pronto-sere-invencible-de-austin-grossman/soon_i_will_be_invincible_uk_cover.jpg "Muy pronto seré invencible (portada inglesa)")
 
 Dos historias que van entrelazándose, contadas desde la perspectiva del Doctor Imposible (el villano) y Fatale (una de las heroínas de Los Campeones). Referencias múltiples a los personajes clásicos de los comics (¿podría no haberlas?), específicamente de [DC Comics](http://en.wikipedia.org/wiki/DC_Comics).
 

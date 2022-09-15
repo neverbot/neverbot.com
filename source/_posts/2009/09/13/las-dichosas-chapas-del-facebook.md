@@ -11,7 +11,7 @@ Acabo de terminar la colección de chapas de Bola de Dragón en Facebook... si n
 
 **Esto es, además, una demostración de que puedo escribir una barbaridad de texto hasta sobre el tema más ridículo y absurdo.**
 
-![339 - Ten Shin Han](./339-Ten-Shin-Han.jpg "339 - Ten Shin Han")
+![339 - Ten Shin Han](./las-dichosas-chapas-del-facebook/339-Ten-Shin-Han.jpg "339 - Ten Shin Han")
 
 Cómo funciona:
 

@@ -12,7 +12,7 @@ Para inaugurar la categoría, el  clímax final de la primera [Toy Story](http:/
 
 A Woody se le ocurre encender el cohete, y gracias a eso despegan... y vuelan. Planeando hacia tierra dejan a R/C de nuevo en el camión, pero ellos siguen hasta su verdadero lugar, el coche familiar con Andy. La escena es espectacular \[[youtube, baja calidad](http://www.youtube.com/watch?v=UZXOTmLCwws)\], con una secuencia de distintos problemas y sus soluciones que no se puede  adjetivar con otra palabra que no sea impecable.
 
-![Toy Story - Escena final](./Toy-Story-Escena-final.png "Toy Story - Escena final")
+![Toy Story - Escena final](./escenas-increibles-i-toy-story/Toy-Story-Escena-final.png "Toy Story - Escena final")
 
 *   Buzz, ¡estás volando!
 *   Esto no es volar, es... caer con estilo.

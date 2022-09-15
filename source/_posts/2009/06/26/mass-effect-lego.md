@@ -9,7 +9,7 @@ tags:
 date: 2009-06-26 12:40:11
 ---
 
-![Mass Effect - Lego](./mass-effect-lego.jpg "Mass Effect - Lego")
+![Mass Effect - Lego](./mass-effect-lego/mass-effect-lego.jpg "Mass Effect - Lego")
 
 Más Lego para volver loco a Google
 

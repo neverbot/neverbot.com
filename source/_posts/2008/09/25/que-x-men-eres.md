@@ -7,9 +7,9 @@ tags:
 date: 2008-09-25 12:22:50
 ---
 
-![Cíclope](./cyclops_drawing.jpg "Cíclope")
+![Cíclope](./que-x-men-eres/cyclops_drawing.jpg "Cíclope")
 
-> ![Cíclope (en las películas)](./cyclops.jpg "Cíclope (en las películas)")
+> ![Cíclope (en las películas)](./que-x-men-eres/cyclops.jpg "Cíclope (en las películas)")
 > 
 > Dedicated and responsible, you will always remain loyal to your cause. You are a **commanding leader** - after all, you can kill someone just by looking at them.
 > 

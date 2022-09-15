@@ -24,7 +24,7 @@ y en muchos otros lugares. Con mi nombre real estoy en:
 
 Muchos lugares y muy poco tiempo...
 
-![En internet nadie sabe que eres un perro](./nobody_knows_you_re_a_dog.jpg "En internet nadie sabe que eres un perro")
+![En internet nadie sabe que eres un perro](./undefined/nobody_knows_you_re_a_dog.jpg "En internet nadie sabe que eres un perro")
 
 _Peter Steiner en The New Yorker, 5 de julio de 1993_
 

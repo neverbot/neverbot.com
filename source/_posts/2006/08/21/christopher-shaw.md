@@ -7,7 +7,7 @@ tags:
 date: 2006-08-21 13:51:12
 ---
 
-[![Christopher Shaw](./ChristopherShaw.jpg "Christopher Shaw")](./ChristopherShaw.jpg "ChristopherShaw.jpg")
+[![Christopher Shaw](./christopher-shaw/ChristopherShaw.jpg "Christopher Shaw")](./christopher-shaw/ChristopherShaw.jpg "ChristopherShaw.jpg")
 
 Ilustración de [Christopher Shaw](http://www.shawerx.com)
 

@@ -17,7 +17,7 @@ El caso es que hace unas semanas que compré [Halo 3](http://en.wikipedia.org/wi
 *   Heroico: donde las cosas empiezan a ser bastante chungas desde la perspectiva de mi habilidad videojueguil, y
 *   Legendario: que es un modo completamente imposible perpetrado por mentes desviadas.
 
-![Halo](./halo_solar.jpg "Halo")
+![Halo](./el-modo-heroico/halo_solar.jpg "Halo")
 
 Logo de Halo por Borzz, sacado de [halo.bungie.org](http://halo.bungie.org/logos.html?background=white) \[página no oficial\]
 

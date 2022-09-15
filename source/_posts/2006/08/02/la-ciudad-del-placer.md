@@ -8,7 +8,7 @@ tags:
 date: 2006-08-02 12:53:23
 ---
 
-[![La ciudad del placer](./sexcity.jpg "La ciudad del placer")](./sexcity.jpg "La ciudad del placer")
+[![La ciudad del placer](./la-ciudad-del-placer/sexcity.jpg "La ciudad del placer")](./la-ciudad-del-placer/sexcity.jpg "La ciudad del placer")
 
 [Acaricia](./sexcity.jpg) la foto para verla más grande
 

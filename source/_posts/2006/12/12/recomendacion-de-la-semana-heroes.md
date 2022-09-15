@@ -13,7 +13,7 @@ Ya he tenido la oportunidad de ver los cuatro primeros capítulos de Heroes \[[N
 
 Os diría qué es lo que me gusta y qué no de cada personaje, por ejemplo, pero así le quitaría la gracia a cualquiera que quiera ver la serie. No están trabajados con flashbacks, al estilo de Perdidos, pero todo lo que van haciendo en el presente va definiéndolos cada vez más, y no quisiera quitaros el gusto de poder verla por vosotros mismos. Creo que una aproximación a la serie como la que he tenido yo (desde el cero más absoluto) es la mejor para disfrutar de las sorpresas.
 
-![Heroes](./heroes_logo.jpg "Heroes")
+![Heroes](./recomendacion-de-la-semana-heroes/heroes_logo.jpg "Heroes")
 
 Ya tengo los 10 primeros capítulos subtitulados (el decimoprimero fue emitido hace pocos días, están disponibles por los canales habituales) y, honestamente, paso de esperar a una traducción de mierda con unos horarios absurdos y cortes por publicidad, que será lo que ocurra cuando la emitan (algún día) en este país. TeleIván emite con unos horarios perfectamente adaptables a mis gustos. De hecho creo que ahora mismo van a emitir el quinto episodio. Voy a verlo.
 

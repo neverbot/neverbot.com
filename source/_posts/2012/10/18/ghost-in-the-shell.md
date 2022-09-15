@@ -11,7 +11,7 @@ date: 2012-10-18 19:05:49
 
 _Ghost in the Shell_ es quizá la más conocida de las obras del japonés _Masamune Shirow_, creada originalmente en forma de tebeo allá por 1989, lo que viene a ser la prehistoria de los paradigmas del entretenimiento capitalista moderno, y tuvo al menos dos continuaciones en papel, con los subtítulos _Man-machine interface_ y _Human-error processor_. Soy sincero si admito que su lectura no me pareció fácil en su momento, pero era joven y estúpido, y cualquier cosa levemente compleja habría planteado dificultades. La juventud (sobre todo) y la ignorancia (a veces) se curan con el tiempo, y quizás ahora les dé una relectura y descubra cosas nuevas. Recuerdo haber escrito [un artículo](http://www.cyberdark.net/portada.php?edi=6&cod=126) para el ya extinto portal de literatura fantástica _cyberdark.net_ acerca de las obras de este autor... pero miedo me da leerlo a estas alturas. Yo [lo enlazo](http://www.cyberdark.net/portada.php?edi=6&cod=126) y cada uno que decida lo que crea conveniente.
 
-[![](./gits.png "Ghost in the Shell: Stand Alone Complex")](./gits.png)
+[![](./ghost-in-the-shell/gits.png "Ghost in the Shell: Stand Alone Complex")](./gits.png)
 
 _Boma, Ishikawa, Batou, Motoko Kusanagi, Togusa, Saito y Paz, los protagonistas de Ghost in the Shell_
 

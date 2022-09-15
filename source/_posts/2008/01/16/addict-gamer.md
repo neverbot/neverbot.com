@@ -12,6 +12,6 @@ Estas navidades me regalaron (entre otras cosas) varios juegos de XBox 360. [Bio
 
 Va a ser el único culpable de que aún no recupere mi cuenta de [World of Warcraft](http://en.wikipedia.org/wiki/World_of_warcraft), porque veo que tengo que echarle muchas horas antes de poder terminarlo. Muchas misiones en muchos lugares de muchos planetas de muchos sistemas. He de surcar toda la galaxia con la **Normandía** antes de volver a las tierras de [Azeroth](http://en.wikipedia.org/wiki/Azeroth_%28world%29#Geography).
 
-![Zoy er gatoh... con botah](./gato-xbox.jpg "Zoy er gatoh... con botah")
+![Zoy er gatoh... con botah](./addict-gamer/gato-xbox.jpg "Zoy er gatoh... con botah")
 
 Sí, estoy jugando, ¿cuál es el problema?

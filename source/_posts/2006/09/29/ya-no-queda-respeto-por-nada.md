@@ -14,4 +14,4 @@ Uno de los pocos lugares donde aún podía ir a comprar tranquilamente sin estar
 
 Al menos la campaña publicitaria es bonita.
 
-[![Springfield](./Springfield.jpg "Springfield")](http://spf.com/es/coleccion.htm "Springfield")
+[![Springfield](./ya-no-queda-respeto-por-nada/Springfield.jpg "Springfield")](http://spf.com/es/coleccion.htm "Springfield")

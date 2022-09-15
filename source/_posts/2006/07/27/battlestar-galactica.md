@@ -7,7 +7,7 @@ tags:
 date: 2006-07-27 20:19:34
 ---
 
-[![Battlestar Galactica 2003](./galactica.gif "Battlestar Galactica 2003")](http://pics.livejournal.com/alryssa/pic/00006gyg/g1)Terminada la primera temporada, y habiendo comenzado a ver ya la segunda, puedo empezar a sacar algunas conclusiones sobre la serie. Se trata de un remake de la [serie original](http://www.battlestarwiki.org/wiki/Portal:Battlestar_Galactica_%28TOS%29) \[[imdb](http://www.imdb.com/title/tt0076984/)\], que nunca me interesó demasiado. Muy serie-B para mi gusto, y no habiéndola visto en su momento no cuenta con el puntito melancólico que tienen otras series.
+[![Battlestar Galactica 2003](./battlestar-galactica/galactica.gif "Battlestar Galactica 2003")](http://pics.livejournal.com/alryssa/pic/00006gyg/g1)Terminada la primera temporada, y habiendo comenzado a ver ya la segunda, puedo empezar a sacar algunas conclusiones sobre la serie. Se trata de un remake de la [serie original](http://www.battlestarwiki.org/wiki/Portal:Battlestar_Galactica_%28TOS%29) \[[imdb](http://www.imdb.com/title/tt0076984/)\], que nunca me interesó demasiado. Muy serie-B para mi gusto, y no habiéndola visto en su momento no cuenta con el puntito melancólico que tienen otras series.
 
 Pero este remake es otra cosa, aunque tampoco se aleja demasiado. Tiene un presupuesto mucho mayor pero sigue quedando un cierto airecillo a serie-B, y sigue habiendo demasiado cartón-piedra, aunque queda compensado con unos excelentes efectos para las escenas espaciales.
 

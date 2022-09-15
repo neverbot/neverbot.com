@@ -8,6 +8,6 @@ tags:
 date: 2008-08-11 11:31:39
 ---
 
-![No Reggaeton](./no_reggaeton.png "No Reggaeton")
+![No Reggaeton](./prohibido-perrear-en-esta-zona/no_reggaeton.png "No Reggaeton")
 
 Encontrado en algún lugar de internet, ya no recuerdo donde...

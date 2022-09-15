@@ -8,7 +8,7 @@ tags:
 date: 2006-11-05 02:44:21
 ---
 
-![Jarhead](./jarhead.jpg "Jarhead")
+![Jarhead](./jarhead/jarhead.jpg "Jarhead")
 
 [Jarhead](http://www.imdb.com/title/tt0418763/) [Sam Mendes](http://www.imdb.com/name/nm0005222/), 2005
 

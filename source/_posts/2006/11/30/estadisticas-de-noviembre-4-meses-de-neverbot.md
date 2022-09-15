@@ -28,7 +28,7 @@ Mes de Noviembre:
 
 Todos estos datos han salido del programa [Analog 6.0](http://www.analog.cx/) que es el que mi hosting, [Dreamhost](http://localhost:8000/hosting/), proporciona por defecto. Como no me fío un pelo (a priori) de la fiabilidad de sus resultados, este mes me he dado de alta en un par de servicios más, así que a partir de las estadísticas de Diciembre habrá unos cuantos datos para contrastar. Es de suponer que saldrán cifras menores, como sucede en todas las páginas web del planeta al usar sistemas un poco más fiables. Así que el mes que viene compararemos los datos de Analog con los de [StatCounter](http://www.statcounter.com/) y [Google Analytics](http://www.google.com/analytics/).
 
-![Visitas](./VisitasNoviembre06.gif "Visitas")
+![Visitas](./estadisticas-de-noviembre-4-meses-de-neverbot/VisitasNoviembre06.gif "Visitas")
 
 Este mes nos enlazaron desde microsiervos.com, enriquedans.com y halondisparado.com, aunque el único enlace "buscado" fue el de Enrique Dans a quien envié un email con unos enlaces que creí que le interesarían. El de microsiervos fue similar, les mandé una posible aclaración a un post (y tuvieron a bien enlazarme) aunque, como era uno ya atrasado, no se notó el efecto. El de Halón Disparado fue por un cruce de trackbacks involuntario (que acabó en un post) que algunos lectores de aquí y de allí no entendieron como yo pretendía. Antes que alimentar el troll que todos llevamos dentro, preferí asumir que absolutamente todo era culpa mia y pasar de discutir con nadie, incluso por encima de las ganas de la gente de hacer ruido, porque si ninguno de los dos webmasters habíamos entendido nada malo, no entiendo qué fue lo que pensaron los demás. Hubo un pequeño pico de visitas durante dos días pero nada exagerado.
 
