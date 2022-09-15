@@ -10,7 +10,7 @@ date: 2010-05-24 13:12:19
 
 Ha terminado Perdidos.
 
-![Captura de pantalla 2010-05-24 a las 12.48.43.png](./Captura-de-pantalla-2010-05-24-a-las-12.48.43.png)
+![Captura de pantalla 2010-05-24 a las 12.48.43.png](./lost-epic-win-o-epic-fail-como-si-importase/Captura-de-pantalla-2010-05-24-a-las-12.48.43.png)
 
 Internet hierve con opiniones múltiples que se reducen a dos posibles:
 
@@ -25,11 +25,11 @@ En general, el centro del argumento ha sido la soledad y el aislamiento. Los per
 
 **¿Y los misterios?** Como digo, son el _McGuffin_. La estatua, los otros, la cueva, el humo negro, los números, la lucha entre el bien y el mal. No es necesario añadirles una explicación para que todo lo que he mencionado anteriormente tenga sentido, y tenga planteamiento, nudo y desenlace. Incluso con todos los experimentos narrativos, con _flashbacks_ y _flashforwards_ y una realidad alternativa que es y no es alternativa, incluso con todo eso, hay un principio y un final claros de la historia, cerrando el círculo con el ojo de _Jack_, en el mismo lugar donde empezamos.
 
-![Captura de pantalla 2010-05-24 a las 12.56.41.png](./Captura-de-pantalla-2010-05-24-a-las-12.56.41.png)
+![Captura de pantalla 2010-05-24 a las 12.56.41.png](./lost-epic-win-o-epic-fail-como-si-importase/Captura-de-pantalla-2010-05-24-a-las-12.56.41.png)
 
 _Jack_ y _Kate_, _Locke_, _Sayid_ y _Shannon_, _Rose_ y _Bernard_, _Charlie_ y _Claire_, _Jin_ y _Sun_, _Boone_, _Juliet_ y _Sawyer_, _Desmond_ y _Penny_, _Hugo_ y _Libby_. Y _Christian_ abriendo las puertas. ¿Tiene sentido que sean estos personajes y no otros? ¿Están todos los que son o son todos los que están? No importa, ya que al final todos están juntos, en el templo en el que conviven todas las religiones, indicando quizá que todas las posibles interpretaciones son igual de válidas.
 
-![Captura de pantalla 2010-05-24 a las 13.03.56.png](./Captura-de-pantalla-2010-05-24-a-las-13.03.56.png)
+![Captura de pantalla 2010-05-24 a las 13.03.56.png](./lost-epic-win-o-epic-fail-como-si-importase/Captura-de-pantalla-2010-05-24-a-las-13.03.56.png)
 
 Qué duda cabe que yo tengo mi propia interpretación sobre todos esos posibles misterios, pero eso queda para otro post y otro día. Hoy no toca. Creo que quienes esperaban que hoy se explicaran otras cosas en el episodio final no tienen del todo claro cómo funciona la televisión.
 

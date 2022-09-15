@@ -7,4 +7,4 @@ tags:
 date: 2011-03-27 15:05:26
 ---
 
-![bazinga.png](./bazinga.png)
+![bazinga.png](./bazinga/bazinga.png)

@@ -8,7 +8,7 @@ tags:
 date: 2009-11-14 11:36:20
 ---
 
-![200911141126.jpg](./200911141126.jpg) 
+![200911141126.jpg](./tebeos-de-planeta-deagostini-nunca-mas/200911141126.jpg) 
 
 Ya prácticamente no compro tebeos americanos _mainstream_ en castellano, exceptuando alguna compra muy puntual por seguir a algún autor, pero hace un par de días pasé por una librería y decidí arriesgarme con una novedad, por tener algo que leer esa tarde. Opté por el último tomo de Batman publicado por Planeta: **Batman R.I.P.**
 

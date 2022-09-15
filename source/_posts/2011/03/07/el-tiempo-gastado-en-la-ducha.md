@@ -7,7 +7,7 @@ tags:
 date: 2011-03-07 16:48:57
 ---
 
-![201103071615.jpg](./201103071615.jpg)
+![201103071615.jpg](./el-tiempo-gastado-en-la-ducha/201103071615.jpg)
 
 Traducción libre:
 

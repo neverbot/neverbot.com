@@ -8,7 +8,7 @@ tags:
 date: 2006-09-20 16:57:37
 ---
 
-[![android.png](./android.png)](http://cyborg.namedecoder.com/ "Cyborg Name Decoder")
+[![android.png](./the-name-decoder/android.png)](http://cyborg.namedecoder.com/ "Cyborg Name Decoder")
 
 Creo que de esta forma quedo bastante definido en mi forma de ser...
 

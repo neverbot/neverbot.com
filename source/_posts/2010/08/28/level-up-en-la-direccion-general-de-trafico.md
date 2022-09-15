@@ -15,6 +15,6 @@ La página de consulta de puntos de la DGT es una desgracia absoluta. De hecho v
 
 Así que he aprovechado la compra de un lector de DNI electrónico para hacer unas gestiones y he probado a volver a realizar las consultas, esta vez ignorando el tema de usuarios y haciendo la petición con certificado electrónico. Y he encontrado esto:
 
-![Captura de pantalla 2010-08-28 a las 21.25.07.png](./Captura-de-pantalla-2010-08-28-a-las-21.25.07.png)  
+![Captura de pantalla 2010-08-28 a las 21.25.07.png](./level-up-en-la-direccion-general-de-trafico/Captura-de-pantalla-2010-08-28-a-las-21.25.07.png)  
 
 He _subido de nivel_ y ya tengo catorce puntos. Si dieran medallas como en _foursquare_ estoy seguro de que la gente intentaría conducir mejor sólo para competir entre ellos.

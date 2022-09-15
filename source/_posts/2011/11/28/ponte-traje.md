@@ -9,4 +9,4 @@ tags:
 date: 2011-11-28 18:10:53
 ---
 
-[![](./ponte-traje/pontetraje.jpg "Ponte traje")](./pontetraje.jpg)
+[![](./ponte-traje/pontetraje.jpg "Ponte traje")](./ponte-traje/pontetraje.jpg)

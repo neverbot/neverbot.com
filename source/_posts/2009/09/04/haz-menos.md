@@ -8,7 +8,7 @@ tags:
 date: 2009-09-04 12:42:31
 ---
 
-[![](./fundamentals_do_less.jpg)](http://makememinimal.com/2009/haz-menos-do-less/)
+[![](./haz-menos/fundamentals_do_less.jpg)](http://makememinimal.com/2009/haz-menos-do-less/)
 
 [(cc) by-nc-sa 2.0](http://creativecommons.org/licenses/by-nc-sa/2.0/) xema ; ) alguien (el attribution se hace difícil en un blog que no especifica los nombres de los autores)
 

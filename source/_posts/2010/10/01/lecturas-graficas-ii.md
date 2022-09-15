@@ -8,7 +8,7 @@ tags:
 date: 2010-10-01 17:44:01
 ---
 
-![dark_avengers.png](./dark_avengers.png)
+![dark_avengers.png](./lecturas-graficas-ii/dark_avengers.png)
 
 **Dark Avengers: Assemble** (_Brian Michael Bendis y Mike Deodato_, 2009) (edición americana)
 
@@ -22,7 +22,7 @@ Un grupo violento, sociópata y homicida formado en su mayor parte por algunos d
 
 Sobre todo es reseñable la evolución del personaje de _Norman Osborn_, y su relación con sus subalternos, especialmente _El Vigía_, a quien siempre espero que desarrollen un poco más y nunca sucede del todo. ¿Qué puedes esperar de este tebeo? Leer a _The Authority_ pero ambientada en el universo _Marvel_ de siempre, incluyendo las muertes, la violencia y el lenguaje. Que hayamos llegado a este punto explica que hayan cancelado _The Authority_ recientemente. Como su propio guionista decía en una entrevista: _si ya puedes encontrar esto en los tebeos de siempre, no tiene mucho sentido continuar con ello ahora mismo_. Llega a ser interesante si quieres seguir la actualidad Marvelita, prescindible en otro caso.
 
-![daredevil.png](./daredevil.png)
+![daredevil.png](./lecturas-graficas-ii/daredevil.png)
 
 **Daredevil: Cruel and Unusual** (_Ed Brubaker y Greg Rucka a los guiones, Michael Lark al dibujo_, 2008) (edición americana)
 

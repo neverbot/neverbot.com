@@ -15,7 +15,7 @@ Vamos a hacerlo primero rápido e indoloro:
 
 Y eso resume mi opinión al respecto. Ahora voy a intentar desarrollarlo un poco más. Como información de trasfondo añadiré que no había comprado un juego de este estilo desde los isométricos FIFA de 16 bits, únicamente probando alguno en casas de amigos, con las consecuentes palizas que recibía. Mi único interés en la compra de la última iteración de la franquicia estaba en no recibir más palizas y aprender a jugar un poco mejor. Y habiéndolo probado durante los últimos meses, hay tres puntos principales donde veo grandísimas **lagunas de diseño: el punto de vista comercial, el de control, y el de modos de juego**.
 
-![Captura de pantalla 2010-06-27 a las 14.26.51.png](./Captura-de-pantalla-2010-06-27-a-las-14.26.51.png)
+![Captura de pantalla 2010-06-27 a las 14.26.51.png](./terminado-fifa-2010/Captura-de-pantalla-2010-06-27-a-las-14.26.51.png)
 
 ### Los FIFA, máquinas de generar dinero
 
@@ -29,7 +29,7 @@ Sin embargo, pese a contar con las licencias oficiales, no las tiene bien implem
 
 El principal defecto de control del juego es que deja todo en manos de la habilidad del jugador, y no del personaje que se esté controlando. Es decir, si Cristiano Ronaldo encara a un defensa de un equipo de la liga coreana, perderá el balón. Para conseguir el regate será el jugador quien tendrá que realizar una **combinación de botones** según la filigrana que quiera realizar y ahí es donde, dependiendo del avatar controlado en ese momento, tendrá más filigranas disponibles. Sólo hay un problema: ¿y si no me salen? ¿y si no quiero gastar decenas de horas hasta controlar la veintena de tipos de regates que existen? ¿Por qué no proporcionar un único botón de "regatea" y que sea el propio avatar quien escoja qué maniobra utilizar dependiendo de su calidad? No es un juego que se pueda adaptar a mí, aunque soy plenamente consciente de que otro tipo de jugadores buscan precisamente estas características.
 
-![Captura de pantalla 2010-06-27 a las 14.32.33.png](./Captura-de-pantalla-2010-06-27-a-las-14.32.33.png)
+![Captura de pantalla 2010-06-27 a las 14.32.33.png](./terminado-fifa-2010/Captura-de-pantalla-2010-06-27-a-las-14.32.33.png)
 
 _Recomiendo_ [_este vídeo de Youtube_](http://www.youtube.com/watch?v=h8tgRw8I7U0) _sobre algunas filigranas_
 

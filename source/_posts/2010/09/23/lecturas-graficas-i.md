@@ -8,13 +8,13 @@ tags:
 date: 2010-09-23 20:48:52
 ---
 
-![red_lanterns.png](./red_lanterns.png)  
+![red_lanterns.png](./lecturas-graficas-i/red_lanterns.png)  
 
 **Green Lantern: Rage of the Red Lanterns** (_Geoff Johns y varios dibujantes_, 2009) (edición americana)
 
 Continúa el camino hacia _Blackest Night_ allá donde lo dejó [Green Lantern: Secret Origin](http://localhost:8000/tebeos/leido-green-lantern-secret-origin-de-geoff-johns/). _Atrocitus_ y los _Red Lanterns_, _Ganthet_ y los _Blue Lanterns_, _Sinestro_ y sus propios _Corps_ amarillos, y pistas sobre los próximos contendientes en este próximo Apocalipsis galáctico. _Geoff Johns_ se está construyendo una nueva mitología completa para los _Lanterns_, entretejiéndola con todo lo que sabíamos hasta ahora, y de un modo magistral. Probablemente sea de lo mejorcito en cómic _mainstream_ que se ha podido leer en los últimos años. Gran guión y gran dibujo, aún contando con varios artistas, ya que todos mantienen una línea similar.
 
-![cerebus.png](./cerebus.png)
+![cerebus.png](./lecturas-graficas-i/cerebus.png)
 
 **Cerebus: Alta sociedad** (_Dave Sim_, 1986)
 
@@ -26,7 +26,7 @@ Por otro lado, _Dave Sim_ demuestra una capacidad para la narrativa apabullante,
 
 Sin embargo, juntando ambas características, la extrañeza y la narrativa, el total se queda en algo... raro. No me atrevo a recomendarlo a nadie, pero sí me atrevo a sugerir que le echéis un vistazo con tranquilidad y leáis varios capítulos seguidos, y a ver qué os parece. Yo por mi parte me haré con el siguiente tomo, a ver cómo evoluciona la historia (y como premio a _Ponent Mon_ por arriesgarse). Sin duda alguna ofrece algo único en el mundo del cómic.
 
-![spawn.png](./spawn.png)  
+![spawn.png](./lecturas-graficas-i/spawn.png)  
 
 **Spawn Origins, Volume 1** (_Todd McFarlane_, 1992) (edición americana)
 
@@ -36,7 +36,7 @@ Es un cómic que avanza muy lento, y seguirá haciéndolo durante los cien núme
 
 Sólo recomendable para quienes quieran recordar los 90, con todo lo que ello conlleva. Al fin y al cabo es un icono y, a día de hoy, es posible que incluso sea lo único que ha sobrevivido desde el inicio de _Image_, tras el cierre del sello _WildStorm_.
 
-![wildcats.png](./wildcats.png)  
+![wildcats.png](./lecturas-graficas-i/wildcats.png)  
 
 **Archivos WildC.A.T.S Tomos 1 a 4** (_Jim Lee y una barbaridad de gente más_, 1992)
 
@@ -50,7 +50,7 @@ Por decir algo bueno: Me encantan los diseños de _Jim Lee_ ¡Todos esos persona
 
 Pero, en serio, qué malos son estos dichosos tebeos.
 
-**![manara.png](./manara.png)**
+**![manara.png](./lecturas-graficas-i/manara.png)**
 
 **X-Men: Mujeres en peligro** (_Chris Claremont y Milo Manara_, 2009)
 

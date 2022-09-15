@@ -7,7 +7,7 @@ tags:
 date: 2011-03-05 20:25:45
 ---
 
-![201103052025.jpg](./201103052025.jpg)
+![201103052025.jpg](./motivacional-del-dia/201103052025.jpg)
 
 _Always make the best of things_
 

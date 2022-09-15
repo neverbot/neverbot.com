@@ -9,7 +9,7 @@ tags:
 date: 2010-06-26 14:11:25
 ---
 
-![Captura de pantalla 2010-06-26 a las 14.09.08.png](./Captura-de-pantalla-2010-06-26-a-las-14.09.08.png)
+![Captura de pantalla 2010-06-26 a las 14.09.08.png](./terminado-lost-planet-extreme-condition/Captura-de-pantalla-2010-06-26-a-las-14.09.08.png)
 
 **Bleg**. Lo compré en un impulso, porque me gustó la demo _online_ de _XBox Live_. Pero yo no juego _online_, y el modo de un único jugador es inaguantable. Tras unas horas de juego **lo dejé aparcado... hace dos o tres años al menos**, y me he animado a terminarlo esta última semana (estoy siguiendo un plan intensivo de terminar los juegos comprados antes de adquirir ninguno nuevo).
 

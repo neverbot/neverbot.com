@@ -8,6 +8,6 @@ tags:
 date: 2009-09-06 12:38:28
 ---
 
-[![](./tumblr_koqydu57pG1qzxh7to1_500.jpg)](http://springintoaction.tumblr.com/post/168446821/diesel)
+[![](./combustible-diesel/tumblr_koqydu57pG1qzxh7to1_500.jpg)](http://springintoaction.tumblr.com/post/168446821/diesel)
 
 Vía [Gettin Springy With It](http://springintoaction.tumblr.com/post/168446821/diesel)

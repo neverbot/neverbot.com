@@ -7,4 +7,4 @@ tags:
 date: 2011-04-05 16:29:54
 ---
 
-![batman.jpeg](./batman.jpg)
+![batman.jpeg](./batman-si-que-sabe-solucionar-las-cosas/batman.jpg)

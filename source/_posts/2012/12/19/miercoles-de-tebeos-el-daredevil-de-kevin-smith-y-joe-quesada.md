@@ -11,11 +11,11 @@ Nací en 1979, y durante siete días conocí los setenta. Si los ochenta definie
 
 En _Marvel_ estaban sufriendo su propio rito de paso, prácticamente recuperados del desmantelamiento editorial que supuso la fundación de _Image Comics,_ encontrando nuevas estrellas. Cuando las series de mutantes dominaban las ventas hasta donde alcanzaba la vista, personajes hoy imprescindibles pasaban por sus horas más bajas: clones y cambios de identidad en un sindiós del que tardarían años en sacar a algunas colecciones.
 
-![Marvel Knights](./marvel_knights.jpg)
+![Marvel Knights](./miercoles-de-tebeos-el-daredevil-de-kevin-smith-y-joe-quesada/marvel_knights.jpg)
 
 En esta situación surgió el sello "[**Marvel Knights**](http://en.wikipedia.org/wiki/Marvel_Knights)". Varias colecciones, prácticamente muertas hasta el momento, con nuevos autores y argumentos. Es decir, una maniobra comercial como cualquier otra, una excusa para revitalizar ventas en un mercado en decadencia como era el del _comic-book_, pero que visto en perspectiva representó el principio del cambio a la _Marvel_ que tenemos hoy en día. Y de esta primera hornada de series probablemente fuera la más notoria [**Daredevil**](http://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics)), guionizada por un [**Kevin Smith**](http://en.wikipedia.org/wiki/Kevin_smith) recién glorificado en el cine independiente _freak_ y dibujada por [**Joe Quesada**](http://en.wikipedia.org/wiki/Joe_Quesada) antes de que llegara a ser editor en jefe de toda _Marvel_.
 
-_![Daredevil - Diablo Guardián](./Daredevil_devil_guardian_karen_page.jpg)_
+_![Daredevil - Diablo Guardián](./miercoles-de-tebeos-el-daredevil-de-kevin-smith-y-joe-quesada/Daredevil_devil_guardian_karen_page.jpg)_
 
 _Te echamos de menos, Karen._
 

@@ -14,7 +14,7 @@ Si el _blog_ es pequeño, o incluso insignificante, como este, los comentarios a
 
 Por otra parte, los escasos comentarios que podrían dar lugar a algo suelen ser de los parroquianos habituales, con quienes ya tengo contacto por otros medios o incluso en el mundo real ([aunque tenga poca utilidad](http://localhost:8000/mundo-real%e2%84%a2/la-nueva-forma-de-conversacion/)). Aparte de estos, aquellos pocos que tienen contenido, que me añaden algo de información, y que dan (o puedan dar) lugar a una mínima conversación son un porcentaje mínimo de una población total de comentarios ya de por sí pequeña. Casualmente suelen estar siempre en los _posts_ que muestran opiniones más controvertidas, que aquí son los menos y me da pereza sólo de pensar en escribirlos.
 
-[![](./conversacion/conversacion.png "conversacion")](./conversacion.png)
+[![](./conversacion/conversacion.png "conversacion")](./conversacion/conversacion.png)
 
 Es decir, que perfectamente podría cerrar el sistema de comentarios y no habría ninguna pérdida. De cualquier modo, los que yo recibo suelen ser comentarios cortos que (me) añaden poca información, por lo que igualmente podrían ser un [tweet](http://twitter.com/neverbot), así que la poca interacción y _feedback_ que recibo de los lectores no creo que se viese afectada.
 

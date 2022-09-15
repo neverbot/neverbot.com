@@ -7,7 +7,7 @@ tags:
 date: 2006-10-04 10:14:02
 ---
 
-![VisualStudio1.jpg](./VisualStudio1.jpg)
+![VisualStudio1.jpg](./estas-seguro-de-lo-que-haces/VisualStudio1.jpg)
 
 ¿Es esa la intención? ¿Eh, tipo duro?
 

@@ -8,13 +8,13 @@ tags:
 date: 2010-02-18 12:52:56
 ---
 
-![201002181136.jpg](./201002181136.jpg)[**Up in the air**](http://www.imdb.com/title/tt1193138/) (2009)
+![201002181136.jpg](./resenas-cinematograficas-relampago-xiv/201002181136.jpg)[**Up in the air**](http://www.imdb.com/title/tt1193138/) (2009)
 
 Confundiendo a algunos, que han tomado los anuncios de esta película como los de una nueva comedia de enredos románticos de _George Clooney_, se cuela una mezcla entre drama humano y tragicomedia (dependiendo del humor que tengas ese día) sobre el aislamiento y la soledad del individuo. O de la capacidad de disfrutar de la vida sin que nadie la interfiera, todo depende del punto de vista.
 
 Entretenida e incluso ilustrativa, aunque no me parece que sea como para tener nominaciones al Oscar para todos sus actores (protagonista y dos actrices secundarias).
 
-**![201002181151.jpg](./201002181151.jpg)[Malditos bastardos](http://www.imdb.com/title/tt0361748/)** (_Unglorious Basterds_, 2009) **descartada, no he visto el final**
+**![201002181151.jpg](./resenas-cinematograficas-relampago-xiv/201002181151.jpg)[Malditos bastardos](http://www.imdb.com/title/tt0361748/)** (_Unglorious Basterds_, 2009) **descartada, no he visto el final**
 
 Aún a riesgo de ser apedreado por las filas de _zomb_... de fieles fans de _Tarantino_, he descartado por completo la película a la mitad de metraje. Tan sencillo como darle al _stop_ y ponerme a ver otra cosa, que la vida es corta. Tras un par de películas muy buenas que le granjearon la merecida fama, la filmografía de _Tarantino_ ha caído en picado a un ritmo vertiginoso. Técnicamente impecable, como todo lo que hace, pero sin ninguna historia que contar, como en sus últimas producciones.
 
@@ -26,7 +26,7 @@ Y, para rematar, históricamente es absurda, y no hace más que perpetuar la rel
 
 Hice bien en no pagar dinero para verla en el cine. Sabía de qué iba a ir el tema.
 
-![201002181150.jpg](./201002181150.jpg)**[El reino prohibido](http://www.imdb.com/title/tt0865556/)** (_The Forbidden Kingdom_, 2008)
+![201002181150.jpg](./resenas-cinematograficas-relampago-xiv/201002181150.jpg)**[El reino prohibido](http://www.imdb.com/title/tt0865556/)** (_The Forbidden Kingdom_, 2008)
 
 Sorprendentemente, de una película que no esperaba nada ha sido de donde más disfrute he obtenido. Es una tontería de las de siempre: chico se ve transportado a mundo fantástico, chico resulta ser el elegido para algo, chico encuentra maestros que le guían (_Jackie Chan_ y _Jet Li_), chico debe enfrentarse a su destino y, de paso, salvar el mundo.
 
@@ -34,7 +34,7 @@ Por el camino, peleas con gran coreografía al estilo _Hong Kong_ (de las que se
 
 Es lo de siempre, pero supongo que en su falta de necesidad de sentar cátedra, en lo simple del mensaje y lo directo de la acción, desde los primeros minutos, es donde tiene sus virtudes. Divierte, y punto.
 
-![201002181239.jpg](./201002181239.jpg)**[Los sustitutos](http://www.imdb.com/title/tt0986263/)** (_The Surrogates_, 2009)
+![201002181239.jpg](./resenas-cinematograficas-relampago-xiv/201002181239.jpg)**[Los sustitutos](http://www.imdb.com/title/tt0986263/)** (_The Surrogates_, 2009)
 
 Para pegarse un tiro. Nace de principios completamente erróneos que cualquier autor de ciencia ficción seria habría sabido ver. Todo el planeta ha dejado de vivir "en persona" para quedarse encerrados en sus casas viviendo las experiencias diarias a través de un androide controlado remotamente, conocido como un "sustituto". Según los guionistas, esto redujo los crímenes en un 99%. Esto es una falacia como la copa de un pino. Es obvio que la falta de consecuencias en tus actos no haría que todo fuera más seguro, sino mucho más salvaje. Un asesinato ya no sería asesinato, sino un ataque a la propiedad (igual que romper la tostadora del vecino). Una violación no tendría más consecuencias que matar al personaje de _World of Warcraft_ de un conocido. La criminalidad en la calle se dispararía, y el mundo real sería más peligroso que cualquier otro lugar. Sería necesario cambiar el sistema legislativo y judicial al completo, y las ramificaciones sociales de estos profundos cambios modificarían el modo de vida diario como ahora no podemos ni imaginar.
 
@@ -48,7 +48,7 @@ Y en cuanto a la película en sí... una de _Bruce Willis_, de personaje típico
 
 Final que, por cierto, no tiene sentido \[**spoiler alert!!**\]. Que se caiga la red que controla a los sustitutos no significa nada. El _hardware_ de todos los androides no se ha visto modificado, sólo hay que darle al botón de _reset_ y volver a empezar. Vaya truño inconsistente de final.
 
-**![201002181241.jpg](./201002181241.jpg)[American Playboy](http://www.imdb.com/title/tt1186370/)** (_Spread_, 2009, toma cambio de título)
+**![201002181241.jpg](./resenas-cinematograficas-relampago-xiv/201002181241.jpg)[American Playboy](http://www.imdb.com/title/tt1186370/)** (_Spread_, 2009, toma cambio de título)
 
 Película para lucimiento de _Ashton Kutcher_, para que salga medio en pelotas fornicando en múltiples posturas con varias mujeres y se engrandezca su ya de por sí desmesurada fama en Estados Unidos (¿Sabíais que es el usuario con más seguidores de _Twitter_ del mundo? Ahora ya lo sabéis).
 
@@ -56,7 +56,7 @@ Si he de compararla con alguna otra película, para que os llevéis una idea sob
 
 Psé, ni fu ni fa.
 
-![201002181242.jpg](./201002181242.jpg)**[Enemigo Públicos](http://www.imdb.com/title/tt1152836/)** (_Public Enemies_, 2009)
+![201002181242.jpg](./resenas-cinematograficas-relampago-xiv/201002181242.jpg)**[Enemigo Públicos](http://www.imdb.com/title/tt1152836/)** (_Public Enemies_, 2009)
 
 Otro truño infumable. Recapitulemos. Una fotografía que hace que la película luzca como un episodio de _Cuéntame_. Dos protagonistas cuyas líneas argumentales no se cruzan más que en diez segundos, y cuya historia, personalidad o motivaciones desconocemos. Unos secundarios confusos que aparecen y desaparecen por arte de magia (_Giovanni Ribisi_ es el caso más alarmante, apareciendo en un par de ocasiones contándonos unos planes de atraco a un tren, perdiendo minutos y minutos de metraje... ¡¡para un atraco que no llega a narrarse!!). Personajes confusos en los que no queda muy claro quién es quién (pienso específicamente en la gente que lleva la casa de apuestas telefónica, que nunca queda claro de parte de quién están ni para quién trabajan). Y si queda claro yo no me he enterado, así que asumo que muy bien explicado no estará.
 
@@ -64,7 +64,7 @@ _Johnny Depp_ está muy lejos de hacer el papel de su vida, y _Christian Bale_ p
 
 Aburrida, lenta y prescindible.
 
-**![201002181243.jpg](./201002181243.jpg)[Gamer](http://www.imdb.com/title/tt1034032/)** (2009)
+**![201002181243.jpg](./resenas-cinematograficas-relampago-xiv/201002181243.jpg)[Gamer](http://www.imdb.com/title/tt1034032/)** (2009)
 
 Podría haber estado bien, pero se queda en poca cosa. Probablemente su mayor pecado sea estar dirigida por alguien con ganas de realizar videoclips, porque las tomas suelen ser confusas y demasiado movidas, en un intento de mostrar ese futuro distópico de vida rápida, luces fluorescentes y música electrónica.
 

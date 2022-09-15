@@ -12,7 +12,7 @@ Es un proyecto de lectura tan válido como pueda serlo el de "_todos los libros 
 
 Desde 1953 se conceden los [**premios Hugo**](http://en.wikipedia.org/wiki/Hugo_Award) a las mejores obras en los campos de la fantasía y la ciencia ficción -- es decir, son premios _de género_, vaya el aviso por delante --. Son votados por los visitantes (de pago) de la convención _WorldCon_ y, dado que no existen normas escritas sobre qué califica a una obra para que esta sea considerada fantasía o ciencia ficción, más que el hecho de que sean propuestas para votación a principios de año, podría decirse que son unos premios bastante democráticos. No es que esto sea bueno o malo _per se_, pero explica algunas de las obras premiadas.
 
-[![](./proyecto-de-lectura-los-premios-hugo/hugo_award.jpg "Hugo Award")](./hugo_award.jpg)
+[![](./proyecto-de-lectura-los-premios-hugo/hugo_award.jpg "Hugo Award")](./proyecto-de-lectura-los-premios-hugo/hugo_award.jpg)
 
 _El logo es un cohete. Bien._
 

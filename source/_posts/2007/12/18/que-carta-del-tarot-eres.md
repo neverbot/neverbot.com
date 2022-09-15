@@ -7,7 +7,7 @@ tags:
 date: 2007-12-18 09:58:25
 ---
 
-![hierophant.jpg](./hierophant.jpg)
+![hierophant.jpg](./que-carta-del-tarot-eres/hierophant.jpg)
 
 **You are The Hierophant**
 

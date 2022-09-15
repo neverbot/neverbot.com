@@ -9,7 +9,7 @@ tags:
 date: 2010-06-25 12:46:58
 ---
 
-![Captura de pantalla 2010-06-25 a las 12.29.42.png](./Captura-de-pantalla-2010-06-25-a-las-12.29.42.png)
+![Captura de pantalla 2010-06-25 a las 12.29.42.png](./terminado-alan-wake/Captura-de-pantalla-2010-06-25-a-las-12.29.42.png)
 
 Tiene todos los defectos que se le pueden achacar a los videojuegos modernos e incluso alguno más. A saber: es corto, es sencillo y es repetitivo.
 

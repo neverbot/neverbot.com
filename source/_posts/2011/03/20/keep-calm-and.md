@@ -7,4 +7,4 @@ tags:
 date: 2011-03-20 20:15:16
 ---
 
-![batman.png](./batman.png)
+![batman.png](./keep-calm-and/batman.png)

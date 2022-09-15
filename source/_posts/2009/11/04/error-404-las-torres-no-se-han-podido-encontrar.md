@@ -8,4 +8,4 @@ tags:
 date: 2009-11-04 14:21:56
 ---
 
-![200911041428.jpg](./200911041428.jpg)
+![200911041428.jpg](./error-404-las-torres-no-se-han-podido-encontrar/200911041428.jpg)

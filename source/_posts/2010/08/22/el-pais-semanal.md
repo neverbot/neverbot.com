@@ -8,7 +8,7 @@ tags:
 date: 2010-08-22 11:54:33
 ---
 
-![201008221148.jpg](./201008221148.jpg)
+![201008221148.jpg](./el-pais-semanal/201008221148.jpg)
 
 Vía [Listonauta](http://listo.tumblr.com/post/989235306/verano)
 

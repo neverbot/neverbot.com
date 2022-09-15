@@ -9,6 +9,6 @@ tags:
 date: 2009-11-09 12:19:56
 ---
 
-![200911091219.jpg](./200911091219.jpg)
+![200911091219.jpg](./this-is-sparta/200911091219.jpg)
 
 Vía [Reboot the blog](http://blog.swas.es/post/121780793/checkmate)

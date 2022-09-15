@@ -11,7 +11,7 @@ date: 2008-08-29 13:51:41
 
 Antes de verano ya habíamos estado echando unas partidas a [HeroClix](http://www.wizkidsgames.com/heroclix/), y ahora que ya terminan las vacaciones podemos volver al nuestra ardua labor de subculturalizarnos. Si vas a seguir leyendo, deberías asumir que sí, soy un friki. Es lo que hay.
 
-![](./p-640-480-79156b4d-4e26-41c4-abe3-529d45333924.jpeg)
+![](./que-es-eso-del-heroclix/p-640-480-79156b4d-4e26-41c4-abe3-529d45333924.jpeg)
 
 Foto de la partida de ayer ([X-Force](http://en.wikipedia.org/wiki/List_of_X-Men_teams#X-Force) contra **Spiderman y unos amigos** que pasaban por allí) (tomada con el iPhone, desde donde empecé a escribir el post en un momento de aburrimiento de hoy) \[sólo tiene 2 MegaPixels, pero me basta y sobra\]
 

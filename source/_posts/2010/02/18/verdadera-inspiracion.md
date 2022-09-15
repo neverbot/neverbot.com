@@ -9,7 +9,7 @@ tags:
 date: 2010-02-18 21:04:53
 ---
 
-![201002182103.jpg](./201002182103.jpg)
+![201002182103.jpg](./verdadera-inspiracion/201002182103.jpg)
 
 > _This photo makes me feel like I am not doing enough with my life._  
 

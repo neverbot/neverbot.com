@@ -7,7 +7,7 @@ tags:
 date: 2011-03-20 23:11:19
 ---
 
-![201103202307.jpg](./201103202307.jpg)
+![201103202307.jpg](./you-met-me-at-a-very-strange-time-in-my-life/201103202307.jpg)
 
 Vía [Wanting to be found](http://wantingtobefound.tumblr.com/post/1149238415)
 

@@ -11,7 +11,7 @@ Son las dos obras mayores de **[Tsugumi Ohba](http://en.wikipedia.org/wiki/Tsugu
 
 Tras el éxito conseguido con _Death Note_, ahora franquicia multimedia compuesta por _manga_, serie de _anime_ creada por el estudio _Madhouse_, novelas y varias películas de imagen real, las miradas estaban puestas en ellos con la comprensible expectación por un nuevo tebeo.
 
- [![](./miercoles-de-tebeos-bakuman/bakuman_ohba_obata.jpg "Bakuman, de Tsugumi Ohba y Takeshi Obata")](./bakuman_ohba_obata.jpg)
+ [![](./miercoles-de-tebeos-bakuman/bakuman_ohba_obata.jpg "Bakuman, de Tsugumi Ohba y Takeshi Obata")](./miercoles-de-tebeos-bakuman/bakuman_ohba_obata.jpg)
 
 _Ilustración de Bakuman, por Takeshi Obata_
 

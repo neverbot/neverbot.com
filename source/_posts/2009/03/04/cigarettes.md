@@ -7,7 +7,7 @@ tags:
 date: 2009-03-04 16:52:14
 ---
 
-[![Cigarettes](./cigarettes/cigarettes.jpg "Cigarettes")](./cigarettes.jpg)
+[![Cigarettes](./cigarettes/cigarettes.jpg "Cigarettes")](./cigarettes/cigarettes.jpg)
 
 _Click para ver en grande_
 

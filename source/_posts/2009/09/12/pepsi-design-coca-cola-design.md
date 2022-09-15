@@ -7,11 +7,11 @@ tags:
 date: 2009-09-12 12:47:42
 ---
 
-[![](./pepsiraw.jpg)](http://lovelypackage.com/pepsi-raw/)
+[![](./pepsi-design-coca-cola-design/pepsiraw.jpg)](http://lovelypackage.com/pepsi-raw/)
 
 Pepsi Raw, un tipo de Pepsi especial _made with no artificial colours, flavours, sweeteners or preservatives_. En el Reino Unido se conoce como Raw, en Estados Unidos como Pepsi Natural.
 
-[![](./pepsi1.jpg)](http://lovelypackage.com/pepsi/)
+[![](./pepsi-design-coca-cola-design/pepsi1.jpg)](http://lovelypackage.com/pepsi/)
 
 Diseño para acompañar una promoción televisiva.
 

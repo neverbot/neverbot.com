@@ -11,7 +11,7 @@ Resumen de lo sucedido acerca de **Perdidos**, la serie:
 
 En Estados Unidos esta semana se ha emitido el episodio 6x16 _What they died for_. Si estáis siguiendo la serie en versión original, es el que os habréis descargado esta semana. En España se ha emitido hasta el inmediatamente anterior, 6x15 _Al otro lado del mar_.
 
-**![Captura de pantalla 2010-05-20 a las 11.49.50.png](./Captura-de-pantalla-2010-05-20-a-las-11.49.50.png)**
+**![Captura de pantalla 2010-05-20 a las 11.49.50.png](./the-end/Captura-de-pantalla-2010-05-20-a-las-11.49.50.png)**
 
 **¿Cómo ver el final de la serie desde España?**
 

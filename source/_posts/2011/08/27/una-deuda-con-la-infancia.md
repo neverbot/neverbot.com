@@ -12,6 +12,6 @@ Tal y como decían en los comentarios de [Tu Blog de Cine](http://www.tublogdeci
 
 > _más que una cita con la sala de cine, es una deuda con la infancia._
 
-![avengers.jpeg](./avengers.jpg)
+![avengers.jpeg](./una-deuda-con-la-infancia/avengers.jpg)
 
 Nunca pensé que esto fuera realmente posible. _Avengers assemble!_

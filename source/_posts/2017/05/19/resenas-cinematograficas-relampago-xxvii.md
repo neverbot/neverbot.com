@@ -8,7 +8,7 @@ tags:
 date: 2017-05-19 18:27:15
 ---
 
-![](./fences.png)
+![](./resenas-cinematograficas-relampago-xxvii/fences.png)
 
 **[Fences](http://www.imdb.com/title/tt2671706/)** (_Denzel Washington,_ 2016)
 
@@ -20,7 +20,7 @@ O, como leí en [una crítica en letterboxd](https://letterboxd.com/film/fences-
 
 No parece una adaptación realmente brillante al cambiar de medio. Sigue pareciendo una obra de teatro y probablemente sea más disfrutable de ese modo.
 
-![](./logan.png)
+![](./resenas-cinematograficas-relampago-xxvii/logan.png)
 
 **[Logan](http://www.imdb.com/title/tt3315342)** (_James Mangold_, 2017)
 
@@ -30,13 +30,13 @@ Casi. Casi lo conseguimos esta vez.
 
 La culpa la tiene la barba de [Hugh Jackman](http://www.imdb.com/name/nm0413168). Desde el minuto en que se afeita en la película todo va cuesta abajo. Hemos encontrado su talón de Aquiles.
 
-![](./manchester_by_the_sea.png)
+![](./resenas-cinematograficas-relampago-xxvii/manchester_by_the_sea.png)
 
 **[Manchester by the Sea](http://www.imdb.com/title/tt4034228/)** (_Kenneth Lonergan_, 2017)
 
 Excepcional representación de la destrucción del alma de un ser humano, y cómo algunos eventos vitales pueden llegar a rompernos más allá de toda reparación.
 
-![](./silence.png)
+![](./resenas-cinematograficas-relampago-xxvii/silence.png)
 
 **[Silence](http://www.imdb.com/title/tt0490215/)** (_Martin Scorsese_, 2016)
 

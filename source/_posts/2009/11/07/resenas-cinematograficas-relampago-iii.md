@@ -8,7 +8,7 @@ tags:
 date: 2009-11-07 23:32:13
 ---
 
-![pagafantas.jpg](./pagafantas.jpg)
+![pagafantas.jpg](./resenas-cinematograficas-relampago-iii/pagafantas.jpg)
 
 [Pagafantas](http://www.imdb.com/title/tt1161443/)
 

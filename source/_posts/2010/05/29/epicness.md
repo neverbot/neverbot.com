@@ -9,7 +9,7 @@ tags:
 date: 2010-05-29 17:13:34
 ---
 
-![201005291712.jpg](./201005291712.jpg)
+![201005291712.jpg](./epicness/201005291712.jpg)
 
 Esta fotografía resume todo un estilo de vida.
 

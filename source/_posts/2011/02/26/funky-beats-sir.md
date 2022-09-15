@@ -9,7 +9,7 @@ tags:
 date: 2011-02-26 14:46:09
 ---
 
-![201102261444.jpg](./201102261444.jpg)
+![201102261444.jpg](./funky-beats-sir/201102261444.jpg)
 
 Ilustración de [Jim Mahfood](http://foodoneart.blogspot.com/).
 

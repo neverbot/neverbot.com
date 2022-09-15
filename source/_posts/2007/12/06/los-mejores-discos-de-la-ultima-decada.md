@@ -17,7 +17,7 @@ A ver si soy capaz de sacar uno para cada uno de los años, pero en todo caso al
 
 Los enlaces de los discos son a [last.fm](http://www.last.fm/), donde se pueden escuchar partes de todos los temas, por si no sabéis de quienes os estoy hablando. Aprovecho para recomendar la web por si alguien no la conoce, yo últimamente prefiero usarla a [mystrands](http://mystrands.com/) porque me parece bastante más usable y me proporciona más información.
 
-[![last_fm.jpg](./last_fm.jpg)](http://www.last.fm/ "Last FM")
+[![last_fm.jpg](./los-mejores-discos-de-la-ultima-decada/last_fm.jpg)](http://www.last.fm/ "Last FM")
 
 Se admiten opiniones de todo tipo, que ya sabéis que con estos temas nos podemos tirar los trastos a la cabeza si es necesario, siempre que los discos sean de la última década. No valen recopilatorios, obviamente, sólo discos de estudio.
 

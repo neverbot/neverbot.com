@@ -8,7 +8,7 @@ tags:
 date: 2010-03-14 12:34:06
 ---
 
-![201003141232.jpg](./201003141232.jpg)
+![201003141232.jpg](./curiosa-infografia/201003141232.jpg)
 
 > The ability to destroy a planet _**is nothing**_ compared to the power of the force.
 

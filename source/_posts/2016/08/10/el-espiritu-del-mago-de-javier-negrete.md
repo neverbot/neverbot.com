@@ -8,7 +8,7 @@ tags:
 date: 2016-08-10 02:19:00
 ---
 
-[![](./el-espiritu-del-mago.png)](./el-espiritu-del-mago.png)
+[![](./el-espiritu-del-mago-de-javier-negrete/el-espiritu-del-mago.png)](./el-espiritu-del-mago-de-javier-negrete/el-espiritu-del-mago.png)
 
 _Portada de la edición francesa, titulada [Syfrõn](https://www.amazon.fr/Chronique-Tramor%C3%A9e-Syfr%C3%B5n-lesprit-mage/dp/2841725693), con el ejército del Martal en primer plano_
 

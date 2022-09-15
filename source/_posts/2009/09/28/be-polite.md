@@ -8,6 +8,6 @@ tags:
 date: 2009-09-28 20:12:42
 ---
 
-[![](./tumblr_kqdxz5doqd1qzauf6o1_500.jpg)](http://quimicefa.tumblr.com/post/194319558/hallado-en-el-twitter-de-misscalamar)
+[![](./be-polite/tumblr_kqdxz5doqd1qzauf6o1_500.jpg)](http://quimicefa.tumblr.com/post/194319558/hallado-en-el-twitter-de-misscalamar)
 
 Vía [Nunca me entero de nada](http://quimicefa.tumblr.com/post/194319558/hallado-en-el-twitter-de-misscalamar)

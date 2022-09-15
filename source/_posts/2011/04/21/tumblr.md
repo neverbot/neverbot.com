@@ -8,7 +8,7 @@ tags:
 date: 2011-04-21 20:32:17
 ---
 
-![Captura de pantalla 2011-04-21 a las 20.28.52.png](./Captura-de-pantalla-2011-04-21-a-las-20.28.52.png)
+![Captura de pantalla 2011-04-21 a las 20.28.52.png](./tumblr/Captura-de-pantalla-2011-04-21-a-las-20.28.52.png)
 
 Experimentando con [tumblr](http://www.tumblr.com/). Me encanta su interfaz, me encanta el concepto, me encanta el mensaje que te da cuando te registras y validas tu cuenta de correo: "You're great". Bravo.
 

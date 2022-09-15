@@ -9,7 +9,7 @@ tags:
 date: 2009-08-17 10:54:55
 ---
 
-[![](./Yk8J8RLKmpuviqztTVA1mDw1o1_500.jpg)](http://livercake.tumblr.com/post/141624638/the-natural-order-of-things)
+[![](./el-orden-natural-de-las-cosas/Yk8J8RLKmpuviqztTVA1mDw1o1_500.jpg)](http://livercake.tumblr.com/post/141624638/the-natural-order-of-things)
 
 Vía [livertumblr](http://livercake.tumblr.com/post/141624638/the-natural-order-of-things)
 

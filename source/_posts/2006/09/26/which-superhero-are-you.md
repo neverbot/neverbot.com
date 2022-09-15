@@ -22,7 +22,7 @@ date: 2006-09-26 13:46:03
 * Catwoman 35%
 * Batman 35%
 
-You are intelligent, witty, a bit geeky and have great power and responsibility. ![spidey.gif](./spidey.gif)
+You are intelligent, witty, a bit geeky and have great power and responsibility. ![spidey.gif](./which-superhero-are-you/spidey.gif)
 
 La verdad es que hubiese preferido Green Lantern, aunque está como cuarta opción. Supongo que la pregunta acerca de si tenía un objeto superpoderoso muy preciado era decisiva, y respondí que no. Debí haber mentido.
 

@@ -8,7 +8,7 @@ tags:
 date: 2011-04-02 13:41:01
 ---
 
-![tv.png](./tv.png)
+![tv.png](./como-definir-los-ultimos-anos-de-mi-vida-en-una-unica-imagen/tv.png)
 
 John, Joan, Tony, Dexter, Starbuck.
 

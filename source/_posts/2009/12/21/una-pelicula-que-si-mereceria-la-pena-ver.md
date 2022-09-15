@@ -8,7 +8,7 @@ tags:
 date: 2009-12-21 20:40:27
 ---
 
-![200912212038.jpg](./200912212038.jpg)
+![200912212038.jpg](./una-pelicula-que-si-mereceria-la-pena-ver/200912212038.jpg)
 
 Vía [livertumblr](http://livercake.tumblr.com/post/288974653/a-sequel-worth-watching-xteban-o)  
 

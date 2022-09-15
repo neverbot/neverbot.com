@@ -12,7 +12,7 @@ No he escrito por aquí en lo que llevamos de año, algo más de mes y medio, y 
 
 Estas pasadas navidades retomaba una partida abandonada al primer [Dragon Age](http://en.wikipedia.org/wiki/Dragon_Age:_Origins), alabado juego de pseudo-rol de [Bioware](http://en.wikipedia.org/wiki/BioWare)/EA, años después de haberla dejado a medias. Unas horas de reencontrarme con los controles, rememorar las tramas envueltas alrededor de mi personaje hasta recordar que no importan y repetir las mismas acciones una y otra vez hasta ver los títulos de crédito finales. Y desde entonces un borrador de _post_ imposible de enfocar.
 
-_![Dragon Age: Origins](./dragon_age_origins.jpg)_
+_![Dragon Age: Origins](./dragon-age-y-el-triunfo-de-la-mediocridad/dragon_age_origins.jpg)_
 
 _Bruja con la que tener tus más y tus menos. En este juego te puedes llevar a la gente a la cama. Da logros._
 

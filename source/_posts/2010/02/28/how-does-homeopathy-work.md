@@ -8,7 +8,7 @@ tags:
 date: 2010-02-28 20:53:40
 ---
 
-![Captura de pantalla 2010-02-28 a las 20.50.07.png](./Captura-de-pantalla-2010-02-28-a-las-20.50.07.png)
+![Captura de pantalla 2010-02-28 a las 20.50.07.png](./how-does-homeopathy-work/Captura-de-pantalla-2010-02-28-a-las-20.50.07.png)
 
 [www.howdoeshomeopathywork.com](http://www.howdoeshomeopathywork.com/)  
 

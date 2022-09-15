@@ -7,7 +7,7 @@ tags:
 date: 2009-12-21 19:25:50
 ---
 
-![200912211903.jpg](./200912211903.jpg)
+![200912211903.jpg](./sin-titulo-12/200912211903.jpg)
 
 *   **Único club europeo que ha jugado competiciones continentales (UEFA) todos los años** desde que se instauraron en 1955.
 *   Primer club español en conseguir el triplete Copa del Rey + Liga + Champions.

@@ -8,13 +8,13 @@ tags:
 date: 2016-08-15 12:00:59
 ---
 
-[![](./the-nice-guys.png)](./the-nice-guys.png)
+[![](./resenas-cinematograficas-relampago-xxv/the-nice-guys.png)](./resenas-cinematograficas-relampago-xxv/the-nice-guys.png)
 
 **[The nice guys](http://www.imdb.com/title/tt3799694/)** (_Shane Black_, 2016)
 
 Sentimientos encontrados aquí, porque me ha gustado pero esperaba más. Muy bien [Russell Crowe](http://www.imdb.com/name/nm0000128/), excepcional [Ryan Gosling](http://www.imdb.com/name/nm0331516/). La he visto incluida en varias listas de "_lo mejor del año (hasta ahora)_", aunque no sé si eso le hace más mal que bien y de ahí las altas expectativas que llevaba.
 
-[![](./13-hours-the-secret-soldiers-of-benghazi.png)](./13-hours-the-secret-soldiers-of-benghazi.png)
+[![](./resenas-cinematograficas-relampago-xxv/13-hours-the-secret-soldiers-of-benghazi.png)](./resenas-cinematograficas-relampago-xxv/13-hours-the-secret-soldiers-of-benghazi.png)
 
 **[13 Hours: The Secret Soldiers of Benghazi](http://www.imdb.com/title/tt4172430/)** (_Michael Bay_, 2016)
 
@@ -24,7 +24,7 @@ Pues NO. Mal ritmo, personajes intercambiables, desarrollo confuso de las escena
 
 Anécdota irrelevante: En mi círculo la conocemos como "**la peli de los novios de Pam**", por ser dos de los protagonistas [John Krasinski](http://www.imdb.com/name/nm1024677/) y [David Denman](http://www.imdb.com/name/nm0219292/), los dos actores que fueron novios de Pam en la excepcional serie [The Office](http://www.imdb.com/title/tt0386676/).
 
-[![](./central-intelligence.png)](./central-intelligence.png)
+[![](./resenas-cinematograficas-relampago-xxv/central-intelligence.png)](./resenas-cinematograficas-relampago-xxv/central-intelligence.png)
 
 **[Central Intelligence](http://www.imdb.com/title/tt1489889/)** (_Rawson Marshall Thurber_, 2016)
 

@@ -13,6 +13,6 @@ He cambiado la colocación de la publicidad en la portada del blog (a ver si sub
 
 Pequeños cambios, echadle un vistazo y me comentáis qué os parece. O no.
 
-![200911272159.jpg](./200911272159.jpg)
+![200911272159.jpg](./mini-novedades-y-una-ilustracion-de-chris-ware/200911272159.jpg)
 
 Ah, la vida moderna. [Ilustración de Chris Ware](http://www.acmenoveltyarchive.org/item.php?item_no=556) para The New Yorker, vía [Livertumblr](http://livercake.tumblr.com/day/2009/11/27).

@@ -7,7 +7,7 @@ tags:
 date: 2010-09-13 10:53:06
 ---
 
-![google calendar.png](./google-calendar.png)  
+![google calendar.png](./google-a-veces-da-mal-rollo/google-calendar.png)  
 
 ¿Exactamente en qué momento pensaron que este símbolo era válido para _Google Chrome_? La conexión está verificada, el servidor verdaderamente es de _Google_, pero sólo para informar de que algunos de los componentes de la página podrían no ser igual de seguros, me saca una calavera roja, que más bien parece indicar que mi ordenador está siendo objetivo de algún tipo de mafia de Europa del este. Ya me ha dado mal rollo y me hace pensar que quizá debería dejar de utilizar _Google Calendar_.
 

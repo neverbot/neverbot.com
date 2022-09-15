@@ -8,7 +8,7 @@ tags:
 date: 2017-05-12 23:35:55
 ---
 
-[![](./guardians_of_the_galaxy_2.png)](./guardians_of_the_galaxy_2.png)
+[![](./resenas-cinematograficas-relampago-xxvi/guardians_of_the_galaxy_2.png)](./resenas-cinematograficas-relampago-xxvi/guardians_of_the_galaxy_2.png)
 
 **[Guardians of the Galaxy, Vol. 2](http://www.imdb.com/title/tt3896198/)** (_James Gunn_, 2017)
 
@@ -24,7 +24,7 @@ Pero naves espaciales, chistes, pium pium, piñao piñao, muchos colores y ganan
 
 PD: Colorines y chistes, DC, colorines y chistes. Te lo tengo dicho.
 
-**[![](./split.png)](./split.png)**
+**[![](./resenas-cinematograficas-relampago-xxvi/split.png)](./resenas-cinematograficas-relampago-xxvi/split.png)**
 
 **[Split](http://www.imdb.com/title/tt4972582/)** (_M. Night Shyamalan_, 2016)
 
@@ -32,7 +32,7 @@ _\*Grumpf\*_. Siendo firme defensor como soy de prácticamente todas las pelícu
 
 Al terminar me queda la sensación de que no me han contado nada, y aunque la interpretación de [McAvoy](http://www.imdb.com/name/nm0564215/) de sus múltiples personalidades es correcta, tenía espacio para brillar y no lo ha hecho. Como al niño que aún siendo de los mejores de la clase no se le pone el sobresaliente porque lo podía haber hecho mejor, la película es disfrutable aún sin triunfar del todo.
 
-![](./xXx_xander_cage.png)
+![](./resenas-cinematograficas-relampago-xxvi/xXx_xander_cage.png)
 
 **[xXx: The Return of Xander Cage](http://www.imdb.com/title/tt1293847/)** (_D.J. Caruso_, 2017)
 

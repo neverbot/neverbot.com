@@ -11,7 +11,7 @@ date: 2010-08-21 11:06:47
 
 Séptimo tomo recopilatorio desde la vuelta de _Hal Jordan_ como Linterna, a saber: [Rebirth](http://www.bookdepository.co.uk/book/9781848567658/Green-Lantern-Rebirth), [No Fear](http://www.bookdepository.co.uk/book/9781401210588/No-Fear), [Revenge of the Green Lanterns](http://www.bookdepository.co.uk/book/9781401209605/Revenge-of-the-Green-Lantern), [Wanted: Hal Jordan](http://www.bookdepository.co.uk/book/9781401215903/Wanted-Hal-Jordan), [The Sinestro Corps War](http://www.bookdepository.co.uk/book/9781845767839/Green-Lantern-Sinestro-Corps-War-v.-1) (en [dos tomos](http://www.bookdepository.co.uk/book/9781845768799/Green-Lantern-Sinestro-Corps-War-v.-2)) y ahora [Secret Origin](http://www.bookdepository.co.uk/book/9781848560727/Green-Lantern-Secret-Origin). \[Enlaces a BookDepository\].
 
-![secret_origin.png](./secret_origin.png)
+![secret_origin.png](./leido-green-lantern-secret-origin-de-geoff-johns/secret_origin.png)
 
 _Rebirth/Renacimiento_ fue un perfecto punto de enganche a un personaje clásico de DC que vuelve a ser nuevo, tras muchos (muchos) años desaparecido de las primeras filas de los personajes importantes, cuando la muerte significaba algo. Al menos algo más que ahora, donde nadie permanece muerto más de doce meses en ninguna colección _mainstream_.  
 

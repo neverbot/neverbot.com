@@ -7,4 +7,4 @@ tags:
 date: 2010-03-10 20:37:39
 ---
 
-![foto.jpg](./foto.jpg)
+![foto.jpg](./a-gift-from-my-girlfriend/foto.jpg)

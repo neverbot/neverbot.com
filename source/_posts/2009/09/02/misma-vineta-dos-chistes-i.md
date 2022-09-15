@@ -8,7 +8,7 @@ tags:
 date: 2009-09-02 11:02:35
 ---
 
-[![](./L9l7FfkMOoc7oxp4iXYjUpA6o1_500.jpg)](http://fluzo.tumblr.com/post/177444271/disneycompramarvel)
+[![](./misma-vineta-dos-chistes-i/L9l7FfkMOoc7oxp4iXYjUpA6o1_500.jpg)](http://fluzo.tumblr.com/post/177444271/disneycompramarvel)
 
 > **Wolverine**: So many hot Disney Princesses. 
   **Spiderman**: So little time.

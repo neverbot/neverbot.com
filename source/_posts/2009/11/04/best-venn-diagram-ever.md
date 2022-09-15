@@ -8,7 +8,7 @@ tags:
 date: 2009-11-04 10:32:05
 ---
 
-![200911041030.jpg](./200911041030.jpg)
+![200911041030.jpg](./best-venn-diagram-ever/200911041030.jpg)
 
 ¿Qué tienen en común los zombies, el monstruo de Frankenstein, Drácula y Jesucristo?
 

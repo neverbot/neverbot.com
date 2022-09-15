@@ -8,7 +8,7 @@ tags:
 date: 2009-11-13 12:37:21
 ---
 
-![200911131235.jpg](./200911131235.jpg)
+![200911131235.jpg](./eres-geek-si/200911131235.jpg)
 
 _Te das cuenta de que, en la foto, las teclas \[Ctrl\] y \[Alt\] tienen el orden invertido._
 

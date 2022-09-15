@@ -9,4 +9,4 @@ tags:
 date: 2009-12-15 21:44:53
 ---
 
-![200912152144.jpg](./200912152144.jpg)
+![200912152144.jpg](./si-hoy-solo-vas-a-ver-una-imagen-friki-que-sea-esta/200912152144.jpg)

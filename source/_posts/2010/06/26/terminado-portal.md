@@ -9,7 +9,7 @@ tags:
 date: 2010-06-26 12:33:48
 ---
 
-![Captura de pantalla 2010-06-26 a las 12.29.02.png](./Captura-de-pantalla-2010-06-26-a-las-12.29.02.png)  
+![Captura de pantalla 2010-06-26 a las 12.29.02.png](./terminado-portal/Captura-de-pantalla-2010-06-26-a-las-12.29.02.png)  
 
 _The cake is a lie_
 

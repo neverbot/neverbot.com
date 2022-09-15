@@ -7,7 +7,7 @@ tags:
 date: 2009-10-28 15:26:05
 ---
 
-![](./4QhfOULIYqifanxoCNINX8Kdo1_500.jpg)
+![](./what-is-love-baby-dont-hurt-me/4QhfOULIYqifanxoCNINX8Kdo1_500.jpg)
 
 Lo gracioso de esto es que tienes que haber perdido mucho tiempo de tu vida navegando por internet para encontrar la gracia.
 

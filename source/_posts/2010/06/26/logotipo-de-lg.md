@@ -9,7 +9,7 @@ tags:
 date: 2010-06-26 18:10:11
 ---
 
-[![](./logotipo-de-lg/LG.gif "LG")](./LG.gif)
+[![](./logotipo-de-lg/LG.gif "LG")](./logotipo-de-lg/LG.gif)
 
 Tu vida no será la misma al verlo.
 

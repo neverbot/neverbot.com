@@ -9,6 +9,6 @@ tags:
 date: 2010-12-14 09:37:59
 ---
 
-[![](./don-draper-says/PhotoAlt.gif "PhotoAlt")](./PhotoAlt.gif)
+[![](./don-draper-says/PhotoAlt.gif "PhotoAlt")](./don-draper-says/PhotoAlt.gif)
 
 Ayer me compré un _foulard_ de cachemira, en tonos malva. ¿Cuántos blogs habéis leido hoy que contengan esta frase?

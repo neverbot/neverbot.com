@@ -13,7 +13,7 @@ Leía un artículo en [el blog de Enrique Dans](http://www.enriquedans.com/2010/
 
 ¿Por qué? **Porque es una serie con una relación coste/beneficio completamente descompensada**. En su momento tuvo el episodio piloto más caro de la historia de la televisión, incluyendo mover (permanentemente) el equipo de rodaje y actores hasta Hawaii, así como la compra de un avión de pasajeros real, desmontado y empaquetado en tres aviones de mercancías hasta la isla, sólo para los decorados. Pero con el paso de las temporadas (específicamente a partir de la primera) se convirtió en una serie muy especializada, dirigida a un nicho de mercado muy concreto. Ha sido una serie difícil de seguir, en la que era imposible enganchar sobre la marcha a un nuevo espectador, que se sentiría como empezando a ver una película de _David Lynch_ en el minuto setenta. Imposible de entender, imposible de explicar.
 
-![Captura de pantalla 2010-05-24 a las 17.32.57.png](./Captura-de-pantalla-2010-05-24-a-las-17.32.57.png)
+![Captura de pantalla 2010-05-24 a las 17.32.57.png](./lost-mercado-y-mercadotecnia/Captura-de-pantalla-2010-05-24-a-las-17.32.57.png)
 
 En su nicho, un porcentaje muy alto de espectadores optaron por ver la serie descargada y subtitulada, para acercarse lo máximo posible a la fecha de emisión original. Es **un nicho muy especializado**, con alta presencia en los medios virales de internet (_facebook_, _twitter_, blogs, etc.), por lo que la serie ha alcanzado un _buzz_ muchísimo mayor que sus beneficios reales fuera de su mercado doméstico.
 

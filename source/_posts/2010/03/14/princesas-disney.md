@@ -9,7 +9,7 @@ tags:
 date: 2010-03-14 11:05:34
 ---
 
-![Princesas disney.jpg](./Princesas-disney.jpg)
+![Princesas disney.jpg](./princesas-disney/Princesas-disney.jpg)
 
 _Ilustración de [Brianna García](http://briannacherrygarcia.deviantart.com/)_
 

@@ -9,7 +9,7 @@ date: 2009-11-08 00:06:11
 
 Sólo he tardado dos años en pensar cuál sería el tercer personaje, o al menos ese es el tiempo que ha pasado desde los anteriores posts de esta serie: [Sam Seaborn](http://localhost:8000/tv/cinco-personajes-de-series-de-ficcion-que-hubiese-querido-ser-uno-sam-seaborn/) y [Bender](https://www.neverbot.com/cinco-personajes-de-series-de-ficcion-que-hubiese-querido-ser-dos-bender/#comments). El tercer personaje iba a ser un médico, pero soy incapaz de escoger entre House y Cox, qué se le va a hacer. Los demás ya están escogidos. Al tema.
 
-![200911072343.jpg](./200911072343.jpg)
+![200911072343.jpg](./cinco-personajes-de-series-de-ficcion-que-hubiese-querido-ser-tres-ari-gold/200911072343.jpg)
 
 **¿Quién es**? [Ari Gold](http://en.wikipedia.org/wiki/Ari_Gold_%28Entourage%29), un agente/representante de actores/actrices y demás fauna del espectáculo.
 

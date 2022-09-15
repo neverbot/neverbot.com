@@ -7,4 +7,4 @@ tags:
 date: 2011-08-23 23:08:14
 ---
 
-![galactica.jpeg](./galactica.jpg)
+![galactica.jpeg](./os-echo-de-menos-galactica/galactica.jpg)

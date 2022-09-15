@@ -7,7 +7,7 @@ tags:
 date: 2011-03-30 16:43:25
 ---
 
-![201103301641.jpg](./201103301641.jpg)
+![201103301641.jpg](./el-triangulo-de-las-bermudas-de-la-productividad/201103301641.jpg)
 
 "_Absolutamente ciertérrimo_".
 

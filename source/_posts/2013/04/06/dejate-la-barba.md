@@ -8,4 +8,4 @@ tags:
 date: 2013-04-06 00:48:10
 ---
 
-[![20130406-004657.jpg](./20130406-004657.jpg)](http://localhost:8000/wp-content/uploads/2013/04/20130406-004657.jpg)
+[![20130406-004657.jpg](./dejate-la-barba/20130406-004657.jpg)](http://localhost:8000/wp-content/uploads/2013/04/20130406-004657.jpg)

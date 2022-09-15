@@ -8,7 +8,7 @@ tags:
 date: 2009-11-10 21:08:40
 ---
 
-![200911102059.jpg](./200911102059.jpg)
+![200911102059.jpg](./el-gran-almirante-thrawn/200911102059.jpg)
 
 Ayer salí de una juguetería (de LA juguetería, _Toys'r'us_) sin llevarme una figura del [Gran Almirante Thrawn](http://starwars.wikia.com/wiki/Mitth%27raw%27nuruodo). Es la segunda vez que paso por ese lugar de perdición, deseo profundamente llevarme un objeto tremendamente _geek_ relacionado con _Star Wars_... y no lo hago.
 

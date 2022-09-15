@@ -9,4 +9,4 @@ tags:
 date: 2012-01-19 15:13:46
 ---
 
-![marckio:](./tumblr_l7ylwgtxel1qcu83eo1_500.jpg)
+![marckio:](./no-empecemos-todavia/tumblr_l7ylwgtxel1qcu83eo1_500.jpg)

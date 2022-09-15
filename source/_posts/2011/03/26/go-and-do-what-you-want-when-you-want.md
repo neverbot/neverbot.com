@@ -8,4 +8,4 @@ tags:
 date: 2011-03-26 14:22:32
 ---
 
-![201103261422.jpg](./201103261422.jpg)
+![201103261422.jpg](./go-and-do-what-you-want-when-you-want/201103261422.jpg)

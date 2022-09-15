@@ -10,7 +10,7 @@ date: 2010-08-19 22:00:11
 
 Si tenemos en cuenta que mi conocimiento del _Conan_ literario es escaso, y del _Conan_ comiquero era nulo, confié en las reseñas originales de cuando se comenzó a publicar esta nueva colección, hace ya cinco años, que la recomendaban como un perfecto punto de enganche para nuevos lectores. Nuevo guionista (_Kurt Busiek_), de demostrada solvencia, aunque arriesgándose en un nuevo género, y un dibujante (_Cary Nord_) novel pero de calidad, y con un estilo actual alejado de la usual sobrecarga que suele acarrear el género.  
 
-![201008192155.jpg](./201008192155.jpg)
+![201008192155.jpg](./leido-conan-de-kurt-busiek/201008192155.jpg)
 
 Y así era. El punto de enganche es ignorar todo lo existente previamente de _Conan_ en cómic, ignorar todo lo existente en libro que no fuera lo escrito originalmente por _Robert E. Howard_ (al contrario que los cómics anteriores, que bebían de múltiples escritores), y un comienzo cronológico, desde que un joven _Conan_ de apenas dieciséis años abandona _Cimmeria_ para conocer el ancho mundo. Fantástico para un neófito como yo.
 

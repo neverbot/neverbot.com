@@ -9,7 +9,7 @@ tags:
 date: 2009-08-18 12:30:17
 ---
 
-[![](./AZN7wsuV4p9s5dl8zwILxWpWo1_400.jpg)](http://livercake.tumblr.com/post/132440895/o-una-o-la-otra-pero-pick-a-side-mchuster)
+[![](./love-me-or-leave-me-alone/AZN7wsuV4p9s5dl8zwILxWpWo1_400.jpg)](http://livercake.tumblr.com/post/132440895/o-una-o-la-otra-pero-pick-a-side-mchuster)
 
 Via [livertumblr](http://livercake.tumblr.com/post/132440895/o-una-o-la-otra-pero-pick-a-side-mchuster)
 

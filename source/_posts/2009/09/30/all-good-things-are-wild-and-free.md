@@ -8,7 +8,7 @@ tags:
 date: 2009-09-30 23:26:14
 ---
 
-[![](./tumblr_kpx3ekvUC61qzduxno1_500.jpg)](http://pineappleupsidedown.tumblr.com/post/187483745/fuckyeahtattoos-misselise-all-good-things-are)
+[![](./all-good-things-are-wild-and-free/tumblr_kpx3ekvUC61qzduxno1_500.jpg)](http://pineappleupsidedown.tumblr.com/post/187483745/fuckyeahtattoos-misselise-all-good-things-are)
 
 Foto encontrada vía [WE ARE ELECTRIC](http://pineappleupsidedown.tumblr.com/post/187483745/fuckyeahtattoos-misselise-all-good-things-are)
 

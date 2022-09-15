@@ -8,7 +8,7 @@ tags:
 date: 2011-02-27 13:41:01
 ---
 
-![201102271340.jpg](./201102271340.jpg)
+![201102271340.jpg](./dont-forget/201102271340.jpg)
 
 Y creo que este es con diferencia el post más informativo de la historia de neverbot.
 

@@ -12,7 +12,7 @@ date: 2008-11-03 16:52:23
 
 Aprovecho un momento en el que estoy a punto de una embolia por estrés para compartir algo que tenía en mi lista de pendientes desde hace un tiempo:
 
-[![Caballeros del Zodiaco vs Los Simpson](./caballeros-del-zodiaco-saint-seiya-vs-los-simpson/saintseiya1024x768zu0-300x225.jpg "Caballeros del Zodiaco vs Los Simpson")](./saintseiya1024x768zu0.jpg)
+[![Caballeros del Zodiaco vs Los Simpson](./caballeros-del-zodiaco-saint-seiya-vs-los-simpson/saintseiya1024x768zu0-300x225.jpg "Caballeros del Zodiaco vs Los Simpson")](./caballeros-del-zodiaco-saint-seiya-vs-los-simpson/saintseiya1024x768zu0.jpg)
 
 Click para ver en grande. Ilustración de [Ed Wheeler](http://edwheeler.deviantart.com/).
 

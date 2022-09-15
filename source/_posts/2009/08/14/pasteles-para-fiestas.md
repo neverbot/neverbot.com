@@ -10,7 +10,7 @@ tags:
 date: 2009-08-14 10:38:12
 ---
 
-![](./b9vfl4b63qql1l9ysLERhNOOo1_500.jpg)
+![](./pasteles-para-fiestas/b9vfl4b63qql1l9ysLERhNOOo1_500.jpg)
 
 Vía [livertumblr](http://livercake.tumblr.com/post/155846498/cupcake-porn-thedailywhat-nerdgasm-of-the)
 

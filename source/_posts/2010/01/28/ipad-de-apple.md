@@ -14,4 +14,4 @@ Ya está todo dicho en un millón de páginas. A nadie le gusta porque todo el m
 
 De todas formas todo lo que puedo decir está resumido en la siguiente imagen (gracias Òscar):
 
-![201001281643.jpg](./201001281643.jpg)
+![201001281643.jpg](./ipad-de-apple/201001281643.jpg)

@@ -11,7 +11,7 @@ date: 2011-01-07 12:51:52
 
 Salía hoy de casa hacia la oficina cuando he visto uno de esos horribles árboles de navidad de plástico, despojado de todo adorno, junto a los contenedores. La navidad ha terminado y el espacio se hace necesario, por encima del reaprovechamiento, de la utilización futura. La obsolescencia programada en todos los productos de consumo que utilizamos a diario.
 
-[![patera.jpg](./patera.jpg)](http://www.flickr.com/photos/gaspars/540617487/)
+[![patera.jpg](./y-ahora/patera.jpg)](http://www.flickr.com/photos/gaspars/540617487/)
 
 _Patera en la playa, cc (by-nc-nd)_ [_Gaspar Serrano_](http://www.flickr.com/photos/gaspars/540617487/)
 

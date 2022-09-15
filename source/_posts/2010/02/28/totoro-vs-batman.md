@@ -9,6 +9,6 @@ tags:
 date: 2010-02-28 21:40:53
 ---
 
-![201002282140.jpg](./201002282140.jpg)
+![201002282140.jpg](./totoro-vs-batman/201002282140.jpg)
 
 Via [fluzorama](http://fluzo.tumblr.com/post/412090194/battotoro)
