@@ -32,7 +32,7 @@ _\*Grumpf\*_. Siendo firme defensor como soy de prácticamente todas las pelícu
 
 Al terminar me queda la sensación de que no me han contado nada, y aunque la interpretación de [McAvoy](http://www.imdb.com/name/nm0564215/) de sus múltiples personalidades es correcta, tenía espacio para brillar y no lo ha hecho. Como al niño que aún siendo de los mejores de la clase no se le pone el sobresaliente porque lo podía haber hecho mejor, la película es disfrutable aún sin triunfar del todo.
 
-![](xXx_xander_cage.png)
+![](./xXx_xander_cage.png)
 
 **[xXx: The Return of Xander Cage](http://www.imdb.com/title/tt1293847/)** (_D.J. Caruso_, 2017)
 
