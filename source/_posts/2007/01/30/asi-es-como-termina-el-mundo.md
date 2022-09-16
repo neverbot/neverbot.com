@@ -5,6 +5,7 @@ author: neverbot
 tags:
   - Videojuegos
 date: 2007-01-30 18:13:21
+video: _jz7y2-1DMM
 ---
 
 > "I have defied gods and demons. I am your shield, I am your sword. I know you; your past, your future. This is the way the world ends."
