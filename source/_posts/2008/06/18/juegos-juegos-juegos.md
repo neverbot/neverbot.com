@@ -3,8 +3,7 @@ title: Juegos, juegos, juegos...
 id: '804'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2008-06-18 23:39:57
 ---
 

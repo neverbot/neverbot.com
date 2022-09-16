@@ -6,8 +6,7 @@ tags:
   - Humor
   - Ilustración
   - Libros
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2009-09-14 13:34:59
 ---
 

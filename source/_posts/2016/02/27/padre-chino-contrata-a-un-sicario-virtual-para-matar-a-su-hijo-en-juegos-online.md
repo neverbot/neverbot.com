@@ -6,8 +6,7 @@ author: neverbot
 tags:
   - ¿Sabías que...?
   - Mundo Real™
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2016-02-27 13:36:38
 ---
 

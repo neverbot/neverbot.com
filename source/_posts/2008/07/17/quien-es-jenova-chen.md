@@ -4,8 +4,7 @@ id: '848'
 author: neverbot
 tags:
   - ¿Sabías que...?
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2008-07-17 14:36:45
 ---
 

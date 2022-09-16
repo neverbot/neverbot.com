@@ -3,8 +3,7 @@ title: MadWorld... psé
 id: '880'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2008-08-20 15:01:09
 ---
 

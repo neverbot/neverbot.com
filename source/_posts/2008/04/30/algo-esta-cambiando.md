@@ -4,8 +4,7 @@ id: '771'
 author: neverbot
 tags:
   - Miniblog
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2008-04-30 11:43:35
 ---
 

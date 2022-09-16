@@ -3,8 +3,7 @@ title: Dragon Age y el triunfo de la mediocridad
 id: '5955'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2013-02-18 20:24:50
 ---
 

@@ -3,8 +3,7 @@ title: Cuestiones de Game Design
 id: '330'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2007-01-17 09:47:43
 ---
 

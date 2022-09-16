@@ -3,8 +3,7 @@ title: Choose your weapon
 id: '2025'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2009-11-06 18:34:28
 ---
 

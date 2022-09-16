@@ -5,8 +5,7 @@ author: neverbot
 tags:
   - Blog
   - Publicidad
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2007-07-20 10:56:38
 ---
 

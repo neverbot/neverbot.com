@@ -3,8 +3,7 @@ title: Ghost Recon Advance Warfighter
 id: '813'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2008-06-26 13:52:56
 ---
 

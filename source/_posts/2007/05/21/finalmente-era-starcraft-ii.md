@@ -3,8 +3,7 @@ title: Finalmente... era Starcraft II
 id: '452'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2007-05-21 10:24:26
 ---
 

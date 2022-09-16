@@ -3,8 +3,7 @@ title: 'Informe de avances: Call of Duty 4'
 id: '595'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2007-11-27 09:40:17
 ---
 

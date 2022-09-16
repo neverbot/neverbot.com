@@ -3,8 +3,7 @@ title: Tom Clancy's HAWX
 id: '833'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2008-07-10 13:23:55
 ---
 

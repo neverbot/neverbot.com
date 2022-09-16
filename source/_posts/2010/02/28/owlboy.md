@@ -3,8 +3,7 @@ title: Owlboy
 id: '2401'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2010-02-28 12:16:35
 ---
 

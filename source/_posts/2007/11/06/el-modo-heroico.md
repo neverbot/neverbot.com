@@ -3,8 +3,7 @@ title: El "modo heroico"
 id: '571'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2007-11-06 11:56:47
 ---
 

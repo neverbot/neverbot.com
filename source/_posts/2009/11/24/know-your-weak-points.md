@@ -5,8 +5,7 @@ author: neverbot
 tags:
   - Cine
   - Ilustración
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2009-11-24 23:15:25
 ---
 

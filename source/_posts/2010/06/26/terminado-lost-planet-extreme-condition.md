@@ -4,8 +4,7 @@ id: '2569'
 author: neverbot
 tags:
   - Reseñas
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2010-06-26 14:11:25
 ---
 

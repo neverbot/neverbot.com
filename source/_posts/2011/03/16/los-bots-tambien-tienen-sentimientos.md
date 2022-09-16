@@ -5,8 +5,7 @@ author: neverbot
 tags:
   - Humor
   - Tebeos
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2011-03-16 13:52:48
 ---
 

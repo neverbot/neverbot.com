@@ -5,8 +5,7 @@ author: neverbot
 tags:
   - Ilustración
   - Informática
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2009-09-26 21:28:32
 ---
 

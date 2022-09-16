@@ -5,8 +5,7 @@ author: neverbot
 tags:
   - Blog
   - Internet
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2008-11-26 17:40:25
 ---
 

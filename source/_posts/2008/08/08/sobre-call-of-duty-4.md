@@ -3,8 +3,7 @@ title: Sobre Call of Duty 4
 id: '868'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2008-08-08 08:58:21
 ---
 

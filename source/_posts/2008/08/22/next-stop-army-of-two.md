@@ -3,8 +3,7 @@ title: Next stop... ¿Army of Two?
 id: '894'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2008-08-22 10:19:49
 ---
 

@@ -4,8 +4,7 @@ id: '1069'
 author: neverbot
 tags:
   - Humor
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2008-10-26 10:12:38
 ---
 

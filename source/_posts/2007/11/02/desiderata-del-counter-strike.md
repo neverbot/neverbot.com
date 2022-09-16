@@ -5,8 +5,7 @@ author: neverbot
 tags:
   - Humor
   - Internet
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2007-11-02 13:52:01
 ---
 

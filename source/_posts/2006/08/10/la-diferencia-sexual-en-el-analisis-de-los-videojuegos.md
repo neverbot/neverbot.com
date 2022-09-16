@@ -5,8 +5,7 @@ author: neverbot
 tags:
   - Blog
   - Mundo Real™
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2006-08-10 12:41:16
 ---
 

@@ -5,8 +5,7 @@ author: neverbot
 tags:
   - Blog
   - Miniblog
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2007-07-20 21:05:31
 ---
 

@@ -4,8 +4,7 @@ id: '2342'
 author: neverbot
 tags:
   - Pensamientos aleatorios
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2010-02-15 19:39:56
 ---
 

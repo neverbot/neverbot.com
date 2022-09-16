@@ -5,8 +5,7 @@ author: neverbot
 tags:
   - Internet
   - Publicidad
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2006-12-02 16:48:59
 ---
 

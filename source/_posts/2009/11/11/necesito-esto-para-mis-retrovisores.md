@@ -4,8 +4,7 @@ id: '2074'
 author: neverbot
 tags:
   - Mundo Real™
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2009-11-11 11:30:34
 ---
 

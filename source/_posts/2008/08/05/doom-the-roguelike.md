@@ -3,8 +3,7 @@ title: Doom, the Roguelike
 id: '864'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2008-08-05 10:24:03
 ---
 

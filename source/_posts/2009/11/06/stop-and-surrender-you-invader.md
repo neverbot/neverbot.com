@@ -5,8 +5,7 @@ author: neverbot
 tags:
   - Cine
   - Fotografía
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2009-11-06 12:33:05
 ---
 

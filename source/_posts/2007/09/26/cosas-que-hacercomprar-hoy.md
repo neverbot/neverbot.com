@@ -5,8 +5,7 @@ author: neverbot
 tags:
   - Blog
   - Cine
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2007-09-26 16:49:50
 ---
 

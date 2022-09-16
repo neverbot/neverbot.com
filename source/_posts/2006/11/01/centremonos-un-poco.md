@@ -9,8 +9,7 @@ tags:
   - Reseñas
   - Tebeos
   - Tv
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2006-11-01 15:56:15
 ---
 

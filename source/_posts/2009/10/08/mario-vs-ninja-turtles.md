@@ -4,8 +4,7 @@ id: '1916'
 author: neverbot
 tags:
   - Ilustración
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2009-10-08 12:17:40
 ---
 

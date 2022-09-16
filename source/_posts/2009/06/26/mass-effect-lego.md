@@ -4,8 +4,7 @@ id: '1470'
 author: neverbot
 tags:
   - Juegos
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2009-06-26 12:40:11
 ---
 

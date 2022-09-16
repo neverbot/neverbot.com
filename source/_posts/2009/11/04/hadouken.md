@@ -5,8 +5,7 @@ author: neverbot
 tags:
   - Fotografía
   - Humor
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2009-11-04 14:23:43
 ---
 

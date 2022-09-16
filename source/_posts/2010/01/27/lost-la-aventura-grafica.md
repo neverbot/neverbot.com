@@ -5,8 +5,7 @@ author: neverbot
 tags:
   - Ilustración
   - Tv
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2010-01-27 21:09:11
 ---
 

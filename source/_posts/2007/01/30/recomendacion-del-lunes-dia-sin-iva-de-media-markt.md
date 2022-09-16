@@ -6,8 +6,7 @@ tags:
   - Blog
   - Mundo Real™
   - Tv
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2007-01-30 11:03:40
 ---
 

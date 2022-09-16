@@ -4,8 +4,7 @@ id: '5476'
 author: neverbot
 tags:
   - Tebeos
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2012-11-14 13:44:18
 ---
 

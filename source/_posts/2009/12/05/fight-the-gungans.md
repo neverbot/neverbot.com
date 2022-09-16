@@ -6,8 +6,7 @@ tags:
   - Cine
   - Ilustración
   - Publicidad
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2009-12-05 20:05:21
 ---
 

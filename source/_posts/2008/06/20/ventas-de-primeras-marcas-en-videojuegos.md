@@ -3,8 +3,7 @@ title: Ventas de primeras marcas en videojuegos
 id: '806'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2008-06-20 08:56:54
 ---
 

@@ -3,8 +3,7 @@ title: Una lista de los mejores... ¿sin los mejores?
 id: '710'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2008-02-16 16:01:33
 ---
 

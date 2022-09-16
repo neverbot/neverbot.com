@@ -3,8 +3,7 @@ title: Princess Peach
 id: '2924'
 author: neverbot
 tags:
-  - juegos
-    - Videojuegos
+  - Videojuegos
 date: 2011-03-07 19:53:43
 ---
 
