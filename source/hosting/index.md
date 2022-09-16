@@ -7,7 +7,7 @@ tags:
 date: 2006-11-18 15:53:49
 ---
 
-Desde su creación, [neverbot.com](http://localhost:8000/) está alojada en los servidores de [Dreamhost.com](http://www.dreamhost.com/), que es la empresa que me ofrecía la mejor relación calidad-precio del mercado (si encontráis otra mejor, avisadme, que yo no tengo ningún problema en cambiarme).
+Desde su creación, [neverbot.com](https://www.neverbot.com/) está alojada en los servidores de [Dreamhost.com](http://www.dreamhost.com/), que es la empresa que me ofrecía la mejor relación calidad-precio del mercado (si encontráis otra mejor, avisadme, que yo no tengo ningún problema en cambiarme).
 
 [![Dreamhost](./undefined/dreamhost.png "Dreamhost")](http://www.dreamhost.com/ "Dreamhost")
 

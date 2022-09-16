@@ -7,7 +7,7 @@ tags:
 date: 2007-09-19 13:45:53
 ---
 
-Y por fin, tras arduos intentos convertidos en [largas discusiones](http://localhost:8000/musica/mis-5-mejores/), [pensamientos laterales](https://www.neverbot.com/yo-queria-escribir-de-mis-cinco-canciones-del-momento/) y unos cuantos borradores en los que no me decidía a dejar sólo cinco (y cuando por fin me decidía pasaba el tiempo y ya quería cambiar), mis cinco canciones del momento:
+Y por fin, tras arduos intentos convertidos en [largas discusiones](https://www.neverbot.com/musica/mis-5-mejores/), [pensamientos laterales](https://www.neverbot.com/yo-queria-escribir-de-mis-cinco-canciones-del-momento/) y unos cuantos borradores en los que no me decidía a dejar sólo cinco (y cuando por fin me decidía pasaba el tiempo y ya quería cambiar), mis cinco canciones del momento:
 
 > [Coldplay](http://www.coldplay.com/) - [In my place](http://www.mystrands.com/track/2697244/ref/12) 
   [Franz Ferdinand](http://en.wikipedia.org/wiki/Franz_Ferdinand_%28band%29) - [Take me out](http://www.mystrands.com/track/3232126/ref/12) 

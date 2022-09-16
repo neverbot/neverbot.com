@@ -14,7 +14,7 @@ date: 2010-06-24 13:13:57
 
 ![Captura de pantalla 2010-06-24 a las 12.37.53.png](./resenas-cinematograficas-relampago-xvii/Captura-de-pantalla-2010-06-24-a-las-12.37.53.png)  
 
-**[Prince of Persia: Las arenas olvidadas](http://www.imdb.com/title/tt0473075/)** (_Prince of Persia: The sands of time_, 2010): De esto [ya hablé hace poco](http://localhost:8000/cine/prince-of-persia-las-arenas-olvidadas/). De lo peor que he tenido la desgracia de ver últimamente, aunque hay quienes dicen que la película tiene sus virtudes. Ya digo que yo no las encontré.
+**[Prince of Persia: Las arenas olvidadas](http://www.imdb.com/title/tt0473075/)** (_Prince of Persia: The sands of time_, 2010): De esto [ya hablé hace poco](https://www.neverbot.com/cine/prince-of-persia-las-arenas-olvidadas/). De lo peor que he tenido la desgracia de ver últimamente, aunque hay quienes dicen que la película tiene sus virtudes. Ya digo que yo no las encontré.
 
 ![Captura de pantalla 2010-06-24 a las 12.43.27.png](./resenas-cinematograficas-relampago-xvii/Captura-de-pantalla-2010-06-24-a-las-12.43.27.png)
 

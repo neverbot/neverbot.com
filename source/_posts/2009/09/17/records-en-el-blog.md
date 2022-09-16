@@ -8,4 +8,4 @@ tags:
 date: 2009-09-17 15:00:57
 ---
 
-Gracias a la reposición del anuncio de BP, el [post sobre la canción](http://localhost:8000/tv/la-cancion-del-nuevo-anuncio-de-bp/) ha pasado de las **diez mil visitas**.
+Gracias a la reposición del anuncio de BP, el [post sobre la canción](https://www.neverbot.com/tv/la-cancion-del-nuevo-anuncio-de-bp/) ha pasado de las **diez mil visitas**.

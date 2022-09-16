@@ -13,4 +13,4 @@ Este fin de semana hice una visita relámpago a la fnac, y ahora soy un libro y 
 
 Y otro disco de [Jack Johnson](http://www.last.fm/music/Jack_Johnson): [Brushfire FairyTales](http://www.last.fm/music/Jack+Johnson/Brushfire+Fairytales), y dos de [Franz Ferdinand](http://www.last.fm/music/Franz_Ferdinand) ([el primero](http://www.last.fm/music/Franz+Ferdinand/Franz+Ferdinand) y [You could have it so much better](http://www.last.fm/music/Franz+Ferdinand/You+Could+Have+It+So+Much+Better)). Estos dos van directamente al post sobre mejores discos de la última década.
 
-Por cierto, aprovecho para volver a pedir vuestra ayuda en este tema, [pasad por ese post](http://localhost:8000/musica/los-mejores-discos-de-la-ultima-decada/) y dejad algún comentario. **Por favor, gracias y todo eso**.
+Por cierto, aprovecho para volver a pedir vuestra ayuda en este tema, [pasad por ese post](https://www.neverbot.com/musica/los-mejores-discos-de-la-ultima-decada/) y dejad algún comentario. **Por favor, gracias y todo eso**.

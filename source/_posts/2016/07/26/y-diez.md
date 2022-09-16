@@ -9,15 +9,15 @@ date: 2016-07-26 13:56:05
 
 Diez años de _blog_. Ni uno, ni dos, ni tres, sino diez.
 
-*   [Noveno aniversario](http://localhost:8000/nueve/)
-*   [Octavo aniversario](http://localhost:8000/ocho/)
-*   [Séptimo aniversario](http://localhost:8000/septimo-aniversario/)
-*   [Sexto aniversario](http://localhost:8000/sexto-aniversario/)
-*   [Quinto aniversario](http://localhost:8000/quinto-aniversario/)
-*   [Cuarto aniversario](http://localhost:8000/cuarto-aniversario-de-neverbot-com/)
-*   [Tercer aniversario](http://localhost:8000/tercer-aniversario-del-blog/)
+*   [Noveno aniversario](https://www.neverbot.com/nueve/)
+*   [Octavo aniversario](https://www.neverbot.com/ocho/)
+*   [Séptimo aniversario](https://www.neverbot.com/septimo-aniversario/)
+*   [Sexto aniversario](https://www.neverbot.com/sexto-aniversario/)
+*   [Quinto aniversario](https://www.neverbot.com/quinto-aniversario/)
+*   [Cuarto aniversario](https://www.neverbot.com/cuarto-aniversario-de-neverbot-com/)
+*   [Tercer aniversario](https://www.neverbot.com/tercer-aniversario-del-blog/)
 *   El primero y segundo no tuvieron _posts_
-*   [¡Hola Mundo!](http://localhost:8000/hello-world/), el primer _post_
+*   [¡Hola Mundo!](https://www.neverbot.com/hello-world/), el primer _post_
 
 No tiene mucho sentido ya publicar estas entradas, que seguramente nadie leerá, pero siempre he sido respetuoso con las fechas señaladas. Me importan demasiado, supongo.
 
@@ -25,7 +25,7 @@ De la década completa que ha pasado desde que decidí hacer esta... cosa, el pr
 
 Parece que han sido cuatro días, pero lo cierto es que en el año 2006 los _smartphones_ tal y como los conocemos hoy aún no existían, ni llamábamos a nadie _hipster_ todavía. Cosas veredes, amigo Sancho.
 
-He estado tentado de borrar el contenido del _blog_, ya muy desfasado, en varias ocasiones, aunque mantengo el dominio para otras cosas, como mi propio correo electrónico, mi [página personal](http://localhost:8000)  y como almacén de otros enlaces y subdominios, así que la pereza me lo ha impedido.
+He estado tentado de borrar el contenido del _blog_, ya muy desfasado, en varias ocasiones, aunque mantengo el dominio para otras cosas, como mi propio correo electrónico, mi [página personal](https://www.neverbot.com)  y como almacén de otros enlaces y subdominios, así que la pereza me lo ha impedido.
 
 Durante estos últimos años mi principal actividad en internet ha estado en **Instagram**, donde llevo publicadas [más de 1.400 fotografías](https://www.instagram.com/neverbot/), a modo de _blog_ visual en lugar de este, de texto, y en **tumblr**, con [más de 2.200 posts](http://neverbot.tumblr.com/) de distinto tipo, aún contando con el continuo declive que ha tenido como red social durante el último año.
 

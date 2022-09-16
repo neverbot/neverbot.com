@@ -15,7 +15,7 @@ Descubierta en el sistema solar una estación espacial alienígena abandonada mu
 
 [![](./portico-de-frederik-pohl/Frederik_Pohl_1976_Gateway_Boris_Vallejo.jpg "Portada de la edición original, por Boris Vallejo")](./portico-de-frederik-pohl/Frederik_Pohl_1976_Gateway_Boris_Vallejo.jpg)
 
-_Portada de la edición original, por Boris Vallejo. Ni punto de comparación con [lo que tenemos hoy en día](http://localhost:8000/instagram/instagram-leido-portico-de-frederik-pohl/)._
+_Portada de la edición original, por Boris Vallejo. Ni punto de comparación con [lo que tenemos hoy en día](https://www.neverbot.com/instagram/instagram-leido-portico-de-frederik-pohl/)._
 
 Pese a tener un punto de partida a priori muy apto para una novela de ciencia ficción _hard_, se convierte en una novela _soft_ donde deberían primar la construcción de los personajes y sus relaciones. Por desgracia se pierde en plantear situaciones repetitivas y un elenco de secundarios confusos y perfectamente intercambiables entre ellos, e interrumpe constantemente la narración con pequeños anexos a modo de carteles encontrados en la estación **Pórtico**, que en ocasiones no añaden nada al trasfondo y rompen el flujo de lectura.
 

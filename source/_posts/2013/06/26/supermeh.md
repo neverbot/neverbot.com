@@ -12,7 +12,7 @@ En estos tiempos de glorificación de cualquier manifestación de la cultura pop
 
 En esta [**Man of Steel**](http://www.imdb.com/title/tt0770828/) ([_Zack Snyder_](http://www.imdb.com/name/nm0811583/), 2013), que no es _Superman_, teníamos todas las premisas para hacer algo importante, exactamente igual que las tuvimos en _Superman Returns_ y aquello desembocó en una película que ya nadie recuerda.
 
-[![Man of Steel](./supermeh/man_of_steel.jpg)](http://localhost:8000/wp-content/uploads/2013/06/man_of_steel.jpg)
+[![Man of Steel](./supermeh/man_of_steel.jpg)](https://www.neverbot.com/wp-content/uploads/2013/06/man_of_steel.jpg)
 
 _Un señor con una S que no es de Superman y una señora que no sé qué hace en la película_
 

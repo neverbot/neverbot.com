@@ -9,13 +9,13 @@ date: 2015-07-26 18:17:02
 
 Nueve años de _blog_.
 
-*   [Octavo aniversario](http://localhost:8000/ocho/)
-*   [Séptimo aniversario](http://localhost:8000/septimo-aniversario/)
-*   [Sexto aniversario](http://localhost:8000/sexto-aniversario/)
-*   [Quinto aniversario](http://localhost:8000/quinto-aniversario/)
-*   [Cuarto aniversario](http://localhost:8000/cuarto-aniversario-de-neverbot-com/)
-*   [Tercer aniversario](http://localhost:8000/tercer-aniversario-del-blog/)
+*   [Octavo aniversario](https://www.neverbot.com/ocho/)
+*   [Séptimo aniversario](https://www.neverbot.com/septimo-aniversario/)
+*   [Sexto aniversario](https://www.neverbot.com/sexto-aniversario/)
+*   [Quinto aniversario](https://www.neverbot.com/quinto-aniversario/)
+*   [Cuarto aniversario](https://www.neverbot.com/cuarto-aniversario-de-neverbot-com/)
+*   [Tercer aniversario](https://www.neverbot.com/tercer-aniversario-del-blog/)
 *   El primero y segundo no tuvieron _posts_
-*   [¡Hola Mundo!](http://localhost:8000/hello-world/), el primer _post_
+*   [¡Hola Mundo!](https://www.neverbot.com/hello-world/), el primer _post_
 
 **2.518 entradas**, 2.518 comentarios, 313.751 visitas.

@@ -8,7 +8,7 @@ tags:
 date: 2007-01-19 09:28:47
 ---
 
-Hoy Madrid ha amanecido con un porcentaje bastante interesante de sus autobuses llevando la publicidad de la serie Héroes, de la que ya os conté unas cuantas cosas no hace mucho \[[aquí](http://localhost:8000/tebeos/recomendacion-de-la-semana-heroes-ii/) y [aquí](http://localhost:8000/tv/recomendacion-de-la-semana-heroes/)\].
+Hoy Madrid ha amanecido con un porcentaje bastante interesante de sus autobuses llevando la publicidad de la serie Héroes, de la que ya os conté unas cuantas cosas no hace mucho \[[aquí](https://www.neverbot.com/tebeos/recomendacion-de-la-semana-heroes-ii/) y [aquí](https://www.neverbot.com/tv/recomendacion-de-la-semana-heroes/)\].
 
 El 1 de Febrero, primer episodio en castellano en el canal [Sci-Fi](http://www.scifi.es/index.php) (que yo veo a través de Digital+, no sé si se coge a través de otras plataformas).
 
