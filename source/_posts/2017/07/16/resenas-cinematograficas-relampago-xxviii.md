@@ -32,6 +32,6 @@ Y sé que no os estoy hablando de este _Chapter 2_, pero es que no sé para qué
 
 [**Sucker Punch**](http://www.imdb.com/title/tt0978764/) (_Zack Snyder_, 2011)
 
-En la misma semana he visto dos películas en las que una modelo en minifalda cruza las trincheras de una _no man's land_ en una primera guerra mundial alternativa, defendiéndose de los proyectiles enemigos con armas de mano, apoyada por un séquito de ayudantes multiétnico, mientras combate en espectaculares escenas en tiempo bala, demostrando el empoderamiento del moderno feminismo en base a matar montones de hombres varones malvados pero jugando a la vez con la dicotomía de estar basada en una fantasía erótica eminentemente masculina.
+En la misma semana he visto dos películas en las que una modelo en minifalda cruza las trincheras de una _no man's land_ en una primera guerra mundial alternativa, defendiéndose de los proyectiles enemigos con armas de mano, apoyada por un séquito de ayudantes multiétnico, mientras combate en espectaculares escenas en tiempo bala, demostrando el empoderamiento del moderno feminismo en base a matar montones de hombres malvados pero jugando a la vez con la dicotomía de estar basada en una fantasía erótica eminentemente masculina.
 
 Una de estas obras ha sido defendida como parte de un nuevo feminismo, la otra ignorada como una obra pajillera para post-adolescentes. Quizá yo no soy quién para opinar, pero me ha parecido ver que las dos películas tienen su justa medida de ambas cosas.
