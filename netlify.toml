@@ -1,4 +1,0 @@
-[build]
-  publish = "web/"
-  command = "hexo generate"
-  publish = "public/"
