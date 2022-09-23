@@ -30,7 +30,7 @@ La segunda opción es abominable. Yo me la planteo como un experimento a nivel g
 
 Por lo tanto me parece lógico que muchas páginas opten por cerrar los comentarios y dejarse de pamplinas.
 
-Porque seamos serios, una conversación _blogger-_comentarista no es de igual a igual. Tú tienes una identidad virtual (con nombre real o apodo, es igual) que ha llevado un tiempo construir. Un comentarista pone un _nick_ y dice lo que le parece. Sus palabras y sus opiniones, por estúpidas, inteligentes o temerarias que sean... se las lleva el viento. Quedan en una página extraña, ajena al propio comentarista. La bidireccionalidad no tiene la misma fuerza en ambos sentidos.
+Porque seamos serios, una conversación _blogger_-comentarista no es de igual a igual. Tú tienes una identidad virtual (con nombre real o apodo, es igual) que ha llevado un tiempo construir. Un comentarista pone un _nick_ y dice lo que le parece. Sus palabras y sus opiniones, por estúpidas, inteligentes o temerarias que sean... se las lleva el viento. Quedan en una página extraña, ajena al propio comentarista. La bidireccionalidad no tiene la misma fuerza en ambos sentidos.
 
 Por no hablar de la falta de conversación real. ¿Cuántos de todos los comentaristas leen los mensajes previos? El texto de los demás se diluye, y al final todos los comentarios son poco más que pequeños telegramas con un origen y un destino más o menos claros, pero donde nadie más presta atención ni participa, aunque todos seamos parte del engaño de que estamos teniendo una conversación.
 

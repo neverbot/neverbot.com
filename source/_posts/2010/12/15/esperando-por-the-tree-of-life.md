@@ -6,8 +6,7 @@ tags:
   - Cine
   - Esperando por...
 date: 2010-12-15 21:04:42
+video: RrAz1YLh8nY
 ---
 
 Terrence Malick + Brad Pitt + Sean Penn
-
-\[youtube\]http://www.youtube.com/watch?v=fLPe0fHuZsc\[/youtube\]

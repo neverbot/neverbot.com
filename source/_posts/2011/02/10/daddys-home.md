@@ -6,6 +6,6 @@ tags:
   - Pensamientos aleatorios
   - Tv
 date: 2011-02-10 12:56:44
+video: 94-pdWwAqrw
 ---
 
-\[youtube\]http://www.youtube.com/watch?v=9xvoqj9w5LA\[/youtube\]

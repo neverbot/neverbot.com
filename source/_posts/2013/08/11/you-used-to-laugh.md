@@ -1,5 +1,5 @@
 ---
-title: Untitled Post - 1
+title: You used to laugh
 id: '6516'
 author: neverbot
 tags:
@@ -9,6 +9,6 @@ tags:
 date: 2013-08-11 20:27:15
 ---
 
-[![Bob Dylan](./6516/bob-dylan.jpg)](https://www.neverbot.com/wp-content/uploads/2013/08/bob-dylan.jpg)
+![Bob Dylan](./you-used-to-laugh/bob-dylan.jpg)
 
 > _You used to laugh about_ _Everybody that was hangin' out_ _Now you don't talk so loud_ _Now you don't seem so proud_

@@ -6,8 +6,7 @@ tags:
   - Cine
   - Esperando por...
 date: 2010-11-30 10:02:48
+video: ORb3zC8z94w
 ---
-
-\[youtube\]http://www.youtube.com/watch?v=ORb3zC8z94w\[/youtube\]
 
 ¿Pufo o interesante?

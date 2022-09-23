@@ -25,10 +25,6 @@ No hablaré hoy en este lugar de [**Prometheus**](http://www.imdb.com/title/tt14
 
 En cualquier caso, con todas estas premisas, ¿qué esperar del [**After Earth**](http://www.imdb.com/title/tt1815862/) de _Shyamalan_ con _Will Smith_ y familia?
 
-\[youtube\]CZIt20emgLY\[/youtube\]
-
 ¿Qué esperar del [**Oblivion**](http://www.imdb.com/title/tt1483013/) de _Tom Cruise_ y _Morgan Freeman_?
-
-\[youtube\]EdzpNH0DNZ4\[/youtube\]
 
 Peor aún, ¿qué esperar de [**El juego de Ender**](http://www.imdb.com/title/tt1731141/)?

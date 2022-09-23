@@ -5,6 +5,7 @@ author: neverbot
 tags:
   - Publicidad
 date: 2010-09-18 11:13:05
+video: S79YPpC8ZfI
 ---
 
-\[embed\]https://www.youtube.com/watch?v=oG3JPvH3tO0\[/embed\]
+Armani + Megan Fox

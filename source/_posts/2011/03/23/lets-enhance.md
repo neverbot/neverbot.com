@@ -6,8 +6,7 @@ tags:
   - Cine
   - Tv
 date: 2011-03-23 22:19:31
+video: Vxq9yj2pVWk
 ---
-
-\[youtube\]Vxq9yj2pVWk\[/youtube\]
 
 Amplía. Amplía. Para. Limpia la imagen.
