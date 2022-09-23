@@ -22,6 +22,6 @@ El dibujo, aunque a veces parece apresurado, a mí me basta. Las ilustraciones d
 
 Siete euros y medio por tomo... me lo puedo permitir durante unos tomos más, por ahora me está gustando lo suficiente.
 
-**Según un gafapasta**:  Ilegible, como tebeo no vale un pimiento. Guión confuso y que se va creando según al autor se le van ocurriendo cosas. Da la impresión de que no sabe a dónde quiere ir.
+**Según un gafapasta**: Ilegible, como tebeo no vale un pimiento. Guión confuso y que se va creando según al autor se le van ocurriendo cosas. Da la impresión de que no sabe a dónde quiere ir.
 
-Según un friki:  Pues oye, es divertido, los personajes son carismáticos (entendiendo carismáticos como bien diseñados, porque personalidad cero).
+**Según un friki**: Pues oye, es divertido, los personajes son carismáticos (entendiendo carismáticos como bien diseñados, porque personalidad cero).
