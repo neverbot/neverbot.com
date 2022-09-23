@@ -1,0 +1,3 @@
+[submodule "web/themes/neverbot"]
+	path = web/themes/neverbot
+	url = https://github.com/neverbot/hexo-neverbot-theme.git
