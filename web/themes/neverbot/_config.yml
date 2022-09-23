@@ -1,72 +1,9 @@
 # favicons
 icons: true
 
-# main menu navigation
-## link is the complete url
-## icon is the fontawesome icon name
-## prefix is the fontawesome style
-## Unused keys can be commented out.
-links:
-  Blog: 
-    link: /archives
-    icon: book-open
-    prefix: fas
-  Twitter: 
-    link: https://twitter.com/neverbot
-    icon: twitter
-    prefix: fab
-  Instagram:
-    link: https://instagram.com/neverbot
-    icon: instagram
-    prefix: fab
-  LinkedIn: 
-    link: https://www.linkedin.com/in/ivanalonso
-    icon: linkedin
-    prefix: fab
-  Github: 
-    link: https://github.com/neverbot
-    icon: github
-    prefix: fab
-#  Category:
-#  Tags: 
-#  Link:
-#  Resume:
-#  Publish:
-#  Trophy:
-#  Gallary:
-#  RSS:
-#  AliPay:
-#  ZhiHu: 
-#  FaceBook:
-#  Skype:
-#  CodeSandBox:
-#  CodePen:
-#  Sketch:
-#  Gitlab:
-#  Dribble:
-#  Reddit:
-#  YouTube:
-#  QQ:
-#  Weibo:
-#  WeChat:
-
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
 links_icon_enable: true
-
-# header
-header:
-  # title
-  title: neverbot
-
-  # navigator items
-  nav:
-    - blog: 
-      name: blog
-      url: /archives
-    - about:
-      name: acerca de...
-      url: /about
 
 # posts
 post: 
