@@ -36,7 +36,7 @@ Es el debut de su director y guionista, Duncan Jones (¡hijo de David Bowie!), q
 
 En fin. En franca decadencia y cuesta abajo y sin frenos. A cada película que pasa la producción y la dirección son peores. Con decir que esta ya no tiene ni los créditos finales animados creo que lo estoy diciendo todo. Hay errores de _raccord_ de objetos que cambian de manos y de personajes, escenas que no se comprenden y, en general, aburrimiento. Tratan de resolver la película con un grandioso combate entre magos que no tiene emoción ninguna (con una música muy poco apropiada, por cierto) y escenas que, aunque lo intentes, es imposible que no te recuerden a enfrentamientos entre _jedis_ y _sith_. Pero en cutre. En más cutre, quiero decir.
 
-Los actores protagonistas cada año que pasa lo hacen peor, y a _Hermione_ (no quiero ni saber cómo se llama la actriz) no la van a contratar en la vida para nada más. Lástima de _casting_ original. Y los secundarios, supuestos actores de renombre, a cada película están más histriónicos e irreconocibles (no en caracterización, sino en calidad interpretativa, quiero decir).
+Los actores protagonistas cada año que pasa lo hacen peor, y a _Hermione_ no la van a contratar en la vida para nada más. Lástima de _casting_ original. Y los secundarios, supuestos actores de renombre, a cada película están más histriónicos e irreconocibles (no en caracterización, sino en calidad interpretativa, quiero decir).
 
 Y aún me queda una por ver. Madre mía que desgracia.
 

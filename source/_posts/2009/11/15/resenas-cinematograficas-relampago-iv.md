@@ -12,8 +12,6 @@ date: 2009-11-15 20:05:52
 
 Slice-of-life francés, sorprendentemente poco europeo. La vida de una familia de cinco miembros narrando alguno de los días de cierta importancia de cada uno de ellos, avanzando cronológicamente a lo largo de los años para que comprendamos la evolución de la propia familia como ente independiente, en una suerte de teoría de Gaia de la familia como ser vivo. O quizá he visto más metáforas de las que había.
 
-Recomendable de por sí, más aún si tenemos en cuenta que de Francia no suele salir ninguna película decente.
-
 ![200911101151.jpg](./resenas-cinematograficas-relampago-iv/200911101151.jpg)[SuperSalidos](http://www.imdb.com/title/tt0829482/) (_SuperBad_, 2007)
 
 Producida por _Jude Apatow_, y con guió co-escrito por _Seth Rogen_. En _imdb_ las recomendaciones de "_si te gustó esta película te gustará..._" son _Porky's_. **¿Qué más se le puede pedir a una película?**
@@ -21,8 +19,6 @@ Producida por _Jude Apatow_, y con guió co-escrito por _Seth Rogen_. En _imdb_ 
 Chistes de tetas y culos, faltones y sin respeto a nada y, sin embargo, contenidos dentro del concepto de humor, al contrario que la más moderna _Hazme reír,_ del mismo equipo, que me pareció completamente fuera de lugar. De fondo contiene una historia (o excusa) sobre la amistad de los dos protagonistas, que marcará el final de la película. _Jonah Hill_ y _Michael Cera_ están geniales, y veo en el futuro de ambos a un gran cómico y un gran actor dramático, respectivamente.
 
 Y _Fogell_... ¡¡¡_McLovin_ nena!!!
-
-Mejor con amigos. Novias, esposas, amigas y similares verán sólo una película aceptable (lo cual ya es mucho teniendo en cuenta los conceptos en los que se basa).
 
 ![200911151212.jpg](./resenas-cinematograficas-relampago-iv/200911151212.jpg)[La cruda realidad](http://www.imdb.com/title/tt1142988/) (_The ugly truth_, 2009)
 

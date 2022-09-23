@@ -22,8 +22,6 @@ Minutos enfocando a un túnel negro para ver cómo sale una persona con un bate 
 
 Minutos, y minutos, y minutos sin contar nada. Rellenando para alcanzar un metraje infinito innecesario. Deleitándose en la puesta en escena extremadamente plástica de una violencia sin medida. Una violencia que transmitiría un mayor desasosiego si no se viera, si ocurriera fuera de encuadre... una violencia sin objetivo argumental. Tras hora y media de película aún no había pasado nada.
 
-Y, para rematar, históricamente es absurda, y no hace más que perpetuar la relación entre los conceptos de nazi y soldado alemán (- _¡vamos a matar nazis!_ - No, vais a matar soldados alemanes y, hacia el final, supongo, algún nazi en el cine, aunque me quedé sin saber cómo termina). Esto podría tener un pase, igual que puedo disfrutar de _300_ puedo disfrutar de cualquier cosa que sea históricamente incoherente, era por añadir hambre a las ganas de comer.
-
 Hice bien en no pagar dinero para verla en el cine. Sabía de qué iba a ir el tema.
 
 ![201002181150.jpg](./resenas-cinematograficas-relampago-xiv/201002181150.jpg)**[El reino prohibido](http://www.imdb.com/title/tt0865556/)** (_The Forbidden Kingdom_, 2008)

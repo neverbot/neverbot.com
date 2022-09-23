@@ -6,6 +6,7 @@ tags:
   - Música
   - Pensamientos aleatorios
 date: 2010-08-03 11:45:24
+video: K7l5ZeVVoCA
 ---
 
 > No one should take themselves so seriously  

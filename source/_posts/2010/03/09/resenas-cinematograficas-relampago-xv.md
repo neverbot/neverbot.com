@@ -14,7 +14,7 @@ Como se me acumulan las _microreseñas_, tendrán que ser cada vez más micro.
 
 La vi en su momento en el cine y no ha mejorado ni empeorado mi impresión desde entonces. Gran trabajo de _Ridley Scott_, aunque se me sigue haciendo algo larga para las pocas cosas que cuenta. Un poco simplón _Russel Crowe_ y un poco sobreactuado _Denzel Washington_... es decir, ambos en su línea de los últimos años. Recomendable sin ser una joya.
 
-**![201003091951.jpg](./resenas-cinematograficas-relampago-xv/201003091951.jpg)[D](http://www.imdb.com/title/tt0450259/)**[iamante de sangre](http://www.imdb.com/title/tt0450259/)** (_Blood Diamond_, 2006)**
+**![201003091951.jpg](./resenas-cinematograficas-relampago-xv/201003091951.jpg)[Diamante de sangre](http://www.imdb.com/title/tt0450259/)** (_Blood Diamond_, 2006)
 
 Esta se me ha resistido varios años, los planes para verla siempre se iban al traste. Se hace necesario ignorar algunas cosas... los pequeños detalles de moralina que van salpicando la película, el insufrible deje de _Leonardo DiCaprio_ (que acaba todas sus frases con un _¿eh?_) y algunas decisiones argumentales indefendibles, como que uno de los personajes protagonistas "abandone" la historia a falta de bastante cosas por pasar, provocando una lenta escena de despedida en mitad de lo que debería ser la acción. Para seguir con escenas _Disney_ de personajes caminando por las montañas, para enseñarnos lo bonita que es África sin venir a cuento. Lo dicho, una sutil capa de moralina de cuando en cuando. Se deja ver, dentro de lo que cabe.
 

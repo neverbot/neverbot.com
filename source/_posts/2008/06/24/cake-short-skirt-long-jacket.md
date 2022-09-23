@@ -6,6 +6,7 @@ tags:
   - Blog
   - Música
 date: 2008-06-24 15:42:09
+video: 85zV1fpSJQ0
 ---
 
 I want a girl with a short skirt and a loooooong jacket!

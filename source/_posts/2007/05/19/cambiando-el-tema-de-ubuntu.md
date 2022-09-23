@@ -13,8 +13,10 @@ Para instalarlo, solo hay que descargar el [paquete de Gnome de nuoveXT](http://
 
 Del mismo equipo de diseño hay un conjunto de iconos para Gaim, que hay que instalar por separado \[[vía supriyadisw.net](http://www.supriyadisw.net/2006/04/gaim-messenger-nuovext-icon-theme)\]: Se descarga el paquete del [tema principal](http://www.mediamax.com/supriyadisw/Hosted/gaim-nuoveXT-1.6.tar.gz) y el [tema alternativo](http://www.mediamax.com/supriyadisw/Hosted/gaim-nuoveXT-1.6-alt.tar.gz). Sólo hay que descomprimirlos aquí:
 
-> sudo tar zxvf gaim-nuoveXT-1.6.tar.gz --directory=/usr/share/pixmaps/
-> sudo tar zxvf gaim-nuoveXT-1.6-alt.tar.gz --directory=/usr/share/pixmaps/
+```
+sudo tar zxvf gaim-nuoveXT-1.6.tar.gz --directory=/usr/share/pixmaps/
+sudo tar zxvf gaim-nuoveXT-1.6-alt.tar.gz --directory=/usr/share/pixmaps/
+```
 
 Se inicia Gaim y ya está. La verdad es que Gaim es un programa que cada día utilizo menos, últimamente estoy haciendo un uso intensivo del e-mail en lugar de la mensajería instantánea, pero dejo esto aquí apuntado más como curiosidad que como otra cosa.
 

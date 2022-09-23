@@ -13,7 +13,9 @@ Yo tengo un gran problema para rebatirle esa opinión, y es que siempre he sido 
 
 A ver si soy capaz de sacar uno para cada uno de los años, pero en todo caso al menos un top5 o top10 de los discos modernos. Y como os conozco y sé que hay géneros que no me vais a poner de ejemplo, voy a sacar algunos ejemplos de álbumes que me parecen inmejorables:
 
-> [James Blunt](http://en.wikipedia.org/wiki/James_Blunt) - [Back to Bedlam](http://www.last.fm/music/James+Blunt/Back+to+Bedlam) (2004) [Jack Johnson](http://en.wikipedia.org/wiki/Jack_Johnson_%28musician%29) - [In between dreams](http://www.last.fm/music/Jack+Johnson/In+Between+Dreams) (2005) [Coldplay](http://en.wikipedia.org/wiki/Coldplay) - ¿Quizá [A rush of blood to the head](http://www.last.fm/music/Coldplay/A+Rush+of+Blood+to+the+Head) (2002)?
+> [James Blunt](http://en.wikipedia.org/wiki/James_Blunt) - [Back to Bedlam](http://www.last.fm/music/James+Blunt/Back+to+Bedlam) (2004) 
+  [Jack Johnson](http://en.wikipedia.org/wiki/Jack_Johnson_%28musician%29) - [In between dreams](http://www.last.fm/music/Jack+Johnson/In+Between+Dreams) (2005) 
+  [Coldplay](http://en.wikipedia.org/wiki/Coldplay) - ¿Quizá [A rush of blood to the head](http://www.last.fm/music/Coldplay/A+Rush+of+Blood+to+the+Head) (2002)?
 
 Los enlaces de los discos son a [last.fm](http://www.last.fm/), donde se pueden escuchar partes de todos los temas, por si no sabéis de quienes os estoy hablando. Aprovecho para recomendar la web por si alguien no la conoce, yo últimamente prefiero usarla a [mystrands](http://mystrands.com/) porque me parece bastante más usable y me proporciona más información.
 

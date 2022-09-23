@@ -6,6 +6,7 @@ tags:
   - Escenas
   - Tv
 date: 2009-11-27 13:37:19
+video: M9VKct1dNEs
 ---
 
 Seguimos con la serie de posts sobre escenas increíbles de la historia del cine y la televisión. En este caso, la escena final del último episodio de la tercera temporada de Galactica, Estrella de combate.
@@ -14,7 +15,7 @@ Tras un último salto _FTL_ (quizá si digo _hiperespacial_ se entienda mejor) e
 
 **No hay escape. No hay posibilidad ninguna de supervivencia. Todos van a morir**. Despegan los [Viper](http://en.battlestarwiki.org/wiki/Viper_Mark_II) (_best spaceship ever_)... para morir con estilo. De fondo suena una fantástica versión de Bear McReary de _All along the watchtower_, canción original de Bob Dylan.
 
-Y en ese momento reaparece la nave de _Starbuck_ junto a la de _Apollo_, diciendo:
+Y en ese momento (minuto 2:10 del video aproximadamente) reaparece la nave de _Starbuck_ junto a la de _Apollo_, diciendo:
 
 > **Kara Thrace (Starbuck)**: Hi, Lee.
 > 
@@ -24,6 +25,4 @@ Y en ese momento reaparece la nave de _Starbuck_ junto a la de _Apollo_, diciend
 
 Zoom out, la cámara atraviesa la flota humana, la flota cylon, se aleja del sistema, sale de la galaxia y vuelve a entrar hasta quedar enfocada sobre ¿la Tierra? Fin de temporada.
 
-En este video se ven esas escenas y algunas más, en un resumen rápido del final de esa temporada con la canción de fondo.
-
-Y de regalo otro video tributo con la misma canción, en este caso una versión de Jimi Hendrix, recopilando los mejores momentos del rescate de Nueva Cáprica, en uno de los mejores episodios de la serie (y, por extensión, uno de los mejores momentos que ha dado la ciencia-ficción). La llegada de la Galáctica envuelta en fuego podría ser sin duda otra escena candidata a post propio:
+~~Y de regalo otro video tributo con la misma canción, en este caso una versión de Jimi Hendrix~~, recopilando los mejores momentos del rescate de Nueva Cáprica, en uno de los mejores episodios de la serie (y, por extensión, uno de los mejores momentos que ha dado la ciencia-ficción). La llegada de la Galáctica envuelta en fuego podría ser sin duda otra escena candidata a post propio.

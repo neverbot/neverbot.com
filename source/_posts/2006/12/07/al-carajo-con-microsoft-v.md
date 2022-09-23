@@ -13,11 +13,12 @@ date: 2006-12-07 22:56:50
 Algunas cosillas más que he ido haciendo según me encontraba con nuevas necesidades:
 
 *   Para instalar el plug-in de java (odio java) y poder ver algunas cosillas más desde Firefox, y para poder usar varios tipos de descompresores, que no podía ver los archivos .rar (ambas cosas sacadas de la Guía de optimización de Ubuntu Edgy de [Maverick](http://cmaverick.wordpress.com/), que ya he enlazado con anterioridad):
-    
-    > *   sudo aptitude install sun-java5-jre sun-java5-plugin
-    > *   sudo update-alternatives --set java /usr/lib/jvm/java-1.5.0-sun/jre/bin/java
-    > 
-    > *   sudo aptitude install rar unace unrar p7zip p7zip-full arj unzoo lha libarchive1 libarchive-tar-perl libarchive-zip-perl dpkg-dev
+
+```    
+sudo aptitude install sun-java5-jre sun-java5-plugin
+sudo update-alternatives --set java /usr/lib/jvm/java-1.5.0-sun/jre/bin/java 
+sudo aptitude install rar unace unrar p7zip p7zip-full arj unzoo lha libarchive1 libarchive-tar-perl libarchive-zip-perl dpkg-dev
+```
     
 *   Para grabar dvds, directamente con instalar [GnomeBaker](http://en.wikipedia.org/wiki/GnomeBaker) me ha funcionado todo a la primera.
 *   En Windows nunca me ha gustado [Azureus](http://azureus.sourceforge.net/) (de hecho no me gusta nada hecho en java, es un lenguaje que debió quedarse en las lavadoras), así que para la red BitTorrent usaba [BitComet](http://www.bitcomet.com/) junto con el BitComet Acceleration Patch, que me proporcionaba unas tasas de descarga bastante majas con muy poco gasto de recursos del sistema. En Ubuntu antes que probar Azureus he optado por [BitTornado](http://www.bittornado.com/) durante unos días. De hecho es el cliente original, y el que utilicé en Windows cuando empecé a descargar cosas de esta red, pero para qué engañarnos, ha quedado más que obsoleto. Una ventana por descarga, un interfaz muy pobre, sin tareas automatizadas... y seguía dejándome sin recursos en cuanto abría más de cinco descargas simultáneas.

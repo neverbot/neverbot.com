@@ -16,4 +16,4 @@ Comida thailandesa (eso creo que era obvio) de primer nivel. Ayer probé Kai Sat
 
 El restaurante está a escasos 30 metros de mi nuevo hogar (en pijolandia, [junto a la Plaza de Colón](http://maps.google.com/maps?f=q&hl=es&geocode=&q=Calle+de+Jorge+Juan,+5,+28001,+Madrid,+Madrid,+Comunidad+de+Madrid,+Espa%C3%B1a&sll=37.0625,-95.677068&sspn=33.847644,81.5625&ie=UTF8&cd=1&ll=40.424082,-3.687458&spn=0.007939,0.019913&z=16&iwloc=addr&om=1)), y diría que lo visitaré asiduamente de no ser porque es bastante (tirando a muy) caro. Ayer me invitaron, claro está. Volveré alguna vez, pero mi economía no da para hacerlo mucho, menos ahora que acabo de mudarme y amueblar la casa.
 
-Ya me contaréis si vais. ![5 estrellas](./recomendacion-del-lunes-thai-gardens/5_estrellas.gif "5 estrellas")
+Ya me contaréis si vais.

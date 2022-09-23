@@ -31,5 +31,3 @@ Qué malos son los hombres, tienen la culpa de todos los males del universo por 
 Pues yo la recordaba mejor, qué queréis que os diga... Tiene sus detalles buenos, especialmente una envidiable actuación de _Gary Oldman_ haciendo de Drácula, pero una mala creación de personajes, de los que no conocemos sus objetivos ni por qué hacen lo que hacen (yo sigo sin saber por qué Drácula fue a Londres), y sobre todo un desarrollo muy lento de lo que va sucediendo, donde la historia parece ir ampliándose sobre la marcha cada vez que parece estar terminando.
 
 Unos efectos visuales curiosos, aunque poca cosa para ser ya del 92, unos efectos especiales lamentables que, por suerte, se limitan a un par de fuegos fatuos azules y poco más, y un uso y abuso de las localizaciones de interior que se nota muchísimo incluso cuando las escenas ocurren en un supuesto exterior.
-
-Cada día estoy más convencido de que _Coppola_ está demasiado sobreestimado porque tuvo un momento de gloria en los setenta con dos o tres grandes películas. Siendo sinceros desde entonces no ha dirigido gran cosa mínimamente decente, la verdad.

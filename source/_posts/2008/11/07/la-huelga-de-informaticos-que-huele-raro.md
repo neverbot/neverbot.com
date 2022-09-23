@@ -1,5 +1,5 @@
 ---
-title: La \"huelga\" de informáticos que huele raro
+title: La "huelga" de informáticos que huele raro
 id: '1094'
 author: neverbot
 tags:

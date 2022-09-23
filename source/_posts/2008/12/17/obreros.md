@@ -1,5 +1,5 @@
 ---
-title: Obreros con dinero
+title: Obreros
 id: '1133'
 author: neverbot
 tags:
