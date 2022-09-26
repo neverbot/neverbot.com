@@ -4,7 +4,6 @@ id: '805'
 author: neverbot
 tags:
   - Ilustración
-  - Miniblog
   - Tebeos
 date: 2008-06-19 00:05:15
 ---
