@@ -13,7 +13,7 @@ A finales del cretácico, cuando aún escribía en este blog, solía agrupar los
 
 ![15.06.38](./movidas-catodicas-testosterona/15.06.38.png)
 
-Si vamos a jugar a decir la verdad, los párrafos escritos sobre estas series son intercambiables, y esa es su virtud y su desgracia. Son odas al macho alfa moderno, puestas al día de los James Bond clásicos actualizados en sus escenas de acción, ligeramente rebajados a héroes de clase obrera con vaqueros en lugar de trajes elegantes y [martinis mezclados, no agitados](https://www.youtube.com/watch?v=6SEtPBcsbF4).
+Si vamos a jugar a decir la verdad, los párrafos escritos sobre estas series son intercambiables, y esa es su virtud y su desgracia. Son odas al macho alfa moderno, puestas al día de los James Bond clásicos actualizados en sus escenas de acción, ligeramente rebajados a héroes de clase obrera con vaqueros en lugar de trajes elegantes y cervezas antes que [martinis mezclados, no agitados](https://www.youtube.com/watch?v=6SEtPBcsbF4).
 
 Juegan con el deseo interno de (casi) todo hombre de tener que enfrentarse algún día a un problema mayor y poder solucionarlo, poder decir que estuviste a la altura de lo necesario, sea tomando decisiones o soltando un par de guantazos. Y ver esto de vez en cuando está bien, no nos dejemos engañar. Tan enfrentados estamos continuamente a los conceptos de masculinidad *tóxica* que parece que no podamos disfrutar nunca de un poquito de masculinidad *normal* mientras pensamos "*bien hecho Jack, dale otro guantazo a ese anormal de mi parte*".
 
