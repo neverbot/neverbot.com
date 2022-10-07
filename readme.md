@@ -2,7 +2,9 @@
 
 ## [neverbot.com](https://neverbot.com/) static page, made by Ivan Alonso ([@neverbot](https://github.com/neverbot))
 
-![](screenshot.png)
+<p align="center">
+  <img width="700" alt="neverbot.com screenshot" src="screenshot.png">
+</p>
 
 Created with [Hexo](https://hexo.io/).
 
