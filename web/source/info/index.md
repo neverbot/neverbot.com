@@ -3,7 +3,7 @@ title: Acerca de...
 id: '6'
 author: neverbot
 tags:
-  - uncategorized
+  - neverbot
 date: 2006-07-26 16:03:04
 ---
 
