@@ -10,7 +10,7 @@ date: 2017-08-10 19:45:23
 
 Después de una pausa de más de tres meses y medio, la semana pasada volvía a usar Instagram, una de las pocas redes sociales a las que realmente le he dado uso.
 
-{% instagram https://www.instagram.com/p/2FBXOON5jhKoD/ %}
+{% instagram https://www.instagram.com/p/BXOON5jhKoD/ %}
 
 > ¿Vale esta foto para reaparecer en instagram después de tres meses y pico sin subir nada?
 > 
