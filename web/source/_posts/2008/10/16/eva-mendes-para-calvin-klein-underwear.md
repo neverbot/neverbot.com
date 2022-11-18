@@ -14,4 +14,4 @@ Nueva campaña publicitaria (al menos nueva en Madrid) de [Calvin Klein Underwea
 
 En los EE.UU. parece ser que hasta iba acompañado de **un anuncio de televisión que ha sido censurado** o apartado de la parrilla o vete a saber qué (tampoco me apetece ponerme a buscarlo, ya sabemos que son unos mojigatos de toda la vida).
 
-Hacía mucho que en las categoría de [Fotografía](https://www.neverbot.com/tags/fotografia/) y [Publicidad](https://www.neverbot.com/tags/publicidad/) de este blog no aparecía algo así, pero es que estas cosas son un conteo interminable de visitas que nunca acaban.
+Hacía mucho que en las categoría de [Fotografía](https://neverbot.com/tags/fotografia/) y [Publicidad](https://neverbot.com/tags/publicidad/) de este blog no aparecía algo así, pero es que estas cosas son un conteo interminable de visitas que nunca acaban.

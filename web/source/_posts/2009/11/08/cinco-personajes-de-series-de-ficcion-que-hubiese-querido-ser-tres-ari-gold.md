@@ -7,7 +7,7 @@ tags:
 date: 2009-11-08 00:06:11
 ---
 
-Sólo he tardado dos años en pensar cuál sería el tercer personaje, o al menos ese es el tiempo que ha pasado desde los anteriores posts de esta serie: [Sam Seaborn](https://www.neverbot.com/tv/cinco-personajes-de-series-de-ficcion-que-hubiese-querido-ser-uno-sam-seaborn/) y [Bender](https://www.neverbot.com/cinco-personajes-de-series-de-ficcion-que-hubiese-querido-ser-dos-bender/#comments). El tercer personaje iba a ser un médico, pero soy incapaz de escoger entre House y Cox, qué se le va a hacer. Los demás ya están escogidos. Al tema.
+Sólo he tardado dos años en pensar cuál sería el tercer personaje, o al menos ese es el tiempo que ha pasado desde los anteriores posts de esta serie: [Sam Seaborn](https://neverbot.com/tv/cinco-personajes-de-series-de-ficcion-que-hubiese-querido-ser-uno-sam-seaborn/) y [Bender](https://neverbot.com/cinco-personajes-de-series-de-ficcion-que-hubiese-querido-ser-dos-bender/#comments). El tercer personaje iba a ser un médico, pero soy incapaz de escoger entre House y Cox, qué se le va a hacer. Los demás ya están escogidos. Al tema.
 
 ![200911072343.jpg](./cinco-personajes-de-series-de-ficcion-que-hubiese-querido-ser-tres-ari-gold/200911072343.jpg)
 

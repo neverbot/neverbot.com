@@ -10,7 +10,7 @@ date: 2006-07-31 16:09:01
 
 Porque una entrada seria de vez en cuando no va a hacer daño a nadie...
 
-El caso es que, a raíz del [último post](https://www.neverbot.com/2006/07/29/creatividad-en-excel/) y de haber leído las últimas divagaciones de [El sentido de la vida](http://www.elsentidodelavida.net/node/342), he vuelto a darle vueltas a ciertos temas que parecen ser recurrentes en mi mente.
+El caso es que, a raíz del [último post](https://neverbot.com/2006/07/29/creatividad-en-excel/) y de haber leído las últimas divagaciones de [El sentido de la vida](http://www.elsentidodelavida.net/node/342), he vuelto a darle vueltas a ciertos temas que parecen ser recurrentes en mi mente.
 
 Me hago mayor. Eso es una verdad incuestionable, al menos hasta que nuevos descubrimientos científicos hagan la existencia humana un poco más interesante o algún Dios decida manifestarse en plan serio y cambie las reglas del juego. Como ninguna de las dos cosas parece que vaya a suceder a corto o medio plazo, asumiremos que me hago mayor. Ya soy adulto. Ya no tengo carnet joven, pese a que cualquiera seguiría incluyéndome dentro del grupo demográfico de "gente joven". Ya tengo un trabajo con un contrato fijo y puedo negociar una hipoteca. Y aún así soy plenamente consciente de que estoy en lo que considero la edad más difícil de todas, ese momento en el que las decisiones que tomes pueden afectar al resto de tu vida. Y con ese pensamiento en mente es muy difícil tomar decisiones sin equivocarse.
 

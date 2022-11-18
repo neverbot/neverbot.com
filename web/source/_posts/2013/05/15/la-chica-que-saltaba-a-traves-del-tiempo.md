@@ -10,9 +10,9 @@ date: 2013-05-15 20:57:42
 
 [**La chica que saltaba a través del tiempo**](http://www.imdb.com/title/tt0808506/) (_時をかける少女 Toki wo kakeru shōjo_, de Mamoru Hosoda)
 
-Del mismo director que nos trajo **[Summer Wars](http://www.imdb.com/title/tt1474276/)** en 2009 (película de la que habría que hablar largo y tendido, relacionada también con ese nuevo género acerca de las aventuras dentro de entornos virtuales que mencionaba en [el post anterior](https://www.neverbot.com/el-respetable-oficio-de-traductor/)) tenía pendiente su anterior obra, _La chica que saltaba a través del tiempo_, basada en una novela de ciencia-ficción de uno de los más conocidos autores japoneses del género.
+Del mismo director que nos trajo **[Summer Wars](http://www.imdb.com/title/tt1474276/)** en 2009 (película de la que habría que hablar largo y tendido, relacionada también con ese nuevo género acerca de las aventuras dentro de entornos virtuales que mencionaba en [el post anterior](https://neverbot.com/el-respetable-oficio-de-traductor/)) tenía pendiente su anterior obra, _La chica que saltaba a través del tiempo_, basada en una novela de ciencia-ficción de uno de los más conocidos autores japoneses del género.
 
-[![La chica que saltaba a través del tiempo](./la-chica-que-saltaba-a-traves-del-tiempo/la-chica-que-saltaba-a-traves-del-tiempo.jpg)](https://www.neverbot.com/wp-content/uploads/2013/05/la-chica-que-saltaba-a-traves-del-tiempo.jpg)
+[![La chica que saltaba a través del tiempo](./la-chica-que-saltaba-a-traves-del-tiempo/la-chica-que-saltaba-a-traves-del-tiempo.jpg)](https://neverbot.com/wp-content/uploads/2013/05/la-chica-que-saltaba-a-traves-del-tiempo.jpg)
 
 Hagamos aquí un inciso: bastante que sabía que estaba basada en una novela, fijaos lo que se descubre con hacerle una visita a la wikipedia. Tenéis en vuestras manos el repositorio de conocimiento más amplio de la historia de la humanidad y sólo lo utilizáis para buscar fotos de Sofía Vergara. Vergüenza debería daros. Fin del inciso.
 

@@ -7,7 +7,7 @@ tags:
 date: 2006-11-30 23:38:55
 ---
 
-El día 26 de este mes se cumplieron cuatro meses del [primer post](https://www.neverbot.com/hello-world/). Aprovechando que es final de mes puedo ponerme a recapitular un poco.
+El día 26 de este mes se cumplieron cuatro meses del [primer post](https://neverbot.com/hello-world/). Aprovechando que es final de mes puedo ponerme a recapitular un poco.
 
 Cifras totales:
 
@@ -26,7 +26,7 @@ Mes de Noviembre:
 *   606 páginas vistas de media diaria.
 *   377,4 MB de datos transferidos.
 
-Todos estos datos han salido del programa [Analog 6.0](http://www.analog.cx/) que es el que mi hosting, [Dreamhost](https://www.neverbot.com/hosting/), proporciona por defecto. Como no me fío un pelo (a priori) de la fiabilidad de sus resultados, este mes me he dado de alta en un par de servicios más, así que a partir de las estadísticas de Diciembre habrá unos cuantos datos para contrastar. Es de suponer que saldrán cifras menores, como sucede en todas las páginas web del planeta al usar sistemas un poco más fiables. Así que el mes que viene compararemos los datos de Analog con los de [StatCounter](http://www.statcounter.com/) y [Google Analytics](http://www.google.com/analytics/).
+Todos estos datos han salido del programa [Analog 6.0](http://www.analog.cx/) que es el que mi hosting, [Dreamhost](https://neverbot.com/hosting/), proporciona por defecto. Como no me fío un pelo (a priori) de la fiabilidad de sus resultados, este mes me he dado de alta en un par de servicios más, así que a partir de las estadísticas de Diciembre habrá unos cuantos datos para contrastar. Es de suponer que saldrán cifras menores, como sucede en todas las páginas web del planeta al usar sistemas un poco más fiables. Así que el mes que viene compararemos los datos de Analog con los de [StatCounter](http://www.statcounter.com/) y [Google Analytics](http://www.google.com/analytics/).
 
 ![Visitas](./estadisticas-de-noviembre-4-meses-de-neverbot/VisitasNoviembre06.gif "Visitas")
 
@@ -34,7 +34,7 @@ Este mes nos enlazaron desde microsiervos.com, enriquedans.com y halondisparado.
 
 También hubo un primer intento de meneo de un post, pero al final fue descartado.
 
-Las entradas más vistas, obviamente las que fueron [enlazadas desde halondisparado.com](https://www.neverbot.com/pensamientos-aleatorios/yo-no-soy-tonto/) y [desde meneame.net](https://www.neverbot.com/inteligencia-artificial/). Por detrás de esas [la del calendario Pirelli](https://www.neverbot.com/fotografia/calendario-pirelli-2007/) ha sido objetivo de muchas búsquedas y los posts sobre tebeos que aparecen en [Tebelogs](http://tebelogs.dreamers.com/) siempre tienen bastantes visitas. Sorprendentemente casi todas las búsquedas han sido mínimamente coherentes, aunque llega gente buscando "juegos cognitivos" y la banda sonora del Prince of Persia: Las arenas del tiempo, y son cosas de las que no recuerdo haber hablado.
+Las entradas más vistas, obviamente las que fueron [enlazadas desde halondisparado.com](https://neverbot.com/pensamientos-aleatorios/yo-no-soy-tonto/) y [desde meneame.net](https://neverbot.com/inteligencia-artificial/). Por detrás de esas [la del calendario Pirelli](https://neverbot.com/fotografia/calendario-pirelli-2007/) ha sido objetivo de muchas búsquedas y los posts sobre tebeos que aparecen en [Tebelogs](http://tebelogs.dreamers.com/) siempre tienen bastantes visitas. Sorprendentemente casi todas las búsquedas han sido mínimamente coherentes, aunque llega gente buscando "juegos cognitivos" y la banda sonora del Prince of Persia: Las arenas del tiempo, y son cosas de las que no recuerdo haber hablado.
 
 Windows sigue ganando por aplastante ventaja (aunque yo ya no cuento ahí) y Firefox sigue en cabeza aunque empiezan a llegar muchos visitantes con Internet Explorer.
 

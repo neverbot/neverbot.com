@@ -28,7 +28,7 @@ Me desquitaré leyendo algún tomo de _Blueberry_ y viendo algún otro _western_
 
 **[Transformers: The Last Knight](http://www.imdb.com/title/tt3371366/)** (_Michael Bay_, 2017)
 
-Si digo que fácilmente le sobra una hora de metraje no os estoy contando nada nuevo, porque resulta prácticamente idéntica a las anteriores... y es que ya es la ¿quinta? película de la franquicia. La escalada armamentística ya está completamente fuera de madre, cuando en el 2009 [os contaba por aquí](https://www.neverbot.com/michael-bay-y-el-exceso-cinematografico-transformers-2/) que **Transformers 2** me parecía un punto de inflexión en el nivel de las barbaridades en pantalla, y sólo ha ido in crescendo desde entonces.
+Si digo que fácilmente le sobra una hora de metraje no os estoy contando nada nuevo, porque resulta prácticamente idéntica a las anteriores... y es que ya es la ¿quinta? película de la franquicia. La escalada armamentística ya está completamente fuera de madre, cuando en el 2009 [os contaba por aquí](https://neverbot.com/michael-bay-y-el-exceso-cinematografico-transformers-2/) que **Transformers 2** me parecía un punto de inflexión en el nivel de las barbaridades en pantalla, y sólo ha ido in crescendo desde entonces.
 
 Una cierta parte de mi se apena porque [Michael Bay](http://www.imdb.com/name/nm0000881/) haya pervertido el concepto de Transformer para toda una generación, con robots raros y confusos visualmente, y que aquellas cosas tan bonitas de Hasbro, con tebeos de Marvel y series de Toei se hayan perdido en el recuerdo como lágrimas en la lluvia.
 

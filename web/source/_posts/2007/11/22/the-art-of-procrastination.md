@@ -8,7 +8,7 @@ tags:
 date: 2007-11-22 13:48:55
 ---
 
-La [última vez](https://www.neverbot.com/neverbot/como-mantener-a-un-tonto-feliz-ii/) que escribí en el blog que iba a dar de alta un contrato con [Yoigo](http://www.yoigo.es/) fue en Mayo. Seis meses después acabo de hacerlo. No está mal.
+La [última vez](https://neverbot.com/neverbot/como-mantener-a-un-tonto-feliz-ii/) que escribí en el blog que iba a dar de alta un contrato con [Yoigo](http://www.yoigo.es/) fue en Mayo. Seis meses después acabo de hacerlo. No está mal.
 
 Me tienen que mandar un [Motorola V3xx](http://www.motorola.com/consumer/v/index.jsp?vgnextoid=cd7e914ec0801110VgnVCM1000008206b00aRCRD&show=productHome) que es un móvil sencillito y barato, muy bonito, y que es justo el siguiente modelo a mi [V3](http://www.motorola.com/consumer/v/index.jsp?vgnextoid=6c8f971bdf20c010VgnVCM1000008206b00aRCRD&show=productHome), con lo único que le faltaba que era lector de tarjetas de memoria. Podía haber cogido algún otro modelo mejor pero, sinceramente, para lo que uso el móvil ya me basta y me sobra.
 

@@ -17,6 +17,6 @@ Lo que muchos verán como una nimiedad, el cambio de Verdana a Georgia, es el ca
 
 [![](./remodelando-neverbot-com/new.gif "new")](./remodelando-neverbot-com/new.gif)
 
-Y así queda. Si estás leyendo esto desde algún tipo de agregador, pásate por la página original, [www.neverbot.com](https://www.neverbot.com/), a ver qué te parece. Ahora todo debería ser mucho más estándar, con html y css simple. Antes todo era mucho más... ¿primario? He cambiado cosas que hoy día son obviedades del desarrollo web, pero que en su momento hice como sabía. Y merezco un aplauso por haber sido capaz de encontrar un mapa del metro de Tokyo con el mismo diseño que el original, para rehacer la cabecera.
+Y así queda. Si estás leyendo esto desde algún tipo de agregador, pásate por la página original, [www.neverbot.com](https://neverbot.com/), a ver qué te parece. Ahora todo debería ser mucho más estándar, con html y css simple. Antes todo era mucho más... ¿primario? He cambiado cosas que hoy día son obviedades del desarrollo web, pero que en su momento hice como sabía. Y merezco un aplauso por haber sido capaz de encontrar un mapa del metro de Tokyo con el mismo diseño que el original, para rehacer la cabecera.
 
 Si queréis, dejadme un comentarioJAJAJAJ. **No**. Ya no hay. 2.500 comentarios después, me queda demostrado que es un sistema que sólo sirve para dar problemas al _blogger_. A pie de página están todas las formas de contacto (_twitter_, _facebook_, _email_, etc) por las que podéis hacerme llegar cualquier pensamiento que tengáis a bien compartir.

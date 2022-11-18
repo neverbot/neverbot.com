@@ -7,7 +7,7 @@ tags:
 date: 2009-04-25 12:04:39
 ---
 
-Me llega por la misma vía del [rumor anterior](https://www.neverbot.com/libros/26-de-mayo-%c2%bfpublicacion-del-ultimo-libro-de-geralt/) el nuevo rumor de que el editor ha preferido dejar, otra vez, la publicación del libro de Geralt para más adelante. Parece la fábula de Pedro y el lobo, y el día que se sepa cuándo lo van a publicar no lo va a creer nadie... Parece ser que estaba considerando realizar la edición ahora, tras tantear el tamaño posible de la tirada y que, por alguna razón que al común de los mortales se nos escapa, se ha echado atrás.
+Me llega por la misma vía del [rumor anterior](https://neverbot.com/libros/26-de-mayo-%c2%bfpublicacion-del-ultimo-libro-de-geralt/) el nuevo rumor de que el editor ha preferido dejar, otra vez, la publicación del libro de Geralt para más adelante. Parece la fábula de Pedro y el lobo, y el día que se sepa cuándo lo van a publicar no lo va a creer nadie... Parece ser que estaba considerando realizar la edición ahora, tras tantear el tamaño posible de la tirada y que, por alguna razón que al común de los mortales se nos escapa, se ha echado atrás.
 
 En fin: nuevo pensamiento acerca de este tema: **a Bibliópolis y Alamut ya le pueden dar mucho por donde no luce el sol**, conmigo ha perdido definitivamente un lector (y un comprador, que es lo que importa)**.**
 

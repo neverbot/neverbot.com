@@ -9,11 +9,11 @@ tags:
 date: 2010-01-07 20:28:49
 ---
 
-En Diciembre se me pasó el post, así que continúo directamente [desde el de Noviembre](https://www.neverbot.com/tebeos/cincuenta-euros-en-noviembre/). Algunas ideas en las que gastar dinero este mes, basadas en lo que yo he gastado:
+En Diciembre se me pasó el post, así que continúo directamente [desde el de Noviembre](https://neverbot.com/tebeos/cincuenta-euros-en-noviembre/). Algunas ideas en las que gastar dinero este mes, basadas en lo que yo he gastado:
 
 ![201001072020.jpg](./cincuenta-euros-en-enero/201001072020.jpg)
 
-En el cine, [una entrada para ver **Avatar**](https://www.neverbot.com/cine/avatar-de-james-cameron/) (yo tengo que volver este mes para verla en 3D y ver si hay alguna diferencia... y si me mareo usando unas gafas extrañas).
+En el cine, [una entrada para ver **Avatar**](https://neverbot.com/cine/avatar-de-james-cameron/) (yo tengo que volver este mes para verla en 3D y ver si hay alguna diferencia... y si me mareo usando unas gafas extrañas).
 
 ![201001072020.jpg](./cincuenta-euros-en-enero/2010010720201.jpg)
 

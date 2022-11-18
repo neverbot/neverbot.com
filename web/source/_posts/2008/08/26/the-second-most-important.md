@@ -9,7 +9,7 @@ tags:
 date: 2008-08-26 09:38:51
 ---
 
-[Vuelvo a ser](https://www.neverbot.com/posicionamiento-google-desde-la-perspectiva-de-un-inutil/) el segundo Iván Alonso más conocido del mundo [según Google](http://www.google.com/search?q=ivan+alonso). Pero el primero es un jugador de fútbol con su propia entrada en la Wikipedia, así que será difícil de superar a corto plazo. A medio o largo plazo está hecho, porque antes o después se retirará y dejará de ser mencionado en el marca y otros interesantes medios culturales.
+[Vuelvo a ser](https://neverbot.com/posicionamiento-google-desde-la-perspectiva-de-un-inutil/) el segundo Iván Alonso más conocido del mundo [según Google](http://www.google.com/search?q=ivan+alonso). Pero el primero es un jugador de fútbol con su propia entrada en la Wikipedia, así que será difícil de superar a corto plazo. A medio o largo plazo está hecho, porque antes o después se retirará y dejará de ser mencionado en el marca y otros interesantes medios culturales.
 
 [![Yo, yo mismo, y mi ego](./the-second-most-important/ivan_alonso.png "Yo, yo mismo, y mi ego")](http://www.google.com/search?q=ivan+alonso)
 

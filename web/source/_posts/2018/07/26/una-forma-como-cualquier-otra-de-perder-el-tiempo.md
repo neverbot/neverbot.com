@@ -13,6 +13,6 @@ _So long, and thanks for all the fish_.
 
 Doce años de blog. Aniversarios:
 
-*   [Undécimo](https://www.neverbot.com/once/), [décimo](https://www.neverbot.com/y-diez/), [noveno](https://www.neverbot.com/nueve/), [octavo](https://www.neverbot.com/ocho/), [séptimo](https://www.neverbot.com/septimo-aniversario/), [sexto](https://www.neverbot.com/sexto-aniversario/), [quinto](https://www.neverbot.com/quinto-aniversario/), [cuarto](https://www.neverbot.com/cuarto-aniversario-de-neverbot-com/), [tercero](https://www.neverbot.com/tercer-aniversario-del-blog/).
+*   [Undécimo](https://neverbot.com/once/), [décimo](https://neverbot.com/y-diez/), [noveno](https://neverbot.com/nueve/), [octavo](https://neverbot.com/ocho/), [séptimo](https://neverbot.com/septimo-aniversario/), [sexto](https://neverbot.com/sexto-aniversario/), [quinto](https://neverbot.com/quinto-aniversario/), [cuarto](https://neverbot.com/cuarto-aniversario-de-neverbot-com/), [tercero](https://neverbot.com/tercer-aniversario-del-blog/).
 *   El primero y segundo no tuvieron _posts_.
-*   [¡Hola Mundo!](https://www.neverbot.com/hello-world/), el primer _post_, 26 de Julio de 2006.
+*   [¡Hola Mundo!](https://neverbot.com/hello-world/), el primer _post_, 26 de Julio de 2006.

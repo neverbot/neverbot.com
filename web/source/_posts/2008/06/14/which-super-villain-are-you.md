@@ -7,7 +7,7 @@ tags:
 date: 2008-06-14 11:56:54
 ---
 
-**Anteriormente, en Neverbot**: [¿Que superhéroe eres?](https://www.neverbot.com/tebeos/which-superhero-are-you/) Ahora: [¿Qué supervillano eres?](http://www.thesuperheroquiz.com/villain) (Me encantan los tests de personalidad me dan resultados tan chulos).
+**Anteriormente, en Neverbot**: [¿Que superhéroe eres?](https://neverbot.com/tebeos/which-superhero-are-you/) Ahora: [¿Qué supervillano eres?](http://www.thesuperheroquiz.com/villain) (Me encantan los tests de personalidad me dan resultados tan chulos).
 
 **You are Apocalypse**
  - Apocalypse 83%

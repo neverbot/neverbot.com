@@ -8,7 +8,7 @@ tags:
 date: 2006-08-31 21:02:57
 ---
 
-Estaba recordando [Alta Fidelidad](http://www.imdb.com/title/tt0146882/) (sobre la que ya mencioné algo [hace poco](https://www.neverbot.com/27/)), y la manía que tenía su protagonista de crear listas de casi cualquier cosa... El caso es que me he acordado de la película porque hoy venía hacia mi casa en coche pensando en cuales son mis canciones favoritas, y no estaba del todo seguro de qué canciones estaban dentro de tan insigne categoría y cuales no. Y como sé que soy de gustos volátiles, "qual piuma al vento", creo que lo que haré será una versión preliminar que iré perfeccionando durante los próximos días/semanas (cualquier cosa menos trabajar).
+Estaba recordando [Alta Fidelidad](http://www.imdb.com/title/tt0146882/) (sobre la que ya mencioné algo [hace poco](https://neverbot.com/27/)), y la manía que tenía su protagonista de crear listas de casi cualquier cosa... El caso es que me he acordado de la película porque hoy venía hacia mi casa en coche pensando en cuales son mis canciones favoritas, y no estaba del todo seguro de qué canciones estaban dentro de tan insigne categoría y cuales no. Y como sé que soy de gustos volátiles, "qual piuma al vento", creo que lo que haré será una versión preliminar que iré perfeccionando durante los próximos días/semanas (cualquier cosa menos trabajar).
 
 Candidatos a bote pronto (y si no os gustan es que no tenéis criterio musical, y punto):
 

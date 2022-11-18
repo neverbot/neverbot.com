@@ -8,7 +8,7 @@ tags:
 date: 2007-10-26 13:24:51
 ---
 
-> [Crisis existencial](https://www.neverbot.com/mundo-real%e2%84%a2/el-numero-que-ha-marcado/) superada. Aviso a navegantes: historia completamente personal (saliendo un poco de la tónica del blog), y susceptible de ser borrada si cambio de opinión. Si no os interesa podéis ignorar esta entrada, volveré al ritmo de posts habitual en breve.
+> [Crisis existencial](https://neverbot.com/mundo-real%e2%84%a2/el-numero-que-ha-marcado/) superada. Aviso a navegantes: historia completamente personal (saliendo un poco de la tónica del blog), y susceptible de ser borrada si cambio de opinión. Si no os interesa podéis ignorar esta entrada, volveré al ritmo de posts habitual en breve.
 
 Los últimos meses han sido un poco complicados... a algunos temas personales ha habido que añadir el hecho de que he dejado mi trabajo y he visto como la relación sentimental que me ha tenido ocupado todo el año se ha terminado. Los dos últimos puntos, como algunos sabéis o suponéis, han estado parcialmente relacionados, aunque la decisión de dejar la empresa en la que estaba fue previa. Bastante previa.
 

@@ -8,7 +8,7 @@ tags:
 date: 2009-11-26 13:01:00
 ---
 
-El [cuarto post de este blog](https://www.neverbot.com/tv/battlestar-galactica/), ya de 2006, ya trataba esta serie y el buen sabor de boca que me estaba dejando la primera temporada. Ayer terminé de verla en un arrebato de media docena de capítulos seguidos, y algo habrá que opinar al respecto. Supongo que a estas alturas cualquiera que quisiera ver la serie ya la ha visto.
+El [cuarto post de este blog](https://neverbot.com/tv/battlestar-galactica/), ya de 2006, ya trataba esta serie y el buen sabor de boca que me estaba dejando la primera temporada. Ayer terminé de verla en un arrebato de media docena de capítulos seguidos, y algo habrá que opinar al respecto. Supongo que a estas alturas cualquiera que quisiera ver la serie ya la ha visto.
 
 ![Captura de pantalla 2009-11-26 a las 12.58.18.png](./terminado-battlestar-galactica/Captura-de-pantalla-2009-11-26-a-las-12.58.18.png)
 

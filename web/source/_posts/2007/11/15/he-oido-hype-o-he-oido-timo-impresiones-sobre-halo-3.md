@@ -61,4 +61,4 @@ Además, básicamente hay dos agujeros negros de diseño imperdonables: Centrars
 
 Por quedarme con algunas cosas positivas hay algún momento argumental interesante, como cuando bandos que anteriormente habían sido tus enemigos pasan a ser tus aliados. El final también tiene su gracia, aunque no tiene mucho sentido hasta después de los créditos.
 
-**Resumiendo**: Que sí, que está bien, merecía el hype que se le dió pero no merecía las reviews y las [espectaculares notas](https://www.neverbot.com/juegos/videojuegos/two-days-left/) recibidas tras probarlo.
+**Resumiendo**: Que sí, que está bien, merecía el hype que se le dió pero no merecía las reviews y las [espectaculares notas](https://neverbot.com/juegos/videojuegos/two-days-left/) recibidas tras probarlo.

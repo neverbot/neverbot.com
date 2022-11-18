@@ -31,4 +31,4 @@ Dejo en esta página constancia de las novelas galardonadas con un premio Hugo q
 
 [Listado de novelas premiadas (en castellano)](https://es.wikipedia.org/wiki/Premio_Hugo_a_la_mejor_novela).
 
-* **[Pórtico](http://en.wikipedia.org/wiki/Gateway_(novel))**, de Frederik Pohl. [Artículo](https://www.neverbot.com/portico-de-frederik-pohl/) en el blog y [foto](https://instagram.com/p/R7awpKyxCo/) en instagram.
+* **[Pórtico](http://en.wikipedia.org/wiki/Gateway_(novel))**, de Frederik Pohl. [Artículo](https://neverbot.com/portico-de-frederik-pohl/) en el blog y [foto](https://instagram.com/p/R7awpKyxCo/) en instagram.

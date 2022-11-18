@@ -16,7 +16,7 @@ El caso es que era raro que yo tuviera enlaces entrantes desde allí porque no e
 
 Dado el reducido espectro de población al que está dirigido este blog, no creo que pueda sacar mucha utilidad de las herramientas que me proporciona technorati, pero siempre podré trastear un rato y sacar conclusiones de cara a la administración de otras páginas más grandes.
 
-Enlaces: [Mi perfil](http://www.technorati.com/profile/neverbot) en technorati, el [perfil de neverbot.com](http://www.technorati.com/blogs/https://www.neverbot.com), y mis [enlaces entrantes](http://www.technorati.com/search/https://www.neverbot.com).
+Enlaces: [Mi perfil](http://www.technorati.com/profile/neverbot) en technorati, el [perfil de neverbot.com](http://www.technorati.com/blogs/https://neverbot.com), y mis [enlaces entrantes](http://www.technorati.com/search/https://neverbot.com).
 
 **Actualización de las actualizaciones**: Ya que me había puesto con technorati, he incluído también los enlaces a [mi cuenta](http://del.icio.us/ialonso) de [del.iciou.us](http://del.icio.us/). Ya era pública, pero dudo que nadie supiera cuál era, así que la incluyo aquí. Tengo algunos enlaces sobre temas variados; en último caso siempre podéis usarla para dejarme enlaces, aunque es algo que no he hecho nunca con otros usuarios, pero asumo que es sencillo e inmediato. Los enlaces están a pie de página, igual que los anteriores.
 

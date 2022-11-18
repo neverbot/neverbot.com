@@ -9,7 +9,7 @@ date: 2007-10-26 13:39:51
 
 Pues eso, que este es el post número 400 en la historia de vida de este blog, algo más de un año.
 
-> **Anécdota superflua**: Hace poco tuvimos un par de días de baja del servicio por... bueno, por las complejidades del sistema. El [hosting](https://www.neverbot.com/hosting/) intentó cobrarme un nuevo año de servicio de una cuenta bancaria que ya prácticamente no uso, y probablemente debe estar casi a cero.
+> **Anécdota superflua**: Hace poco tuvimos un par de días de baja del servicio por... bueno, por las complejidades del sistema. El [hosting](https://neverbot.com/hosting/) intentó cobrarme un nuevo año de servicio de una cuenta bancaria que ya prácticamente no uso, y probablemente debe estar casi a cero.
 > 
 > Al no poder hacerlo (supongo) intentó informarme en la dirección de correo mía que tenía, que era de Terra. Terra dejó de darme servicio a principios de año (y aún no sé por qué, he intentado ponerme en contacto con ellos pero como quien oye llover).
 > 
