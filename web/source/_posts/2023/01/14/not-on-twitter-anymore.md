@@ -11,7 +11,7 @@ Pues tampoco es algo de lo que sentirse especialmente orgulloso, ni que fueran a
 
 ![thanks-for-all-the-fish](./not-on-twitter-anymore/thanks-for-all-the-fish.png)
 
-Era una herramienta que ya estaba muy torcida desde hace tiempo, ya la había dejado varias veces y había tenido recaídas intentando volver a encontrarle una utilidad que apenas le veía... pero desde que **Elon Musk** (*a sociopathic union-busting financial engineer* como [lo definió](https://twitter.com/doctorow/status/1291788787555553282) [Cory Doctorow](https://craphound.com/bio/)) se hizo con su dirección, las razones para seguir dándoles el control de nuestras vidas digitales a una panda de sociópatas irresponsables cuyo interés radica únicamente en los dividendos de sus accionistas han ido desapareciendo aún más rápido.
+Era una herramienta que ya estaba muy torcida desde hace tiempo, ya la había dejado varias veces y había tenido recaídas intentando volver a encontrarle una utilidad que apenas le veía... pero desde que **Elon Musk** (*a sociopathic union-busting financial engineer* como [lo definió](https://twitter.com/doctorow/status/1291788787555553282) [Cory Doctorow](https://craphound.com/bio/)) se hizo con su dirección, las razones para seguir dándoles el control de nuestras vidas digitales a una panda de sociópatas irresponsables cuyo interés radica únicamente en los dividendos de sus accionistas, o en los aleatorios caprichos de un dueño único con síndrome de mesías salvador, han ido desapareciendo aún más rápido.
 
 Esa es otra de las razones por las que poco a poco he ido recuperando mi pequeño lugar en internet: **neverbot.com**
 
