@@ -11,11 +11,12 @@ Esta es la página personal de Iván Alonso. Si nos conocemos quizá haya sido c
 
 Así puedes encontrarme en:
 
-*   [Instagram](http://instagram.com/neverbot)
+*   [neverbot.com](https://neverbot.com), obviamente.
 *   [Tumblr](http://neverbot.tumblr.com/)
+*   [Instagram](http://instagram.com/neverbot)
 *   [Letterboxd](http://letterboxd.com/neverbot/)
-*   [Twitter](http://twitter.com/neverbot)
-*   [Flickr](http://www.flickr.com/photos/neverbot/)
+*   ~~[Twitter](http://twitter.com/neverbot)~~. [Ya no uso Twitter](./not-on-twitter-anymore), aunque aún mantengo la cuenta.
+*   [Flickr](http://www.flickr.com/photos/neverbot/). No lo utilizo desde 2016, aunque aún mantengo la cuenta.
 
 y en muchos otros lugares. Con mi nombre real estoy en:
 
