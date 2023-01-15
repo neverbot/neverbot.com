@@ -17,7 +17,7 @@ Al hilo del post que escribí acerca de [mi abandono de Twitter](./not-on-twitte
 
 Otras curiosidades:
 
-- Imágenes creadas por Johnny Darrell con inteligencia artificial de una película que nunca existió: El **Tron** de **Jodorowski** de 1976, [en el New York Times](https://www.nytimes.com/interactive/2023/01/13/opinion/jodorowsky-dune-ai-tron.html).
+- Imágenes creadas por **Johnny Darrell** con inteligencia artificial de una película que nunca existió: El **Tron** de **Jodorowski** de 1976, [en el New York Times](https://www.nytimes.com/interactive/2023/01/13/opinion/jodorowsky-dune-ai-tron.html).
 
   Más fáciles de ver (y con más imágenes) [en DjFood](https://www.djfood.org/fantasy-jodorowsky-tron-visualisations-by-johnny-darrell/).
 
