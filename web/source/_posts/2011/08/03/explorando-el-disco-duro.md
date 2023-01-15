@@ -3,7 +3,7 @@ title: Explorando el disco duro
 id: '3053'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2011-08-03 11:28:08
 ---
 

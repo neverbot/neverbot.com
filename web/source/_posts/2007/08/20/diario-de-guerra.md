@@ -3,9 +3,9 @@ title: Diario de guerra
 id: '515'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
-  - Mundo Real™
+  - blog
+  - miniblog
+  - mundo real™
 date: 2007-08-20 12:31:31
 ---
 

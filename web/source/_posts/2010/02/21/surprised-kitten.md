@@ -3,7 +3,7 @@ title: Surprised Kitten
 id: '2378'
 author: neverbot
 tags:
-  - Clásicos de Internet
+  - clásicos de internet
 date: 2010-02-21 20:21:42
 ---
 

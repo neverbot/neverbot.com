@@ -3,8 +3,8 @@ title: Visita al Parque Warner y algunas ideas al respecto
 id: '1496'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2009-07-31 13:18:41
 ---
 

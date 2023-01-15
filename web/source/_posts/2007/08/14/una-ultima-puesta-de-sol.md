@@ -3,8 +3,8 @@ title: Una última puesta de sol
 id: '514'
 author: neverbot
 tags:
-  - Ilustración
-  - Tebeos
+  - ilustración
+  - tebeos
 date: 2007-08-14 16:21:55
 ---
 

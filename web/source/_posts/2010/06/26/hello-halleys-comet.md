@@ -3,7 +3,7 @@ title: Hello Halley's comet
 id: '2573'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2010-06-26 17:52:29
 ---
 

@@ -3,7 +3,7 @@ title: Anteriormente, en tumblr...
 id: '3100'
 author: neverbot
 tags:
-  - Neverbot
+  - neverbot
 date: 2012-01-27 14:33:46
 ---
 

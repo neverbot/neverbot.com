@@ -3,7 +3,7 @@ title: Un apunte rápido (sobre Geralt)
 id: '210'
 author: neverbot
 tags:
-  - Libros
+  - libros
 date: 2006-11-16 13:53:29
 ---
 

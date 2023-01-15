@@ -3,7 +3,7 @@ title: El breakpoint fantasma
 id: '633'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2007-12-13 13:16:12
 ---
 

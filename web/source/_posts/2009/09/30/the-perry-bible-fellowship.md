@@ -3,8 +3,8 @@ title: The Perry Bible Fellowship
 id: '1882'
 author: neverbot
 tags:
-  - Ilustración
-  - Tebeos
+  - ilustración
+  - tebeos
 date: 2009-09-30 23:01:57
 ---
 

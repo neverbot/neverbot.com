@@ -3,7 +3,7 @@ title: 'Clásicos de ayer y hoy: Las chinas locas'
 id: '683'
 author: neverbot
 tags:
-  - Clásicos de Internet
+  - clásicos de internet
 date: 2008-01-19 21:05:11
 video: h8Dx17n8d7U
 ---

@@ -3,8 +3,8 @@ title: Vivir en el centro del universo
 id: '611'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-12-05 16:02:39
 ---
 

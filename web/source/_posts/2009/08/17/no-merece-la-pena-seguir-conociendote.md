@@ -3,8 +3,8 @@ title: No merece la pena seguir conociéndote
 id: '1633'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2009-08-17 19:53:15
 ---
 

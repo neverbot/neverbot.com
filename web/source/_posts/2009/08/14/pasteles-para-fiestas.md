@@ -3,10 +3,10 @@ title: Pasteles para fiestas
 id: '1603'
 author: neverbot
 tags:
-  - Blog
-  - Cine
-  - Tebeos
-  - Tv
+  - blog
+  - cine
+  - tebeos
+  - tv
 date: 2009-08-14 10:38:12
 ---
 

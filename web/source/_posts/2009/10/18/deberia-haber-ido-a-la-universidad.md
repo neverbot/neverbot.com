@@ -3,7 +3,7 @@ title: ¿Debería haber ido a la universidad?
 id: '1929'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2009-10-18 01:09:25
 ---
 

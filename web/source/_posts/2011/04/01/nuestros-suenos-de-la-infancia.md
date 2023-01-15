@@ -3,9 +3,9 @@ title: Nuestros sueños de la infancia
 id: '2975'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
-  - Tebeos
+  - cine
+  - ilustración
+  - tebeos
 date: 2011-04-01 20:25:07
 ---
 

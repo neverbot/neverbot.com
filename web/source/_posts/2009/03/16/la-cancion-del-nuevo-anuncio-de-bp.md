@@ -3,9 +3,9 @@ title: La canción del nuevo anuncio de BP...
 id: '1323'
 author: neverbot
 tags:
-  - Música
-  - Publicidad
-  - Tv
+  - música
+  - publicidad
+  - tv
 date: 2009-03-16 19:58:38
 ---
 

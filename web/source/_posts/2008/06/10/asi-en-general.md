@@ -3,7 +3,7 @@ title: Así, en general...
 id: '797'
 author: neverbot
 tags:
-  - Al blog que vas
+  - al blog que vas
 date: 2008-06-10 23:22:18
 ---
 

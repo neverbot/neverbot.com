@@ -3,8 +3,8 @@ title: SuperMeh
 id: '6350'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2013-06-26 15:22:19
 ---
 

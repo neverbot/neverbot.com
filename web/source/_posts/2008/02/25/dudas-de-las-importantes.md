@@ -3,7 +3,7 @@ title: Dudas de las importantes
 id: '724'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-02-25 15:41:41
 ---
 

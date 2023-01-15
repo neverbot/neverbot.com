@@ -3,8 +3,8 @@ title: Plain White T's
 id: '709'
 author: neverbot
 tags:
-  - Miniblog
-  - Música
+  - miniblog
+  - música
 date: 2008-02-16 15:43:01
 video: h_m-BjrxmgI
 ---

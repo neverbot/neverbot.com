@@ -3,8 +3,8 @@ title: Google cumple 12 años
 id: '2726'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
+  - ilustración
+  - internet
 date: 2010-09-27 15:34:25
 ---
 

@@ -3,8 +3,8 @@ title: La solución a todos los problemas de mi vida
 id: '577'
 author: neverbot
 tags:
-  - Blog
-  - Humor
+  - blog
+  - humor
 date: 2007-11-08 17:19:39
 ---
 

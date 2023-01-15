@@ -3,8 +3,8 @@ title: A Problem with Twitter
 id: '1867'
 author: neverbot
 tags:
-  - Internet
-  - Pensamientos aleatorios
+  - internet
+  - pensamientos aleatorios
 date: 2009-09-28 12:48:17
 ---
 

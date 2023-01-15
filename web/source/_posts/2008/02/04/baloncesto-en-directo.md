@@ -3,9 +3,9 @@ title: Baloncesto en directo
 id: '694'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
-  - Mundo Real™
+  - blog
+  - miniblog
+  - mundo real™
 date: 2008-02-04 11:00:35
 ---
 

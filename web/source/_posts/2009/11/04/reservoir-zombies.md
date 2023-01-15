@@ -3,8 +3,8 @@ title: Reservoir zombies
 id: '1998'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
+  - cine
+  - ilustración
 date: 2009-11-04 10:28:55
 ---
 

@@ -3,8 +3,8 @@ title: Logo de Google de los juegos olímpicos
 id: '865'
 author: neverbot
 tags:
-  - Internet
-  - Mundo Real™
+  - internet
+  - mundo real™
 date: 2008-08-08 08:34:30
 ---
 

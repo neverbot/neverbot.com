@@ -3,8 +3,8 @@ title: Dragon Ball Z - The Simpsons
 id: '786'
 author: neverbot
 tags:
-  - Ilustración
-  - Tv
+  - ilustración
+  - tv
 date: 2008-06-03 10:25:03
 ---
 

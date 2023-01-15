@@ -3,7 +3,7 @@ title: Un pensamiento positivo nunca le hizo daño a nadie
 id: '428'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-05-06 23:43:20
 ---
 

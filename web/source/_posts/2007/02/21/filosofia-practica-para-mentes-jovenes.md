@@ -3,7 +3,7 @@ title: Filosofía práctica para mentes jóvenes
 id: '379'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-02-21 18:05:23
 ---
 

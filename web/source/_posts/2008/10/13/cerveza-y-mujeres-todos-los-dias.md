@@ -3,7 +3,7 @@ title: Cerveza y mujeres todos los días
 id: '1037'
 author: neverbot
 tags:
-  - Al blog que vas
+  - al blog que vas
 date: 2008-10-13 16:11:07
 ---
 

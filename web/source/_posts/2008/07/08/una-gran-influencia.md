@@ -3,8 +3,8 @@ title: Una gran influencia
 id: '826'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Videojuegos
+  - pensamientos aleatorios
+  - videojuegos
 date: 2008-07-08 08:22:07
 ---
 

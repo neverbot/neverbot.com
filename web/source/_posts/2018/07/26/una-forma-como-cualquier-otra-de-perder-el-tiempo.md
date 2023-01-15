@@ -3,7 +3,7 @@ title: Una forma como cualquier otra de perder el tiempo
 id: '7794'
 author: neverbot
 tags:
-  - Neverbot
+  - neverbot
 date: 2018-07-26 12:49:05
 ---
 

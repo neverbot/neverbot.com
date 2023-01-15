@@ -3,9 +3,9 @@ title: Rest in peace, Mike
 id: '512'
 author: neverbot
 tags:
-  - Miniblog
-  - Mundo Real™
-  - Tebeos
+  - miniblog
+  - mundo real™
+  - tebeos
 date: 2007-08-14 11:36:13
 ---
 

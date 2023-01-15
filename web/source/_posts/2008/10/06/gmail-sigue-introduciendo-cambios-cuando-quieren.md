@@ -3,7 +3,7 @@ title: GMail sigue introduciendo cambios (cuando quieren)
 id: '1011'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2008-10-06 13:08:54
 ---
 

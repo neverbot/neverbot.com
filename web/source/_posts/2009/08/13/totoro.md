@@ -3,8 +3,8 @@ title: ¿Totoro?
 id: '1590'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
+  - cine
+  - ilustración
 date: 2009-08-13 17:01:55
 ---
 

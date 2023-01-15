@@ -3,8 +3,8 @@ title: Reseñas cinematográficas relámpago (XI)
 id: '2221'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2009-12-29 18:21:23
 ---
 

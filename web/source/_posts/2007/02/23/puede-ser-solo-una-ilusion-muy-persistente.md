@@ -3,7 +3,7 @@ title: Puede ser sólo una ilusión muy persistente
 id: '382'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-02-23 17:49:47
 ---
 

@@ -3,8 +3,8 @@ title: Los experimentos en los blogs, con gaseosa
 id: '1221'
 author: neverbot
 tags:
-  - Blog
-  - Neverbot
+  - blog
+  - neverbot
 date: 2009-02-23 17:23:53
 ---
 

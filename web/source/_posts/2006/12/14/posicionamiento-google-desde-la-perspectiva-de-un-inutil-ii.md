@@ -3,8 +3,8 @@ title: Posicionamiento Google desde la perspectiva de un inútil (II)
 id: '278'
 author: neverbot
 tags:
-  - Internet
-  - Neverbot
+  - internet
+  - neverbot
 date: 2006-12-14 01:07:08
 ---
 

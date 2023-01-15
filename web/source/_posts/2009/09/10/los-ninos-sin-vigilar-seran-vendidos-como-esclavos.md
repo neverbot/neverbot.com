@@ -3,8 +3,8 @@ title: Los niños sin vigilar serán vendidos como esclavos
 id: '1778'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2009-09-10 10:46:22
 ---
 

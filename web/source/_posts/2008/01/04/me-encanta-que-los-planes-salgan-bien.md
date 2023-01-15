@@ -3,8 +3,8 @@ title: Me encanta que los planes salgan bien
 id: '667'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2008-01-04 00:27:40
 ---
 

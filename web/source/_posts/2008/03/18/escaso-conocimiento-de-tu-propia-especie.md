@@ -3,7 +3,7 @@ title: Escaso conocimiento de tu propia especie...
 id: '759'
 author: neverbot
 tags:
-  - Humor
+  - humor
 date: 2008-03-18 18:15:41
 ---
 

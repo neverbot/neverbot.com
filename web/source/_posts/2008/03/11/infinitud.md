@@ -3,7 +3,7 @@ title: Infinitud
 id: '748'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-03-11 15:05:20
 ---
 

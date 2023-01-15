@@ -3,8 +3,8 @@ title: Gaping Void
 id: '170'
 author: neverbot
 tags:
-  - Humor
-  - Internet
+  - humor
+  - internet
 date: 2006-11-02 23:25:35
 ---
 

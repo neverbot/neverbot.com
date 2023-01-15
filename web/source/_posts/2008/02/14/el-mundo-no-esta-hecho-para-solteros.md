@@ -3,7 +3,7 @@ title: El mundo no está hecho para solteros
 id: '705'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2008-02-14 18:46:38
 ---
 

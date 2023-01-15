@@ -3,8 +3,8 @@ title: I've seen things you people wouldn't believe
 id: '1577'
 author: neverbot
 tags:
-  - Clásicos de Internet
-  - Humor
+  - clásicos de internet
+  - humor
 date: 2009-08-13 13:34:46
 ---
 

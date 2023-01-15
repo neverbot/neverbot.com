@@ -3,8 +3,8 @@ title: Esto es un plan electoral y lo demás son tonterías
 id: '440'
 author: neverbot
 tags:
-  - Blog
-  - Humor
+  - blog
+  - humor
 date: 2007-05-16 12:33:53
 ---
 

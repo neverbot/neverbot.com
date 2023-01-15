@@ -3,8 +3,8 @@ title: Os voy a contar un cuento
 id: '638'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-12-17 15:42:05
 ---
 

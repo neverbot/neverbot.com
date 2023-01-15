@@ -3,8 +3,8 @@ title: Misma viñeta, dos chistes (II)
 id: '1714'
 author: neverbot
 tags:
-  - Humor
-  - Tebeos
+  - humor
+  - tebeos
 date: 2009-09-02 11:04:46
 ---
 

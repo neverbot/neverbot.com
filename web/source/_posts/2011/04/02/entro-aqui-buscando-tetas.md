@@ -3,8 +3,8 @@ title: Entro aquí buscando tetas...
 id: '2993'
 author: neverbot
 tags:
-  - Neverbot
-  - Pensamientos aleatorios
+  - neverbot
+  - pensamientos aleatorios
 date: 2011-04-02 13:45:41
 ---
 

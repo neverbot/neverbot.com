@@ -3,8 +3,8 @@ title: Aniversario de Nikola Tesla (en Google)
 id: '1485'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
+  - ilustración
+  - internet
 date: 2009-07-10 16:20:30
 ---
 

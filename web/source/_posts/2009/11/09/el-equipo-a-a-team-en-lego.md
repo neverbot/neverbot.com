@@ -3,8 +3,8 @@ title: El equipo A (A-Team) en Lego
 id: '2047'
 author: neverbot
 tags:
-  - Juegos
-  - Tv
+  - juegos
+  - tv
 date: 2009-11-09 12:22:45
 ---
 

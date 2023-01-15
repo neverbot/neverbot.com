@@ -3,8 +3,8 @@ title: El número que ha marcado...
 id: '558'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-10-09 13:05:10
 ---
 

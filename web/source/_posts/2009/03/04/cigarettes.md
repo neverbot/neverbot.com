@@ -3,7 +3,7 @@ title: Cigarettes
 id: '1268'
 author: neverbot
 tags:
-  - Fotografía
+  - fotografía
 date: 2009-03-04 16:52:14
 ---
 

@@ -3,8 +3,8 @@ title: Recuperando la media
 id: '466'
 author: neverbot
 tags:
-  - Blog
-  - Neverbot
+  - blog
+  - neverbot
 date: 2007-05-30 11:53:21
 ---
 

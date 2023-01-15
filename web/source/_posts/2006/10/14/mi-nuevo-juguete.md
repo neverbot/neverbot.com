@@ -3,7 +3,7 @@ title: Mi nuevo juguete
 id: '116'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2006-10-14 21:22:27
 ---
 

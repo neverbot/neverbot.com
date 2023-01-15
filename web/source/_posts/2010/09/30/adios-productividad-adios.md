@@ -3,7 +3,7 @@ title: Adiós, productividad, adiós
 id: '2736'
 author: neverbot
 tags:
-  - Videojuegos
+  - videojuegos
 date: 2010-09-30 20:31:04
 ---
 

@@ -3,9 +3,9 @@ title: Enlaces compartidos en Enero
 id: '2364'
 author: neverbot
 tags:
-  - Blog
-  - Internet
-  - Resúmenes
+  - blog
+  - internet
+  - resúmenes
 date: 2010-02-18 13:53:19
 ---
 

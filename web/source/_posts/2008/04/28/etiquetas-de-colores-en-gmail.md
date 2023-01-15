@@ -3,8 +3,8 @@ title: Etiquetas de colores en GMail
 id: '769'
 author: neverbot
 tags:
-  - Internet
-  - Miniblog
+  - internet
+  - miniblog
 date: 2008-04-28 09:18:16
 ---
 

@@ -3,8 +3,8 @@ title: Soy ese tipo de tío
 id: '2825'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - mundo real™
+  - pensamientos aleatorios
 date: 2010-12-15 21:05:51
 ---
 

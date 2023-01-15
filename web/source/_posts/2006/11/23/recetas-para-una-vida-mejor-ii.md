@@ -3,8 +3,8 @@ title: Recetas para una vida mejor (II)
 id: '232'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2006-11-23 13:25:16
 ---
 

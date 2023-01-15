@@ -3,8 +3,8 @@ title: Widget de last.fm con forma de iPod
 id: '1281'
 author: neverbot
 tags:
-  - Internet
-  - Música
+  - internet
+  - música
 date: 2009-03-05 12:37:34
 ---
 

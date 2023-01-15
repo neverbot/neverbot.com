@@ -3,8 +3,8 @@ title: Algo está cambiando...
 id: '771'
 author: neverbot
 tags:
-  - Miniblog
-  - Videojuegos
+  - miniblog
+  - videojuegos
 date: 2008-04-30 11:43:35
 ---
 

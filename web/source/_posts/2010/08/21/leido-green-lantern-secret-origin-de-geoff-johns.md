@@ -3,9 +3,9 @@ title: 'Leído: Green Lantern Secret Origin, de Geoff Johns'
 id: '2622'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
-  - Tebeos
+  - cine
+  - reseñas
+  - tebeos
 date: 2010-08-21 11:06:47
 ---
 

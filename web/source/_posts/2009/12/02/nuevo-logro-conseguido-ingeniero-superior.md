@@ -3,9 +3,9 @@ title: 'Nuevo logro conseguido: Ingeniero Superior'
 id: '2139'
 author: neverbot
 tags:
-  - Blog
-  - Informática
-  - Mundo Real™
+  - blog
+  - informática
+  - mundo real™
 date: 2009-12-02 11:28:06
 ---
 

@@ -3,7 +3,7 @@ title: 'The Ninja Monkey Adventures: Preview'
 id: '131'
 author: neverbot
 tags:
-  - Ninja Monkey
+  - ninja monkey
 date: 2006-10-18 19:16:46
 ---
 

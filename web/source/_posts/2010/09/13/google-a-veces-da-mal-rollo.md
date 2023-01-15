@@ -3,7 +3,7 @@ title: Google a veces da mal rollo
 id: '2705'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2010-09-13 10:53:06
 ---
 

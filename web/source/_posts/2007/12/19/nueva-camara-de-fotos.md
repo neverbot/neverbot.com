@@ -3,9 +3,9 @@ title: Nueva cámara de fotos
 id: '644'
 author: neverbot
 tags:
-  - Blog
-  - Fotografía
-  - Miniblog
+  - blog
+  - fotografía
+  - miniblog
 date: 2007-12-19 16:40:52
 ---
 

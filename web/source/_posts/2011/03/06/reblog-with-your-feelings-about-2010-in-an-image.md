@@ -3,8 +3,8 @@ title: Reblog with your feelings about 2010 in an image
 id: '2920'
 author: neverbot
 tags:
-  - Blog
-  - Internet
+  - blog
+  - internet
 date: 2011-03-06 22:50:22
 ---
 

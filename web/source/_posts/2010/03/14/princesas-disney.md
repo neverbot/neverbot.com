@@ -3,9 +3,9 @@ title: Princesas Disney
 id: '2455'
 author: neverbot
 tags:
-  - Cine
-  - Clásicos de Internet
-  - Ilustración
+  - cine
+  - clásicos de internet
+  - ilustración
 date: 2010-03-14 11:05:34
 ---
 

@@ -3,7 +3,7 @@ title: Cosas veredes, amigo Sancho
 id: '2196'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2009-12-21 19:25:50
 ---
 

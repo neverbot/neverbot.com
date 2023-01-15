@@ -3,8 +3,8 @@ title: Ceporros y gladiadores
 id: '344'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2007-01-20 15:58:56
 ---
 

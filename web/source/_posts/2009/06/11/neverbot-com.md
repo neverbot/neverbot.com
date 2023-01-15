@@ -3,10 +3,10 @@ title: ¿Neverbot.com?
 id: '1399'
 author: neverbot
 tags:
-  - Blog
-  - Internet
-  - Mundo Real™
-  - Neverbot
+  - blog
+  - internet
+  - mundo real™
+  - neverbot
 date: 2009-06-11 10:49:20
 ---
 

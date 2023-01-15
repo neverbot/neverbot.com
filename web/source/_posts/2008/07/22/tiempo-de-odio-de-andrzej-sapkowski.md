@@ -3,8 +3,8 @@ title: Tiempo de odio, de Andrzej Sapkowski
 id: '853'
 author: neverbot
 tags:
-  - Libros
-  - Reseñas
+  - libros
+  - reseñas
 date: 2008-07-22 14:28:36
 ---
 

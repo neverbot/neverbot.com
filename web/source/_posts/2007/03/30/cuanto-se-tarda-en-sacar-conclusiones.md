@@ -3,7 +3,7 @@ title: ¿Cuánto se tarda en sacar conclusiones?
 id: '405'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-03-30 15:31:07
 ---
 

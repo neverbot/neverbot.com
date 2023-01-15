@@ -3,7 +3,7 @@ title: ¿La Academia muestra su miedo a la tecnología?
 id: '2430'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2010-03-08 09:24:25
 ---
 

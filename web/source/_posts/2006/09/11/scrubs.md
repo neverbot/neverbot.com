@@ -3,7 +3,7 @@ title: Scrubs
 id: '73'
 author: neverbot
 tags:
-  - Tv
+  - tv
 date: 2006-09-11 21:55:25
 ---
 

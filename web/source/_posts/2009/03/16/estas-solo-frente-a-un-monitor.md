@@ -3,8 +3,8 @@ title: Estás sólo frente a un monitor
 id: '1314'
 author: neverbot
 tags:
-  - Internet
-  - Pensamientos aleatorios
+  - internet
+  - pensamientos aleatorios
 date: 2009-03-16 11:16:12
 ---
 

@@ -3,8 +3,8 @@ title: ¿Cuál es la respuesta? ¿Qué sentido tiene todo?
 id: '2860'
 author: neverbot
 tags:
-  - Cine
-  - Pensamientos aleatorios
+  - cine
+  - pensamientos aleatorios
 date: 2011-02-12 15:04:09
 ---
 

@@ -3,7 +3,7 @@ title: Google Barcode
 id: '1913'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2009-10-07 18:22:39
 ---
 

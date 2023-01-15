@@ -3,7 +3,7 @@ title: Interacción social
 id: '1612'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2009-08-15 12:03:38
 ---
 

@@ -3,7 +3,7 @@ title: Compilando el kernel de Windows
 id: '770'
 author: neverbot
 tags:
-  - Al blog que vas
+  - al blog que vas
 date: 2008-04-30 10:57:38
 ---
 

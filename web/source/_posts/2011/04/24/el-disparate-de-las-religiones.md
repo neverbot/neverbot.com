@@ -3,8 +3,8 @@ title: El disparate de las religiones
 id: '3028'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - mundo real™
+  - pensamientos aleatorios
 date: 2011-04-24 11:49:33
 ---
 

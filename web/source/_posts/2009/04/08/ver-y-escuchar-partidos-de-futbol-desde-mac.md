@@ -3,9 +3,9 @@ title: Ver y escuchar partidos de fútbol desde Mac
 id: '1344'
 author: neverbot
 tags:
-  - Internet
+  - internet
   - Radio
-  - Tv
+  - tv
 date: 2009-04-08 21:50:27
 ---
 

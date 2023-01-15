@@ -3,7 +3,7 @@ title: 'Michael Bay y el exceso cinematográfico: Transformers 2'
 id: '1462'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2009-06-25 10:53:59
 ---
 

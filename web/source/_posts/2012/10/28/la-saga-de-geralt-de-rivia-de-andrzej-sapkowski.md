@@ -3,7 +3,7 @@ title: La saga de Geralt de Rivia, de Andrzej Sapkowski
 id: '5368'
 author: neverbot
 tags:
-  - Libros
+  - libros
 date: 2012-10-28 18:35:48
 ---
 

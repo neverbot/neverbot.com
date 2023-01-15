@@ -3,7 +3,7 @@ title: 'Recomendados: Fatale, de Ed Brubaker y Sean Phillips'
 id: '7513'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2015-06-11 21:32:37
 ---
 

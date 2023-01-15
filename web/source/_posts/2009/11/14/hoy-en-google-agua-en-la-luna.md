@@ -3,8 +3,8 @@ title: 'Hoy en Google: Agua en la luna'
 id: '2087'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
+  - ilustración
+  - internet
 date: 2009-11-14 13:57:54
 ---
 

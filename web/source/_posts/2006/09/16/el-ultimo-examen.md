@@ -3,8 +3,8 @@ title: ¿El último examen?
 id: '79'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2006-09-16 13:25:38
 ---
 

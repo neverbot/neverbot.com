@@ -3,7 +3,7 @@ title: Miniblog funcionando
 id: '488'
 author: neverbot
 tags:
-  - Miniblog
+  - miniblog
 date: 2007-07-20 12:39:59
 ---
 

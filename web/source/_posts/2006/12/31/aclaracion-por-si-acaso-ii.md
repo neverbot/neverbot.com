@@ -3,8 +3,8 @@ title: Aclaración (por si acaso) II
 id: '294'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2006-12-31 14:35:23
 ---
 

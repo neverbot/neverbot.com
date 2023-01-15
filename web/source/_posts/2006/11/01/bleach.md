@@ -3,8 +3,8 @@ title: Bleach
 id: '164'
 author: neverbot
 tags:
-  - Reseñas
-  - Tebeos
+  - reseñas
+  - tebeos
 date: 2006-11-01 20:49:43
 ---
 

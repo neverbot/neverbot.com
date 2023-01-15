@@ -3,9 +3,9 @@ title: Star Wars Metal!!
 id: '1819'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
-  - Música
+  - cine
+  - ilustración
+  - música
 date: 2009-09-17 14:51:32
 ---
 

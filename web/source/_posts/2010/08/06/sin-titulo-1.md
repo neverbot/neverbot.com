@@ -3,8 +3,8 @@ title: The first iPod
 id: '2609'
 author: neverbot
 tags:
-  - Informática
-  - Mundo Real™
+  - informática
+  - mundo real™
 date: 2010-08-06 12:30:15
 ---
 

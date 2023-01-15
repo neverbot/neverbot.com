@@ -3,7 +3,7 @@ title: Medallero oficial
 id: '2424'
 author: neverbot
 tags:
-  - Humor
+  - humor
 date: 2010-03-04 23:50:16
 ---
 

@@ -3,8 +3,8 @@ title: Reseñas cinematográficas relámpago (XV)
 id: '2443'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2010-03-09 20:23:31
 ---
 

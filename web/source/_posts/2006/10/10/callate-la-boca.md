@@ -3,8 +3,8 @@ title: Cállate la boca...
 id: '114'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2006-10-10 10:38:07
 ---
 

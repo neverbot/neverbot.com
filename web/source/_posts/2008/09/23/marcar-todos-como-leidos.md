@@ -3,9 +3,9 @@ title: Marcar todos como leídos
 id: '961'
 author: neverbot
 tags:
-  - Blog
-  - Internet
-  - Miniblog
+  - blog
+  - internet
+  - miniblog
 date: 2008-09-23 12:47:30
 ---
 

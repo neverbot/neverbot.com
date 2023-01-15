@@ -3,8 +3,8 @@ title: neverbot.com Season 2
 id: '516'
 author: neverbot
 tags:
-  - Blog
-  - Neverbot
+  - blog
+  - neverbot
 date: 2007-09-05 12:17:01
 ---
 

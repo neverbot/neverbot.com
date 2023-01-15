@@ -3,8 +3,8 @@ title: Libertad
 id: '223'
 author: neverbot
 tags:
-  - Internet
-  - Pensamientos aleatorios
+  - internet
+  - pensamientos aleatorios
 date: 2006-11-18 18:07:26
 ---
 

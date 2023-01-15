@@ -3,8 +3,8 @@ title: Un descanso, por favor
 id: '800'
 author: neverbot
 tags:
-  - Al blog que vas
-  - Pensamientos aleatorios
+  - al blog que vas
+  - pensamientos aleatorios
 date: 2008-06-13 13:43:17
 ---
 

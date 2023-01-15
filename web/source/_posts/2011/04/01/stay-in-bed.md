@@ -3,8 +3,8 @@ title: Stay in Bed
 id: '2979'
 author: neverbot
 tags:
-  - Fotografía
-  - Pensamientos aleatorios
+  - fotografía
+  - pensamientos aleatorios
 date: 2011-04-01 20:28:14
 ---
 

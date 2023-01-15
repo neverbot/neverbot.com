@@ -3,8 +3,8 @@ title: Jarhead
 id: '176'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2006-11-05 02:44:21
 ---
 

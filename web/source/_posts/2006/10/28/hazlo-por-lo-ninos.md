@@ -3,7 +3,7 @@ title: Hazlo por lo niños...
 id: '142'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-10-28 15:01:53
 ---
 

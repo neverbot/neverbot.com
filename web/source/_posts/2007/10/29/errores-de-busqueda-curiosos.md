@@ -3,7 +3,7 @@ title: Errores de búsqueda curiosos
 id: '563'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2007-10-29 11:01:29
 ---
 

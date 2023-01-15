@@ -3,8 +3,8 @@ title: Tiempo de cambios
 id: '1228'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2009-02-24 13:19:22
 ---
 

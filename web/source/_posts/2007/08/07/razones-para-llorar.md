@@ -3,8 +3,8 @@ title: Razones para llorar
 id: '502'
 author: neverbot
 tags:
-  - Miniblog
-  - Videojuegos
+  - miniblog
+  - videojuegos
 date: 2007-08-07 10:27:38
 ---
 

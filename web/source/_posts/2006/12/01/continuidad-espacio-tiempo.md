@@ -3,8 +3,8 @@ title: Continuidad espacio-tiempo
 id: '257'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Videojuegos
+  - pensamientos aleatorios
+  - videojuegos
 date: 2006-12-01 12:24:35
 ---
 

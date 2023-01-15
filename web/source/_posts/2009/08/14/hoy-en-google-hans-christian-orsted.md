@@ -3,8 +3,8 @@ title: 'Hoy en Google: Hans Christian Ørsted'
 id: '1606'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
+  - ilustración
+  - internet
 date: 2009-08-14 20:39:14
 ---
 

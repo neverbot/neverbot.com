@@ -3,7 +3,7 @@ title: Me doy miedo a mí mismo
 id: '536'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-09-16 14:42:49
 ---
 

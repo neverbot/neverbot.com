@@ -3,9 +3,9 @@ title: Kilómetros y kilómetros
 id: '2354'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
-  - Mundo Real™
+  - blog
+  - miniblog
+  - mundo real™
 date: 2010-02-16 20:41:23
 ---
 

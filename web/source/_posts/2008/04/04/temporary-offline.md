@@ -3,8 +3,8 @@ title: Temporary Offline
 id: '763'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 comments: false
 date: 2008-04-04 09:21:44
 ---

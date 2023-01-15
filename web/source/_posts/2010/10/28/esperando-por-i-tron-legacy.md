@@ -3,7 +3,7 @@ title: Esperando por... Tron Legacy
 id: '2766'
 author: neverbot
 tags:
-  - Cine
+  - cine
   - Esperando por...
 date: 2010-10-28 09:57:56
 video: nDN0UHhBCkM

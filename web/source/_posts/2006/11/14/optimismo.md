@@ -3,8 +3,8 @@ title: Optimismo
 id: '205'
 author: neverbot
 tags:
-  - Internet
-  - Pensamientos aleatorios
+  - internet
+  - pensamientos aleatorios
 date: 2006-11-14 17:28:07
 ---
 

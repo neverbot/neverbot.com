@@ -3,8 +3,8 @@ title: YouTube ahora en "modo mundial" con vuvuzelas
 id: '2550'
 author: neverbot
 tags:
-  - Internet
-  - Mundo Real™
+  - internet
+  - mundo real™
 date: 2010-06-24 12:55:42
 ---
 

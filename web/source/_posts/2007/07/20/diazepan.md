@@ -3,9 +3,9 @@ title: Diazepan
 id: '495'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
-  - Videojuegos
+  - blog
+  - miniblog
+  - videojuegos
 date: 2007-07-20 21:05:31
 ---
 

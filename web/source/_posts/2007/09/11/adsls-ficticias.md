@@ -3,8 +3,8 @@ title: ADSLs ficticias
 id: '528'
 author: neverbot
 tags:
-  - Miniblog
-  - Mundo Real™
+  - miniblog
+  - mundo real™
 date: 2007-09-11 16:46:26
 ---
 

@@ -3,8 +3,8 @@ title: Because there isn’t one
 id: '2836'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tv
+  - pensamientos aleatorios
+  - tv
 date: 2010-12-23 23:27:30
 ---
 

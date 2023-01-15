@@ -3,8 +3,8 @@ title: An elegant weapon for a more civilized age
 id: '2888'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
+  - cine
+  - ilustración
 date: 2011-02-27 13:35:01
 ---
 

@@ -3,8 +3,8 @@ title: Comentarios sin popups
 id: '932'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2008-09-02 22:56:21
 ---
 

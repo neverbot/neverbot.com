@@ -3,8 +3,8 @@ title: Mis 5 tebeos del 2006
 id: '308'
 author: neverbot
 tags:
-  - Reseñas
-  - Tebeos
+  - reseñas
+  - tebeos
 date: 2007-01-06 22:08:07
 ---
 

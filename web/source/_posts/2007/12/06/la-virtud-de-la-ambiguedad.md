@@ -3,7 +3,7 @@ title: La virtud de la ambigüedad
 id: '616'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-12-06 13:09:14
 ---
 

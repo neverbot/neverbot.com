@@ -3,8 +3,8 @@ title: Chachi que sí
 id: '867'
 author: neverbot
 tags:
-  - Cine
-  - Pensamientos aleatorios
+  - cine
+  - pensamientos aleatorios
 date: 2008-08-08 08:38:36
 ---
 

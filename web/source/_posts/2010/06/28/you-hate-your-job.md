@@ -3,7 +3,7 @@ title: You hate your job?
 id: '2583'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2010-06-28 11:22:14
 ---
 

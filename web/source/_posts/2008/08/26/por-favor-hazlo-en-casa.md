@@ -3,7 +3,7 @@ title: Por favor, hazlo en casa
 id: '908'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2008-08-26 11:17:19
 ---
 

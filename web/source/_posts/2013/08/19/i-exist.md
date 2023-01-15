@@ -3,7 +3,7 @@ title: I exist
 id: '6560'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2013-08-19 23:06:00
 ---
 

@@ -3,7 +3,7 @@ title: Básicamente es como una enfermedad
 id: '700'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-02-07 16:59:14
 ---
 

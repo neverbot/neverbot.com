@@ -3,7 +3,7 @@ title: 'Hoy en Google: El gato de Schrödinger'
 id: '6536'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2013-08-12 18:29:04
 ---
 

@@ -3,8 +3,8 @@ title: Versiones beta perpetuas
 id: '762'
 author: neverbot
 tags:
-  - Internet
-  - Miniblog
+  - internet
+  - miniblog
 date: 2008-03-24 10:27:28
 ---
 

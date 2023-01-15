@@ -3,9 +3,9 @@ title: ¿Qué es eso del HeroClix?
 id: '922'
 author: neverbot
 tags:
-  - ¿Sabías que...?
-  - Juegos
-  - Tebeos
+  - ¿sabías que...?
+  - juegos
+  - tebeos
 date: 2008-08-29 13:51:41
 ---
 

@@ -3,8 +3,8 @@ title: Strangers in Paradise
 id: '323'
 author: neverbot
 tags:
-  - Reseñas
-  - Tebeos
+  - reseñas
+  - tebeos
 date: 2007-01-11 21:38:14
 ---
 

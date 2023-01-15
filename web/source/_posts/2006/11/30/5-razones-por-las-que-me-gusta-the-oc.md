@@ -3,8 +3,8 @@ title: 5 razones por las que me gusta The O.C.
 id: '250'
 author: neverbot
 tags:
-  - Tebeos
-  - Tv
+  - tebeos
+  - tv
 date: 2006-11-30 16:16:42
 ---
 

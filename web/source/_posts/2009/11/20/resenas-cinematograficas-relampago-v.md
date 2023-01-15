@@ -3,8 +3,8 @@ title: Reseñas cinematográficas relámpago (V)
 id: '2102'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2009-11-20 22:24:32
 ---
 

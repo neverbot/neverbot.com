@@ -3,8 +3,8 @@ title: El antes y después de George Lucas
 id: '1595'
 author: neverbot
 tags:
-  - Cine
-  - Clásicos de Internet
+  - cine
+  - clásicos de internet
 date: 2009-08-14 10:16:53
 ---
 

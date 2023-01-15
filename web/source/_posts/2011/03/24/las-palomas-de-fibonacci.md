@@ -3,7 +3,7 @@ title: Las palomas de Fibonacci
 id: '2957'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2011-03-24 20:16:01
 ---
 

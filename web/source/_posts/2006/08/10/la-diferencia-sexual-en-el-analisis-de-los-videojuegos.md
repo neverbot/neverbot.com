@@ -3,9 +3,9 @@ title: La diferencia sexual en el análisis de los videojuegos
 id: '34'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
-  - Videojuegos
+  - blog
+  - mundo real™
+  - videojuegos
 date: 2006-08-10 12:41:16
 ---
 

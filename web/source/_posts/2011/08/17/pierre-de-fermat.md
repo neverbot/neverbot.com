@@ -3,7 +3,7 @@ title: Pierre de Fermat
 id: '3062'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2011-08-17 11:13:17
 ---
 

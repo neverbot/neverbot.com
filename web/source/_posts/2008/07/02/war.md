@@ -3,8 +3,8 @@ title: War!
 id: '819'
 author: neverbot
 tags:
-  - Internet
-  - Tebeos
+  - internet
+  - tebeos
 date: 2008-07-02 10:41:10
 ---
 

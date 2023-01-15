@@ -3,8 +3,8 @@ title: Immediate, accidental self-dismemberment
 id: '3005'
 author: neverbot
 tags:
-  - Cine
-  - Humor
+  - cine
+  - humor
 date: 2011-04-08 15:30:53
 ---
 

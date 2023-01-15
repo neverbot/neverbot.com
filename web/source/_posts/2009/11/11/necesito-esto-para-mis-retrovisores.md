@@ -3,8 +3,8 @@ title: Necesito esto para mis retrovisores
 id: '2074'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Videojuegos
+  - mundo real™
+  - videojuegos
 date: 2009-11-11 11:30:34
 ---
 

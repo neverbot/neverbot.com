@@ -3,8 +3,8 @@ title: Become a fan
 id: '2409'
 author: neverbot
 tags:
-  - Humor
-  - Internet
+  - humor
+  - internet
 date: 2010-02-28 21:43:17
 ---
 

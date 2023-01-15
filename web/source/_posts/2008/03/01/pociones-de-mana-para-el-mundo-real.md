@@ -3,7 +3,7 @@ title: Pociones de maná para el Mundo Real™
 id: '733'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2008-03-01 13:20:55
 ---
 

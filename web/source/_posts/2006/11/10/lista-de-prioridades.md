@@ -3,7 +3,7 @@ title: Lista de prioridades
 id: '185'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-11-10 13:24:58
 ---
 

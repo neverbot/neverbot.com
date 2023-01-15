@@ -3,7 +3,7 @@ title: De la moralidad moderna y el cine de los sesenta
 id: '5416'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2012-11-06 20:50:45
 ---
 

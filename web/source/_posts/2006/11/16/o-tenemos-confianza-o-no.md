@@ -3,7 +3,7 @@ title: O tenemos confianza, o no
 id: '209'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-11-16 13:25:41
 ---
 

@@ -3,8 +3,8 @@ title: Stay calm and keep on target
 id: '2903'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
+  - cine
+  - ilustración
 date: 2011-03-05 20:17:35
 ---
 

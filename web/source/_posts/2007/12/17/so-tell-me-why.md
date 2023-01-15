@@ -3,8 +3,8 @@ title: So tell me why...
 id: '637'
 author: neverbot
 tags:
-  - Blog
-  - Música
+  - blog
+  - música
 date: 2007-12-17 15:34:38
 video: -Kobdb37Cwc
 ---

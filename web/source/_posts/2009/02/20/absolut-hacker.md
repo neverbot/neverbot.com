@@ -3,8 +3,8 @@ title: Absolut Hacker
 id: '1189'
 author: neverbot
 tags:
-  - Informática
-  - Publicidad
+  - informática
+  - publicidad
 date: 2009-02-20 11:58:26
 ---
 

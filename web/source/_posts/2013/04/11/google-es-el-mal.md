@@ -3,7 +3,7 @@ title: Google es el mal
 id: '6096'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2013-04-11 13:19:10
 ---
 

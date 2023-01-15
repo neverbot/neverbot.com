@@ -3,7 +3,7 @@ title: 'Recomendación del lunes: Espinete no existe'
 id: '410'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-04-02 16:45:58
 ---
 

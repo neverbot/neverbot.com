@@ -3,8 +3,8 @@ title: Mi tarjeta de visita
 id: '2546'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2010-06-05 17:38:13
 ---
 

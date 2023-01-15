@@ -3,7 +3,7 @@ title: Pensamientos profundos
 id: '319'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-01-09 16:58:27
 ---
 

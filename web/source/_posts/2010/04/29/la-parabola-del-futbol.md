@@ -3,7 +3,7 @@ title: La parábola del fútbol
 id: '2503'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
   - Opinión
 comments: false
 date: 2010-04-29 09:54:41

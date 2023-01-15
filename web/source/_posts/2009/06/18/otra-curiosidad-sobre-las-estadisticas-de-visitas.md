@@ -3,9 +3,9 @@ title: Otra curiosidad sobre las estadísticas de visitas
 id: '1444'
 author: neverbot
 tags:
-  - Internet
-  - Neverbot
-  - Publicidad
+  - internet
+  - neverbot
+  - publicidad
 date: 2009-06-18 11:41:48
 ---
 

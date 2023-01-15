@@ -3,7 +3,7 @@ title: Conveniencia
 id: '239'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-11-27 19:54:03
 ---
 

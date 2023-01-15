@@ -3,8 +3,8 @@ title: Microsoft y la diversificación de negocio
 id: '422'
 author: neverbot
 tags:
-  - Humor
-  - Informática
+  - humor
+  - informática
 date: 2007-04-19 11:33:20
 ---
 

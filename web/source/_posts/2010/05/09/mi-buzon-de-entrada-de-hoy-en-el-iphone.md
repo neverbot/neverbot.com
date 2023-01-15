@@ -3,9 +3,9 @@ title: Mi buzón de entrada de hoy en el iPhone
 id: '2508'
 author: neverbot
 tags:
-  - Blog
-  - Humor
-  - Internet
+  - blog
+  - humor
+  - internet
 date: 2010-05-09 01:30:44
 ---
 

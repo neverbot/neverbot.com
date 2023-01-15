@@ -3,8 +3,8 @@ title: Cuando uno no llega ni al nivel de Harry Potter...
 id: '2489'
 author: neverbot
 tags:
-  - Cine
-  - Tv
+  - cine
+  - tv
 date: 2010-04-15 09:25:03
 ---
 

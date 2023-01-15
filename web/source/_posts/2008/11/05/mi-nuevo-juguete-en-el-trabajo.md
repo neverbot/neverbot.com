@@ -3,8 +3,8 @@ title: Mi nuevo juguete (en el trabajo)
 id: '1086'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2008-11-05 11:34:51
 ---
 

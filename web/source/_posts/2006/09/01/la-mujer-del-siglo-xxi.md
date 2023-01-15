@@ -3,7 +3,7 @@ title: ¿La mujer del siglo XXI?
 id: '62'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2006-09-01 09:41:31
 ---
 

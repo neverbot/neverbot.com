@@ -3,7 +3,7 @@ title: En resumiendo (3 meses de neverbot)
 id: '138'
 author: neverbot
 tags:
-  - Neverbot
+  - neverbot
 date: 2006-10-24 20:54:27
 ---
 

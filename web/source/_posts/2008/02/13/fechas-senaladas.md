@@ -3,8 +3,8 @@ title: Fechas señaladas
 id: '702'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2008-02-13 11:49:46
 ---
 

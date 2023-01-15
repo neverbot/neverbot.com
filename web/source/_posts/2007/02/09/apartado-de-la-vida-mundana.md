@@ -3,8 +3,8 @@ title: Apartado de la vida mundana
 id: '366'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-02-09 10:31:21
 ---
 

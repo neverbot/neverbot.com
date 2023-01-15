@@ -3,7 +3,7 @@ title: Siempre la verdad...
 id: '734'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-03-03 22:30:27
 ---
 

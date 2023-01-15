@@ -3,8 +3,8 @@ title: Volviendo a Instagram
 id: '7733'
 author: neverbot
 tags:
-  - Internet
-  - Neverbot
+  - internet
+  - neverbot
 date: 2017-08-10 19:45:23
 ---
 

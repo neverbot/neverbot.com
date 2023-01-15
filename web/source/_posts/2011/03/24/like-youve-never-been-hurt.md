@@ -3,7 +3,7 @@ title: Like you've never been hurt
 id: '2959'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2011-03-24 23:55:09
 ---
 

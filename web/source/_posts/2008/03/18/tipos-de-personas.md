@@ -3,7 +3,7 @@ title: Tipos de personas...
 id: '760'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-03-18 21:13:44
 ---
 

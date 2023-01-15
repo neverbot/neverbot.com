@@ -3,7 +3,7 @@ title: 'Recomendación de la semana: Heroes'
 id: '272'
 author: neverbot
 tags:
-  - Tv
+  - tv
 date: 2006-12-12 18:32:32
 ---
 

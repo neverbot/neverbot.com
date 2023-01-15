@@ -3,8 +3,8 @@ title: Absurdo. Completamente.
 id: '2072'
 author: neverbot
 tags:
-  - Fotografía
-  - Humor
+  - fotografía
+  - humor
 date: 2009-11-11 11:04:04
 ---
 

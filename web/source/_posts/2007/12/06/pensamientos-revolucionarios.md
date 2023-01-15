@@ -3,8 +3,8 @@ title: Pensamientos revolucionarios
 id: '613'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-12-06 12:11:47
 ---
 

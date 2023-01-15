@@ -3,8 +3,8 @@ title: Johnnie Walker Cola
 id: '1663'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Publicidad
+  - mundo real™
+  - publicidad
 date: 2009-08-20 10:52:06
 ---
 

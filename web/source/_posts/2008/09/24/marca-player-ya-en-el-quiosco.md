@@ -3,8 +3,8 @@ title: Marca Player ya en el quiosco
 id: '963'
 author: neverbot
 tags:
-  - Miniblog
-  - Videojuegos
+  - miniblog
+  - videojuegos
 date: 2008-09-24 13:53:32
 ---
 

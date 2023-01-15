@@ -3,8 +3,8 @@ title: All good things are wild and free
 id: '1889'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2009-09-30 23:26:14
 ---
 

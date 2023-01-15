@@ -3,7 +3,7 @@ title: Algunas novedades en el blog
 id: '7493'
 author: neverbot
 tags:
-  - Neverbot
+  - neverbot
 date: 2014-08-26 20:57:32
 ---
 

@@ -3,7 +3,7 @@ title: Aburrimiento infinito
 id: '456'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-05-23 13:00:47
 ---
 

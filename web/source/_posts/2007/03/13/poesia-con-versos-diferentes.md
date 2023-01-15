@@ -3,8 +3,8 @@ title: Poesía con versos diferentes
 id: '398'
 author: neverbot
 tags:
-  - Informática
-  - Pensamientos aleatorios
+  - informática
+  - pensamientos aleatorios
 date: 2007-03-13 15:39:43
 ---
 

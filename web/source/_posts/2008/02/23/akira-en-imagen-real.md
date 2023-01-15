@@ -3,8 +3,8 @@ title: Akira en imagen real
 id: '717'
 author: neverbot
 tags:
-  - Cine
-  - Tebeos
+  - cine
+  - tebeos
 date: 2008-02-23 14:25:07
 ---
 

@@ -3,7 +3,7 @@ title: Are you sad?
 id: '565'
 author: neverbot
 tags:
-  - Publicidad
+  - publicidad
 date: 2007-10-29 15:51:42
 ---
 

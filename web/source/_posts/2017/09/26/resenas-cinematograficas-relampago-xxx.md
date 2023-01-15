@@ -3,8 +3,8 @@ title: Reseñas cinematográficas relámpago (XXX)
 id: '7756'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2017-09-26 19:42:05
 ---
 

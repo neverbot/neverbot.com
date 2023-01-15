@@ -3,8 +3,8 @@ title: ¿Cómo se llamaba esa palabra?
 id: '53'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tebeos
+  - pensamientos aleatorios
+  - tebeos
 date: 2006-08-22 20:19:32
 ---
 

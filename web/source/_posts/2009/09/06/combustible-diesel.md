@@ -3,8 +3,8 @@ title: Combustible Diesel
 id: '1739'
 author: neverbot
 tags:
-  - Cine
-  - Humor
+  - cine
+  - humor
 date: 2009-09-06 12:38:28
 ---
 

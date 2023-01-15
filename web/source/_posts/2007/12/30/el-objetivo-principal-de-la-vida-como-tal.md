@@ -3,7 +3,7 @@ title: El objetivo principal de la vida como tal
 id: '659'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-12-30 16:08:01
 ---
 

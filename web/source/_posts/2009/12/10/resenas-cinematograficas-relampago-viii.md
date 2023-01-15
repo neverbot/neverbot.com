@@ -3,8 +3,8 @@ title: Reseñas cinematográficas relámpago (VIII)
 id: '2164'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2009-12-10 12:54:52
 ---
 

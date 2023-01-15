@@ -3,7 +3,7 @@ title: Actualizado el tema del blog
 id: '7495'
 author: neverbot
 tags:
-  - Neverbot
+  - neverbot
 date: 2014-09-14 20:59:38
 ---
 

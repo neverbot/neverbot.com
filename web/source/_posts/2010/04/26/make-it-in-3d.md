@@ -3,8 +3,8 @@ title: Make it in 3D
 id: '2497'
 author: neverbot
 tags:
-  - Cine
-  - Pensamientos aleatorios
+  - cine
+  - pensamientos aleatorios
 date: 2010-04-26 10:57:01
 ---
 

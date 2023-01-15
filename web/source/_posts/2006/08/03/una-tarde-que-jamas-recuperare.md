@@ -3,7 +3,7 @@ title: Una tarde que jamás recuperaré...
 id: '23'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2006-08-03 22:00:26
 ---
 

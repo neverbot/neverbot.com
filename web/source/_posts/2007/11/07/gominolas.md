@@ -3,8 +3,8 @@ title: ¿Gominolas?
 id: '573'
 author: neverbot
 tags:
-  - Miniblog
-  - Tv
+  - miniblog
+  - tv
 date: 2007-11-07 09:31:03
 ---
 

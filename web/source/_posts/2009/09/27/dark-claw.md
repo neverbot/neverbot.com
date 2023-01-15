@@ -3,8 +3,8 @@ title: Dark Claw
 id: '1852'
 author: neverbot
 tags:
-  - Humor
-  - Tebeos
+  - humor
+  - tebeos
 date: 2009-09-27 01:05:53
 ---
 

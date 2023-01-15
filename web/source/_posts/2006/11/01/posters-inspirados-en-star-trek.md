@@ -3,8 +3,8 @@ title: Posters inspirados en Star Trek
 id: '152'
 author: neverbot
 tags:
-  - Cine
-  - Tv
+  - cine
+  - tv
 date: 2006-11-01 11:05:09
 ---
 

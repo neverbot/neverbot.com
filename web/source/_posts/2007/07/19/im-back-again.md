@@ -3,8 +3,8 @@ title: I'm back (again)
 id: '482'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-07-19 18:47:52
 ---
 

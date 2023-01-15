@@ -3,7 +3,7 @@ title: ¡Tumblr!
 id: '3025'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2011-04-23 14:24:18
 ---
 

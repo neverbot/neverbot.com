@@ -3,8 +3,8 @@ title: 'Mordor: La red social'
 id: '2953'
 author: neverbot
 tags:
-  - Cine
-  - Libros
+  - cine
+  - libros
 date: 2011-03-23 22:47:57
 ---
 

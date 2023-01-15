@@ -3,8 +3,8 @@ title: 'Terminado: Portal'
 id: '2565'
 author: neverbot
 tags:
-  - Reseñas
-  - Videojuegos
+  - reseñas
+  - videojuegos
 date: 2010-06-26 12:33:48
 ---
 

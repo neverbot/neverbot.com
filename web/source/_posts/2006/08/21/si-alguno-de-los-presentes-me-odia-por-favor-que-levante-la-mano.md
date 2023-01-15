@@ -3,8 +3,8 @@ title: Si alguno de los presentes me odia, por favor que levante la mano
 id: '49'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2006-08-21 10:46:33
 ---
 

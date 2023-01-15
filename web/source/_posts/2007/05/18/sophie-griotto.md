@@ -3,7 +3,7 @@ title: Sophie Griotto
 id: '444'
 author: neverbot
 tags:
-  - Ilustración
+  - ilustración
 date: 2007-05-18 10:45:22
 ---
 

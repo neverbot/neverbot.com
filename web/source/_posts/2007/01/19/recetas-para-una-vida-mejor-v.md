@@ -3,9 +3,9 @@ title: Recetas para una vida mejor (V)
 id: '342'
 author: neverbot
 tags:
-  - Blog
-  - Informática
-  - Mundo Real™
+  - blog
+  - informática
+  - mundo real™
 date: 2007-01-19 11:47:09
 ---
 

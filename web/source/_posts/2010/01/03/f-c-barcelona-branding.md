@@ -3,9 +3,9 @@ title: F.C. Barcelona branding
 id: '2237'
 author: neverbot
 tags:
-  - Ilustración
-  - Mundo Real™
-  - Publicidad
+  - ilustración
+  - mundo real™
+  - publicidad
 date: 2010-01-03 22:57:08
 ---
 

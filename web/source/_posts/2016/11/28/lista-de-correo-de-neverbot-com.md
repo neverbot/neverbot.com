@@ -3,8 +3,8 @@ title: Lista de correo de neverbot.com
 id: '7688'
 author: neverbot
 tags:
-  - Internet
-  - Neverbot
+  - internet
+  - neverbot
 date: 2016-11-28 18:52:44
 ---
 

@@ -3,7 +3,7 @@ title: Eres un gafapasta
 id: '688'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2008-01-23 17:42:36
 ---
 

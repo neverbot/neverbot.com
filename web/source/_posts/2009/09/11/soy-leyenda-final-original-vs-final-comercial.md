@@ -3,7 +3,7 @@ title: 'Soy leyenda: final original vs. final comercial'
 id: '1784'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2009-09-11 13:50:19
 ---
 

@@ -3,7 +3,7 @@ title: Las cosas bonitas que tiene la vida...
 id: '270'
 author: neverbot
 tags:
-  - Fotografía
+  - fotografía
 date: 2006-12-09 19:17:03
 ---
 

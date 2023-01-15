@@ -5,8 +5,8 @@ title: >-
 id: '634'
 author: neverbot
 tags:
-  - Blog
-  - Tv
+  - blog
+  - tv
 date: 2007-12-14 10:26:32
 ---
 

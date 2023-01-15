@@ -3,8 +3,8 @@ title: Cómo perder tu trabajo a través de Facebook
 id: '1545'
 author: neverbot
 tags:
-  - Internet
-  - Mundo Real™
+  - internet
+  - mundo real™
 date: 2009-08-11 11:38:03
 ---
 

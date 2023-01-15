@@ -3,8 +3,8 @@ title: Perlas de sabiduría (IV)
 id: '584'
 author: neverbot
 tags:
-  - Miniblog
-  - Tv
+  - miniblog
+  - tv
 date: 2007-11-19 16:51:25
 ---
 

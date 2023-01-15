@@ -3,7 +3,7 @@ title: ¿Quién querrías ser?
 id: '823'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-07-03 12:17:01
 ---
 

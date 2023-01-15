@@ -3,7 +3,7 @@ title: ¿Y sin Internet?
 id: '376'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2007-02-14 16:47:49
 ---
 

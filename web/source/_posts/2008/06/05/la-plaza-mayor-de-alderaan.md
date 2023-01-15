@@ -3,8 +3,8 @@ title: La plaza mayor de Alderaan
 id: '794'
 author: neverbot
 tags:
-  - Cine
-  - Humor
+  - cine
+  - humor
 date: 2008-06-05 13:02:03
 ---
 

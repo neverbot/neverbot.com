@@ -3,7 +3,7 @@ title: Intenta hacer algo
 id: '2502'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2010-04-26 12:44:39
 ---
 

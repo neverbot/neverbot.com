@@ -3,8 +3,8 @@ title: Sorpresas con el hosting
 id: '799'
 author: neverbot
 tags:
-  - Internet
-  - Neverbot
+  - internet
+  - neverbot
 date: 2008-06-11 23:07:36
 ---
 

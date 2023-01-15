@@ -4,10 +4,10 @@ id: '2053'
 author: neverbot
 tags:
   - Compras
-  - Libros
+  - libros
   - juegos
     - Rol
-  - Tebeos
+  - tebeos
 date: 2009-11-10 11:18:39
 ---
 

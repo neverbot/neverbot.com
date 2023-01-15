@@ -3,8 +3,8 @@ title: Ponte traje
 id: '3076'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Videojuegos
+  - pensamientos aleatorios
+  - videojuegos
 date: 2011-11-28 18:10:53
 ---
 

@@ -3,7 +3,7 @@ title: Gatos de combate
 id: '475'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-06-13 10:38:17
 ---
 

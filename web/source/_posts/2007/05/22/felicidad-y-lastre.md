@@ -3,7 +3,7 @@ title: Felicidad y lastre
 id: '455'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-05-22 00:09:15
 ---
 

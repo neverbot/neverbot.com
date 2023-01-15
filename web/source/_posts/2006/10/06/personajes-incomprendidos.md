@@ -3,8 +3,8 @@ title: Personajes incomprendidos
 id: '111'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tv
+  - pensamientos aleatorios
+  - tv
 date: 2006-10-06 09:28:44
 ---
 

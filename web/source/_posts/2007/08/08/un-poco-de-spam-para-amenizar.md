@@ -3,8 +3,8 @@ title: Un poco de spam para amenizar
 id: '507'
 author: neverbot
 tags:
-  - Humor
-  - Internet
+  - humor
+  - internet
 date: 2007-08-08 17:06:05
 ---
 

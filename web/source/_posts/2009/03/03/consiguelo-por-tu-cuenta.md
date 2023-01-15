@@ -3,8 +3,8 @@ title: Consíguelo por tu cuenta
 id: '1265'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tv
+  - pensamientos aleatorios
+  - tv
 date: 2009-03-03 23:11:24
 ---
 

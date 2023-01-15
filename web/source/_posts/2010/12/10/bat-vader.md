@@ -3,9 +3,9 @@ title: Bat-Vader
 id: '2812'
 author: neverbot
 tags:
-  - Cine
-  - Humor
-  - Tebeos
+  - cine
+  - humor
+  - tebeos
 date: 2010-12-10 11:16:15
 ---
 

@@ -3,8 +3,8 @@ title: Bad Girls
 id: '207'
 author: neverbot
 tags:
-  - Fotografía
-  - Publicidad
+  - fotografía
+  - publicidad
 date: 2006-11-16 13:16:22
 ---
 

@@ -3,8 +3,8 @@ title: Harry Houdini en Google
 id: '2955'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
+  - ilustración
+  - internet
 date: 2011-03-24 11:47:34
 ---
 

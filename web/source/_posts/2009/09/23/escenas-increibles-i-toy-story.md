@@ -3,8 +3,8 @@ title: 'Escenas increíbles (I): Toy Story'
 id: '1829'
 author: neverbot
 tags:
-  - Cine
-  - Escenas
+  - cine
+  - escenas
 date: 2009-09-23 19:24:37
 ---
 

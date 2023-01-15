@@ -3,9 +3,9 @@ title: Calvin & Hobbes vs. Star Wars
 id: '2892'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
-  - Tebeos
+  - cine
+  - ilustración
+  - tebeos
 date: 2011-02-27 13:43:19
 ---
 

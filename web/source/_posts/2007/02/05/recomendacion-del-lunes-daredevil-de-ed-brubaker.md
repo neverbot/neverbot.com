@@ -3,8 +3,8 @@ title: 'Recomendación del lunes: Daredevil, de Ed Brubaker'
 id: '364'
 author: neverbot
 tags:
-  - Reseñas
-  - Tebeos
+  - reseñas
+  - tebeos
 date: 2007-02-05 20:01:07
 ---
 

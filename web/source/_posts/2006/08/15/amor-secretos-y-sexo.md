@@ -3,8 +3,8 @@ title: Amor, Secretos y Sexo
 id: '41'
 author: neverbot
 tags:
-  - Blog
-  - Tv
+  - blog
+  - tv
 date: 2006-08-15 16:27:16
 ---
 

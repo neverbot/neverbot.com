@@ -3,8 +3,8 @@ title: No es que yo sea vago, es que no me da la gana
 id: '3119'
 author: neverbot
 tags:
-  - Cine
-  - Pensamientos aleatorios
+  - cine
+  - pensamientos aleatorios
 date: 2012-05-27 13:12:38
 ---
 

@@ -3,8 +3,8 @@ title: El bien común
 id: '469'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tebeos
+  - pensamientos aleatorios
+  - tebeos
 date: 2007-05-31 04:51:30
 ---
 

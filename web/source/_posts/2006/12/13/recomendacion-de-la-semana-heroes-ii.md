@@ -3,8 +3,8 @@ title: 'Recomendación de la semana: Heroes (II)'
 id: '275'
 author: neverbot
 tags:
-  - Tebeos
-  - Tv
+  - tebeos
+  - tv
 date: 2006-12-13 13:34:14
 ---
 

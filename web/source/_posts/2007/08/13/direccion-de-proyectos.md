@@ -3,9 +3,9 @@ title: Dirección de proyectos
 id: '511'
 author: neverbot
 tags:
-  - Humor
-  - Informática
-  - Mundo Real™
+  - humor
+  - informática
+  - mundo real™
 date: 2007-08-13 14:53:31
 ---
 

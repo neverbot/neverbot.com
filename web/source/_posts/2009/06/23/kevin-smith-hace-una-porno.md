@@ -3,9 +3,9 @@ title: Kevin Smith hace una porno
 id: '1457'
 author: neverbot
 tags:
-  - Blog
-  - Cine
-  - Tv
+  - blog
+  - cine
+  - tv
 date: 2009-06-23 18:44:51
 ---
 

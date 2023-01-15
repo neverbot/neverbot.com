@@ -3,7 +3,7 @@ title: Botellas de Coca-Cola
 id: '2064'
 author: neverbot
 tags:
-  - Publicidad
+  - publicidad
 date: 2009-11-10 19:41:09
 ---
 

@@ -3,7 +3,7 @@ title: Funcionamiento masculino
 id: '369'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-02-09 17:43:57
 ---
 

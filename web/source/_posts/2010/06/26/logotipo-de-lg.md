@@ -3,8 +3,8 @@ title: Logotipo de LG
 id: '2574'
 author: neverbot
 tags:
-  - Blog
-  - Videojuegos
+  - blog
+  - videojuegos
 date: 2010-06-26 18:10:11
 ---
 

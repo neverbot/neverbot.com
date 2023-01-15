@@ -3,9 +3,9 @@ title: Blog.Worm
 id: '446'
 author: neverbot
 tags:
-  - Humor
-  - Internet
-  - Neverbot
+  - humor
+  - internet
+  - neverbot
 date: 2007-05-18 10:54:30
 ---
 

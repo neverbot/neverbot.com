@@ -3,9 +3,9 @@ title: Ikea y las ambiguedades publicitarias
 id: '2655'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Publicidad
-  - Tv
+  - pensamientos aleatorios
+  - publicidad
+  - tv
 date: 2010-08-22 13:08:33
 ---
 

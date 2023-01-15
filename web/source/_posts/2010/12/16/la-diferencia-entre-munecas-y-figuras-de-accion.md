@@ -3,8 +3,8 @@ title: La diferencia entre muñecas y figuras de acción
 id: '2833'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - mundo real™
+  - pensamientos aleatorios
 date: 2010-12-16 21:23:16
 ---
 

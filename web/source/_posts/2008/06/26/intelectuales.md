@@ -3,7 +3,7 @@ title: Intelectuales
 id: '810'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-06-26 09:31:17
 ---
 

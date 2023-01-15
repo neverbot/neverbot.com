@@ -3,10 +3,10 @@ title: Cobraganda
 id: '811'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
-  - Publicidad
-  - Tebeos
+  - cine
+  - ilustración
+  - publicidad
+  - tebeos
 date: 2008-06-26 12:25:21
 ---
 

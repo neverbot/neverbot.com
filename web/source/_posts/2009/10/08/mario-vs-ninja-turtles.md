@@ -3,8 +3,8 @@ title: Mario vs Ninja Turtles
 id: '1916'
 author: neverbot
 tags:
-  - Ilustración
-  - Videojuegos
+  - ilustración
+  - videojuegos
 date: 2009-10-08 12:17:40
 ---
 

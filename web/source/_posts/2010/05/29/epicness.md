@@ -3,9 +3,9 @@ title: Epicness
 id: '2543'
 author: neverbot
 tags:
-  - Blog
-  - Cine
-  - Fotografía
+  - blog
+  - cine
+  - fotografía
 date: 2010-05-29 17:13:34
 ---
 

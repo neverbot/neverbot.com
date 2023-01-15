@@ -3,8 +3,8 @@ title: Sentirse estúpido
 id: '318'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - mundo real™
+  - pensamientos aleatorios
 date: 2007-01-08 21:49:57
 ---
 

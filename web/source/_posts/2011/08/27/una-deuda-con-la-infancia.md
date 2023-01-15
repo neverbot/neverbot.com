@@ -3,8 +3,8 @@ title: Una deuda con la infancia...
 id: '3072'
 author: neverbot
 tags:
-  - Cine
-  - Tebeos
+  - cine
+  - tebeos
 date: 2011-08-27 18:40:19
 ---
 

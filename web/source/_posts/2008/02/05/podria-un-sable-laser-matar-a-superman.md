@@ -3,9 +3,9 @@ title: ¿Podría un sable láser matar a Superman?
 id: '697'
 author: neverbot
 tags:
-  - Blog
-  - Cine
-  - Tebeos
+  - blog
+  - cine
+  - tebeos
 date: 2008-02-05 21:53:49
 ---
 

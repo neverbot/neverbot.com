@@ -3,8 +3,8 @@ title: Esto ya os lo hemos arreglado entre todos punto org
 id: '2395'
 author: neverbot
 tags:
-  - Internet
-  - Mundo Real™
+  - internet
+  - mundo real™
   - Opinión
 date: 2010-02-26 11:42:09
 ---

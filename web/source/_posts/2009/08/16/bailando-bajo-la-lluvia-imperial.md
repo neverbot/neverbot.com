@@ -3,8 +3,8 @@ title: Bailando bajo la lluvia imperial
 id: '1624'
 author: neverbot
 tags:
-  - Blog
-  - Cine
+  - blog
+  - cine
 date: 2009-08-16 19:13:22
 ---
 

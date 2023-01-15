@@ -3,7 +3,7 @@ title: El mundo está lleno de idiotas, pero...
 id: '52'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-08-21 21:27:09
 ---
 

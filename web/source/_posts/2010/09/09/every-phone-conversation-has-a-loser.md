@@ -3,7 +3,7 @@ title: Every phone conversation has a loser
 id: '2694'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2010-09-09 09:37:55
 ---
 

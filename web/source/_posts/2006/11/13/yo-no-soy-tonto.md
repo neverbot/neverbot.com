@@ -3,7 +3,7 @@ title: Yo no soy tonto
 id: '200'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 comments: false
 date: 2006-11-13 16:41:25
 ---

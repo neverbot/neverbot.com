@@ -3,8 +3,8 @@ title: Moonlight Mile
 id: '465'
 author: neverbot
 tags:
-  - Reseñas
-  - Tebeos
+  - reseñas
+  - tebeos
 date: 2007-05-30 11:41:05
 ---
 

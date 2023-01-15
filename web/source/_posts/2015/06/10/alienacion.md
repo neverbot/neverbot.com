@@ -3,8 +3,8 @@ title: Alienación
 id: '7511'
 author: neverbot
 tags:
-  - Informática
-  - Pensamientos aleatorios
+  - informática
+  - pensamientos aleatorios
 date: 2015-06-10 13:18:16
 ---
 

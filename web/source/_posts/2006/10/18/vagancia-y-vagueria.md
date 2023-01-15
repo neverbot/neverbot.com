@@ -3,7 +3,7 @@ title: Vagancia y vaguería
 id: '134'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-10-18 19:24:30
 ---
 

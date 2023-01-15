@@ -3,9 +3,9 @@ title: Una semana sin actualizar, qué verguenza
 id: '692'
 author: neverbot
 tags:
-  - Blog
-  - Informática
-  - Miniblog
+  - blog
+  - informática
+  - miniblog
 date: 2008-01-31 13:28:12
 ---
 

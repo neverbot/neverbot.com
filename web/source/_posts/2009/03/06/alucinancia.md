@@ -3,8 +3,8 @@ title: Alucinancia
 id: '1292'
 author: neverbot
 tags:
-  - Cine
-  - Pensamientos aleatorios
+  - cine
+  - pensamientos aleatorios
 date: 2009-03-06 09:54:36
 ---
 

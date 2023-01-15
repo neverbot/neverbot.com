@@ -3,8 +3,8 @@ title: Fina ironía
 id: '1790'
 author: neverbot
 tags:
-  - Clásicos de Internet
-  - Humor
+  - clásicos de internet
+  - humor
 date: 2009-09-11 14:15:47
 ---
 

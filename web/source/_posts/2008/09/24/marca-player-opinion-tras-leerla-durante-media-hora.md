@@ -3,8 +3,8 @@ title: 'Marca Player: Opinión tras leerla durante media hora'
 id: '965'
 author: neverbot
 tags:
-  - Blog
-  - Videojuegos
+  - blog
+  - videojuegos
 date: 2008-09-24 14:39:49
 ---
 

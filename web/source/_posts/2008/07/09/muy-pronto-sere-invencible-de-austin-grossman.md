@@ -3,9 +3,9 @@ title: Muy pronto seré invencible, de Austin Grossman
 id: '828'
 author: neverbot
 tags:
-  - Libros
-  - Reseñas
-  - Tebeos
+  - libros
+  - reseñas
+  - tebeos
 date: 2008-07-09 08:47:40
 ---
 

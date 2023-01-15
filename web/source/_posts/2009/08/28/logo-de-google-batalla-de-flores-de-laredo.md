@@ -3,7 +3,7 @@ title: 'Logo de Google: Batalla de Flores de Laredo'
 id: '1701'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2009-08-28 10:49:46
 ---
 

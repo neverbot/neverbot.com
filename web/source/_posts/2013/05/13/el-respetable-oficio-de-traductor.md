@@ -3,8 +3,8 @@ title: El respetable oficio de traductor
 id: '6195'
 author: neverbot
 tags:
-  - Libros
-  - Reseñas
+  - libros
+  - reseñas
 date: 2013-05-13 15:09:09
 ---
 

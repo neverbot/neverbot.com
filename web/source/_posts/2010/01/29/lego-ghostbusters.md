@@ -3,8 +3,8 @@ title: Lego Ghostbusters
 id: '2309'
 author: neverbot
 tags:
-  - Cine
-  - Juegos
+  - cine
+  - juegos
 date: 2010-01-29 11:25:17
 ---
 

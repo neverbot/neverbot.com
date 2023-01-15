@@ -3,8 +3,8 @@ title: El espíritu del mago, de Javier Negrete
 id: '7646'
 author: neverbot
 tags:
-  - Libros
-  - Reseñas
+  - libros
+  - reseñas
 date: 2016-08-10 02:19:00
 ---
 

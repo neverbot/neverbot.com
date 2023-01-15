@@ -3,8 +3,8 @@ title: Bisutería para exorcistas
 id: '470'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-05-31 16:23:50
 ---
 

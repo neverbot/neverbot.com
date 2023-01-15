@@ -3,7 +3,7 @@ title: The night of the living jedi
 id: '1849'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2009-09-27 00:47:26
 ---
 

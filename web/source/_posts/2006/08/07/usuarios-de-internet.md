@@ -3,7 +3,7 @@ title: Usuarios de internet
 id: '28'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-08-07 10:18:13
 ---
 

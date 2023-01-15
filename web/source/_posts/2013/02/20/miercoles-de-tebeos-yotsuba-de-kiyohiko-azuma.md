@@ -3,7 +3,7 @@ title: 'Miércoles de tebeos: ¡Yotsuba!, de Kiyohiko Azuma'
 id: '5965'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2013-02-20 16:56:06
 ---
 

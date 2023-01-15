@@ -3,8 +3,8 @@ title: El Legado, de R.A.Salvatore
 id: '831'
 author: neverbot
 tags:
-  - Libros
-  - Reseñas
+  - libros
+  - reseñas
   - juegos
     - Rol
 date: 2008-07-10 09:13:51

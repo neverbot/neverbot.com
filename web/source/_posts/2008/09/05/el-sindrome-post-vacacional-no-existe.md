@@ -3,8 +3,8 @@ title: El síndrome post-vacacional no existe
 id: '944'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2008-09-05 11:14:14
 ---
 

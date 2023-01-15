@@ -3,9 +3,9 @@ title: Periodismo y consultoría informática
 id: '940'
 author: neverbot
 tags:
-  - Blog
-  - Informática
-  - Mundo Real™
+  - blog
+  - informática
+  - mundo real™
 date: 2008-09-04 09:25:54
 ---
 

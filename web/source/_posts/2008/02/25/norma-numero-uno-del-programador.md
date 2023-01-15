@@ -3,7 +3,7 @@ title: Norma número uno del programador
 id: '726'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2008-02-25 22:58:35
 ---
 

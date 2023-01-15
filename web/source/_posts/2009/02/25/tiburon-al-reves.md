@@ -3,8 +3,8 @@ title: Tiburón al revés
 id: '1245'
 author: neverbot
 tags:
-  - Cine
-  - Pensamientos aleatorios
+  - cine
+  - pensamientos aleatorios
 date: 2009-02-25 23:28:14
 ---
 

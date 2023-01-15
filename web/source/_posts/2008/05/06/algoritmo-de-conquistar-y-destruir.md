@@ -3,8 +3,8 @@ title: Algoritmo de "Conquistar y destruir"
 id: '775'
 author: neverbot
 tags:
-  - Informática
-  - Mundo Real™
+  - informática
+  - mundo real™
 date: 2008-05-06 17:17:37
 ---
 

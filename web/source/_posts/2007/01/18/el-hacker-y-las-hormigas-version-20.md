@@ -3,8 +3,8 @@ title: El hacker y las hormigas, version 2.0
 id: '333'
 author: neverbot
 tags:
-  - Libros
-  - Reseñas
+  - libros
+  - reseñas
 date: 2007-01-18 10:06:10
 ---
 

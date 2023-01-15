@@ -3,7 +3,7 @@ title: Pepsi design >>> Coca-Cola design
 id: '1793'
 author: neverbot
 tags:
-  - Publicidad
+  - publicidad
 date: 2009-09-12 12:47:42
 ---
 

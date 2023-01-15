@@ -3,8 +3,8 @@ title: ¿Qué pasaría si nunca pasase nada?
 id: '241'
 author: neverbot
 tags:
-  - Blog
-  - Publicidad
+  - blog
+  - publicidad
 date: 2006-11-28 10:55:24
 ---
 

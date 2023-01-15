@@ -3,9 +3,9 @@ title: Probando Timehop
 id: '3111'
 author: neverbot
 tags:
-  - Internet
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - internet
+  - mundo real™
+  - pensamientos aleatorios
 date: 2012-04-25 11:13:07
 ---
 

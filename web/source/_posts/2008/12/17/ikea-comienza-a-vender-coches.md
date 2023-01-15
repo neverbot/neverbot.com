@@ -3,8 +3,8 @@ title: Ikea comienza a vender coches
 id: '1140'
 author: neverbot
 tags:
-  - Clásicos de Internet
-  - Humor
+  - clásicos de internet
+  - humor
 date: 2008-12-17 20:30:24
 ---
 

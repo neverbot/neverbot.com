@@ -3,8 +3,8 @@ title: Creando odio por el mundo
 id: '1049'
 author: neverbot
 tags:
-  - Fotografía
-  - Mundo Real™
+  - fotografía
+  - mundo real™
 date: 2008-10-16 09:57:52
 ---
 

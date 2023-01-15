@@ -3,8 +3,8 @@ title: Gestión de feeds ahora a través de feedburner.com
 id: '1089'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2008-11-05 12:13:17
 ---
 

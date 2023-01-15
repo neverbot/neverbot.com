@@ -3,7 +3,7 @@ title: Thor, de Dan Jurgens y John Romita Jr.
 id: '5350'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2012-10-25 00:39:52
 ---
 

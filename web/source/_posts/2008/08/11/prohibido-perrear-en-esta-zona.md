@@ -3,8 +3,8 @@ title: Prohibido perrear en esta zona
 id: '870'
 author: neverbot
 tags:
-  - Internet
-  - Música
+  - internet
+  - música
 date: 2008-08-11 11:31:39
 ---
 

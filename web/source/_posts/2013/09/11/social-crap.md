@@ -3,8 +3,8 @@ title: Social crap
 id: '6619'
 author: neverbot
 tags:
-  - Internet
-  - Neverbot
+  - internet
+  - neverbot
 date: 2013-09-11 13:53:51
 ---
 

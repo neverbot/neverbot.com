@@ -3,7 +3,7 @@ title: 'Star Wars: Saga Edition'
 id: '472'
 author: neverbot
 tags:
-  - Juegos
+  - juegos
 date: 2007-06-04 12:38:25
 ---
 

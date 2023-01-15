@@ -3,9 +3,9 @@ title: W3C Validator
 id: '494'
 author: neverbot
 tags:
-  - Informática
-  - Internet
-  - Neverbot
+  - informática
+  - internet
+  - neverbot
 date: 2007-07-20 16:24:22
 ---
 

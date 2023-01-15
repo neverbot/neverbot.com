@@ -3,8 +3,8 @@ title: Curiosidades del número de visitas
 id: '2026'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2009-11-06 20:51:29
 ---
 

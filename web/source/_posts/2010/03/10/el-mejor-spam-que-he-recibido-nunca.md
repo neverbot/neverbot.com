@@ -3,7 +3,7 @@ title: El mejor spam que he recibido nunca
 id: '2447'
 author: neverbot
 tags:
-  - Neverbot
+  - neverbot
 date: 2010-03-10 17:01:01
 ---
 

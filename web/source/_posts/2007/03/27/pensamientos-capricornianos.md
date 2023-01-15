@@ -3,7 +3,7 @@ title: Pensamientos capricornianos
 id: '404'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-03-27 01:48:53
 ---
 

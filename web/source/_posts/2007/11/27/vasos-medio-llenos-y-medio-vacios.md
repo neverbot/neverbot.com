@@ -3,7 +3,7 @@ title: Vasos medio llenos y medio vacíos
 id: '600'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-11-27 13:19:45
 ---
 

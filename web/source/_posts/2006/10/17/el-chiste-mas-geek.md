@@ -3,8 +3,8 @@ title: El chiste más geek
 id: '127'
 author: neverbot
 tags:
-  - Humor
-  - Informática
+  - humor
+  - informática
 date: 2006-10-17 22:27:52
 ---
 

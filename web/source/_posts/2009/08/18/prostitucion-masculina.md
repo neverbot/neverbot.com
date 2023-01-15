@@ -3,8 +3,8 @@ title: Prostitución masculina
 id: '1639'
 author: neverbot
 tags:
-  - Blog
-  - Humor
+  - blog
+  - humor
 date: 2009-08-18 09:59:56
 ---
 

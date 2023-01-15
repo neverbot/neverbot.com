@@ -3,8 +3,8 @@ title: Un par de detalles rápidos
 id: '288'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2006-12-22 07:55:04
 ---
 

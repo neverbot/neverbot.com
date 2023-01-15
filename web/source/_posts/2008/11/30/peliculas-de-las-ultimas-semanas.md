@@ -3,7 +3,7 @@ title: Películas de las últimas semanas
 id: '1119'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2008-11-30 21:03:17
 ---
 

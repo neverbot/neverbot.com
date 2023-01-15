@@ -3,7 +3,7 @@ title: El triángulo de las Bermudas de la productividad
 id: '2971'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2011-03-30 16:43:25
 ---
 

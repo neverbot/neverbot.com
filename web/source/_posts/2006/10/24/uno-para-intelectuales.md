@@ -3,8 +3,8 @@ title: Uno para intelectuales
 id: '137'
 author: neverbot
 tags:
-  - Humor
-  - Neverbot
+  - humor
+  - neverbot
 date: 2006-10-24 18:36:13
 ---
 

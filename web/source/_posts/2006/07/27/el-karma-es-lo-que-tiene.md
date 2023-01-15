@@ -3,7 +3,7 @@ title: El karma es lo que tiene
 id: '12'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-07-27 20:30:44
 ---
 

@@ -3,8 +3,8 @@ title: Necesito comedia, por favor
 id: '574'
 author: neverbot
 tags:
-  - Miniblog
-  - Tv
+  - miniblog
+  - tv
 date: 2007-11-07 10:16:21
 ---
 

@@ -3,8 +3,8 @@ title: How does homeopathy work?
 id: '2403'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2010-02-28 20:53:40
 ---
 

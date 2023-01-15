@@ -3,8 +3,8 @@ title: 'Hotmail: reliquia del pasado'
 id: '545'
 author: neverbot
 tags:
-  - Blog
-  - Internet
+  - blog
+  - internet
 date: 2007-09-20 11:56:59
 ---
 

@@ -3,7 +3,7 @@ title: Love note
 id: '1684'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2009-08-25 11:16:18
 ---
 

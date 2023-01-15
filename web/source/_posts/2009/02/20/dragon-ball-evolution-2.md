@@ -3,8 +3,8 @@ title: 'Dragon Ball: Evolution ¿2?'
 id: '1210'
 author: neverbot
 tags:
-  - Cine
-  - Tebeos
+  - cine
+  - tebeos
 date: 2009-02-20 14:09:43
 ---
 

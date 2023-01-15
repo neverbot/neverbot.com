@@ -3,8 +3,8 @@ title: El verdadero significado de la navidad
 id: '568'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tv
+  - pensamientos aleatorios
+  - tv
 date: 2007-11-02 12:32:42
 ---
 

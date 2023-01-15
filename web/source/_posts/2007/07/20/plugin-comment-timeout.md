@@ -3,9 +3,9 @@ title: 'Plugin: Comment Timeout'
 id: '493'
 author: neverbot
 tags:
-  - Informática
-  - Internet
-  - Neverbot
+  - informática
+  - internet
+  - neverbot
 date: 2007-07-20 15:09:30
 ---
 

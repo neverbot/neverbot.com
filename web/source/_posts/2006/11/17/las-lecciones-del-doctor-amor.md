@@ -3,7 +3,7 @@ title: Las lecciones del Doctor Amor
 id: '213'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2006-11-17 17:57:19
 ---
 

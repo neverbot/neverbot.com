@@ -3,8 +3,8 @@ title: Recopilación
 id: '6602'
 author: neverbot
 tags:
-  - Internet
-  - Resúmenes
+  - internet
+  - resúmenes
 date: 2013-09-08 18:12:05
 ---
 

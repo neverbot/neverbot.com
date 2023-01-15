@@ -3,10 +3,10 @@ title: Vuelta al trabajo
 id: '497'
 author: neverbot
 tags:
-  - Blog
-  - Informática
-  - Miniblog
-  - Mundo Real™
+  - blog
+  - informática
+  - miniblog
+  - mundo real™
 date: 2007-07-25 16:11:49
 ---
 

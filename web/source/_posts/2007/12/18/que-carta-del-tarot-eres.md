@@ -3,7 +3,7 @@ title: ¿Qué carta del tarot eres?
 id: '640'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-12-18 09:58:25
 ---
 

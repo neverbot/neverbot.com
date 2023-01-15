@@ -3,8 +3,8 @@ title: Perlas de sabiduría (III)
 id: '583'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2007-11-19 16:42:26
 ---
 

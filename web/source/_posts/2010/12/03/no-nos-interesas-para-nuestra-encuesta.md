@@ -3,8 +3,8 @@ title: No nos interesas para nuestra encuesta
 id: '2808'
 author: neverbot
 tags:
-  - Internet
-  - Mundo Real™
+  - internet
+  - mundo real™
 date: 2010-12-03 09:27:14
 ---
 

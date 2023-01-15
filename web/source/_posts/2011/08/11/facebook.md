@@ -3,8 +3,8 @@ title: ¿Facebook?
 id: '3059'
 author: neverbot
 tags:
-  - Informática
-  - Internet
+  - informática
+  - internet
 date: 2011-08-11 14:57:36
 ---
 

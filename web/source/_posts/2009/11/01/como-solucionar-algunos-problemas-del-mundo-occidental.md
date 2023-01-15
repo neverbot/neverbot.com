@@ -3,7 +3,7 @@ title: Cómo solucionar algunos problemas del mundo occidental
 id: '1973'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2009-11-01 23:55:40
 ---
 

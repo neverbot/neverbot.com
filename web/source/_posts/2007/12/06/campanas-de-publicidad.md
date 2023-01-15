@@ -3,8 +3,8 @@ title: Campañas de publicidad
 id: '618'
 author: neverbot
 tags:
-  - Fotografía
-  - Publicidad
+  - fotografía
+  - publicidad
 date: 2007-12-06 14:25:46
 ---
 

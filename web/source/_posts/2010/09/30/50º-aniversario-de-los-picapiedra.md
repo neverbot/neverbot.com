@@ -3,9 +3,9 @@ title: 50º aniversario de Los Picapiedra
 id: '2729'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
-  - Tv
+  - ilustración
+  - internet
+  - tv
 date: 2010-09-30 19:33:50
 ---
 

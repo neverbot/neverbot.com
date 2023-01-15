@@ -3,7 +3,7 @@ title: El tiempo gastado en la ducha
 id: '2922'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2011-03-07 16:48:57
 ---
 

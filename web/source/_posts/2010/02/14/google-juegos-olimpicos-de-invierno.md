@@ -3,8 +3,8 @@ title: 'Google: Juegos olímpicos de invierno'
 id: '2335'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
+  - ilustración
+  - internet
 date: 2010-02-14 11:54:27
 ---
 

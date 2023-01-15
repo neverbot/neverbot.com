@@ -3,8 +3,8 @@ title: A waste like you
 id: '6525'
 author: neverbot
 tags:
-  - Música
-  - Pensamientos aleatorios
+  - música
+  - pensamientos aleatorios
 date: 2013-08-12 13:44:30
 ---
 

@@ -3,10 +3,10 @@ title: iPad de Apple
 id: '2300'
 author: neverbot
 tags:
-  - Humor
-  - Informática
-  - Internet
-  - Mundo Real™
+  - humor
+  - informática
+  - internet
+  - mundo real™
 date: 2010-01-28 16:45:15
 ---
 

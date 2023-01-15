@@ -3,7 +3,7 @@ title: Happy Quote
 id: '47'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-08-17 11:28:56
 ---
 

@@ -3,9 +3,9 @@ title: Durísimas declaraciones
 id: '739'
 author: neverbot
 tags:
-  - Al blog que vas
-  - Libros
-  - Miniblog
+  - al blog que vas
+  - libros
+  - miniblog
 date: 2008-03-04 13:39:43
 ---
 

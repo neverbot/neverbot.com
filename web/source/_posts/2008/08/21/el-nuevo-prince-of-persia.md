@@ -3,7 +3,7 @@ title: El nuevo Prince of Persia
 id: '889'
 author: neverbot
 tags:
-  - Videojuegos
+  - videojuegos
 date: 2008-08-21 18:22:28
 ---
 

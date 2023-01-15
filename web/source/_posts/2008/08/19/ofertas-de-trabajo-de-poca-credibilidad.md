@@ -3,8 +3,8 @@ title: Ofertas de trabajo de poca credibilidad
 id: '875'
 author: neverbot
 tags:
-  - Internet
-  - Mundo Real™
+  - internet
+  - mundo real™
 date: 2008-08-19 10:56:21
 ---
 

@@ -3,8 +3,8 @@ title: Servicio de números atrasados de Ediciones Altaya (II)
 id: '541'
 author: neverbot
 tags:
-  - Libros
-  - Miniblog
+  - libros
+  - miniblog
 date: 2007-09-17 15:11:51
 ---
 

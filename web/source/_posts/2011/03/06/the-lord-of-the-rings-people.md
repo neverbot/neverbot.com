@@ -3,8 +3,8 @@ title: The Lord of the Rings people
 id: '2918'
 author: neverbot
 tags:
-  - Cine
-  - Fotografía
+  - cine
+  - fotografía
 date: 2011-03-06 22:05:08
 ---
 

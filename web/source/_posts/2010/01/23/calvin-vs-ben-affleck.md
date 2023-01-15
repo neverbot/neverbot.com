@@ -3,8 +3,8 @@ title: Calvin vs Ben Affleck
 id: '2269'
 author: neverbot
 tags:
-  - Cine
-  - Tebeos
+  - cine
+  - tebeos
 date: 2010-01-23 19:02:24
 ---
 

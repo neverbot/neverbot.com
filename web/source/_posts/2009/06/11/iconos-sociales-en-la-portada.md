@@ -3,7 +3,7 @@ title: Iconos sociales en la portada
 id: '1403'
 author: neverbot
 tags:
-  - Neverbot
+  - neverbot
 date: 2009-06-11 12:24:12
 ---
 

@@ -3,8 +3,8 @@ title: Expectativas económicas
 id: '473'
 author: neverbot
 tags:
-  - Informática
-  - Pensamientos aleatorios
+  - informática
+  - pensamientos aleatorios
 date: 2007-06-06 13:42:56
 ---
 

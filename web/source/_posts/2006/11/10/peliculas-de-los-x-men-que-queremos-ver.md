@@ -3,8 +3,8 @@ title: Películas de los X-Men que queremos ver
 id: '189'
 author: neverbot
 tags:
-  - Cine
-  - Tebeos
+  - cine
+  - tebeos
 date: 2006-11-10 13:57:59
 ---
 

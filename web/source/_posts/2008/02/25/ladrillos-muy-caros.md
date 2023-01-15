@@ -3,8 +3,8 @@ title: Ladrillos muy caros
 id: '723'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
+  - blog
+  - miniblog
 date: 2008-02-25 10:41:13
 ---
 

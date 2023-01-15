@@ -3,7 +3,7 @@ title: Realidad
 id: '101'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-10-01 01:52:40
 ---
 

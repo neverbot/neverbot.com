@@ -3,8 +3,8 @@ title: Google saca conclusiones sobre mis amistades
 id: '967'
 author: neverbot
 tags:
-  - Blog
-  - Internet
+  - blog
+  - internet
 date: 2008-09-24 15:40:37
 ---
 

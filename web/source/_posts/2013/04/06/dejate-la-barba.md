@@ -3,8 +3,8 @@ title: Déjate la barba
 id: '6086'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - mundo real™
+  - pensamientos aleatorios
 date: 2013-04-06 00:48:10
 ---
 

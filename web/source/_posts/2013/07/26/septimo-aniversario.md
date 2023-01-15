@@ -3,8 +3,8 @@ title: ¡Séptimo aniversario!
 id: '6480'
 author: neverbot
 tags:
-  - Blog
-  - Neverbot
+  - blog
+  - neverbot
 date: 2013-07-26 21:03:51
 ---
 

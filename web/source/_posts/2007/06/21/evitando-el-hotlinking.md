@@ -3,8 +3,8 @@ title: Evitando el hotlinking
 id: '479'
 author: neverbot
 tags:
-  - Internet
-  - Neverbot
+  - internet
+  - neverbot
 date: 2007-06-21 17:12:46
 ---
 

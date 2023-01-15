@@ -3,8 +3,8 @@ title: 'En Google: Hans Christian Andersen'
 id: '2484'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
+  - ilustración
+  - internet
 date: 2010-04-02 11:38:24
 ---
 

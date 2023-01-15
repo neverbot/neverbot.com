@@ -3,7 +3,7 @@ title: Afganistán
 id: '1593'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2009-08-13 18:05:24
 ---
 

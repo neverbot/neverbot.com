@@ -3,8 +3,8 @@ title: The Tv Theme Medley
 id: '2469'
 author: neverbot
 tags:
-  - Música
-  - Tv
+  - música
+  - tv
 date: 2010-03-18 10:46:23
 video: 8i7u3fl-hP8
 ---

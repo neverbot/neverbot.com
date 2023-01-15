@@ -3,8 +3,8 @@ title: 'Google: 40º aniversario de Barrio Sésamo'
 id: '2008'
 author: neverbot
 tags:
-  - Internet
-  - Tv
+  - internet
+  - tv
 date: 2009-11-04 18:39:09
 ---
 

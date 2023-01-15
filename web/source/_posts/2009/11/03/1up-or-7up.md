@@ -3,8 +3,8 @@ title: 1up or 7up
 id: '1994'
 author: neverbot
 tags:
-  - Humor
-  - Videojuegos
+  - humor
+  - videojuegos
 date: 2009-11-03 17:49:27
 ---
 

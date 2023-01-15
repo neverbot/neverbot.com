@@ -3,7 +3,7 @@ title: Do's and Don'ts with babies
 id: '716'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2008-02-21 11:46:39
 ---
 

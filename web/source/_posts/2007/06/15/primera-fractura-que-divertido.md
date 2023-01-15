@@ -3,8 +3,8 @@ title: Primera fractura, que divertido
 id: '477'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-06-15 14:13:46
 ---
 

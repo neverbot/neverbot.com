@@ -3,8 +3,8 @@ title: 'Prince of Persia: Las arenas olvidadas'
 id: '2519'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2010-05-22 01:22:17
 ---
 

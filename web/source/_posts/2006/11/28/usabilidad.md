@@ -3,7 +3,7 @@ title: Usabilidad
 id: '242'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-11-28 12:19:27
 ---
 

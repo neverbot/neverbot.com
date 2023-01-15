@@ -3,8 +3,8 @@ title: Lively de Google
 id: '830'
 author: neverbot
 tags:
-  - Internet
-  - Miniblog
+  - internet
+  - miniblog
 date: 2008-07-09 11:17:31
 ---
 

@@ -3,8 +3,8 @@ title: 'Mi nuevo juguete: Días del futuro pasado'
 id: '290'
 author: neverbot
 tags:
-  - Juegos
-  - Tebeos
+  - juegos
+  - tebeos
 date: 2006-12-23 13:45:34
 ---
 

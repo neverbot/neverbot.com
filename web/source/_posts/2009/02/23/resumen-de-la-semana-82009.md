@@ -3,7 +3,7 @@ title: Resumen de la semana 8/2009
 id: '1225'
 author: neverbot
 tags:
-  - Resúmenes
+  - resúmenes
 date: 2009-02-23 17:44:23
 ---
 

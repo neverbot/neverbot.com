@@ -3,8 +3,8 @@ title: I have a dream...
 id: '2598'
 author: neverbot
 tags:
-  - Humor
-  - Videojuegos
+  - humor
+  - videojuegos
 date: 2010-08-02 12:11:46
 ---
 

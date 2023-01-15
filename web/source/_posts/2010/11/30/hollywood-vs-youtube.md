@@ -3,7 +3,7 @@ title: Hollywood vs YouTube
 id: '2805'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2010-11-30 18:10:50
 ---
 

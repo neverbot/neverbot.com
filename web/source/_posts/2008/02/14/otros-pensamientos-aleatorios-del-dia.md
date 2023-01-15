@@ -3,7 +3,7 @@ title: Otros pensamientos aleatorios del día
 id: '706'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-02-14 18:59:12
 ---
 

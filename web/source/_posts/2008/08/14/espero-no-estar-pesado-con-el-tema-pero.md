@@ -3,8 +3,8 @@ title: Espero no estar pesado con el tema, pero...
 id: '872'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
+  - ilustración
+  - internet
 date: 2008-08-14 08:44:55
 ---
 

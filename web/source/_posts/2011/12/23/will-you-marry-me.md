@@ -3,8 +3,8 @@ title: Will you marry me?
 id: '3084'
 author: neverbot
 tags:
-  - Internet
-  - Mundo Real™
+  - internet
+  - mundo real™
 date: 2011-12-23 13:35:08
 video: yaAhxg4Lz0A
 ---

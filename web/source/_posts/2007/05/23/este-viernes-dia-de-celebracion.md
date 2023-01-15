@@ -3,8 +3,8 @@ title: Este viernes, día de celebración
 id: '460'
 author: neverbot
 tags:
-  - Cine
-  - Mundo Real™
+  - cine
+  - mundo real™
 date: 2007-05-23 15:00:33
 ---
 

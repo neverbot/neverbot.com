@@ -3,8 +3,8 @@ title: Cambios en el anti-hotlinking de imágenes
 id: '2375'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2010-02-21 19:46:24
 ---
 

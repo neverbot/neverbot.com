@@ -3,8 +3,8 @@ title: Afrontemos la realidad
 id: '2535'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - mundo real™
+  - pensamientos aleatorios
 date: 2010-05-24 21:48:06
 ---
 

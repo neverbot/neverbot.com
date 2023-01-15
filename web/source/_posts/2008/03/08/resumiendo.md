@@ -3,7 +3,7 @@ title: Resumiendo...
 id: '742'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-03-08 11:38:16
 ---
 

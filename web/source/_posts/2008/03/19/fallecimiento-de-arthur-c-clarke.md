@@ -3,9 +3,9 @@ title: Fallecimiento de Arthur C. Clarke
 id: '761'
 author: neverbot
 tags:
-  - Libros
-  - Miniblog
-  - Mundo Real™
+  - libros
+  - miniblog
+  - mundo real™
 date: 2008-03-19 12:41:27
 ---
 

@@ -3,8 +3,8 @@ title: Lemmings
 id: '1621'
 author: neverbot
 tags:
-  - Blog
-  - Videojuegos
+  - blog
+  - videojuegos
 date: 2009-08-16 19:11:49
 ---
 

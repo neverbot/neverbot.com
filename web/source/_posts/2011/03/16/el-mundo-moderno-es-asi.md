@@ -3,7 +3,7 @@ title: El mundo moderno es así
 id: '2929'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2011-03-16 12:51:18
 ---
 

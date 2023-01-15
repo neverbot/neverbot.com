@@ -3,7 +3,7 @@ title: Una de las verdades del mundo
 id: '1598'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2009-08-14 10:18:58
 ---
 

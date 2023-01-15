@@ -3,8 +3,8 @@ title: Beyond the call of duty
 id: '593'
 author: neverbot
 tags:
-  - Miniblog
-  - Videojuegos
+  - miniblog
+  - videojuegos
 date: 2007-11-26 16:58:43
 ---
 

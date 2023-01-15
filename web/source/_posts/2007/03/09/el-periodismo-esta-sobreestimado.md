@@ -3,9 +3,9 @@ title: El periodismo está sobreestimado
 id: '392'
 author: neverbot
 tags:
-  - Blog
-  - Tebeos
-  - Tv
+  - blog
+  - tebeos
+  - tv
 date: 2007-03-09 10:06:26
 ---
 

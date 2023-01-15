@@ -3,8 +3,8 @@ title: Keep being awesome!
 id: '2765'
 author: neverbot
 tags:
-  - Humor
-  - Mundo Real™
+  - humor
+  - mundo real™
 date: 2010-10-18 16:16:50
 ---
 

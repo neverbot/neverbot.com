@@ -3,9 +3,9 @@ title: 300, un posible bluff descomunal
 id: '286'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
-  - Tebeos
+  - cine
+  - reseñas
+  - tebeos
 date: 2006-12-20 17:02:40
 ---
 

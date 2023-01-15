@@ -3,8 +3,8 @@ title: Todo el mundo miente
 id: '352'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tv
+  - pensamientos aleatorios
+  - tv
 date: 2007-01-29 10:17:32
 ---
 

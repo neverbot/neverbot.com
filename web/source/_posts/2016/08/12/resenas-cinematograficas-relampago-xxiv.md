@@ -3,8 +3,8 @@ title: Reseñas cinematográficas relámpago (XXIV)
 id: '7659'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2016-08-12 12:00:53
 ---
 

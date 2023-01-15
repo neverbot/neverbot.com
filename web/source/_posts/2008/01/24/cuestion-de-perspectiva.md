@@ -3,7 +3,7 @@ title: Cuestión de perspectiva
 id: '691'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-01-24 00:34:17
 ---
 

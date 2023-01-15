@@ -3,9 +3,9 @@ title: Mini novedades [y una ilustración de Chris Ware]
 id: '2128'
 author: neverbot
 tags:
-  - Ilustración
-  - Mundo Real™
-  - Neverbot
+  - ilustración
+  - mundo real™
+  - neverbot
 date: 2009-11-27 22:02:30
 ---
 

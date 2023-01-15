@@ -3,9 +3,9 @@ title: Cómo perder todos los puntos del carnet de golpe
 id: '1872'
 author: neverbot
 tags:
-  - Fotografía
-  - Humor
-  - Mundo Real™
+  - fotografía
+  - humor
+  - mundo real™
 date: 2009-09-29 10:39:25
 ---
 

@@ -3,8 +3,8 @@ title: Qué cosas tienen esto de los túneles
 id: '432'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-05-10 10:12:00
 ---
 

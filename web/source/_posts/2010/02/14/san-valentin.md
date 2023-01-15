@@ -3,8 +3,8 @@ title: ¿San Valentín?
 id: '2337'
 author: neverbot
 tags:
-  - Humor
-  - Mundo Real™
+  - humor
+  - mundo real™
 date: 2010-02-14 14:14:38
 ---
 

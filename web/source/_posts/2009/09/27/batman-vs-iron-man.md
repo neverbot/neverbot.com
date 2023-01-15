@@ -3,8 +3,8 @@ title: Batman vs Iron Man
 id: '1864'
 author: neverbot
 tags:
-  - Ilustración
-  - Tebeos
+  - ilustración
+  - tebeos
 date: 2009-09-27 16:43:22
 ---
 

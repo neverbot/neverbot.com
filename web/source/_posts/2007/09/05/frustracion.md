@@ -3,9 +3,9 @@ title: Frustración
 id: '517'
 author: neverbot
 tags:
-  - Blog
-  - Informática
-  - Mundo Real™
+  - blog
+  - informática
+  - mundo real™
 date: 2007-09-05 14:35:32
 ---
 

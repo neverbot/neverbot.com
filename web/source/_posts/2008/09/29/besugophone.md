@@ -3,7 +3,7 @@ title: BesugoPhone
 id: '986'
 author: neverbot
 tags:
-  - Humor
+  - humor
 date: 2008-09-29 08:56:15
 ---
 

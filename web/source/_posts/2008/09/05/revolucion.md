@@ -3,7 +3,7 @@ title: Revolución
 id: '942'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-09-05 10:44:36
 ---
 

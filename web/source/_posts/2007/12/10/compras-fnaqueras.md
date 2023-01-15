@@ -3,9 +3,9 @@ title: Compras fnaqueras
 id: '623'
 author: neverbot
 tags:
-  - Blog
-  - Libros
-  - Música
+  - blog
+  - libros
+  - música
 date: 2007-12-10 14:15:48
 ---
 

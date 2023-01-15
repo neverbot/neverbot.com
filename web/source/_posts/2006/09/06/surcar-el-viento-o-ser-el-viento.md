@@ -3,8 +3,8 @@ title: Surcar el viento o ser el viento
 id: '70'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2006-09-06 19:54:35
 ---
 

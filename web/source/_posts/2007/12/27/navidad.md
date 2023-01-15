@@ -3,9 +3,9 @@ title: Jugueteando con Flickr
 id: '656'
 author: neverbot
 tags:
-  - Blog
-  - Fotografía
-  - Neverbot
+  - blog
+  - fotografía
+  - neverbot
 date: 2007-12-27 19:30:16
 ---
 

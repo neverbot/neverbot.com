@@ -3,8 +3,8 @@ title: Direcciones (URL) amigables (o human-readable al menos)
 id: '252'
 author: neverbot
 tags:
-  - Blog
-  - Internet
+  - blog
+  - internet
 date: 2006-11-30 16:42:31
 ---
 

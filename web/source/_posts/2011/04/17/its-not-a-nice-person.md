@@ -3,7 +3,7 @@ title: It's not a nice person
 id: '3017'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2011-04-17 14:28:44
 ---
 

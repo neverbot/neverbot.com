@@ -3,7 +3,7 @@ title: ¿Cuál debería ser tu religión? (con un fácil diagrama)
 id: '2070'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2009-11-11 10:52:02
 ---
 

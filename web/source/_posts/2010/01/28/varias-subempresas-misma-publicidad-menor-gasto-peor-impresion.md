@@ -3,8 +3,8 @@ title: Varias subempresas, misma publicidad, menor gasto, peor impresión
 id: '2307'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Publicidad
+  - mundo real™
+  - publicidad
 date: 2010-01-28 18:12:24
 ---
 

@@ -3,9 +3,9 @@ title: Cincuenta euros en Enero
 id: '2242'
 author: neverbot
 tags:
-  - Cine
+  - cine
   - Compras
-  - Tebeos
+  - tebeos
 date: 2010-01-07 20:28:49
 ---
 

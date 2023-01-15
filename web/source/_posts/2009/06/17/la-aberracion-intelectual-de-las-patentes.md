@@ -3,8 +3,8 @@ title: La aberración intelectual de las patentes
 id: '1437'
 author: neverbot
 tags:
-  - Internet
-  - Tv
+  - internet
+  - tv
 date: 2009-06-17 20:19:38
 ---
 

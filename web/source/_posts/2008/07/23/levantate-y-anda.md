@@ -3,8 +3,8 @@ title: ¡Levántate y anda!
 id: '857'
 author: neverbot
 tags:
-  - Informática
-  - Miniblog
+  - informática
+  - miniblog
 date: 2008-07-23 11:46:58
 ---
 

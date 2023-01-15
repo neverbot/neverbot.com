@@ -3,7 +3,7 @@ title: El secreto de la vida
 id: '65'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-09-04 19:52:07
 ---
 

@@ -3,7 +3,7 @@ title: Lo más viejo que he sido nunca
 id: '1749'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2009-09-07 11:31:10
 ---
 

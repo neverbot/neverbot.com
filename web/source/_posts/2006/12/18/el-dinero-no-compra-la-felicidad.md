@@ -3,8 +3,8 @@ title: El dinero no compra la felicidad
 id: '282'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2006-12-18 20:30:54
 ---
 

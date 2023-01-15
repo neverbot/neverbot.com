@@ -3,10 +3,10 @@ title: Edward, tu piel brilla
 id: '2417'
 author: neverbot
 tags:
-  - Cine
-  - Humor
-  - Ilustración
-  - Tv
+  - cine
+  - humor
+  - ilustración
+  - tv
 date: 2010-03-03 23:27:55
 ---
 

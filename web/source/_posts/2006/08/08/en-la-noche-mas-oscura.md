@@ -3,8 +3,8 @@ title: En la noche más oscura
 id: '29'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tebeos
+  - pensamientos aleatorios
+  - tebeos
 date: 2006-08-08 10:40:42
 ---
 

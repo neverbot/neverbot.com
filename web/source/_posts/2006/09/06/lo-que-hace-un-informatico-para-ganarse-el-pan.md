@@ -3,8 +3,8 @@ title: Lo que hace un informático para ganarse el pan
 id: '67'
 author: neverbot
 tags:
-  - Blog
-  - Informática
+  - blog
+  - informática
 date: 2006-09-06 19:13:11
 ---
 

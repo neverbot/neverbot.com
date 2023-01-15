@@ -3,8 +3,8 @@ title: Colorstrology
 id: '415'
 author: neverbot
 tags:
-  - Blog
-  - Internet
+  - blog
+  - internet
 date: 2007-04-09 18:31:04
 ---
 

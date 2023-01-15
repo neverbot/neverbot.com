@@ -3,9 +3,9 @@ title: Problemas menores
 id: '383'
 author: neverbot
 tags:
-  - Blog
-  - Informática
-  - Mundo Real™
+  - blog
+  - informática
+  - mundo real™
 date: 2007-02-28 11:29:26
 ---
 

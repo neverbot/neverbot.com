@@ -3,8 +3,8 @@ title: Permitiendo acceso a las imágenes desde Google Reader
 id: '788'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2008-06-03 17:18:59
 ---
 

@@ -3,7 +3,7 @@ title: ¿Qué villano bíblico eres?
 id: '664'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2008-01-01 22:46:05
 ---
 

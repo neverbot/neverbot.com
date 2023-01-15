@@ -3,7 +3,7 @@ title: El verdadero sentido de la vida
 id: '708'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2008-02-15 09:56:22
 ---
 

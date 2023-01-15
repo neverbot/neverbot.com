@@ -3,8 +3,8 @@ title: Tron en Lego
 id: '2118'
 author: neverbot
 tags:
-  - Cine
-  - Juegos
+  - cine
+  - juegos
 date: 2009-11-26 13:15:56
 ---
 

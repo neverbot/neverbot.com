@@ -3,8 +3,8 @@ title: Reseñas cinematográficas relámpago (XXVII)
 id: '7710'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2017-05-19 18:27:15
 ---
 

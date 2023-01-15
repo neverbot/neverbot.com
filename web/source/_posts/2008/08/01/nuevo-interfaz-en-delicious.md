@@ -3,8 +3,8 @@ title: Nuevo interfaz en del.icio.us
 id: '860'
 author: neverbot
 tags:
-  - Internet
-  - Miniblog
+  - internet
+  - miniblog
 date: 2008-08-01 11:29:55
 ---
 

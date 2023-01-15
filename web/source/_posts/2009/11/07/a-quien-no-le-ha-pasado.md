@@ -3,8 +3,8 @@ title: ¿A quién no le ha pasado?
 id: '2031'
 author: neverbot
 tags:
-  - Humor
-  - Juegos
+  - humor
+  - juegos
 date: 2009-11-07 20:54:39
 ---
 

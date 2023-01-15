@@ -3,8 +3,8 @@ title: Ocho
 id: '7054'
 author: neverbot
 tags:
-  - Blog
-  - Neverbot
+  - blog
+  - neverbot
 date: 2014-07-26 14:00:48
 ---
 

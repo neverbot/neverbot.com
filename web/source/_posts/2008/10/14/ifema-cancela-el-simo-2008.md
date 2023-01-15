@@ -3,7 +3,7 @@ title: IFEMA cancela el SIMO 2008
 id: '1040'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2008-10-14 16:34:56
 ---
 

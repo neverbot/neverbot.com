@@ -3,7 +3,7 @@ title: 'Recomendación del lunes: Gorilla Artfare'
 id: '1034'
 author: neverbot
 tags:
-  - Ilustración
+  - ilustración
 date: 2008-10-13 15:49:33
 ---
 

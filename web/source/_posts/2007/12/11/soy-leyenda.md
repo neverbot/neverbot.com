@@ -3,7 +3,7 @@ title: Soy Leyenda
 id: '628'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2007-12-11 15:52:59
 ---
 

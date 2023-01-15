@@ -3,9 +3,9 @@ title: 300, el origen de un (algún) imperio
 id: '7015'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
-  - Tebeos
+  - cine
+  - reseñas
+  - tebeos
 date: 2014-07-11 12:48:50
 ---
 

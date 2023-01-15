@@ -3,9 +3,9 @@ title: Tirando de hemeroteca se ven patrones en tu propia vida
 id: '2425'
 author: neverbot
 tags:
-  - Blog
-  - Informática
-  - Mundo Real™
+  - blog
+  - informática
+  - mundo real™
 date: 2010-03-05 13:28:22
 ---
 

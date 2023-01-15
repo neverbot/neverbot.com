@@ -3,7 +3,7 @@ title: Vaya asco de semana
 id: '89'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2006-09-22 11:58:35
 ---
 

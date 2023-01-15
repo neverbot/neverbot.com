@@ -3,7 +3,7 @@ title: Problemas que pueden surgir bajo Ubuntu
 id: '474'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2007-06-09 19:06:08
 ---
 

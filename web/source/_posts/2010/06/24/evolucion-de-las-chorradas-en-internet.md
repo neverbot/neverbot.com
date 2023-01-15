@@ -3,7 +3,7 @@ title: Evolución de las chorradas en Internet
 id: '2560'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2010-06-24 19:21:55
 ---
 

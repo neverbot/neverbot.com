@@ -3,7 +3,7 @@ title: No discutas
 id: '433'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-05-10 10:18:39
 ---
 

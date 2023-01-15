@@ -3,7 +3,7 @@ title: 'Regreso al futuro (1 y 2): Un par de curiosidades'
 id: '1506'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2009-08-01 13:18:05
 ---
 

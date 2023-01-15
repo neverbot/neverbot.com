@@ -3,9 +3,9 @@ title: Miniblog añadido al blog
 id: '489'
 author: neverbot
 tags:
-  - Informática
-  - Internet
-  - Neverbot
+  - informática
+  - internet
+  - neverbot
 date: 2007-07-20 12:51:07
 ---
 

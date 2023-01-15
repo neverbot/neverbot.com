@@ -3,9 +3,9 @@ title: Uno muy geek
 id: '180'
 author: neverbot
 tags:
-  - Humor
-  - Informática
-  - Pensamientos aleatorios
+  - humor
+  - informática
+  - pensamientos aleatorios
 date: 2006-11-06 17:26:39
 ---
 

@@ -3,8 +3,8 @@ title: 'Terminado: Lost Planet: Extreme Condition'
 id: '2569'
 author: neverbot
 tags:
-  - Reseñas
-  - Videojuegos
+  - reseñas
+  - videojuegos
 date: 2010-06-26 14:11:25
 ---
 

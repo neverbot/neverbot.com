@@ -3,7 +3,7 @@ title: Max Level
 id: '2230'
 author: neverbot
 tags:
-  - Humor
+  - humor
 date: 2010-01-03 22:46:36
 ---
 

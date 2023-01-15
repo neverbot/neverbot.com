@@ -3,8 +3,8 @@ title: Super Bullet
 id: '1968'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Videojuegos
+  - mundo real™
+  - videojuegos
 date: 2009-11-01 23:47:37
 ---
 

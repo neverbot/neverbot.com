@@ -3,7 +3,7 @@ title: Verdades como puños
 id: '122'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-10-15 15:52:23
 ---
 

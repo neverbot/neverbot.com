@@ -3,8 +3,8 @@ title: ¿Por qué Apple siempre parece mejor?
 id: '2664'
 author: neverbot
 tags:
-  - Informática
-  - Mundo Real™
+  - informática
+  - mundo real™
 date: 2010-08-28 11:00:46
 ---
 

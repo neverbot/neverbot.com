@@ -3,9 +3,9 @@ title: Buscando en Google en español
 id: '2410'
 author: neverbot
 tags:
-  - Humor
-  - Internet
-  - Mundo Real™
+  - humor
+  - internet
+  - mundo real™
 date: 2010-03-01 21:05:00
 ---
 

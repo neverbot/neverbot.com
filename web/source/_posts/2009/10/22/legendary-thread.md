@@ -3,9 +3,9 @@ title: Legendary Thread
 id: '1941'
 author: neverbot
 tags:
-  - Fotografía
-  - Humor
-  - Internet
+  - fotografía
+  - humor
+  - internet
 date: 2009-10-22 10:10:06
 ---
 

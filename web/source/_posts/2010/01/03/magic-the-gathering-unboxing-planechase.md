@@ -3,7 +3,7 @@ title: 'Magic: The Gathering - Unboxing Planechase'
 id: '2224'
 author: neverbot
 tags:
-  - Juegos
+  - juegos
 date: 2010-01-03 11:53:24
 ---
 

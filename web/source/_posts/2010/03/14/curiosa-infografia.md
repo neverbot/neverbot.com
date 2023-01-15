@@ -3,8 +3,8 @@ title: Curiosa infografía
 id: '2459'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
+  - cine
+  - ilustración
 date: 2010-03-14 12:34:06
 ---
 

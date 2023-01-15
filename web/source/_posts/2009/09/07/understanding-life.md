@@ -3,7 +3,7 @@ title: Understanding life
 id: '1769'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2009-09-07 18:34:01
 ---
 

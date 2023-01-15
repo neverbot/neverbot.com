@@ -3,8 +3,8 @@ title: 'Miércoles de tebeos: Videojuegos, de Bastien Vivès'
 id: '5476'
 author: neverbot
 tags:
-  - Tebeos
-  - Videojuegos
+  - tebeos
+  - videojuegos
 date: 2012-11-14 13:44:18
 ---
 

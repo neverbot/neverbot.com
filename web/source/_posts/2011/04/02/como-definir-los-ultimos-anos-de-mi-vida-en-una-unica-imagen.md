@@ -3,8 +3,8 @@ title: Cómo definir los últimos años de mi vida en una única imagen
 id: '2990'
 author: neverbot
 tags:
-  - Ilustración
-  - Tv
+  - ilustración
+  - tv
 date: 2011-04-02 13:41:01
 ---
 

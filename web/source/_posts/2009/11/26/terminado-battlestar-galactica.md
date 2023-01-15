@@ -3,8 +3,8 @@ title: 'Terminado: Battlestar Galactica'
 id: '2116'
 author: neverbot
 tags:
-  - Reseñas
-  - Tv
+  - reseñas
+  - tv
 date: 2009-11-26 13:01:00
 ---
 

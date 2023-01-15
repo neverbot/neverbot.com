@@ -3,8 +3,8 @@ title: Qué famoso se ha hecho esto de Internet, ¿no?
 id: '1650'
 author: neverbot
 tags:
-  - Al blog que vas
-  - Pensamientos aleatorios
+  - al blog que vas
+  - pensamientos aleatorios
 date: 2009-08-19 12:17:10
 ---
 

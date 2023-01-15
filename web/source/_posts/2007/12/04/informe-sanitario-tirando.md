@@ -3,8 +3,8 @@ title: 'Informe sanitario: tirando'
 id: '608'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-12-04 10:05:34
 ---
 

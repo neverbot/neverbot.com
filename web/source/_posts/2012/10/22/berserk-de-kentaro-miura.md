@@ -3,7 +3,7 @@ title: Berserk, de Kentaro Miura
 id: '5330'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2012-10-22 22:34:43
 ---
 

@@ -3,10 +3,10 @@ title: Ya no queda respeto por nada...
 id: '98'
 author: neverbot
 tags:
-  - Blog
-  - Fotografía
-  - Mundo Real™
-  - Publicidad
+  - blog
+  - fotografía
+  - mundo real™
+  - publicidad
 date: 2006-09-29 11:42:06
 ---
 

@@ -3,8 +3,8 @@ title: Los tebeos, ese maravilloso mundo en el que gastar y gastar
 id: '543'
 author: neverbot
 tags:
-  - Blog
-  - Tebeos
+  - blog
+  - tebeos
 date: 2007-09-19 15:56:48
 ---
 

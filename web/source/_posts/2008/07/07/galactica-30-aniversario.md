@@ -3,7 +3,7 @@ title: 'Galactica: 30 aniversario'
 id: '824'
 author: neverbot
 tags:
-  - Tv
+  - tv
 date: 2008-07-07 09:21:52
 ---
 

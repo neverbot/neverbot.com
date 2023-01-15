@@ -3,8 +3,8 @@ title: Wordpress 2.5
 id: '738'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2008-03-04 09:39:25
 ---
 

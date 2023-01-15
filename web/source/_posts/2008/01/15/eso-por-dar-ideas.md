@@ -3,7 +3,7 @@ title: Eso por dar ideas
 id: '674'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-01-15 22:34:43
 ---
 

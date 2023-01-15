@@ -3,7 +3,7 @@ title: Mi nombre es Máximo Décimo Meridio...
 id: '650'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2007-12-26 16:52:52
 ---
 

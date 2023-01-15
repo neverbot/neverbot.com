@@ -3,8 +3,8 @@ title: Problemas de logística
 id: '388'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-03-02 11:44:08
 ---
 

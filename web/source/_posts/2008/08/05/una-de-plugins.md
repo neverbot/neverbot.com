@@ -3,9 +3,9 @@ title: Una de plugins
 id: '863'
 author: neverbot
 tags:
-  - Internet
-  - Miniblog
-  - Neverbot
+  - internet
+  - miniblog
+  - neverbot
 date: 2008-08-05 08:52:55
 ---
 

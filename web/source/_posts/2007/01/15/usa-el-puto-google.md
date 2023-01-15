@@ -3,8 +3,8 @@ title: Usa el puto Google
 id: '328'
 author: neverbot
 tags:
-  - Humor
-  - Internet
+  - humor
+  - internet
 date: 2007-01-15 17:52:41
 ---
 

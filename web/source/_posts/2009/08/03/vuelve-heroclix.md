@@ -3,8 +3,8 @@ title: ¿Vuelve HeroClix?
 id: '1528'
 author: neverbot
 tags:
-  - Juegos
-  - Tebeos
+  - juegos
+  - tebeos
 date: 2009-08-03 13:55:34
 ---
 

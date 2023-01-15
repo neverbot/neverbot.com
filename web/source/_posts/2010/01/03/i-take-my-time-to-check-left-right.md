@@ -3,8 +3,8 @@ title: I take my time to check left-right
 id: '2234'
 author: neverbot
 tags:
-  - Internet
-  - Música
+  - internet
+  - música
 date: 2010-01-03 22:52:25
 ---
 

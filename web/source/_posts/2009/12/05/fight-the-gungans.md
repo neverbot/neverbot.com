@@ -3,10 +3,10 @@ title: Fight the Gungans
 id: '2151'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
-  - Publicidad
-  - Videojuegos
+  - cine
+  - ilustración
+  - publicidad
+  - videojuegos
 date: 2009-12-05 20:05:21
 ---
 

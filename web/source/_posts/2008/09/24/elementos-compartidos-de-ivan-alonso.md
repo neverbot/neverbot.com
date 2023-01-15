@@ -3,8 +3,8 @@ title: Elementos compartidos de Iván Alonso
 id: '970'
 author: neverbot
 tags:
-  - Internet
-  - Neverbot
+  - internet
+  - neverbot
 date: 2008-09-24 16:04:52
 ---
 

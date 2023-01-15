@@ -3,8 +3,8 @@ title: Cómo se crea la magia
 id: '1415'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Tv
+  - mundo real™
+  - tv
 date: 2009-06-12 14:18:54
 ---
 

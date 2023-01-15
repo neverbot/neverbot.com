@@ -3,7 +3,7 @@ title: Make beautiful things
 id: '3116'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2012-05-20 22:58:58
 ---
 

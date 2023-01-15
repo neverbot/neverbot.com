@@ -3,8 +3,8 @@ title: La ignorancia es la fuerza
 id: '587'
 author: neverbot
 tags:
-  - Libros
-  - Pensamientos aleatorios
+  - libros
+  - pensamientos aleatorios
 date: 2007-11-20 12:26:06
 ---
 

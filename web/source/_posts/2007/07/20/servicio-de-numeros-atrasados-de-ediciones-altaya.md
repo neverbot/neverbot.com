@@ -3,9 +3,9 @@ title: Servicio de números atrasados de Ediciones Altaya
 id: '492'
 author: neverbot
 tags:
-  - Blog
-  - Internet
-  - Libros
+  - blog
+  - internet
+  - libros
 date: 2007-07-20 14:28:12
 ---
 

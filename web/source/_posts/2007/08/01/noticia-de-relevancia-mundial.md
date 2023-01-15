@@ -3,9 +3,9 @@ title: Noticia de relevancia mundial
 id: '498'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
-  - Mundo Real™
+  - blog
+  - miniblog
+  - mundo real™
 date: 2007-08-01 12:15:45
 ---
 

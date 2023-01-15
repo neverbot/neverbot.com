@@ -3,8 +3,8 @@ title: ¡He vuelto!
 id: '959'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
+  - blog
+  - miniblog
 date: 2008-09-22 17:44:45
 ---
 

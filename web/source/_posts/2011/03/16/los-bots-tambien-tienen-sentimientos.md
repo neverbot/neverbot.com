@@ -3,9 +3,9 @@ title: Los bots también tienen sentimientos
 id: '2931'
 author: neverbot
 tags:
-  - Humor
-  - Tebeos
-  - Videojuegos
+  - humor
+  - tebeos
+  - videojuegos
 date: 2011-03-16 13:52:48
 ---
 

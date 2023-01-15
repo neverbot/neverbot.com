@@ -3,7 +3,7 @@ title: Haciendo tonterías
 id: '588'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-11-21 11:13:15
 ---
 

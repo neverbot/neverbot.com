@@ -3,8 +3,8 @@ title: Yoda con Microsoft... Vader con Apple
 id: '2513'
 author: neverbot
 tags:
-  - Informática
-  - Publicidad
+  - informática
+  - publicidad
 date: 2010-05-11 14:02:26
 ---
 

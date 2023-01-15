@@ -3,8 +3,8 @@ title: Ayer conocí el frío
 id: '2843'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2011-01-30 10:59:00
 ---
 

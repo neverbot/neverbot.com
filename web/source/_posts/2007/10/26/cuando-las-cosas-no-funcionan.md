@@ -3,8 +3,8 @@ title: Cuando las cosas no funcionan...
 id: '559'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-10-26 13:24:51
 ---
 

@@ -3,8 +3,8 @@ title: 'Nuevo superpoder: ¡Sentido común!'
 id: '2432'
 author: neverbot
 tags:
-  - Humor
-  - Tebeos
+  - humor
+  - tebeos
 date: 2010-03-08 20:35:51
 ---
 

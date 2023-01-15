@@ -3,11 +3,11 @@ title: Nuevo software para probar
 id: '531'
 author: neverbot
 tags:
-  - Blog
-  - Informática
-  - Internet
-  - Música
-  - Tv
+  - blog
+  - informática
+  - internet
+  - música
+  - tv
 date: 2007-09-16 02:25:14
 ---
 

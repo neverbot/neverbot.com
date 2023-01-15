@@ -3,8 +3,8 @@ title: One More Barrel - Bush, Blair, Aznar, Berlusconi
 id: '1855'
 author: neverbot
 tags:
-  - Juegos
-  - Mundo Real™
+  - juegos
+  - mundo real™
 date: 2009-09-27 01:15:08
 ---
 

@@ -3,7 +3,7 @@ title: Ten amigos para esto
 id: '418'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-04-10 17:04:42
 ---
 

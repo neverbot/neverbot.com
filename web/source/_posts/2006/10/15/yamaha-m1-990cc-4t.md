@@ -3,8 +3,8 @@ title: Yamaha M1, 990cc 4T
 id: '118'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2006-10-15 14:32:03
 ---
 

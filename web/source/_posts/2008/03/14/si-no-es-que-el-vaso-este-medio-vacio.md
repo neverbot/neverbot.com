@@ -3,7 +3,7 @@ title: Si no es que el vaso esté medio vacío...
 id: '754'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-03-14 20:58:42
 ---
 

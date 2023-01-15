@@ -3,8 +3,8 @@ title: Metro de Madrid informa...
 id: '2586'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - mundo real™
+  - pensamientos aleatorios
 date: 2010-06-29 12:09:40
 ---
 

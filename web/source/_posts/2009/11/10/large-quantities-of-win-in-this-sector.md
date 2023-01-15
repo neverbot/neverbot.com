@@ -3,10 +3,10 @@ title: Large quantities of win in this sector
 id: '2055'
 author: neverbot
 tags:
-  - Cine
-  - Humor
-  - Internet
-  - Tv
+  - cine
+  - humor
+  - internet
+  - tv
 date: 2009-11-10 11:19:58
 ---
 

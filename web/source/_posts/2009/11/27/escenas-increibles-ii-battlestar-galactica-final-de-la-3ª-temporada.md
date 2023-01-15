@@ -3,8 +3,8 @@ title: 'Escenas Increíbles (II): Battlestar Galactica, final de la 3ª temporad
 id: '2121'
 author: neverbot
 tags:
-  - Escenas
-  - Tv
+  - escenas
+  - tv
 date: 2009-11-27 13:37:19
 video: M9VKct1dNEs
 ---

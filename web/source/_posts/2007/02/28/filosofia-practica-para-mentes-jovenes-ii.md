@@ -3,7 +3,7 @@ title: Filosofía práctica para mentes jóvenes (II)
 id: '384'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-02-28 11:34:20
 ---
 

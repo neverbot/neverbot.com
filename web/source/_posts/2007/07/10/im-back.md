@@ -3,8 +3,8 @@ title: I'm back
 id: '481'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-07-10 19:19:08
 ---
 

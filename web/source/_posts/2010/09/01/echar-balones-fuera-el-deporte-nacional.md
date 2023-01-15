@@ -3,8 +3,8 @@ title: 'Echar balones fuera: el deporte nacional'
 id: '2682'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2010-09-01 10:28:11
 ---
 

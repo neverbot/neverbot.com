@@ -3,7 +3,7 @@ title: Resumen de la semana 9/2008
 id: '1251'
 author: neverbot
 tags:
-  - Resúmenes
+  - resúmenes
 date: 2009-03-03 10:29:19
 ---
 

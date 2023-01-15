@@ -3,7 +3,7 @@ title: San Valentín, esa gran excusa
 id: '373'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-02-14 11:41:08
 ---
 

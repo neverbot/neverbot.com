@@ -3,8 +3,8 @@ title: No sé cómo hacerlo
 id: '2845'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2011-01-31 10:25:59
 ---
 

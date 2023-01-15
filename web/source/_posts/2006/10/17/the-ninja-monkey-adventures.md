@@ -3,8 +3,8 @@ title: The Ninja Monkey Adventures
 id: '125'
 author: neverbot
 tags:
-  - Blog
-  - Ninja Monkey
+  - blog
+  - ninja monkey
 date: 2006-10-17 18:33:43
 ---
 

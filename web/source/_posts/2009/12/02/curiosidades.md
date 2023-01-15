@@ -3,8 +3,8 @@ title: Curiosidades
 id: '2138'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2009-12-02 11:21:22
 ---
 

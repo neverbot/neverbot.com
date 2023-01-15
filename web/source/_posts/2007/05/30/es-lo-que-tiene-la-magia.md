@@ -3,7 +3,7 @@ title: Es lo que tiene la magia
 id: '468'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2007-05-30 12:14:52
 ---
 

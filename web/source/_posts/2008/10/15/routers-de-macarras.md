@@ -3,8 +3,8 @@ title: Routers de macarras
 id: '1045'
 author: neverbot
 tags:
-  - Al blog que vas
-  - Informática
+  - al blog que vas
+  - informática
 date: 2008-10-15 10:27:06
 ---
 

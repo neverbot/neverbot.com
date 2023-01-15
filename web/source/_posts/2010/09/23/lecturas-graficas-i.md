@@ -3,8 +3,8 @@ title: Lecturas gráficas (I)
 id: '2720'
 author: neverbot
 tags:
-  - Reseñas
-  - Tebeos
+  - reseñas
+  - tebeos
 date: 2010-09-23 20:48:52
 ---
 

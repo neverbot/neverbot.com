@@ -3,8 +3,8 @@ title: Esto es embarazoso
 id: '1836'
 author: neverbot
 tags:
-  - Informática
-  - Internet
+  - informática
+  - internet
 date: 2009-09-24 14:08:06
 ---
 

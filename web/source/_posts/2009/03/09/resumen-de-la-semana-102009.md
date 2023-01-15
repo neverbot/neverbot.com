@@ -3,7 +3,7 @@ title: Resumen de la semana 10/2009
 id: '1301'
 author: neverbot
 tags:
-  - Resúmenes
+  - resúmenes
 date: 2009-03-09 10:58:13
 ---
 

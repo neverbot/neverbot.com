@@ -3,7 +3,7 @@ title: Disfrutar el día más
 id: '548'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-09-20 16:45:35
 ---
 

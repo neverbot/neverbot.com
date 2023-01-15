@@ -3,7 +3,7 @@ title: 'Curiosidades de la vida: las visitas'
 id: '1410'
 author: neverbot
 tags:
-  - Neverbot
+  - neverbot
 date: 2009-06-12 10:58:35
 ---
 

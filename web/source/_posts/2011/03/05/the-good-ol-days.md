@@ -3,8 +3,8 @@ title: The good ol' days
 id: '2901'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - mundo real™
+  - pensamientos aleatorios
 date: 2011-03-05 20:03:17
 ---
 

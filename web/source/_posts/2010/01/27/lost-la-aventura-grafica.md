@@ -3,9 +3,9 @@ title: 'Lost: La aventura gráfica'
 id: '2298'
 author: neverbot
 tags:
-  - Ilustración
-  - Tv
-  - Videojuegos
+  - ilustración
+  - tv
+  - videojuegos
 date: 2010-01-27 21:09:11
 ---
 

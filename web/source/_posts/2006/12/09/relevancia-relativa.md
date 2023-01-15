@@ -3,7 +3,7 @@ title: Relevancia relativa
 id: '271'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-12-09 19:20:44
 ---
 

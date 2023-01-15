@@ -3,9 +3,9 @@ title: Hadouken!
 id: '2004'
 author: neverbot
 tags:
-  - Fotografía
-  - Humor
-  - Videojuegos
+  - fotografía
+  - humor
+  - videojuegos
 date: 2009-11-04 14:23:43
 ---
 

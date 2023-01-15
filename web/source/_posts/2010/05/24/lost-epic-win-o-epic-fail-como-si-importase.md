@@ -3,8 +3,8 @@ title: 'Lost: Epic win o Epic fail. Como si importase'
 id: '2524'
 author: neverbot
 tags:
-  - Reseñas
-  - Tv
+  - reseñas
+  - tv
 date: 2010-05-24 13:12:19
 ---
 

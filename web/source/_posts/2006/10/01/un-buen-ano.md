@@ -3,8 +3,8 @@ title: Un buen año
 id: '103'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2006-10-01 16:05:37
 ---
 

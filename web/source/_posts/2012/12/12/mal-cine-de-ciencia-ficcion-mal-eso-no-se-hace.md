@@ -3,7 +3,7 @@ title: ¡Mal, cine de ciencia-ficción, mal, eso no se hace!
 id: '5639'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2012-12-12 13:35:40
 ---
 

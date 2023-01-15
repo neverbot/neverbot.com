@@ -3,7 +3,7 @@ title: No te lo tomes tan en serio
 id: '112'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2006-10-08 13:52:46
 ---
 

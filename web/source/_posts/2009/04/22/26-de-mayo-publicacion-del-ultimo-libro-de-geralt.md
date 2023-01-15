@@ -3,7 +3,7 @@ title: '26 de Mayo: ¿Publicación del último libro de Geralt?'
 id: '1354'
 author: neverbot
 tags:
-  - Libros
+  - libros
 date: 2009-04-22 14:23:59
 ---
 

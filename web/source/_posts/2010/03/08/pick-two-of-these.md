@@ -3,7 +3,7 @@ title: Pick two of these
 id: '2434'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2010-03-08 20:47:09
 ---
 

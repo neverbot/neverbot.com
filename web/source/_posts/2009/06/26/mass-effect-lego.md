@@ -3,8 +3,8 @@ title: Mass Effect Lego
 id: '1470'
 author: neverbot
 tags:
-  - Juegos
-  - Videojuegos
+  - juegos
+  - videojuegos
 date: 2009-06-26 12:40:11
 ---
 

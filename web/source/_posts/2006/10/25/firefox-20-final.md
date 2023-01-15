@@ -3,7 +3,7 @@ title: Firefox 2.0 Final
 id: '139'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2006-10-25 10:19:55
 ---
 

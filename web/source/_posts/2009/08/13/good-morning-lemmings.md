@@ -3,8 +3,8 @@ title: Good Morning Lemmings
 id: '1568'
 author: neverbot
 tags:
-  - Clásicos de Internet
-  - Fotografía
+  - clásicos de internet
+  - fotografía
 date: 2009-08-13 01:23:33
 ---
 

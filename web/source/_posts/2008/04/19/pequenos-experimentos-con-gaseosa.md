@@ -3,9 +3,9 @@ title: Pequeños experimentos (con gaseosa)
 id: '764'
 author: neverbot
 tags:
-  - Blog
-  - Internet
-  - Neverbot
+  - blog
+  - internet
+  - neverbot
 date: 2008-04-19 21:59:36
 ---
 

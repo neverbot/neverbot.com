@@ -3,7 +3,7 @@ title: Sutiles diferencias
 id: '378'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-02-16 19:59:24
 ---
 

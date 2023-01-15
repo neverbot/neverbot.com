@@ -3,8 +3,8 @@ title: ¡Quinto aniversario!
 id: '3051'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Neverbot
+  - mundo real™
+  - neverbot
 date: 2011-07-25 14:55:53
 ---
 

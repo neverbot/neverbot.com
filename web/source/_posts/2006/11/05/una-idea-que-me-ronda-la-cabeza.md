@@ -3,8 +3,8 @@ title: Una idea que me ronda la cabeza...
 id: '177'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2006-11-05 03:09:21
 ---
 

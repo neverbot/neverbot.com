@@ -3,8 +3,8 @@ title: Organízate con eficacia, de David Allen (el libro, no el método)
 id: '2244'
 author: neverbot
 tags:
-  - Libros
-  - Reseñas
+  - libros
+  - reseñas
 date: 2010-01-08 12:10:17
 ---
 

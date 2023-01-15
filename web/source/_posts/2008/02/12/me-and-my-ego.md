@@ -3,8 +3,8 @@ title: Me and my ego
 id: '701'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2008-02-12 16:27:30
 ---
 

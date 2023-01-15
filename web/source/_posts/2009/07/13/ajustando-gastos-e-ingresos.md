@@ -3,8 +3,8 @@ title: Ajustando gastos e ingresos
 id: '1489'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2009-07-13 17:58:56
 ---
 

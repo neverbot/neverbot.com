@@ -3,8 +3,8 @@ title: Atención al cliente y atención al cliente
 id: '1014'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2008-10-06 15:37:19
 ---
 

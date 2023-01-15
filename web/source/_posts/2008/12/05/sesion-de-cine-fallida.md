@@ -3,8 +3,8 @@ title: Sesión de cine fallida
 id: '1123'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2008-12-05 12:23:53
 ---
 

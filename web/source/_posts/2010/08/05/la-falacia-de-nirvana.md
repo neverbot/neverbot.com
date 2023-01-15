@@ -3,7 +3,7 @@ title: La falacia de Nirvana
 id: '2608'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2010-08-05 17:12:13
 ---
 

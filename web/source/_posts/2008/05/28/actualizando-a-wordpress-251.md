@@ -3,8 +3,8 @@ title: Actualizando a WordPress 2.5.1
 id: '779'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2008-05-28 16:41:10
 ---
 

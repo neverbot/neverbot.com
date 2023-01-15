@@ -3,7 +3,7 @@ title: ¡Viva la revoluc... el capitalismo!
 id: '2415'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2010-03-01 21:33:24
 ---
 

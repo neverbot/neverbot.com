@@ -3,8 +3,8 @@ title: Nuestro amor es imposible
 id: '2142'
 author: neverbot
 tags:
-  - Humor
-  - Ilustración
+  - humor
+  - ilustración
 date: 2009-12-04 11:58:49
 ---
 

@@ -3,8 +3,8 @@ title: ¿Terminado? FIFA 2010
 id: '2582'
 author: neverbot
 tags:
-  - Reseñas
-  - Videojuegos
+  - reseñas
+  - videojuegos
 date: 2010-06-27 14:43:29
 ---
 

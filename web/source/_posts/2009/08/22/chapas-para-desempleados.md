@@ -3,8 +3,8 @@ title: Chapas para desempleados
 id: '1676'
 author: neverbot
 tags:
-  - Ilustración
-  - Publicidad
+  - ilustración
+  - publicidad
 date: 2009-08-22 23:02:51
 ---
 

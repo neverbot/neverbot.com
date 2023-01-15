@@ -3,9 +3,9 @@ title: Doctor, hoy he soñado que...
 id: '2420'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
-  - Tv
+  - blog
+  - mundo real™
+  - tv
 date: 2010-03-04 11:53:53
 ---
 

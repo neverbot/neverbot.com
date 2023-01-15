@@ -3,8 +3,8 @@ title: Sesión de brainstorming en Coruscant
 id: '339'
 author: neverbot
 tags:
-  - Cine
-  - Humor
+  - cine
+  - humor
 date: 2007-01-19 09:29:45
 ---
 

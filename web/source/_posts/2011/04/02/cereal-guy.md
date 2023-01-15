@@ -3,7 +3,7 @@ title: Cereal Guy
 id: '2988'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2011-04-02 13:39:28
 ---
 

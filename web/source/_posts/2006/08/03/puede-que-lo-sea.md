@@ -3,9 +3,9 @@ title: Puede que lo sea
 id: '24'
 author: neverbot
 tags:
-  - Blog
-  - Cine
-  - Pensamientos aleatorios
+  - blog
+  - cine
+  - pensamientos aleatorios
 date: 2006-08-03 22:53:23
 ---
 

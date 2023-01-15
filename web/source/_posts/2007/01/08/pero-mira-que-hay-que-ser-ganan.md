@@ -3,7 +3,7 @@ title: Pero mira que hay que ser gañán
 id: '316'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-01-08 18:39:08
 ---
 

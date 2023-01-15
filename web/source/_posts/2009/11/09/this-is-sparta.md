@@ -3,9 +3,9 @@ title: This is Sparta!!
 id: '2045'
 author: neverbot
 tags:
-  - Cine
-  - Clásicos de Internet
-  - Humor
+  - cine
+  - clásicos de internet
+  - humor
 date: 2009-11-09 12:19:56
 ---
 

@@ -3,8 +3,8 @@ title: El orden natural de las cosas
 id: '1630'
 author: neverbot
 tags:
-  - Humor
-  - Videojuegos
+  - humor
+  - videojuegos
 date: 2009-08-17 10:54:55
 ---
 

@@ -3,7 +3,7 @@ title: Vidas fugaces
 id: '304'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-01-04 12:20:21
 ---
 

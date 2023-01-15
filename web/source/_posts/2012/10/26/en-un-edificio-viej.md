@@ -3,8 +3,8 @@ title: En un edificio viejo
 id: '5356'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2012-10-26 13:29:04
 ---
 

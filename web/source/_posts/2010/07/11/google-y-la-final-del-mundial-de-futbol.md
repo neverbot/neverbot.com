@@ -3,8 +3,8 @@ title: Google y la final del mundial de fútbol
 id: '2591'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
+  - ilustración
+  - internet
 date: 2010-07-11 11:26:17
 ---
 

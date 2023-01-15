@@ -3,9 +3,9 @@ title: Optimus Vader
 id: '2273'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
-  - Tv
+  - cine
+  - ilustración
+  - tv
 date: 2010-01-25 10:12:38
 ---
 

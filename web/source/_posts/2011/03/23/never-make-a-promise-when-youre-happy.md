@@ -3,7 +3,7 @@ title: Never make a promise when you're happy
 id: '2951'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2011-03-23 22:40:55
 ---
 

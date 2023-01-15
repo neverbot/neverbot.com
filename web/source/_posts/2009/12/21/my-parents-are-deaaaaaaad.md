@@ -3,8 +3,8 @@ title: My parents are deaaaaaaad
 id: '2190'
 author: neverbot
 tags:
-  - Humor
-  - Tebeos
+  - humor
+  - tebeos
 date: 2009-12-21 11:06:20
 ---
 

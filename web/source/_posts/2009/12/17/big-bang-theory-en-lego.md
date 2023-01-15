@@ -3,8 +3,8 @@ title: Big Bang Theory en Lego
 id: '2171'
 author: neverbot
 tags:
-  - Juegos
-  - Tv
+  - juegos
+  - tv
 date: 2009-12-17 16:32:53
 ---
 

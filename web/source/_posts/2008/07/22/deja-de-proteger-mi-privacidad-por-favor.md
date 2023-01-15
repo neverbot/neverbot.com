@@ -3,8 +3,8 @@ title: Deja de proteger mi privacidad, por favor...
 id: '851'
 author: neverbot
 tags:
-  - Informática
-  - Internet
+  - informática
+  - internet
 date: 2008-07-22 10:50:05
 ---
 

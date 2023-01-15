@@ -3,8 +3,8 @@ title: Actualizado a WordPress 2.6.3
 id: '1063'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2008-10-24 04:38:09
 ---
 

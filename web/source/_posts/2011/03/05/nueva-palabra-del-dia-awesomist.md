@@ -3,7 +3,7 @@ title: 'Nueva palabra del día: Awesomist'
 id: '2899'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2011-03-05 19:27:57
 ---
 

@@ -3,8 +3,8 @@ title: Grandes fotos que nunca fueron tomadas
 id: '420'
 author: neverbot
 tags:
-  - Blog
-  - Fotografía
+  - blog
+  - fotografía
 date: 2007-04-16 11:45:08
 ---
 

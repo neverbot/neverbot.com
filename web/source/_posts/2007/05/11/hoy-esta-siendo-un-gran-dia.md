@@ -3,9 +3,9 @@ title: Hoy está siendo un gran día
 id: '435'
 author: neverbot
 tags:
-  - Blog
-  - Música
-  - Pensamientos aleatorios
+  - blog
+  - música
+  - pensamientos aleatorios
 date: 2007-05-11 17:11:35
 ---
 

@@ -3,8 +3,8 @@ title: Infiltrados, de Martin Scorsese
 id: '5320'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2012-10-20 11:27:31
 ---
 

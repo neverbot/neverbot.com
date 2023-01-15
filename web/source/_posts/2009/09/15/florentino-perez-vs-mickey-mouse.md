@@ -3,9 +3,9 @@ title: Florentino Pérez vs. Mickey Mouse
 id: '1816'
 author: neverbot
 tags:
-  - Humor
-  - Ilustración
-  - Tebeos
+  - humor
+  - ilustración
+  - tebeos
 date: 2009-09-15 14:03:21
 ---
 

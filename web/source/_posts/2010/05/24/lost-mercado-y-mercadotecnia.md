@@ -3,9 +3,9 @@ title: 'Lost: Mercado y mercadotecnia'
 id: '2526'
 author: neverbot
 tags:
-  - Blog
-  - Internet
-  - Tv
+  - blog
+  - internet
+  - tv
 date: 2010-05-24 17:38:54
 ---
 

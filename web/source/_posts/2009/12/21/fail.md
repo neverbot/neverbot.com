@@ -3,7 +3,7 @@ title: Fail
 id: '2188'
 author: neverbot
 tags:
-  - Humor
+  - humor
 date: 2009-12-21 10:59:03
 ---
 

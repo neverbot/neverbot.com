@@ -3,10 +3,10 @@ title: Feliz no cumpleaños
 id: '2834'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - blog
+  - miniblog
+  - mundo real™
+  - pensamientos aleatorios
 date: 2010-12-23 23:21:28
 ---
 

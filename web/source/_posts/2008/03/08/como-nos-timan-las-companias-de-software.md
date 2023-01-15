@@ -3,9 +3,9 @@ title: Cómo nos timan las compañías de software
 id: '743'
 author: neverbot
 tags:
-  - Informática
-  - Internet
-  - Mundo Real™
+  - informática
+  - internet
+  - mundo real™
 date: 2008-03-08 12:08:24
 ---
 

@@ -3,9 +3,9 @@ title: Watchmen vs Santa Claus
 id: '2340'
 author: neverbot
 tags:
-  - Humor
-  - Ilustración
-  - Tebeos
+  - humor
+  - ilustración
+  - tebeos
 date: 2010-02-15 19:21:32
 ---
 

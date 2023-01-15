@@ -3,8 +3,8 @@ title: Iconos pequeños en OpenOffice.org
 id: '480'
 author: neverbot
 tags:
-  - Blog
-  - Informática
+  - blog
+  - informática
 date: 2007-06-27 12:58:25
 ---
 

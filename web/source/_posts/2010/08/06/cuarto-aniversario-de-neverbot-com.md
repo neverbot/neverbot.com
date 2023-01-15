@@ -3,8 +3,8 @@ title: Cuarto aniversario de neverbot.com
 id: '2612'
 author: neverbot
 tags:
-  - Blog
-  - Neverbot
+  - blog
+  - neverbot
 date: 2010-08-06 13:50:30
 ---
 

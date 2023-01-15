@@ -3,8 +3,8 @@ title: 'Tuenti: Una definición de la presente generación'
 id: '2617'
 author: neverbot
 tags:
-  - Informática
-  - Mundo Real™
+  - informática
+  - mundo real™
 date: 2010-08-19 20:51:30
 ---
 

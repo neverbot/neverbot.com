@@ -3,9 +3,9 @@ title: Fashion Victim
 id: '104'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - blog
+  - mundo real™
+  - pensamientos aleatorios
 date: 2006-10-02 11:40:00
 ---
 

@@ -3,8 +3,8 @@ title: Mientras tanto, en Alderaan...
 id: '3013'
 author: neverbot
 tags:
-  - Cine
-  - Humor
+  - cine
+  - humor
 date: 2011-04-15 00:19:32
 ---
 

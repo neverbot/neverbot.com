@@ -3,8 +3,8 @@ title: Master of None
 id: '7760'
 author: neverbot
 tags:
-  - Reseñas
-  - Tv
+  - reseñas
+  - tv
 date: 2017-09-05 17:52:25
 ---
 

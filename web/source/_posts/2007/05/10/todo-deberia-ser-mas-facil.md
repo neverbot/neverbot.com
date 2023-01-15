@@ -3,9 +3,9 @@ title: Todo debería ser más fácil
 id: '434'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
-  - Tv
+  - blog
+  - pensamientos aleatorios
+  - tv
 date: 2007-05-10 10:37:02
 ---
 

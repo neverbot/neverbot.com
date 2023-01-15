@@ -3,8 +3,8 @@ title: No es que sea perezoso, es que no me da la gana
 id: '2275'
 author: neverbot
 tags:
-  - Cine
-  - Pensamientos aleatorios
+  - cine
+  - pensamientos aleatorios
 date: 2010-01-25 10:14:55
 ---
 

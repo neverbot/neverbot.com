@@ -3,9 +3,9 @@ title: Welcome to a new reality
 id: '647'
 author: neverbot
 tags:
-  - Blog
-  - Internet
-  - Mundo Real™
+  - blog
+  - internet
+  - mundo real™
 date: 2007-12-20 20:29:36
 ---
 

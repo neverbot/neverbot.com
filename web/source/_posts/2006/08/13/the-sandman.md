@@ -3,8 +3,8 @@ title: The Sandman
 id: '38'
 author: neverbot
 tags:
-  - Blog
-  - Tebeos
+  - blog
+  - tebeos
 date: 2006-08-13 15:14:54
 ---
 

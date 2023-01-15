@@ -3,9 +3,9 @@ title: Reseñas cinematográficas relámpago (VII)
 id: '2149'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
-  - Tebeos
+  - cine
+  - reseñas
+  - tebeos
 date: 2009-12-04 12:13:00
 ---
 

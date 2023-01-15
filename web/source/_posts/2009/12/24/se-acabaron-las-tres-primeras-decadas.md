@@ -3,9 +3,9 @@ title: Se acabaron las tres primeras décadas
 id: '2206'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
-  - Mundo Real™
+  - blog
+  - miniblog
+  - mundo real™
 date: 2009-12-24 11:06:59
 ---
 

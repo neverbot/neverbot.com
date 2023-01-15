@@ -3,7 +3,7 @@ title: Mi ADN visual
 id: '598'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-11-27 12:28:22
 ---
 

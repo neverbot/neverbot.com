@@ -3,9 +3,9 @@ title: El Libro del Dragón Rojo
 id: '150'
 author: neverbot
 tags:
-  - Blog
-  - Informática
-  - Libros
+  - blog
+  - informática
+  - libros
 date: 2006-11-01 10:57:14
 ---
 

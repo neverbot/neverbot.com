@@ -3,8 +3,8 @@ title: Awesomeness
 id: '1388'
 author: neverbot
 tags:
-  - Blog
-  - Cine
+  - blog
+  - cine
 date: 2009-06-11 09:57:27
 ---
 

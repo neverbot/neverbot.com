@@ -3,7 +3,7 @@ title: La paella del infierno
 id: '578'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-11-15 09:37:38
 ---
 

@@ -3,9 +3,9 @@ title: Hola, somos tu infancia
 id: '1681'
 author: neverbot
 tags:
-  - Ilustración
-  - Tebeos
-  - Tv
+  - ilustración
+  - tebeos
+  - tv
 date: 2009-08-25 11:15:28
 ---
 

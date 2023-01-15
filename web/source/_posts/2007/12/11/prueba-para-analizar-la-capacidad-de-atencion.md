@@ -3,7 +3,7 @@ title: Prueba para analizar la capacidad de atención
 id: '630'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-12-11 16:52:27
 ---
 

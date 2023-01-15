@@ -3,7 +3,7 @@ title: The Lord doesn't work that way
 id: '2668'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2010-08-30 19:36:41
 ---
 

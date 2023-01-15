@@ -3,8 +3,8 @@ title: 'Watchmen: otro post más de los millones que veréis esta semana'
 id: '1298'
 author: neverbot
 tags:
-  - Cine
-  - Tebeos
+  - cine
+  - tebeos
 date: 2009-03-07 12:51:13
 ---
 

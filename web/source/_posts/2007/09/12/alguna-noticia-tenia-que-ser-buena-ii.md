@@ -3,8 +3,8 @@ title: Alguna noticia tenía que ser buena... (II)
 id: '530'
 author: neverbot
 tags:
-  - Miniblog
-  - Mundo Real™
+  - miniblog
+  - mundo real™
 date: 2007-09-12 10:41:29
 ---
 

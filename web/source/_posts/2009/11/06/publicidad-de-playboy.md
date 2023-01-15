@@ -3,7 +3,7 @@ title: Publicidad de PlayBoy
 id: '2017'
 author: neverbot
 tags:
-  - Publicidad
+  - publicidad
 date: 2009-11-06 12:20:26
 ---
 

@@ -3,8 +3,8 @@ title: Hacerse viejo y hacerse joven
 id: '291'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2006-12-23 20:26:11
 ---
 

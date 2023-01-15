@@ -3,7 +3,7 @@ title: Pórtico, de Frederik Pohl
 id: '5458'
 author: neverbot
 tags:
-  - Libros
+  - libros
 date: 2012-11-12 21:01:22
 ---
 

@@ -3,7 +3,7 @@ title: Homer Simpson, ese gran filósofo
 id: '77'
 author: neverbot
 tags:
-  - Tv
+  - tv
 date: 2006-09-14 11:31:54
 ---
 

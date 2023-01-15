@@ -3,7 +3,7 @@ title: ¿El fin del mundo?
 id: '1382'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2009-04-28 18:30:27
 ---
 

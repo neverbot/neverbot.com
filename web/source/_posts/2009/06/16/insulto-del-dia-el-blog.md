@@ -3,8 +3,8 @@ title: 'Insulto del día: el blog'
 id: '1431'
 author: neverbot
 tags:
-  - Humor
-  - Internet
+  - humor
+  - internet
 date: 2009-06-16 17:46:19
 ---
 

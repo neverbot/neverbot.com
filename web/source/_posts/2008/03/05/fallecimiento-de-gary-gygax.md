@@ -3,9 +3,9 @@ title: Fallecimiento de Gary Gygax
 id: '740'
 author: neverbot
 tags:
-  - Juegos
-  - Miniblog
-  - Mundo Real™
+  - juegos
+  - miniblog
+  - mundo real™
 date: 2008-03-05 16:02:41
 ---
 

@@ -3,7 +3,7 @@ title: Para compartir
 id: '852'
 author: neverbot
 tags:
-  - Al blog que vas
+  - al blog que vas
 date: 2008-07-22 10:52:15
 ---
 

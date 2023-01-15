@@ -3,7 +3,7 @@ title: Así es como termina el mundo...
 id: '358'
 author: neverbot
 tags:
-  - Videojuegos
+  - videojuegos
 date: 2007-01-30 18:13:21
 video: _jz7y2-1DMM
 ---

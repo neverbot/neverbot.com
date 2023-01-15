@@ -3,8 +3,8 @@ title: Lo que te cuesta ver la televisión
 id: '1375'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tv
+  - pensamientos aleatorios
+  - tv
 date: 2009-04-28 10:32:33
 ---
 

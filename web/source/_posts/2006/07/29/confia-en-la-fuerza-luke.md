@@ -3,7 +3,7 @@ title: Confía en la fuerza, Luke...
 id: '14'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2006-07-29 10:31:44
 ---
 

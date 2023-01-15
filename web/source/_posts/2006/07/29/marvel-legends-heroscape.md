@@ -3,7 +3,7 @@ title: 'Marvel Legends: HeroScape'
 id: '16'
 author: neverbot
 tags:
-  - Juegos
+  - juegos
 date: 2006-07-29 11:01:51
 ---
 

@@ -3,8 +3,8 @@ title: Descuento en el plan de hosting
 id: '222'
 author: neverbot
 tags:
-  - Internet
-  - Neverbot
+  - internet
+  - neverbot
 date: 2006-11-18 16:05:28
 ---
 

@@ -3,7 +3,7 @@ title: Traducciones sin pensar, made in flickr
 id: '2464'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2010-03-14 14:39:53
 ---
 

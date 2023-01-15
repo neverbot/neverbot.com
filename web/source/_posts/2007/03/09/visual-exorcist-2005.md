@@ -3,7 +3,7 @@ title: Visual Exorcist 2005
 id: '394'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2007-03-09 18:14:07
 ---
 

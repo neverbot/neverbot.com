@@ -3,8 +3,8 @@ title: Cake - Short skirt / Long jacket
 id: '809'
 author: neverbot
 tags:
-  - Blog
-  - Música
+  - blog
+  - música
 date: 2008-06-24 15:42:09
 video: 85zV1fpSJQ0
 ---

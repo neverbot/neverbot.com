@@ -3,8 +3,8 @@ title: Project Euler
 id: '627'
 author: neverbot
 tags:
-  - Blog
-  - Internet
+  - blog
+  - internet
 date: 2007-12-11 11:52:15
 ---
 

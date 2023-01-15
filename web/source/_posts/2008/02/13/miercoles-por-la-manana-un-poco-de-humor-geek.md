@@ -3,8 +3,8 @@ title: Miércoles por la mañana, un poco de humor geek
 id: '703'
 author: neverbot
 tags:
-  - Humor
-  - Informática
+  - humor
+  - informática
 date: 2008-02-13 13:25:49
 ---
 

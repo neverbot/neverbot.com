@@ -3,8 +3,8 @@ title: I think this is piss
 id: '2232'
 author: neverbot
 tags:
-  - Humor
-  - Ilustración
+  - humor
+  - ilustración
 date: 2010-01-03 22:48:37
 ---
 

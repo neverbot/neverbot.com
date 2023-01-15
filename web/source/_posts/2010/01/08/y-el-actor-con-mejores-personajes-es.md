@@ -3,7 +3,7 @@ title: Y el actor con mejores personajes es...
 id: '2245'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2010-01-08 21:36:18
 ---
 

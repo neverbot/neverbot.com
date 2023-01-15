@@ -3,8 +3,8 @@ title: Recetas para una vida peor
 id: '255'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2006-12-01 08:15:42
 ---
 

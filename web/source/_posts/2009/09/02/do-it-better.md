@@ -3,8 +3,8 @@ title: Do it better
 id: '1717'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2009-09-02 19:14:51
 ---
 

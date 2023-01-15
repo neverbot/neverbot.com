@@ -3,7 +3,7 @@ title: Someone else's hands
 id: '3097'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2012-01-25 14:38:17
 ---
 

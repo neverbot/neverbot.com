@@ -3,8 +3,8 @@ title: Cómo reconocer mis propias aficiones
 id: '1670'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2009-08-22 19:49:47
 ---
 

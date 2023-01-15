@@ -3,8 +3,8 @@ title: Publicidad del Metro de Madrid
 id: '869'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Publicidad
+  - mundo real™
+  - publicidad
 date: 2008-08-11 10:04:59
 ---
 

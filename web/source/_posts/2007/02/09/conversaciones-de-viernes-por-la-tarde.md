@@ -3,7 +3,7 @@ title: Conversaciones de viernes por la tarde
 id: '368'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-02-09 15:11:10
 ---
 

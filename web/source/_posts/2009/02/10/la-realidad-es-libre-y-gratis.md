@@ -3,7 +3,7 @@ title: La realidad es libre (y gratis)
 id: '1159'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2009-02-10 20:21:56
 ---
 

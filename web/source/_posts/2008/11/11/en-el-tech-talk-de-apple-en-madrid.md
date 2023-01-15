@@ -3,8 +3,8 @@ title: En el Tech Talk de Apple en Madrid
 id: '1100'
 author: neverbot
 tags:
-  - Blog
-  - Informática
+  - blog
+  - informática
 date: 2008-11-11 10:04:49
 ---
 

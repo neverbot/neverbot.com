@@ -3,8 +3,8 @@ title: Batmin & Robbes
 id: '2132'
 author: neverbot
 tags:
-  - Ilustración
-  - Tebeos
+  - ilustración
+  - tebeos
 date: 2009-11-29 22:23:15
 ---
 

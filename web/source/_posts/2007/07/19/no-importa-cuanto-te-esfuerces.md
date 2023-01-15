@@ -3,8 +3,8 @@ title: No importa cuánto te esfuerces
 id: '483'
 author: neverbot
 tags:
-  - Música
-  - Pensamientos aleatorios
+  - música
+  - pensamientos aleatorios
 date: 2007-07-19 18:51:08
 ---
 

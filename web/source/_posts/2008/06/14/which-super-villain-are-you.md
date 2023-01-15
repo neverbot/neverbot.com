@@ -3,7 +3,7 @@ title: Which Super Villain are you?
 id: '801'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2008-06-14 11:56:54
 ---
 

@@ -3,8 +3,8 @@ title: Ciencia y Religión
 id: '1303'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - mundo real™
+  - pensamientos aleatorios
 date: 2009-03-11 09:25:42
 ---
 

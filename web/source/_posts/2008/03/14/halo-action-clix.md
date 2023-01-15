@@ -3,8 +3,8 @@ title: Halo Action Clix
 id: '753'
 author: neverbot
 tags:
-  - Juegos
-  - Videojuegos
+  - juegos
+  - videojuegos
 date: 2008-03-14 20:40:30
 ---
 

@@ -3,8 +3,8 @@ title: Fenómenos inexplicables en el logotipo de Google
 id: '1781'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
+  - ilustración
+  - internet
 date: 2009-09-10 11:16:18
 ---
 

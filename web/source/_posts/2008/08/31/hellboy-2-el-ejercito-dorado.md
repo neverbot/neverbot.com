@@ -3,9 +3,9 @@ title: 'Hellboy 2: El ejército dorado'
 id: '927'
 author: neverbot
 tags:
-  - Cine
-  - Miniblog
-  - Reseñas
+  - cine
+  - miniblog
+  - reseñas
 date: 2008-08-31 00:39:37
 ---
 

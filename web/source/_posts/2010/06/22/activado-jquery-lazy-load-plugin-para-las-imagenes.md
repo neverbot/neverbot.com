@@ -3,8 +3,8 @@ title: 'Activado jQuery lazy load: Plugin para las imágenes'
 id: '2548'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2010-06-22 20:37:06
 ---
 

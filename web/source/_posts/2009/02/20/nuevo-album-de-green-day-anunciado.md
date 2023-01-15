@@ -3,7 +3,7 @@ title: Nuevo álbum de Green Day anunciado
 id: '1206'
 author: neverbot
 tags:
-  - Música
+  - música
 date: 2009-02-20 13:50:43
 ---
 

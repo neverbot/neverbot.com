@@ -3,8 +3,8 @@ title: Estupideces que nunca leeréis en otro blog (VI)
 id: '1707'
 author: neverbot
 tags:
-  - Blog
-  - Neverbot
+  - blog
+  - neverbot
 date: 2009-09-01 12:33:47
 ---
 

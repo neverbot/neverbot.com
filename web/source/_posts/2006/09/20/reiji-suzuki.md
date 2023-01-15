@@ -3,7 +3,7 @@ title: Reiji Suzuki
 id: '85'
 author: neverbot
 tags:
-  - Fotografía
+  - fotografía
 date: 2006-09-20 17:51:57
 ---
 

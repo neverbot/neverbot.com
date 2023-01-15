@@ -3,7 +3,7 @@ title: Perlas de sabiduría
 id: '45'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-08-16 11:50:02
 ---
 

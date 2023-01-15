@@ -3,7 +3,7 @@ title: Consejo del día
 id: '605'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-11-28 16:24:55
 ---
 

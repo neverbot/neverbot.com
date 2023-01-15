@@ -3,8 +3,8 @@ title: Sith Nazgul
 id: '2510'
 author: neverbot
 tags:
-  - Cine
-  - Humor
+  - cine
+  - humor
 date: 2010-05-11 10:01:25
 ---
 

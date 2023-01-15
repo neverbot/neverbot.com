@@ -3,7 +3,7 @@ title: Like real life
 id: '1465'
 author: neverbot
 tags:
-  - Fotografía
+  - fotografía
 date: 2009-06-26 10:56:02
 ---
 

@@ -3,7 +3,7 @@ title: Código salvaje y libre
 id: '393'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2007-03-09 16:33:19
 ---
 

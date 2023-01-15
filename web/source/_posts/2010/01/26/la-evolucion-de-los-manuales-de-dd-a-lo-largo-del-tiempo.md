@@ -3,7 +3,7 @@ title: La evolución de los manuales de D&D a lo largo del tiempo
 id: '2281'
 author: neverbot
 tags:
-  - Juegos
+  - juegos
   - juegos
     - Rol
 date: 2010-01-26 09:54:20

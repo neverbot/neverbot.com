@@ -3,8 +3,8 @@ title: Psé...
 id: '419'
 author: neverbot
 tags:
-  - Blog
-  - Música
+  - blog
+  - música
 date: 2007-04-12 12:47:18
 video: Soa3gO7tL-c
 ---

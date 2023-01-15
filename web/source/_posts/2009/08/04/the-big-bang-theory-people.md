@@ -3,7 +3,7 @@ title: The Big Bang Theory People
 id: '1537'
 author: neverbot
 tags:
-  - Tv
+  - tv
 date: 2009-08-04 18:03:06
 ---
 

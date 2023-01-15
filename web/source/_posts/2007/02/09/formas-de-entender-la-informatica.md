@@ -3,8 +3,8 @@ title: Formas de entender la informática
 id: '370'
 author: neverbot
 tags:
-  - Blog
-  - Informática
+  - blog
+  - informática
 date: 2007-02-09 17:44:05
 ---
 

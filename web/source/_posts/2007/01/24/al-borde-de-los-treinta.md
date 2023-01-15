@@ -3,8 +3,8 @@ title: Al borde de los treinta
 id: '346'
 author: neverbot
 tags:
-  - Libros
-  - Reseñas
+  - libros
+  - reseñas
 date: 2007-01-24 14:17:49
 ---
 

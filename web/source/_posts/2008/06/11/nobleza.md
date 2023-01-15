@@ -3,7 +3,7 @@ title: Nobleza
 id: '798'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-06-11 17:26:59
 ---
 

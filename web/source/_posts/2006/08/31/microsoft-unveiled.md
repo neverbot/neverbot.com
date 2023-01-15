@@ -3,8 +3,8 @@ title: Microsoft unveiled
 id: '10'
 author: neverbot
 tags:
-  - Blog
-  - Informática
+  - blog
+  - informática
 date: 2006-08-31 20:24:58
 ---
 

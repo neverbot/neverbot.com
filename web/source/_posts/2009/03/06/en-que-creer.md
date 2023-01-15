@@ -3,7 +3,7 @@ title: ¿En qué creer?
 id: '1294'
 author: neverbot
 tags:
-  - Humor
+  - humor
 date: 2009-03-06 10:51:40
 ---
 

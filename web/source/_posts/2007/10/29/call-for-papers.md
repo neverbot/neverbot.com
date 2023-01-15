@@ -3,7 +3,7 @@ title: Call for papers
 id: '566'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-10-29 18:25:27
 ---
 

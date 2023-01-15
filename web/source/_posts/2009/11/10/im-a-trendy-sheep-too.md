@@ -3,8 +3,8 @@ title: I'm a trendy sheep, too...
 id: '2057'
 author: neverbot
 tags:
-  - Informática
-  - Publicidad
+  - informática
+  - publicidad
 date: 2009-11-10 16:59:15
 ---
 

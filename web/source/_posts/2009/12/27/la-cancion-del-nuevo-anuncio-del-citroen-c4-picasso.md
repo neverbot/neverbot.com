@@ -3,9 +3,9 @@ title: La canción del nuevo anuncio del Citroen C4 Picasso
 id: '2214'
 author: neverbot
 tags:
-  - Música
-  - Publicidad
-  - Tv
+  - música
+  - publicidad
+  - tv
 date: 2009-12-27 18:40:04
 ---
 

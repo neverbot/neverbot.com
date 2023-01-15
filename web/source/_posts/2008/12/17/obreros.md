@@ -3,7 +3,7 @@ title: Obreros
 id: '1133'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2008-12-17 13:03:05
 ---
 

@@ -2,8 +2,9 @@
 title: Lista de correo de neverbot.com, primer envío
 author: neverbot
 tags:
- - Internet
- - Neverbot
+  - internet
+  - neverbot
+  - resúmenes
 date: 2016-11-29 18:52:44
 
 ---

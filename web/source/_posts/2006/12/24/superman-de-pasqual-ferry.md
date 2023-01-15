@@ -3,8 +3,8 @@ title: Superman (de Pasqual Ferry)
 id: '293'
 author: neverbot
 tags:
-  - Reseñas
-  - Tebeos
+  - reseñas
+  - tebeos
 date: 2006-12-24 13:44:03
 ---
 

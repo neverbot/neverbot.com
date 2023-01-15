@@ -3,8 +3,8 @@ title: Tú tampoco lo sabías
 id: '2873'
 author: neverbot
 tags:
-  - ¿Sabías que...?
-  - Cine
+  - ¿sabías que...?
+  - cine
 date: 2011-02-14 17:36:54
 ---
 

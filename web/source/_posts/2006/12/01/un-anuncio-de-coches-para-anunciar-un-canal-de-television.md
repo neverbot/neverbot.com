@@ -3,8 +3,8 @@ title: Un anuncio de coches para anunciar un canal de televisión
 id: '256'
 author: neverbot
 tags:
-  - Publicidad
-  - Tv
+  - publicidad
+  - tv
 date: 2006-12-01 09:50:54
 ---
 

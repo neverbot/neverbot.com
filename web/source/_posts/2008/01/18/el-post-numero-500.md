@@ -3,8 +3,8 @@ title: El post número 500
 id: '680'
 author: neverbot
 tags:
-  - Blog
-  - Neverbot
+  - blog
+  - neverbot
 date: 2008-01-18 11:36:22
 ---
 

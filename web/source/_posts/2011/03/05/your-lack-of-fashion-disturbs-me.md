@@ -3,8 +3,8 @@ title: Your lack of fashion disturbs me
 id: '2907'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
+  - cine
+  - ilustración
 date: 2011-03-05 21:06:52
 ---
 

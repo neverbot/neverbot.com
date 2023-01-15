@@ -3,8 +3,8 @@ title: Avatar, de James Cameron
 id: '2186'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2009-12-20 19:42:13
 ---
 

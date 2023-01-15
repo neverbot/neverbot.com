@@ -3,8 +3,8 @@ title: Alguna vez tenía que ser la primera
 id: '679'
 author: neverbot
 tags:
-  - Blog
-  - Neverbot
+  - blog
+  - neverbot
 comments: false
 date: 2008-01-17 19:01:25
 ---

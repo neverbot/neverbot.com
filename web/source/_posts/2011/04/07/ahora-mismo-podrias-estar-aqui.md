@@ -3,8 +3,8 @@ title: Ahora mismo podrías estar aquí...
 id: '3003'
 author: neverbot
 tags:
-  - Fotografía
-  - Mundo Real™
+  - fotografía
+  - mundo real™
 date: 2011-04-07 12:01:22
 ---
 

@@ -3,7 +3,7 @@ title: Datos, datos, datos...
 id: '156'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2006-11-01 12:50:58
 ---
 

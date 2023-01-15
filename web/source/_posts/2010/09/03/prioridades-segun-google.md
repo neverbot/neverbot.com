@@ -3,8 +3,8 @@ title: Prioridades según Google
 id: '2687'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2010-09-03 14:44:10
 ---
 

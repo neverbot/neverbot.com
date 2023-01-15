@@ -3,10 +3,10 @@ title: Formas de provocar a un Geek
 id: '1433'
 author: neverbot
 tags:
-  - Blog
-  - Humor
-  - Internet
-  - Mundo Real™
+  - blog
+  - humor
+  - internet
+  - mundo real™
 date: 2009-06-17 17:17:15
 ---
 

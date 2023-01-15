@@ -3,8 +3,8 @@ title: ¿Debería hacérmelo mirar?
 id: '277'
 author: neverbot
 tags:
-  - Blog
-  - Informática
+  - blog
+  - informática
 date: 2006-12-13 21:51:55
 ---
 

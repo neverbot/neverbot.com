@@ -3,7 +3,7 @@ title: Motivacional del día
 id: '2905'
 author: neverbot
 tags:
-  - Fotografía
+  - fotografía
 date: 2011-03-05 20:25:45
 ---
 

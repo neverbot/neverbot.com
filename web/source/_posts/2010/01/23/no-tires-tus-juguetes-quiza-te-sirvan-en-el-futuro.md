@@ -3,9 +3,9 @@ title: No tires tus juguetes, quizá te sirvan en el futuro
 id: '2265'
 author: neverbot
 tags:
-  - Juegos
-  - Mundo Real™
-  - Tebeos
+  - juegos
+  - mundo real™
+  - tebeos
 date: 2010-01-23 18:59:24
 ---
 

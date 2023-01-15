@@ -3,9 +3,9 @@ title: Stop and surrender, you invader!
 id: '2019'
 author: neverbot
 tags:
-  - Cine
-  - Fotografía
-  - Videojuegos
+  - cine
+  - fotografía
+  - videojuegos
 date: 2009-11-06 12:33:05
 ---
 

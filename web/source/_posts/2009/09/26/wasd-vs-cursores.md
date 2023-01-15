@@ -3,9 +3,9 @@ title: WASD vs. cursores
 id: '1846'
 author: neverbot
 tags:
-  - Ilustración
-  - Informática
-  - Videojuegos
+  - ilustración
+  - informática
+  - videojuegos
 date: 2009-09-26 21:28:32
 ---
 

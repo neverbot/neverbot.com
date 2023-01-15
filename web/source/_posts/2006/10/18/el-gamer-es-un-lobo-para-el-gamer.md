@@ -3,7 +3,7 @@ title: El gamer es un lobo para el gamer
 id: '129'
 author: neverbot
 tags:
-  - Videojuegos
+  - videojuegos
 date: 2006-10-18 14:04:40
 ---
 

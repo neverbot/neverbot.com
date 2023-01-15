@@ -3,7 +3,7 @@ title: ¿Matemáticas?
 id: '148'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-10-31 13:46:22
 ---
 

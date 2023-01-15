@@ -3,8 +3,8 @@ title: Una película que merecería la pena ver
 id: '2205'
 author: neverbot
 tags:
-  - Cine
-  - Humor
+  - cine
+  - humor
 date: 2009-12-21 20:40:27
 ---
 

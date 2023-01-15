@@ -3,8 +3,8 @@ title: 'Hoy en Google: Las Perseidas'
 id: '1561'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
+  - ilustración
+  - internet
 date: 2009-08-12 14:26:20
 ---
 

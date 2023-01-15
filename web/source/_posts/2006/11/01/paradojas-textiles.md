@@ -3,8 +3,8 @@ title: Paradojas textiles
 id: '155'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - mundo real™
+  - pensamientos aleatorios
 date: 2006-11-01 11:15:26
 ---
 

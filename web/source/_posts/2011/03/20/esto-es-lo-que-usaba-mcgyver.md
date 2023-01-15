@@ -3,9 +3,9 @@ title: Esto es lo que usaba McGyver
 id: '2939'
 author: neverbot
 tags:
-  - Cine
-  - Tebeos
-  - Tv
+  - cine
+  - tebeos
+  - tv
 date: 2011-03-20 21:28:41
 ---
 

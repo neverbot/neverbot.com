@@ -3,7 +3,7 @@ title: Cansinidad
 id: '2422'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2010-03-04 16:49:49
 ---
 

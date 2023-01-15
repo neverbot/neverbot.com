@@ -3,8 +3,8 @@ title: Más invasores del espacio
 id: '2023'
 author: neverbot
 tags:
-  - Ilustración
-  - Videojuegos
+  - ilustración
+  - videojuegos
 date: 2009-11-06 18:26:05
 ---
 

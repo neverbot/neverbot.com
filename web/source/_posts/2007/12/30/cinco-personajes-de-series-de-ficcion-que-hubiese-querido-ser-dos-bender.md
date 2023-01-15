@@ -3,8 +3,8 @@ title: 'Cinco personajes de series de ficción que hubiese querido ser (dos): Be
 id: '657'
 author: neverbot
 tags:
-  - Blog
-  - Tv
+  - blog
+  - tv
 date: 2007-12-30 15:28:28
 ---
 

@@ -3,9 +3,9 @@ title: CUPCAM '06 (actualizado)
 id: '141'
 author: neverbot
 tags:
-  - Blog
-  - Informática
-  - Mundo Real™
+  - blog
+  - informática
+  - mundo real™
 date: 2006-10-26 21:20:43
 ---
 

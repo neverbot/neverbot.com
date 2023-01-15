@@ -3,8 +3,8 @@ title: Pruebas desde el teléfono
 id: '898'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
+  - blog
+  - miniblog
 date: 2008-08-22 18:35:56
 ---
 

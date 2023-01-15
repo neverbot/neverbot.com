@@ -3,7 +3,7 @@ title: Batman sí que sabe solucionar las cosas...
 id: '2999'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2011-04-05 16:29:54
 ---
 

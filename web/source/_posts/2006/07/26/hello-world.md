@@ -3,7 +3,7 @@ title: ¡Hola mundo!
 id: '5'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2006-07-26 16:03:04
 ---
 

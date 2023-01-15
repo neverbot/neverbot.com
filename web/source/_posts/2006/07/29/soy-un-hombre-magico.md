@@ -3,8 +3,8 @@ title: Soy un hombre mágico
 id: '15'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tv
+  - pensamientos aleatorios
+  - tv
 date: 2006-07-29 10:40:58
 ---
 

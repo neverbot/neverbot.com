@@ -3,8 +3,8 @@ title: Be Polite
 id: '1869'
 author: neverbot
 tags:
-  - Clásicos de Internet
-  - Pensamientos aleatorios
+  - clásicos de internet
+  - pensamientos aleatorios
 date: 2009-09-28 20:12:42
 ---
 

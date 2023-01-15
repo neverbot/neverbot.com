@@ -3,8 +3,8 @@ title: Life
 id: '1910'
 author: neverbot
 tags:
-  - Clásicos de Internet
-  - Mundo Real™
+  - clásicos de internet
+  - mundo real™
 date: 2009-10-05 20:01:55
 ---
 

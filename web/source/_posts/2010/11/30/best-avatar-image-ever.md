@@ -3,8 +3,8 @@ title: Best avatar image ever
 id: '2790'
 author: neverbot
 tags:
-  - Blog
-  - Tv
+  - blog
+  - tv
 date: 2010-11-30 09:38:35
 ---
 

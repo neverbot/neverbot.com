@@ -3,8 +3,8 @@ title: Piensa en algo hermoso
 id: '26'
 author: neverbot
 tags:
-  - Blog
-  - Fotografía
+  - blog
+  - fotografía
 date: 2006-08-03 23:00:05
 ---
 

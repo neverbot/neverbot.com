@@ -3,8 +3,8 @@ title: Did you ever imagine...
 id: '2331'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - mundo real™
+  - pensamientos aleatorios
 date: 2010-02-07 20:26:14
 ---
 

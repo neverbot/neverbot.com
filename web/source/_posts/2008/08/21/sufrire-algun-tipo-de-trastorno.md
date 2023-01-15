@@ -3,9 +3,9 @@ title: ¿Sufriré algún tipo de trastorno?
 id: '886'
 author: neverbot
 tags:
-  - Informática
-  - Internet
-  - Pensamientos aleatorios
+  - informática
+  - internet
+  - pensamientos aleatorios
 date: 2008-08-21 13:17:00
 ---
 

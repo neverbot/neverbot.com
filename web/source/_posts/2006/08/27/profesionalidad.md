@@ -3,7 +3,7 @@ title: Profesionalidad
 id: '54'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-08-27 12:19:30
 ---
 

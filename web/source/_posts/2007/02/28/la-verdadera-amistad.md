@@ -3,7 +3,7 @@ title: La verdadera amistad
 id: '387'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-02-28 17:33:04
 ---
 

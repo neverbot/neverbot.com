@@ -3,8 +3,8 @@ title: Otra forma de ver My Name Is Earl
 id: '337'
 author: neverbot
 tags:
-  - Fotografía
-  - Tv
+  - fotografía
+  - tv
 date: 2007-01-18 16:50:21
 ---
 

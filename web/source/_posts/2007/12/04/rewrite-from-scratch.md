@@ -3,8 +3,8 @@ title: Rewrite from scratch
 id: '609'
 author: neverbot
 tags:
-  - Informática
-  - Miniblog
+  - informática
+  - miniblog
 date: 2007-12-04 18:17:54
 ---
 

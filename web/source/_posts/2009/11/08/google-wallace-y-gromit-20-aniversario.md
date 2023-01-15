@@ -3,8 +3,8 @@ title: 'Google: Wallace y Gromit 20 aniversario'
 id: '2041'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
+  - ilustración
+  - internet
 date: 2009-11-08 19:55:04
 ---
 

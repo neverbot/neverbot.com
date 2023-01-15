@@ -3,9 +3,9 @@ title: La "huelga" de informáticos que huele raro
 id: '1094'
 author: neverbot
 tags:
-  - Blog
-  - Informática
-  - Mundo Real™
+  - blog
+  - informática
+  - mundo real™
 date: 2008-11-07 11:17:21
 ---
 

@@ -3,8 +3,8 @@ title: Ozymandias
 id: '2451'
 author: neverbot
 tags:
-  - Internet
-  - Tebeos
+  - internet
+  - tebeos
 date: 2010-03-12 09:16:12
 ---
 

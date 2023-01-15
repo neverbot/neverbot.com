@@ -3,8 +3,8 @@ title: FaceBook en 1938
 id: '1934'
 author: neverbot
 tags:
-  - Humor
-  - Internet
+  - humor
+  - internet
 date: 2009-10-21 19:01:58
 ---
 

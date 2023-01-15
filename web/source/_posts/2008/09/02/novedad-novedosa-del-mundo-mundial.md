@@ -3,9 +3,9 @@ title: Novedad novedosa del mundo mundial
 id: '934'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
-  - Publicidad
+  - miniblog
+  - neverbot
+  - publicidad
 date: 2008-09-02 23:37:06
 ---
 

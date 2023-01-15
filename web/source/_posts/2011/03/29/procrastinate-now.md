@@ -3,7 +3,7 @@ title: Procrastinate now!
 id: '2969'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2011-03-29 10:47:26
 ---
 

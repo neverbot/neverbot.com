@@ -3,8 +3,8 @@ title: Problemas que pueden surgir bajo Ubuntu (II)
 id: '750'
 author: neverbot
 tags:
-  - Informática
-  - Miniblog
+  - informática
+  - miniblog
 date: 2008-03-14 20:08:05
 ---
 

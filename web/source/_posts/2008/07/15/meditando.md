@@ -3,8 +3,8 @@ title: Meditando
 id: '837'
 author: neverbot
 tags:
-  - Blog
-  - Videojuegos
+  - blog
+  - videojuegos
 date: 2008-07-15 08:40:00
 ---
 

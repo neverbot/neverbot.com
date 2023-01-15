@@ -3,7 +3,7 @@ title: The Passion of the Clerks
 id: '128'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2006-10-17 22:49:39
 ---
 

@@ -3,9 +3,9 @@ title: Publicidad que aún no voy a catalogar como spam
 id: '485'
 author: neverbot
 tags:
-  - Blog
-  - Publicidad
-  - Videojuegos
+  - blog
+  - publicidad
+  - videojuegos
 date: 2007-07-20 10:56:38
 ---
 

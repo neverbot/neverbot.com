@@ -3,9 +3,9 @@ title: Desconfianza 2.0 (sí, he copiado el  nombre del post)
 id: '1161'
 author: neverbot
 tags:
-  - Blog
-  - Internet
-  - Pensamientos aleatorios
+  - blog
+  - internet
+  - pensamientos aleatorios
 date: 2009-02-11 09:39:10
 ---
 

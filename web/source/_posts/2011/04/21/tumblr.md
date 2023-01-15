@@ -3,8 +3,8 @@ title: ¿Tumblr?
 id: '3023'
 author: neverbot
 tags:
-  - Blog
-  - Internet
+  - blog
+  - internet
 date: 2011-04-21 20:32:17
 ---
 

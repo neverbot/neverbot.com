@@ -3,7 +3,7 @@ title: Crítica con mesura
 id: '785'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2008-06-03 09:12:59
 ---
 

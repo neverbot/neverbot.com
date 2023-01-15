@@ -3,8 +3,8 @@ title: Level up en la Dirección General de Tráfico
 id: '2667'
 author: neverbot
 tags:
-  - Internet
-  - Mundo Real™
+  - internet
+  - mundo real™
 date: 2010-08-28 21:30:47
 ---
 

@@ -3,8 +3,8 @@ title: Héroes ya en castellano, en el canal Sci-Fi
 id: '340'
 author: neverbot
 tags:
-  - Tebeos
-  - Tv
+  - tebeos
+  - tv
 date: 2007-01-19 09:28:47
 ---
 

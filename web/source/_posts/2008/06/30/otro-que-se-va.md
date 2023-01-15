@@ -3,8 +3,8 @@ title: Otro que se va
 id: '814'
 author: neverbot
 tags:
-  - Ilustración
-  - Tebeos
+  - ilustración
+  - tebeos
 date: 2008-06-30 10:03:27
 ---
 

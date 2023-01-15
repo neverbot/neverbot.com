@@ -3,8 +3,8 @@ title: Home sweet home
 id: '491'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
+  - blog
+  - miniblog
 date: 2007-07-20 13:05:37
 ---
 

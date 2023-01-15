@@ -3,7 +3,7 @@ title: Si los árboles tuviesen Wi-Fi
 id: '6579'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2013-08-21 22:10:49
 ---
 

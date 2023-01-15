@@ -3,8 +3,8 @@ title: Cuando Google encuentra lo que quiere
 id: '749'
 author: neverbot
 tags:
-  - Internet
-  - Miniblog
+  - internet
+  - miniblog
 date: 2008-03-12 09:14:09
 ---
 

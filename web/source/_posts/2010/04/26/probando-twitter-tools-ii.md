@@ -3,8 +3,8 @@ title: Probando Twitter Tools (II)
 id: '2500'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2010-04-26 11:47:50
 ---
 

@@ -3,9 +3,9 @@ title: Avatar vs. Lost
 id: '2329'
 author: neverbot
 tags:
-  - Cine
-  - Humor
-  - Tv
+  - cine
+  - humor
+  - tv
 date: 2010-02-07 18:37:01
 ---
 

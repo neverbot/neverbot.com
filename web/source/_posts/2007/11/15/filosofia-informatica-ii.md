@@ -3,9 +3,9 @@ title: Filosofía informática (II)
 id: '580'
 author: neverbot
 tags:
-  - Cine
-  - Informática
-  - Pensamientos aleatorios
+  - cine
+  - informática
+  - pensamientos aleatorios
 date: 2007-11-15 15:05:44
 ---
 

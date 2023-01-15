@@ -3,7 +3,7 @@ title: Tiny Titans!
 id: '795'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2008-06-10 11:20:49
 ---
 

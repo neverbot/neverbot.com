@@ -3,7 +3,7 @@ title: Física y matemáticas (diferencia básica)
 id: '1359'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2009-04-23 10:13:12
 ---
 

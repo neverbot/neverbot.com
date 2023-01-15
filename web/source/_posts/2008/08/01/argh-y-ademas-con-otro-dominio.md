@@ -3,8 +3,8 @@ title: ¡Argh! ¡Y además con otro dominio!
 id: '861'
 author: neverbot
 tags:
-  - Internet
-  - Miniblog
+  - internet
+  - miniblog
 date: 2008-08-01 11:36:11
 ---
 

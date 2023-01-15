@@ -3,8 +3,8 @@ title: No se lo permitas
 id: '554'
 author: neverbot
 tags:
-  - Música
-  - Pensamientos aleatorios
+  - música
+  - pensamientos aleatorios
 date: 2007-09-28 16:12:34
 video: 4mtfnfQoAco
 ---

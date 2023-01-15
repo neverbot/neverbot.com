@@ -3,7 +3,7 @@ title: El final de Perdidos
 id: '2482'
 author: neverbot
 tags:
-  - Tv
+  - tv
 date: 2010-03-29 21:08:50
 ---
 

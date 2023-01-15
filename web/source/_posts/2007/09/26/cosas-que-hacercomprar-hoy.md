@@ -3,9 +3,9 @@ title: Cosas que hacer(comprar) hoy
 id: '552'
 author: neverbot
 tags:
-  - Blog
-  - Cine
-  - Videojuegos
+  - blog
+  - cine
+  - videojuegos
 date: 2007-09-26 16:49:50
 ---
 

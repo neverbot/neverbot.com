@@ -3,7 +3,7 @@ title: ¿Luchar contra el spam servirá de algo?
 id: '999'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2008-10-02 09:34:17
 ---
 

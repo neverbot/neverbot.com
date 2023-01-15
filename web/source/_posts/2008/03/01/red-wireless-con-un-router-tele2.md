@@ -3,8 +3,8 @@ title: Red Wireless con un router Tele2
 id: '731'
 author: neverbot
 tags:
-  - Informática
-  - Internet
+  - informática
+  - internet
 date: 2008-03-01 13:09:45
 ---
 

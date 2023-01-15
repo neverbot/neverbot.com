@@ -3,9 +3,9 @@ title: Gatas de acogida
 id: '1551'
 author: neverbot
 tags:
-  - Blog
-  - Fotografía
-  - Mundo Real™
+  - blog
+  - fotografía
+  - mundo real™
 date: 2009-08-11 12:19:39
 ---
 

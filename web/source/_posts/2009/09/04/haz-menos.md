@@ -3,8 +3,8 @@ title: Haz menos
 id: '1732'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2009-09-04 12:42:31
 ---
 

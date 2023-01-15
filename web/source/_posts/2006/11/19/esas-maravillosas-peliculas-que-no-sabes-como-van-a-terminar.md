@@ -3,8 +3,8 @@ title: Esas maravillosas películas que no sabes cómo van a terminar
 id: '228'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2006-11-19 21:21:57
 ---
 

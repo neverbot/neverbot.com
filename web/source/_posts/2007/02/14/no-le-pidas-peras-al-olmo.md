@@ -3,7 +3,7 @@ title: No le pidas peras al olmo
 id: '372'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-02-14 11:38:14
 ---
 

@@ -3,9 +3,9 @@ title: Hazlo o no lo hagas, pero no lo intentes
 id: '381'
 author: neverbot
 tags:
-  - Cine
-  - Internet
-  - Pensamientos aleatorios
+  - cine
+  - internet
+  - pensamientos aleatorios
 date: 2007-02-21 18:14:04
 ---
 

@@ -3,8 +3,8 @@ title: Diez propósitos para 2010
 id: '2228'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2010-01-03 18:47:05
 ---
 

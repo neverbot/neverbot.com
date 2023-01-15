@@ -3,7 +3,7 @@ title: Google vuelve a beta
 id: '2658'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2010-08-27 09:23:22
 ---
 

@@ -3,9 +3,9 @@ title: ¡Vacaciones!
 id: '666'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
-  - Mundo Real™
+  - blog
+  - miniblog
+  - mundo real™
 date: 2008-01-02 16:59:21
 ---
 

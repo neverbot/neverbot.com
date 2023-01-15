@@ -3,7 +3,7 @@ title: Shoryuken
 id: '747'
 author: neverbot
 tags:
-  - Humor
+  - humor
 date: 2008-03-08 13:48:07
 ---
 

@@ -3,8 +3,8 @@ title: 'Batman: The Dark Night'
 id: '768'
 author: neverbot
 tags:
-  - Cine
-  - Tebeos
+  - cine
+  - tebeos
 date: 2008-04-25 12:07:41
 ---
 

@@ -3,7 +3,7 @@ title: No pudo ser
 id: '113'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2006-10-08 15:49:48
 ---
 

@@ -3,8 +3,8 @@ title: Be Windows my friend
 id: '391'
 author: neverbot
 tags:
-  - Informática
-  - Pensamientos aleatorios
+  - informática
+  - pensamientos aleatorios
 date: 2007-03-07 17:01:37
 ---
 

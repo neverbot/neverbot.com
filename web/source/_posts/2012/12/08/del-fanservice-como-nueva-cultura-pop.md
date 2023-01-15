@@ -3,9 +3,9 @@ title: Del fanservice como nueva cultura pop
 id: '5614'
 author: neverbot
 tags:
-  - Cine
-  - Libros
-  - Tv
+  - cine
+  - libros
+  - tv
 date: 2012-12-08 15:45:14
 ---
 

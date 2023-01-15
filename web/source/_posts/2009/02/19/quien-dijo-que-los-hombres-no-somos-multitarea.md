@@ -3,8 +3,8 @@ title: ¿Quién dijo que los hombres no somos multitarea?
 id: '1179'
 author: neverbot
 tags:
-  - Humor
-  - Publicidad
+  - humor
+  - publicidad
 date: 2009-02-19 19:24:58
 ---
 

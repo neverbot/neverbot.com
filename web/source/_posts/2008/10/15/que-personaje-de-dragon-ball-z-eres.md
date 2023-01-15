@@ -3,9 +3,9 @@ title: ¿Qué personaje de Dragon Ball Z eres?
 id: '1047'
 author: neverbot
 tags:
-  - Internet
-  - Tebeos
-  - Tv
+  - internet
+  - tebeos
+  - tv
 date: 2008-10-15 16:20:19
 ---
 

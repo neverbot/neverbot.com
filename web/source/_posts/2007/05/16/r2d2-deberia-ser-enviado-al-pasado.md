@@ -3,8 +3,8 @@ title: R2D2 debería ser enviado al pasado
 id: '439'
 author: neverbot
 tags:
-  - Cine
-  - Pensamientos aleatorios
+  - cine
+  - pensamientos aleatorios
 date: 2007-05-16 11:17:22
 ---
 

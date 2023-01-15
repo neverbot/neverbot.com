@@ -3,8 +3,8 @@ title: Summer is coming
 id: '3049'
 author: neverbot
 tags:
-  - Internet
-  - Mundo Real™
+  - internet
+  - mundo real™
 date: 2011-06-21 11:05:44
 ---
 

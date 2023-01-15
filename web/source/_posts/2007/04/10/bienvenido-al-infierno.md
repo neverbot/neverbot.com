@@ -3,7 +3,7 @@ title: Bienvenido al infierno
 id: '417'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2007-04-10 12:52:41
 ---
 

@@ -3,7 +3,7 @@ title: Lo que opino sobre mi trabajo
 id: '136'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-10-23 20:39:21
 ---
 

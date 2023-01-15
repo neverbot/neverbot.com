@@ -3,7 +3,7 @@ title: Most people can't think
 id: '42'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-08-15 18:39:36
 ---
 

@@ -3,8 +3,8 @@ title: La Sirenita según Jeff Scott Campbell
 id: '1722'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
+  - cine
+  - ilustración
 date: 2009-09-03 13:12:40
 ---
 

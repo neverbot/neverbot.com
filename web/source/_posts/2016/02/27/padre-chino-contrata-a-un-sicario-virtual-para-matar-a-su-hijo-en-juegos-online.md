@@ -4,9 +4,9 @@ title: Padre chino contrata a un sicario virtual para "matar" a su hijo en juego
 id: '7549'
 author: neverbot
 tags:
-  - ¿Sabías que...?
-  - Mundo Real™
-  - Videojuegos
+  - ¿sabías que...?
+  - mundo real™
+  - videojuegos
 date: 2016-02-27 13:36:38
 ---
 

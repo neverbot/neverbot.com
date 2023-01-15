@@ -3,8 +3,8 @@ title: 'Lost: Gracias por todo'
 id: '2527'
 author: neverbot
 tags:
-  - Blog
-  - Tv
+  - blog
+  - tv
 date: 2010-05-24 19:14:17
 ---
 

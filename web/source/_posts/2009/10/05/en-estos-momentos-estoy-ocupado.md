@@ -3,8 +3,8 @@ title: En estos momentos estoy ocupado...
 id: '1907'
 author: neverbot
 tags:
-  - Ilustración
-  - Tebeos
+  - ilustración
+  - tebeos
 date: 2009-10-05 16:34:40
 ---
 

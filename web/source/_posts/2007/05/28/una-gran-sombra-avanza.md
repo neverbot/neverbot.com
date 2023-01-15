@@ -3,8 +3,8 @@ title: Una gran sombra avanza...
 id: '461'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-05-28 12:13:02
 ---
 

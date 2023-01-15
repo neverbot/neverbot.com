@@ -3,8 +3,8 @@ title: ¿Televisión?
 id: '839'
 author: neverbot
 tags:
-  - Blog
-  - Tv
+  - blog
+  - tv
 date: 2008-07-15 08:53:34
 ---
 

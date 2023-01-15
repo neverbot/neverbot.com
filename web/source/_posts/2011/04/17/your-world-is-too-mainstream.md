@@ -3,7 +3,7 @@ title: Your world is too mainstream
 id: '3019'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2011-04-17 15:00:39
 ---
 

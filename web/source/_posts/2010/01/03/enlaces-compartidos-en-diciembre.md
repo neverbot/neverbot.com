@@ -3,9 +3,9 @@ title: Enlaces compartidos en Diciembre
 id: '2225'
 author: neverbot
 tags:
-  - Blog
-  - Internet
-  - Resúmenes
+  - blog
+  - internet
+  - resúmenes
 date: 2010-01-03 13:49:14
 ---
 

@@ -3,7 +3,7 @@ title: Técnicas de marketing
 id: '375'
 author: neverbot
 tags:
-  - Videojuegos
+  - videojuegos
 date: 2007-02-14 15:34:14
 ---
 

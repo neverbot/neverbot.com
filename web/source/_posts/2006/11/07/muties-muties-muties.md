@@ -3,8 +3,8 @@ title: Muties, muties, muties...
 id: '181'
 author: neverbot
 tags:
-  - Reseñas
-  - Tebeos
+  - reseñas
+  - tebeos
 date: 2006-11-07 22:30:12
 ---
 

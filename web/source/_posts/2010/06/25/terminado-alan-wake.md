@@ -3,8 +3,8 @@ title: 'Terminado: Alan Wake'
 id: '2562'
 author: neverbot
 tags:
-  - Reseñas
-  - Videojuegos
+  - reseñas
+  - videojuegos
 date: 2010-06-25 12:46:58
 ---
 

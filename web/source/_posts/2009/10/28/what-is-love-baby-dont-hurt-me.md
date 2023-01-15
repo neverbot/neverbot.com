@@ -3,7 +3,7 @@ title: What is love? Baby don't hurt me...
 id: '1960'
 author: neverbot
 tags:
-  - Clásicos de Internet
+  - clásicos de internet
 date: 2009-10-28 15:26:05
 ---
 

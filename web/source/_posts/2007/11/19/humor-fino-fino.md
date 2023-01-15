@@ -3,8 +3,8 @@ title: Humor fino, fino
 id: '585'
 author: neverbot
 tags:
-  - Humor
-  - Tv
+  - humor
+  - tv
 date: 2007-11-19 16:58:26
 ---
 

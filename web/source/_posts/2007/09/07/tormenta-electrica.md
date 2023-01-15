@@ -3,8 +3,8 @@ title: Tormenta eléctrica
 id: '522'
 author: neverbot
 tags:
-  - Cine
-  - Pensamientos aleatorios
+  - cine
+  - pensamientos aleatorios
 date: 2007-09-07 13:48:53
 ---
 

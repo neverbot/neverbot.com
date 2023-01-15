@@ -3,10 +3,10 @@ title: Capitán Ahab vs. Moby Dick, round one
 id: '1813'
 author: neverbot
 tags:
-  - Humor
-  - Ilustración
-  - Libros
-  - Videojuegos
+  - humor
+  - ilustración
+  - libros
+  - videojuegos
 date: 2009-09-14 13:34:59
 ---
 

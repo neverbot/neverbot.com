@@ -3,7 +3,7 @@ title: El País Semanal
 id: '2648'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
   - Opinión
 date: 2010-08-22 11:54:33
 ---

@@ -3,9 +3,9 @@ title: ...is for awesome people!
 id: '2346'
 author: neverbot
 tags:
-  - Libros
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - libros
+  - mundo real™
+  - pensamientos aleatorios
 date: 2010-02-16 20:07:05
 ---
 

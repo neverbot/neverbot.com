@@ -3,9 +3,9 @@ title: Dos curiosidades sobre Batman y Superman
 id: '652'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
-  - Tebeos
+  - cine
+  - ilustración
+  - tebeos
 date: 2007-12-27 09:51:46
 ---
 

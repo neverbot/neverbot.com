@@ -3,8 +3,8 @@ title: Google por Jim Lee
 id: '2723'
 author: neverbot
 tags:
-  - Internet
-  - Tebeos
+  - internet
+  - tebeos
 date: 2010-09-24 09:22:43
 ---
 

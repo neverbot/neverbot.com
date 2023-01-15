@@ -3,7 +3,7 @@ title: Cuando otros definen tu estado anímico
 id: '586'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-11-19 17:37:52
 ---
 

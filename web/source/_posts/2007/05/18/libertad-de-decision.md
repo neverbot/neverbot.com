@@ -3,7 +3,7 @@ title: Libertad de decisión
 id: '448'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-05-18 14:46:39
 ---
 

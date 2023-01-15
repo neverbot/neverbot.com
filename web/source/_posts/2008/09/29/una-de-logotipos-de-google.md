@@ -3,7 +3,7 @@ title: Una de logotipos de Google
 id: '990'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2008-09-29 17:00:42
 ---
 

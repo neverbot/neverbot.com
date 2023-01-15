@@ -3,8 +3,8 @@ title: ¿A qué te dedicas?
 id: '57'
 author: neverbot
 tags:
-  - Informática
-  - Pensamientos aleatorios
+  - informática
+  - pensamientos aleatorios
 date: 2006-08-29 16:43:42
 ---
 

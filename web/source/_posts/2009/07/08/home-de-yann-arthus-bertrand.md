@@ -3,8 +3,8 @@ title: Home, de Yann Arthus-Bertrand
 id: '1481'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Tv
+  - mundo real™
+  - tv
 date: 2009-07-08 21:44:42
 ---
 

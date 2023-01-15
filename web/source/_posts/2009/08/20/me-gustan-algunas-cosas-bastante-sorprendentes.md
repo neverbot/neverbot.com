@@ -3,9 +3,9 @@ title: Me gustan algunas cosas bastante sorprendentes
 id: '1666'
 author: neverbot
 tags:
-  - Blog
-  - Ilustración
-  - Tebeos
+  - blog
+  - ilustración
+  - tebeos
 date: 2009-08-20 17:09:11
 ---
 

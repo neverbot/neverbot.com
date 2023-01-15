@@ -3,8 +3,8 @@ title: Don't forget
 id: '2890'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - mundo real™
+  - pensamientos aleatorios
 date: 2011-02-27 13:41:01
 ---
 

@@ -3,7 +3,7 @@ title: Hedonistas
 id: '438'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-05-14 16:02:48
 ---
 

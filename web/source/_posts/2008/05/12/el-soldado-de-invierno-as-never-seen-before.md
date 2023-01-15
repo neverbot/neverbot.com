@@ -3,7 +3,7 @@ title: El Soldado de Invierno (as never seen before)
 id: '777'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2008-05-12 15:40:31
 ---
 

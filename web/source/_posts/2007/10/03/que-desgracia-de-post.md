@@ -3,7 +3,7 @@ title: Qué desgracia de post
 id: '556'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-10-03 15:13:10
 ---
 

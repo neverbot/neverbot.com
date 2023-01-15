@@ -3,9 +3,9 @@ title: 'FW: RV: FW: Leelo!!!!'
 id: '75'
 author: neverbot
 tags:
-  - Blog
-  - Informática
-  - Internet
+  - blog
+  - informática
+  - internet
 date: 2006-09-13 20:42:12
 ---
 

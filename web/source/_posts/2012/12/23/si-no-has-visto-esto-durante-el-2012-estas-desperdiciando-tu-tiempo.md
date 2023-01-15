@@ -3,10 +3,10 @@ title: Si no has visto esto durante el 2012 estás desperdiciando tu tiempo
 id: '5760'
 author: neverbot
 tags:
-  - Blog
-  - Cine
-  - Tebeos
-  - Tv
+  - blog
+  - cine
+  - tebeos
+  - tv
 date: 2012-12-23 19:24:24
 ---
 

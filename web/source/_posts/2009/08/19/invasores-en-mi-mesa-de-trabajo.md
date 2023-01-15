@@ -3,9 +3,9 @@ title: Invasores en mi mesa de trabajo
 id: '1658'
 author: neverbot
 tags:
-  - Blog
-  - Fotografía
-  - Mundo Real™
+  - blog
+  - fotografía
+  - mundo real™
 date: 2009-08-19 21:39:34
 ---
 

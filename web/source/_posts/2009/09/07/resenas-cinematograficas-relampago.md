@@ -3,9 +3,9 @@ title: Reseñas cinematográficas relámpago
 id: '1752'
 author: neverbot
 tags:
-  - Blog
-  - Cine
-  - Reseñas
+  - blog
+  - cine
+  - reseñas
 date: 2009-09-07 18:20:45
 ---
 

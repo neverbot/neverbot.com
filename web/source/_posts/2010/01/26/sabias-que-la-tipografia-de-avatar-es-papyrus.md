@@ -3,10 +3,10 @@ title: ¿Sabías que... la tipografía de Avatar es Papyrus?
 id: '2285'
 author: neverbot
 tags:
-  - ¿Sabías que...?
-  - Cine
-  - Ilustración
-  - Internet
+  - ¿sabías que...?
+  - cine
+  - ilustración
+  - internet
 date: 2010-01-26 13:12:43
 ---
 

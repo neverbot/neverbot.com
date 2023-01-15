@@ -3,7 +3,7 @@ title: Siempre jugarán con nuestra mente
 id: '88'
 author: neverbot
 tags:
-  - Humor
+  - humor
 date: 2006-09-20 19:48:29
 ---
 

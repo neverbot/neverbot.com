@@ -3,8 +3,8 @@ title: ¿Recovering my status?
 id: '778'
 author: neverbot
 tags:
-  - Miniblog
-  - Música
+  - miniblog
+  - música
 date: 2008-05-28 12:38:14
 ---
 

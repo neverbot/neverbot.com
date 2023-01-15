@@ -3,8 +3,8 @@ title: Parón navideño demasiado largo
 id: '1150'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Neverbot
+  - mundo real™
+  - neverbot
 date: 2009-01-13 14:29:22
 ---
 

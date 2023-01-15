@@ -3,7 +3,7 @@ title: Sentimiento de inferioridad
 id: '1476'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2009-06-27 14:48:21
 ---
 

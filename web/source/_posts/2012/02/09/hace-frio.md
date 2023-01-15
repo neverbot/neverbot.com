@@ -3,8 +3,8 @@ title: ¿Hace frío?
 id: '3102'
 author: neverbot
 tags:
-  - Humor
-  - Mundo Real™
+  - humor
+  - mundo real™
 date: 2012-02-09 09:55:41
 ---
 

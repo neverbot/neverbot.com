@@ -3,9 +3,9 @@ title: Cuestión de percepción
 id: '524'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Publicidad
-  - Tv
+  - pensamientos aleatorios
+  - publicidad
+  - tv
 date: 2007-09-10 11:03:37
 ---
 

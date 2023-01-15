@@ -3,8 +3,8 @@ title: Belleza y miedo
 id: '133'
 author: neverbot
 tags:
-  - Fotografía
-  - Publicidad
+  - fotografía
+  - publicidad
 date: 2006-10-18 19:14:00
 ---
 

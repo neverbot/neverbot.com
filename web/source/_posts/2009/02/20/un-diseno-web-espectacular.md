@@ -3,9 +3,9 @@ title: Un diseño web espectacular
 id: '1217'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
-  - Miniblog
+  - ilustración
+  - internet
+  - miniblog
 date: 2009-02-20 14:50:48
 ---
 

@@ -3,7 +3,7 @@ title: Gez Fry
 id: '690'
 author: neverbot
 tags:
-  - Ilustración
+  - ilustración
 date: 2008-01-24 00:31:05
 ---
 

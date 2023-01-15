@@ -3,8 +3,8 @@ title: Me gustó esa serie, si no fuera por...
 id: '843'
 author: neverbot
 tags:
-  - Al blog que vas
-  - Tv
+  - al blog que vas
+  - tv
 date: 2008-07-16 13:24:14
 ---
 

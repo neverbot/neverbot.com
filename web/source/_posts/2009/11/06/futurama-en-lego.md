@@ -3,8 +3,8 @@ title: Futurama en Lego
 id: '2021'
 author: neverbot
 tags:
-  - Juegos
-  - Tv
+  - juegos
+  - tv
 date: 2009-11-06 12:35:45
 ---
 

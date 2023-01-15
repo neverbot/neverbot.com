@@ -3,8 +3,8 @@ title: Do you speak it?
 id: '1636'
 author: neverbot
 tags:
-  - Cine
-  - Clásicos de Internet
+  - cine
+  - clásicos de internet
 date: 2009-08-17 19:54:54
 ---
 

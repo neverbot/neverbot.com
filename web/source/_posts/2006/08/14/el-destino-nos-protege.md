@@ -3,8 +3,8 @@ title: El destino nos protege
 id: '39'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tv
+  - pensamientos aleatorios
+  - tv
 date: 2006-08-14 10:32:48
 ---
 

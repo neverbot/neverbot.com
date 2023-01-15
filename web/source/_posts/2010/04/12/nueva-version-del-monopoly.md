@@ -3,7 +3,7 @@ title: Nueva versión del Monopoly
 id: '2487'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2010-04-12 12:00:50
 ---
 

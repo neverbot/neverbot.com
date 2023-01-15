@@ -3,8 +3,8 @@ title: 'Crank: Veneno en la sangre'
 id: '361'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2007-02-05 12:35:15
 ---
 

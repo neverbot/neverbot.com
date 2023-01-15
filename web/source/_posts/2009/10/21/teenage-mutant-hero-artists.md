@@ -3,7 +3,7 @@ title: Teenage Mutant Hero Artists
 id: '1936'
 author: neverbot
 tags:
-  - Ilustración
+  - ilustración
 date: 2009-10-21 19:16:53
 ---
 

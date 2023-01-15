@@ -3,7 +3,7 @@ title: Las dichosas chapas del Facebook
 id: '1798'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2009-09-13 12:04:37
 ---
 

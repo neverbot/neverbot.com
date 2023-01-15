@@ -3,8 +3,8 @@ title: 'Leído: Conan de Kurt Busiek'
 id: '2619'
 author: neverbot
 tags:
-  - Reseñas
-  - Tebeos
+  - reseñas
+  - tebeos
 date: 2010-08-19 22:00:11
 ---
 

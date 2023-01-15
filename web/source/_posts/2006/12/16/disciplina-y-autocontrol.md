@@ -3,7 +3,7 @@ title: Disciplina y autocontrol
 id: '281'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-12-16 19:03:23
 ---
 

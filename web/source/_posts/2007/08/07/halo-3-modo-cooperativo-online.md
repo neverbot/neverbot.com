@@ -3,7 +3,7 @@ title: 'Halo 3: Modo cooperativo ¿online?'
 id: '504'
 author: neverbot
 tags:
-  - Videojuegos
+  - videojuegos
 date: 2007-08-07 11:34:26
 ---
 

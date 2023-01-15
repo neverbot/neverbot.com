@@ -3,7 +3,7 @@ title: Errores asumibles
 id: '279'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-12-14 15:57:23
 ---
 

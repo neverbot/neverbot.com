@@ -3,7 +3,7 @@ title: Hombre, visto así...
 id: '685'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 comments: false
 date: 2008-01-20 21:47:06
 ---

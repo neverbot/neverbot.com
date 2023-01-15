@@ -3,8 +3,8 @@ title: Eso es imposible
 id: '2134'
 author: neverbot
 tags:
-  - Humor
-  - Mundo Real™
+  - humor
+  - mundo real™
 date: 2009-12-01 09:43:59
 ---
 

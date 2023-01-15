@@ -3,8 +3,8 @@ title: 'Error 404: Las torres no se han podido encontrar'
 id: '2002'
 author: neverbot
 tags:
-  - Humor
-  - Informática
+  - humor
+  - informática
 date: 2009-11-04 14:21:56
 ---
 

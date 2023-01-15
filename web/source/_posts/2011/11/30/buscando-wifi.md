@@ -3,8 +3,8 @@ title: Buscando WiFi
 id: '3082'
 author: neverbot
 tags:
-  - Informática
-  - Internet
+  - informática
+  - internet
 date: 2011-11-30 21:02:08
 ---
 

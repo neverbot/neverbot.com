@@ -3,8 +3,8 @@ title: El Canon de Pachelbel
 id: '484'
 author: neverbot
 tags:
-  - Humor
-  - Música
+  - humor
+  - música
 date: 2007-07-19 18:59:44
 video: JdxkVQy7QLM
 ---

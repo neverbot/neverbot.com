@@ -3,8 +3,8 @@ title: Pérdida de significado
 id: '329'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tv
+  - pensamientos aleatorios
+  - tv
 date: 2007-01-16 13:19:44
 ---
 

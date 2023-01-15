@@ -3,7 +3,7 @@ title: Grandes verdades de mi vida
 id: '423'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-04-20 11:41:08
 ---
 

@@ -3,8 +3,8 @@ title: A veces cansa
 id: '287'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2006-12-20 18:32:10
 ---
 

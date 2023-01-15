@@ -3,9 +3,9 @@ title: Traje (again)
 id: '995'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
-  - Mundo Real™
+  - blog
+  - miniblog
+  - mundo real™
 date: 2008-10-01 09:10:56
 ---
 

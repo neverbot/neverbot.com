@@ -3,8 +3,8 @@ title: Ordenando la colección musical
 id: '1275'
 author: neverbot
 tags:
-  - Informática
-  - Música
+  - informática
+  - música
 date: 2009-03-05 11:56:53
 ---
 

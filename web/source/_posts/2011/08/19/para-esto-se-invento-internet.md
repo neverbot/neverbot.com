@@ -3,8 +3,8 @@ title: Para esto se inventó Internet
 id: '3068'
 author: neverbot
 tags:
-  - Humor
-  - Internet
+  - humor
+  - internet
 date: 2011-08-19 13:44:26
 ---
 

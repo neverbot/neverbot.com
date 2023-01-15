@@ -3,7 +3,7 @@ title: Temas en GMail
 id: '1114'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2008-11-21 08:33:39
 ---
 

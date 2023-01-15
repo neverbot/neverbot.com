@@ -3,7 +3,7 @@ title: Become a pirate!
 id: '2495'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2010-04-21 16:58:28
 ---
 

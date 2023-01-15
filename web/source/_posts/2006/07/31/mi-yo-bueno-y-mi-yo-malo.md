@@ -3,8 +3,8 @@ title: Mi yo bueno y mi yo malo
 id: '18'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2006-07-31 16:09:01
 ---
 

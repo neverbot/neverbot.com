@@ -3,7 +3,7 @@ title: 'Plugin: Comment Timeout (III)'
 id: '526'
 author: neverbot
 tags:
-  - Neverbot
+  - neverbot
 date: 2007-09-11 09:44:27
 ---
 

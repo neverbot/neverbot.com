@@ -3,7 +3,7 @@ title: Los tebeos que me obligan a comprar
 id: '8'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2006-07-26 19:01:29
 ---
 

@@ -3,7 +3,7 @@ title: Ahora lo comprendemos
 id: '6054'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2013-03-31 14:01:43
 ---
 

@@ -3,8 +3,8 @@ title: Miércoles de tebeos
 id: '5387'
 author: neverbot
 tags:
-  - Neverbot
-  - Tebeos
+  - neverbot
+  - tebeos
 date: 2012-10-31 23:50:35
 ---
 

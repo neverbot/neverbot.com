@@ -3,7 +3,7 @@ title: Cambiando el tema de Ubuntu
 id: '449'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2007-05-19 15:47:33
 ---
 

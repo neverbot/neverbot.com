@@ -3,8 +3,8 @@ title: Knight Rider strikes back
 id: '711'
 author: neverbot
 tags:
-  - Miniblog
-  - Tv
+  - miniblog
+  - tv
 date: 2008-02-16 16:38:46
 ---
 

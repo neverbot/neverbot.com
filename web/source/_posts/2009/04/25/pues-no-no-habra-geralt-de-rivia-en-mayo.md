@@ -3,7 +3,7 @@ title: Pues no, no habrá Geralt de Rivia en Mayo
 id: '1362'
 author: neverbot
 tags:
-  - Libros
+  - libros
 date: 2009-04-25 12:04:39
 ---
 

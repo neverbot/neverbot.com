@@ -3,8 +3,8 @@ title: 'Hoy en Google: Astérix y Obélix'
 id: '1965'
 author: neverbot
 tags:
-  - Internet
-  - Tebeos
+  - internet
+  - tebeos
 date: 2009-10-29 09:14:26
 ---
 

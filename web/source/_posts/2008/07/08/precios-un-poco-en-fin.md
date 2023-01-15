@@ -3,9 +3,9 @@ title: Precios un poco... en fin
 id: '827'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
-  - Mundo Real™
+  - blog
+  - miniblog
+  - mundo real™
 date: 2008-07-08 12:32:34
 ---
 

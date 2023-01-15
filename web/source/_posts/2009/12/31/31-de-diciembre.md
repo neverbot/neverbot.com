@@ -3,9 +3,9 @@ title: 31 de Diciembre
 id: '2223'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
-  - Mundo Real™
+  - blog
+  - miniblog
+  - mundo real™
 date: 2009-12-31 12:54:39
 ---
 

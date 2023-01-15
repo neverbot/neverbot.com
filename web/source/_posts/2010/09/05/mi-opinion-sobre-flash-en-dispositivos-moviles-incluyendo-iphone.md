@@ -3,8 +3,8 @@ title: Mi opinión sobre Flash en dispositivos móviles (incluyendo iPhone)
 id: '2689'
 author: neverbot
 tags:
-  - Informática
-  - Internet
+  - informática
+  - internet
   - Opinión
 date: 2010-09-05 14:03:18
 ---

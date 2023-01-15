@@ -3,7 +3,7 @@ title: ¿Para qué sirve Internet Explorer?
 id: '681'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2008-01-18 11:57:33
 ---
 

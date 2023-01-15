@@ -3,7 +3,7 @@ title: ¿Debes cambiar de trabajo?
 id: '1453'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2009-06-19 10:21:23
 ---
 

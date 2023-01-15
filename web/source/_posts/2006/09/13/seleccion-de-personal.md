@@ -3,7 +3,7 @@ title: Selección de personal
 id: '76'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-09-13 20:49:58
 ---
 

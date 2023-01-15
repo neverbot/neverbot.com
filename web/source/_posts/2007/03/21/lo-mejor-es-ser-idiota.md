@@ -3,7 +3,7 @@ title: Lo mejor es ser idiota
 id: '403'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-03-21 12:46:37
 ---
 

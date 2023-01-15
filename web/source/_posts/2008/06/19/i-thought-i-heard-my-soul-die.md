@@ -3,8 +3,8 @@ title: I thought I heard my soul die..
 id: '805'
 author: neverbot
 tags:
-  - Ilustración
-  - Tebeos
+  - ilustración
+  - tebeos
 date: 2008-06-19 00:05:15
 ---
 

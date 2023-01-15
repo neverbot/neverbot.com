@@ -3,8 +3,8 @@ title: ¿Watchmen?
 id: '850'
 author: neverbot
 tags:
-  - Cine
-  - Tebeos
+  - cine
+  - tebeos
 date: 2008-07-18 08:40:07
 ---
 

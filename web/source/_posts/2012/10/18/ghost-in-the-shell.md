@@ -3,9 +3,9 @@ title: Ghost in the Shell
 id: '5286'
 author: neverbot
 tags:
-  - Cine
-  - Tebeos
-  - Tv
+  - cine
+  - tebeos
+  - tv
 date: 2012-10-18 19:05:49
 ---
 

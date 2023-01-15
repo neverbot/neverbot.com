@@ -3,8 +3,8 @@ title: Any questions or concerns?
 id: '2727'
 author: neverbot
 tags:
-  - Miniblog
-  - Pensamientos aleatorios
+  - miniblog
+  - pensamientos aleatorios
 date: 2010-09-27 18:36:31
 ---
 

@@ -3,8 +3,8 @@ title: Manifiesto “En defensa de los derechos fundamentales en internet”
 id: '2137'
 author: neverbot
 tags:
-  - Internet
-  - Mundo Real™
+  - internet
+  - mundo real™
 date: 2009-12-02 11:15:01
 ---
 

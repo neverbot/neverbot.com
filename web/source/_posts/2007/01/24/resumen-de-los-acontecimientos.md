@@ -3,9 +3,9 @@ title: Resumen de los acontecimientos
 id: '347'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - blog
+  - mundo real™
+  - pensamientos aleatorios
 date: 2007-01-24 14:25:44
 ---
 

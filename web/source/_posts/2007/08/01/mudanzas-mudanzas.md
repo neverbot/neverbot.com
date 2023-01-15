@@ -3,8 +3,8 @@ title: Mudanzas, mudanzas...
 id: '499'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-08-01 12:24:41
 ---
 

@@ -3,9 +3,9 @@ title: Desiderata del Counter-Strike
 id: '569'
 author: neverbot
 tags:
-  - Humor
-  - Internet
-  - Videojuegos
+  - humor
+  - internet
+  - videojuegos
 date: 2007-11-02 13:52:01
 ---
 

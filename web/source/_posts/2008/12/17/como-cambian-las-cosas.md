@@ -3,8 +3,8 @@ title: Cómo cambian las cosas
 id: '1136'
 author: neverbot
 tags:
-  - Miniblog
-  - Mundo Real™
+  - miniblog
+  - mundo real™
 date: 2008-12-17 13:14:15
 ---
 

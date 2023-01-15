@@ -3,8 +3,8 @@ title: Un día cojonudo
 id: '2896'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2011-03-01 18:07:37
 ---
 

@@ -3,8 +3,8 @@ title: La magia es real
 id: '612'
 author: neverbot
 tags:
-  - Informática
-  - Pensamientos aleatorios
+  - informática
+  - pensamientos aleatorios
 date: 2007-12-05 18:57:52
 ---
 

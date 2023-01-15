@@ -3,9 +3,9 @@ title: The Gunpowder Treason and Plot
 id: '570'
 author: neverbot
 tags:
-  - Cine
-  - Mundo Real™
-  - Tebeos
+  - cine
+  - mundo real™
+  - tebeos
 date: 2007-11-05 13:28:02
 ---
 

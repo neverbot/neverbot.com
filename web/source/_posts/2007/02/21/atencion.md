@@ -3,8 +3,8 @@ title: Atención
 id: '380'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-02-21 18:09:32
 ---
 

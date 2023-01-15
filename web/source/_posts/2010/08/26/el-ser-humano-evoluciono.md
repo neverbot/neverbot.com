@@ -3,7 +3,7 @@ title: El ser humano evolucionó
 id: '2656'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2010-08-26 18:30:26
 ---
 

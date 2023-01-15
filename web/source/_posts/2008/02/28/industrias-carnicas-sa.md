@@ -3,8 +3,8 @@ title: Industrias cárnicas, S.A.
 id: '728'
 author: neverbot
 tags:
-  - Informática
-  - Mundo Real™
+  - informática
+  - mundo real™
 date: 2008-02-28 18:48:41
 ---
 

@@ -3,8 +3,8 @@ title: ¿Quién controla la tecnología?
 id: '1199'
 author: neverbot
 tags:
-  - Informática
-  - Pensamientos aleatorios
+  - informática
+  - pensamientos aleatorios
 date: 2009-02-20 12:38:11
 ---
 

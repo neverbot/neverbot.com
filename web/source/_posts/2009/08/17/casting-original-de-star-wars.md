@@ -3,9 +3,9 @@ title: Casting original de Star Wars
 id: '1627'
 author: neverbot
 tags:
-  - Cine
-  - Clásicos de Internet
-  - Fotografía
+  - cine
+  - clásicos de internet
+  - fotografía
 date: 2009-08-17 10:54:00
 ---
 

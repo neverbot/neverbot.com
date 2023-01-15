@@ -3,8 +3,8 @@ title: The Big Bang Theory People (II)
 id: '2818'
 author: neverbot
 tags:
-  - Fotografía
-  - Tv
+  - fotografía
+  - tv
 date: 2010-12-14 08:54:41
 ---
 

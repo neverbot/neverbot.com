@@ -3,8 +3,8 @@ title: Formas de consenso en Internet
 id: '1103'
 author: neverbot
 tags:
-  - Internet
-  - Pensamientos aleatorios
+  - internet
+  - pensamientos aleatorios
 date: 2008-11-12 16:11:50
 ---
 

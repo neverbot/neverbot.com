@@ -3,8 +3,8 @@ title: Yo tenía amigos en esa estrella de la muerte...
 id: '821'
 author: neverbot
 tags:
-  - Cine
-  - Humor
+  - cine
+  - humor
 date: 2008-07-03 10:53:20
 ---
 

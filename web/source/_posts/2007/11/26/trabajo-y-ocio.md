@@ -3,9 +3,9 @@ title: Trabajo y ocio
 id: '590'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
-  - Mundo Real™
+  - blog
+  - miniblog
+  - mundo real™
 date: 2007-11-26 12:55:25
 ---
 

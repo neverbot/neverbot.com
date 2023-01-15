@@ -3,7 +3,7 @@ title: Addict gamer
 id: '675'
 author: neverbot
 tags:
-  - Videojuegos
+  - videojuegos
 date: 2008-01-16 15:54:39
 ---
 

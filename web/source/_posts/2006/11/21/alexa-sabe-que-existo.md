@@ -3,8 +3,8 @@ title: Alexa sabe que existo
 id: '230'
 author: neverbot
 tags:
-  - Blog
-  - Neverbot
+  - blog
+  - neverbot
 date: 2006-11-21 21:50:31
 ---
 

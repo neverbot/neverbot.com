@@ -3,8 +3,8 @@ title: ¿Quién es... Jenova Chen?
 id: '848'
 author: neverbot
 tags:
-  - ¿Sabías que...?
-  - Videojuegos
+  - ¿sabías que...?
+  - videojuegos
 date: 2008-07-17 14:36:45
 ---
 

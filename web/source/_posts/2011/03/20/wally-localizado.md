@@ -3,7 +3,7 @@ title: Wally localizado
 id: '2937'
 author: neverbot
 tags:
-  - Ilustración
+  - ilustración
 date: 2011-03-20 21:17:59
 ---
 

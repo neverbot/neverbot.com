@@ -3,8 +3,8 @@ title: 'Proyecto de lectura: los premios Hugo'
 id: '5452'
 author: neverbot
 tags:
-  - Blog
-  - Libros
+  - blog
+  - libros
 date: 2012-11-15 18:10:50
 ---
 

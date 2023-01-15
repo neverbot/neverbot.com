@@ -3,7 +3,7 @@ title: ¿Que X-Men eres?
 id: '973'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2008-09-25 12:22:50
 ---
 

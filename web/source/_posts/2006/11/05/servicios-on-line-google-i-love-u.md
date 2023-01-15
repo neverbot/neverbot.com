@@ -3,7 +3,7 @@ title: Servicios on-line (Google I love u)
 id: '178'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2006-11-05 14:25:01
 ---
 

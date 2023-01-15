@@ -3,7 +3,7 @@ title: Cambiar el mundo
 id: '19'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-07-31 16:35:13
 ---
 

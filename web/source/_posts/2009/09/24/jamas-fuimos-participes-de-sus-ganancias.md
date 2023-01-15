@@ -3,8 +3,8 @@ title: Jamás fuimos partícipes de sus ganancias
 id: '1840'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - mundo real™
+  - pensamientos aleatorios
 date: 2009-09-24 14:37:47
 ---
 

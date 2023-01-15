@@ -3,8 +3,8 @@ title: Actualizaciones
 id: '135'
 author: neverbot
 tags:
-  - Internet
-  - Neverbot
+  - internet
+  - neverbot
 date: 2006-10-21 12:56:56
 ---
 

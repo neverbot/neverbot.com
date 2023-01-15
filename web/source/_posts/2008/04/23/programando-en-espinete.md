@@ -3,7 +3,7 @@ title: Programando en espinete
 id: '765'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2008-04-23 18:45:03
 ---
 

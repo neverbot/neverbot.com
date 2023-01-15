@@ -3,9 +3,9 @@ title: Un par de preguntas para saber si compartes tu vida con la persona correc
 id: '699'
 author: neverbot
 tags:
-  - Blog
-  - Cine
-  - Música
+  - blog
+  - cine
+  - música
 date: 2008-02-06 18:56:51
 ---
 

@@ -3,7 +3,7 @@ title: Estupideces que nunca leerás en otro blog (IV)
 id: '698'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-02-05 22:06:36
 ---
 

@@ -3,7 +3,7 @@ title: Blitzkrieg
 id: '7003'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2014-07-09 14:09:11
 ---
 

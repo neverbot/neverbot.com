@@ -3,9 +3,9 @@ title: La trilogía de Thrawn, de Timothy Zahn
 id: '841'
 author: neverbot
 tags:
-  - Cine
-  - Libros
-  - Reseñas
+  - cine
+  - libros
+  - reseñas
 date: 2008-07-16 13:06:43
 ---
 

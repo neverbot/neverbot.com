@@ -3,8 +3,8 @@ title: Echo de menos...
 id: '2772'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2010-10-28 11:58:40
 ---
 

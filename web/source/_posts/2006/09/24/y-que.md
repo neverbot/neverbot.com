@@ -3,9 +3,9 @@ title: ¿Y qué?
 id: '90'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - blog
+  - mundo real™
+  - pensamientos aleatorios
 date: 2006-09-24 19:54:39
 ---
 

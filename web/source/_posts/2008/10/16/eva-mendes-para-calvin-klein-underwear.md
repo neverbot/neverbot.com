@@ -3,8 +3,8 @@ title: Eva Mendes para Calvin Klein Underwear
 id: '1056'
 author: neverbot
 tags:
-  - Fotografía
-  - Publicidad
+  - fotografía
+  - publicidad
 date: 2008-10-16 17:54:04
 ---
 

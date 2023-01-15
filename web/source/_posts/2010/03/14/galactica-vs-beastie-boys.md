@@ -3,8 +3,8 @@ title: Galactica vs Beastie Boys
 id: '2457'
 author: neverbot
 tags:
-  - Música
-  - Tv
+  - música
+  - tv
 date: 2010-03-14 11:27:08
 video: BoQ0bqsJSJ8
 ---

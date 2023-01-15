@@ -3,8 +3,8 @@ title: Talk Nerdy To Me
 id: '1877'
 author: neverbot
 tags:
-  - Humor
-  - Internet
+  - humor
+  - internet
 date: 2009-09-30 20:02:27
 ---
 

@@ -3,8 +3,8 @@ title: Logotipo de hoy en Google
 id: '816'
 author: neverbot
 tags:
-  - Blog
-  - Internet
+  - blog
+  - internet
 date: 2008-06-30 10:25:04
 ---
 

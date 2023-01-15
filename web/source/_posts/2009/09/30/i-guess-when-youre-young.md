@@ -3,8 +3,8 @@ title: I guess when you’re young...
 id: '1880'
 author: neverbot
 tags:
-  - Cine
-  - Pensamientos aleatorios
+  - cine
+  - pensamientos aleatorios
 date: 2009-09-30 21:19:06
 ---
 

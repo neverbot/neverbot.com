@@ -3,7 +3,7 @@ title: Keep calm and...
 id: '2935'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2011-03-20 20:15:16
 ---
 

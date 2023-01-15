@@ -3,8 +3,8 @@ title: Los marcianos en Google
 id: '1896'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
+  - ilustración
+  - internet
 date: 2009-10-02 10:43:51
 ---
 

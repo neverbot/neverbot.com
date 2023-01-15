@@ -3,7 +3,7 @@ title: Tipos de café
 id: '858'
 author: neverbot
 tags:
-  - Ilustración
+  - ilustración
 date: 2008-07-31 09:06:26
 ---
 

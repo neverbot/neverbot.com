@@ -3,7 +3,7 @@ title: Andy Awesome
 id: '1804'
 author: neverbot
 tags:
-  - Ilustración
+  - ilustración
 date: 2009-09-13 12:15:33
 ---
 

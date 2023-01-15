@@ -3,9 +3,9 @@ title: Qué mes de marzo más pobre...
 id: '412'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
-  - Neverbot
+  - blog
+  - mundo real™
+  - neverbot
 date: 2007-04-02 16:59:00
 ---
 

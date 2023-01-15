@@ -3,7 +3,7 @@ title: Odiar a los amigos
 id: '1023'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-10-07 13:41:35
 ---
 

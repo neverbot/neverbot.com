@@ -3,8 +3,8 @@ title: 1. Programmer produces code he believes is bug-free...
 id: '454'
 author: neverbot
 tags:
-  - Humor
-  - Informática
+  - humor
+  - informática
 date: 2007-05-21 21:23:07
 ---
 

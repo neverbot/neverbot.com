@@ -3,7 +3,7 @@ title: Esto de los blogs... a veces no lo veo claro
 id: '2506'
 author: neverbot
 tags:
-  - Internet
+  - internet
   - Opinión
 date: 2010-05-07 11:40:51
 ---

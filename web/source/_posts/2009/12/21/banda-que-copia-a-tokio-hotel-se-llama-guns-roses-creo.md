@@ -3,8 +3,8 @@ title: Banda que copia a Tokio Hotel se llama Guns Roses creo?
 id: '2201'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Música
+  - mundo real™
+  - música
 date: 2009-12-21 20:29:25
 ---
 

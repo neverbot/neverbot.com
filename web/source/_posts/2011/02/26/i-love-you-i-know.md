@@ -3,8 +3,8 @@ title: '-I love you. - I know.'
 id: '2880'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
+  - cine
+  - ilustración
 date: 2011-02-26 14:29:19
 ---
 

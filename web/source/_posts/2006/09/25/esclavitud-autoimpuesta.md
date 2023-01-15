@@ -3,8 +3,8 @@ title: Esclavitud autoimpuesta
 id: '92'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2006-09-25 21:32:40
 ---
 

@@ -3,8 +3,8 @@ title: Super Mario Maker Hell
 id: '7535'
 author: neverbot
 tags:
-  - Internet
-  - Videojuegos
+  - internet
+  - videojuegos
 date: 2016-01-27 21:16:29
 video: E17Omq6oHvo
 ---

@@ -3,7 +3,7 @@ title: Feliz año 2008 a todo aquel que pase por aquí
 id: '663'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2008-01-01 20:53:54
 ---
 

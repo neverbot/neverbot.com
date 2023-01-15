@@ -3,7 +3,7 @@ title: 'Miércoles de tebeos: Umbrella Academy'
 id: '5580'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2012-11-28 18:41:03
 ---
 

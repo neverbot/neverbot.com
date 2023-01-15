@@ -3,8 +3,8 @@ title: WordPress 2.7
 id: '1125'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2008-12-15 19:21:32
 ---
 

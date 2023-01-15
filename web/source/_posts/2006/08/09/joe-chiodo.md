@@ -3,8 +3,8 @@ title: Joe Chiodo
 id: '32'
 author: neverbot
 tags:
-  - Ilustración
-  - Tebeos
+  - ilustración
+  - tebeos
 date: 2006-08-09 13:30:05
 ---
 

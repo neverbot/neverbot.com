@@ -3,7 +3,7 @@ title: ¿Estás seguro de lo que haces?
 id: '109'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2006-10-04 10:14:02
 ---
 

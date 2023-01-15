@@ -3,8 +3,8 @@ title: Hacer tonterías
 id: '20'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tv
+  - pensamientos aleatorios
+  - tv
 date: 2006-08-01 14:02:09
 ---
 

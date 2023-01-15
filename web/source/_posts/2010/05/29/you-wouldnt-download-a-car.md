@@ -3,8 +3,8 @@ title: You wouldn't download a car
 id: '2539'
 author: neverbot
 tags:
-  - Internet
-  - Mundo Real™
+  - internet
+  - mundo real™
 date: 2010-05-29 12:11:57
 ---
 

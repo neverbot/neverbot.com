@@ -3,7 +3,7 @@ title: La verdadera problemática
 id: '267'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-12-07 23:03:32
 ---
 

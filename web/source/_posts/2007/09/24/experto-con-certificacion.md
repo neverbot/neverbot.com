@@ -3,8 +3,8 @@ title: Experto con certificación
 id: '551'
 author: neverbot
 tags:
-  - Informática
-  - Pensamientos aleatorios
+  - informática
+  - pensamientos aleatorios
 date: 2007-09-24 18:49:29
 ---
 

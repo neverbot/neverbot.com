@@ -3,8 +3,8 @@ title: Reseñas cinematográficas relámpago (XVIII)
 id: '2635'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2010-08-21 18:22:56
 ---
 

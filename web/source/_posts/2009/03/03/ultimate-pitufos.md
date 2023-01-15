@@ -3,9 +3,9 @@ title: Ultimate Pitufos
 id: '1260'
 author: neverbot
 tags:
-  - Humor
-  - Ilustración
-  - Tebeos
+  - humor
+  - ilustración
+  - tebeos
 date: 2009-03-03 12:07:05
 ---
 

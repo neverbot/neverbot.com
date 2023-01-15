@@ -3,10 +3,10 @@ title: 'Recomendación del lunes: Día sin IVA de Media Markt'
 id: '357'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
-  - Tv
-  - Videojuegos
+  - blog
+  - mundo real™
+  - tv
+  - videojuegos
 date: 2007-01-30 11:03:40
 ---
 

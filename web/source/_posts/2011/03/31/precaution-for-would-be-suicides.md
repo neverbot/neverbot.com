@@ -3,7 +3,7 @@ title: Precaution for would-be suicides
 id: '2973'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2011-03-31 12:30:11
 ---
 

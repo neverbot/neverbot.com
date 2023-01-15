@@ -3,8 +3,8 @@ title: Petición de consejo
 id: '535'
 author: neverbot
 tags:
-  - Blog
-  - Música
+  - blog
+  - música
 date: 2007-09-16 03:54:45
 ---
 

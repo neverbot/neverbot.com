@@ -3,8 +3,8 @@ title: Pensamiento sucio del día
 id: '2296'
 author: neverbot
 tags:
-  - Fotografía
-  - Pensamientos aleatorios
+  - fotografía
+  - pensamientos aleatorios
 date: 2010-01-27 21:05:25
 ---
 

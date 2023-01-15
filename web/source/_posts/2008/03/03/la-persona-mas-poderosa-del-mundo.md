@@ -3,7 +3,7 @@ title: La persona más poderosa del mundo
 id: '736'
 author: neverbot
 tags:
-  - Videojuegos
+  - videojuegos
 date: 2008-03-03 22:49:03
 video: IUbyMxSfSs4
 ---

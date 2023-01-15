@@ -3,8 +3,8 @@ title: La gente cada día es más torpe
 id: '620'
 author: neverbot
 tags:
-  - Internet
-  - Neverbot
+  - internet
+  - neverbot
 date: 2007-12-06 18:07:23
 ---
 

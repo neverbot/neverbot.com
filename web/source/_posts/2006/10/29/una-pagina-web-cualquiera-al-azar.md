@@ -3,8 +3,8 @@ title: Una página web cualquiera al azar
 id: '143'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2006-10-29 19:16:15
 ---
 

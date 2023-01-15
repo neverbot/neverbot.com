@@ -3,8 +3,8 @@ title: Windows Vista Incapable
 id: '936'
 author: neverbot
 tags:
-  - Humor
-  - Informática
+  - humor
+  - informática
 date: 2008-09-02 23:42:22
 ---
 

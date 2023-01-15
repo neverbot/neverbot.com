@@ -3,8 +3,8 @@ title: La chica que saltaba a través del tiempo
 id: '6223'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2013-05-15 20:57:42
 ---
 

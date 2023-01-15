@@ -3,8 +3,8 @@ title: Las cosas bonitas que tiene la vida... (II)
 id: '575'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2007-11-07 17:22:22
 ---
 

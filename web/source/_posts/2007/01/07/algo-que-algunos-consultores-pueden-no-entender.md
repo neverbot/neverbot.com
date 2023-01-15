@@ -3,7 +3,7 @@ title: Algo que algunos consultores pueden no entender...
 id: '313'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-01-07 22:26:27
 ---
 

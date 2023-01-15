@@ -3,8 +3,8 @@ title: La decadencia humana
 id: '581'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-11-19 10:49:08
 ---
 

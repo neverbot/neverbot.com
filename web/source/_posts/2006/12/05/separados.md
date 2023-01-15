@@ -3,8 +3,8 @@ title: Separados
 id: '265'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2006-12-05 19:15:11
 ---
 

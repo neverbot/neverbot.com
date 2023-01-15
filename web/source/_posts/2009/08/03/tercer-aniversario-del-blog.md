@@ -3,8 +3,8 @@ title: Tercer aniversario del blog
 id: '1525'
 author: neverbot
 tags:
-  - Blog
-  - Neverbot
+  - blog
+  - neverbot
 date: 2009-08-03 12:30:50
 ---
 

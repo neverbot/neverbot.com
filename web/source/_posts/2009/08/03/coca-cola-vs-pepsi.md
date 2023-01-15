@@ -3,9 +3,9 @@ title: Coca-Cola vs Pepsi
 id: '1520'
 author: neverbot
 tags:
-  - Blog
-  - Ilustración
-  - Publicidad
+  - blog
+  - ilustración
+  - publicidad
 date: 2009-08-03 11:52:30
 ---
 

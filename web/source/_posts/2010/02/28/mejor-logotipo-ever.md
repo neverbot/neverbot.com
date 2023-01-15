@@ -3,7 +3,7 @@ title: Mejor logotipo ever
 id: '2405'
 author: neverbot
 tags:
-  - Ilustración
+  - ilustración
 date: 2010-02-28 21:09:51
 ---
 

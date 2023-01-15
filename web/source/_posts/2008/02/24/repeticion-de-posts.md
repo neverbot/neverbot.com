@@ -3,8 +3,8 @@ title: Repetición de posts
 id: '722'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2008-02-24 19:53:50
 ---
 

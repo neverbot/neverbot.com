@@ -3,7 +3,7 @@ title: De lo bueno lo mejor, de lo mejor lo superior
 id: '648'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-12-21 09:22:35
 ---
 

@@ -3,7 +3,7 @@ title: Calendario Pirelli 2007
 id: '219'
 author: neverbot
 tags:
-  - Fotografía
+  - fotografía
 date: 2006-11-18 12:25:48
 ---
 

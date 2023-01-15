@@ -3,8 +3,8 @@ title: Esto sí es una dedicatoria
 id: '540'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Videojuegos
+  - pensamientos aleatorios
+  - videojuegos
 date: 2007-09-17 13:38:58
 ---
 

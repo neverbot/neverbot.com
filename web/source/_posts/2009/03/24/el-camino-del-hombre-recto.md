@@ -3,8 +3,8 @@ title: El camino del hombre recto
 id: '1336'
 author: neverbot
 tags:
-  - Cine
-  - Pensamientos aleatorios
+  - cine
+  - pensamientos aleatorios
 date: 2009-03-24 02:20:16
 ---
 

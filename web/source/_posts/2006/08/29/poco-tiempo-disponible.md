@@ -3,7 +3,7 @@ title: Poco tiempo disponible
 id: '56'
 author: neverbot
 tags:
-  - Fotografía
+  - fotografía
 date: 2006-08-29 16:30:14
 ---
 

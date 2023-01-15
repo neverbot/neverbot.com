@@ -3,8 +3,8 @@ title: The Big Bang Theory
 id: '757'
 author: neverbot
 tags:
-  - Reseñas
-  - Tv
+  - reseñas
+  - tv
 date: 2008-03-17 13:39:03
 ---
 

@@ -3,7 +3,7 @@ title: You are not an artist
 id: '1957'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2009-10-26 09:54:45
 ---
 

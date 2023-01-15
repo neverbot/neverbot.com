@@ -3,7 +3,7 @@ title: Criaturas míticas
 id: '1704'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2009-09-01 12:25:21
 ---
 

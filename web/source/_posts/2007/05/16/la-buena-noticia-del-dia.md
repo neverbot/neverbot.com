@@ -3,7 +3,7 @@ title: La buena noticia del día
 id: '441'
 author: neverbot
 tags:
-  - Videojuegos
+  - videojuegos
 date: 2007-05-16 13:33:18
 ---
 

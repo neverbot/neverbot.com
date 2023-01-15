@@ -3,7 +3,7 @@ title: You are on a rock floating through space
 id: '2323'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2010-02-07 17:22:19
 ---
 

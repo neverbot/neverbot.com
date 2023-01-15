@@ -3,8 +3,8 @@ title: 'Calculón dice: Noooooo...'
 id: '930'
 author: neverbot
 tags:
-  - Blog
-  - Tv
+  - blog
+  - tv
 date: 2008-09-02 18:07:40
 ---
 

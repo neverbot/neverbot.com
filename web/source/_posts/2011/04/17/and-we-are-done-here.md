@@ -3,8 +3,8 @@ title: And we are done here!
 id: '3015'
 author: neverbot
 tags:
-  - Humor
-  - Mundo Real™
+  - humor
+  - mundo real™
 date: 2011-04-17 14:13:03
 ---
 

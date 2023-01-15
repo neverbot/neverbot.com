@@ -3,8 +3,8 @@ title: Cobra Commander Ghost
 id: '1248'
 author: neverbot
 tags:
-  - Humor
-  - Ilustración
+  - humor
+  - ilustración
 date: 2009-02-25 23:48:13
 ---
 

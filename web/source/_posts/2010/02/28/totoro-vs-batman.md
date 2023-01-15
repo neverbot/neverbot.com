@@ -3,9 +3,9 @@ title: Totoro vs Batman
 id: '2407'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
-  - Tebeos
+  - cine
+  - ilustración
+  - tebeos
 date: 2010-02-28 21:40:53
 ---
 

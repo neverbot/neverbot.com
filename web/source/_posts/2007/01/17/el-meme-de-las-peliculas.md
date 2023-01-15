@@ -3,8 +3,8 @@ title: El meme de las películas
 id: '331'
 author: neverbot
 tags:
-  - Blog
-  - Cine
+  - blog
+  - cine
 date: 2007-01-17 11:00:11
 ---
 

@@ -3,7 +3,7 @@ title: Sarcasm is just great
 id: '2625'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2010-08-21 11:18:57
 ---
 

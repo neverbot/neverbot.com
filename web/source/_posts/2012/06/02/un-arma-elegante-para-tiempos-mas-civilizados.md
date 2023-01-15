@@ -3,7 +3,7 @@ title: Un arma elegante para tiempos más civilizados
 id: '3124'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2012-06-02 14:19:14
 ---
 

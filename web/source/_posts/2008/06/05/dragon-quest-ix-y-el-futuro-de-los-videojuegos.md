@@ -3,7 +3,7 @@ title: Dragon Quest IX y el futuro de los videojuegos
 id: '789'
 author: neverbot
 tags:
-  - Videojuegos
+  - videojuegos
 date: 2008-06-05 09:46:31
 ---
 

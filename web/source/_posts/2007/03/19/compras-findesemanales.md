@@ -3,9 +3,9 @@ title: Compras findesemanales
 id: '400'
 author: neverbot
 tags:
-  - Blog
-  - Cine
-  - Música
+  - blog
+  - cine
+  - música
 date: 2007-03-19 14:19:27
 ---
 

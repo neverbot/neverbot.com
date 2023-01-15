@@ -3,8 +3,8 @@ title: 'Hoy en Google: 165º aniversario del nacimiento de Bram Stoker'
 id: '5436'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
+  - ilustración
+  - internet
 date: 2012-11-08 11:03:00
 ---
 

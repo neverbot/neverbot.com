@@ -3,7 +3,7 @@ title: Las conferencias del Instituto Solvay
 id: '204'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2006-11-14 14:41:25
 ---
 

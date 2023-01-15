@@ -3,8 +3,8 @@ title: Your word is my command
 id: '655'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2007-12-27 12:44:21
 ---
 

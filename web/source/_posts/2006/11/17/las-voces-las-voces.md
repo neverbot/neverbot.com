@@ -3,7 +3,7 @@ title: Las voces, las voces...
 id: '214'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-11-17 18:10:53
 ---
 

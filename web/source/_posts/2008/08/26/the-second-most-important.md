@@ -3,9 +3,9 @@ title: The second most important
 id: '905'
 author: neverbot
 tags:
-  - Blog
-  - Internet
-  - Neverbot
+  - blog
+  - internet
+  - neverbot
 date: 2008-08-26 09:38:51
 ---
 

@@ -3,7 +3,7 @@ title: Me aburro
 id: '643'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-12-19 10:43:22
 ---
 

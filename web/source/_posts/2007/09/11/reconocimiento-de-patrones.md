@@ -3,8 +3,8 @@ title: Reconocimiento de patrones
 id: '527'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - mundo real™
+  - pensamientos aleatorios
 date: 2007-09-11 12:03:53
 ---
 

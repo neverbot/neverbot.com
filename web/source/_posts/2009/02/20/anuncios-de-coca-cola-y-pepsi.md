@@ -3,7 +3,7 @@ title: Anuncios de Coca-Cola y Pepsi
 id: '1198'
 author: neverbot
 tags:
-  - Publicidad
+  - publicidad
 date: 2009-02-20 12:52:53
 ---
 

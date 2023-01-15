@@ -3,9 +3,9 @@ title: youtube with style
 id: '2711'
 author: neverbot
 tags:
-  - Internet
-  - Miniblog
-  - Neverbot
+  - internet
+  - miniblog
+  - neverbot
 date: 2010-09-18 10:54:25
 ---
 

@@ -3,10 +3,10 @@ title: No sabes nada, Charlie Brown
 id: '5729'
 author: neverbot
 tags:
-  - Ilustración
-  - Libros
-  - Tebeos
-  - Tv
+  - ilustración
+  - libros
+  - tebeos
+  - tv
 date: 2012-12-21 14:03:02
 ---
 

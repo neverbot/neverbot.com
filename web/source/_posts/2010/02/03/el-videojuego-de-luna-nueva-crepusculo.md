@@ -3,9 +3,9 @@ title: El videojuego de Luna Nueva / Crepúsculo
 id: '2320'
 author: neverbot
 tags:
-  - Cine
-  - Humor
-  - Libros
+  - cine
+  - humor
+  - libros
 date: 2010-02-03 13:57:22
 ---
 

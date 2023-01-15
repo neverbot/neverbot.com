@@ -3,8 +3,8 @@ title: Cómo crear tonos de llamada (ringtones) para el iPhone
 id: '1185'
 author: neverbot
 tags:
-  - Blog
-  - Informática
+  - blog
+  - informática
 date: 2009-02-20 11:25:22
 ---
 

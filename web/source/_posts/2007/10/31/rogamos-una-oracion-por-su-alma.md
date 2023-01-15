@@ -3,7 +3,7 @@ title: Rogamos una oración por su alma...
 id: '567'
 author: neverbot
 tags:
-  - Neverbot
+  - neverbot
 date: 2007-10-31 11:29:40
 ---
 

@@ -3,8 +3,8 @@ title: Uno menos
 id: '91'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2006-09-25 21:21:55
 ---
 

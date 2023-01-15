@@ -3,8 +3,8 @@ title: Apunte rápido
 id: '7500'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2015-02-22 20:22:16
 ---
 

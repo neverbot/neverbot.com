@@ -3,7 +3,7 @@ title: Detalles pendientes con mi maravilloso ubuntu
 id: '425'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2007-05-06 17:07:01
 ---
 

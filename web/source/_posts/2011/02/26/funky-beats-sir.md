@@ -3,9 +3,9 @@ title: Funky beats, sir?
 id: '2883'
 author: neverbot
 tags:
-  - Cine
-  - Ilustración
-  - Música
+  - cine
+  - ilustración
+  - música
 date: 2011-02-26 14:46:09
 ---
 

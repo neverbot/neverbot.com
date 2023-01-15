@@ -3,8 +3,8 @@ title: Baquetas electrónicas, qué gran compra
 id: '1175'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2009-02-18 12:34:02
 ---
 

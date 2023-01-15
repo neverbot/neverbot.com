@@ -3,9 +3,9 @@ title: Pérdida de ritmo
 id: '2493'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
-  - Mundo Real™
+  - blog
+  - miniblog
+  - mundo real™
 date: 2010-04-21 11:47:00
 ---
 

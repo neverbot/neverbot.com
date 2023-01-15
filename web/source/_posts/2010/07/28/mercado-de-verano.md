@@ -3,9 +3,9 @@ title: Mercado de verano
 id: '2596'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
-  - Mundo Real™
+  - blog
+  - miniblog
+  - mundo real™
 date: 2010-07-28 18:07:59
 ---
 

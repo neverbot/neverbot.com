@@ -4,7 +4,7 @@ id: '2479'
 author: neverbot
 tags:
   - Compras
-  - Tebeos
+  - tebeos
 date: 2010-03-25 11:46:00
 ---
 

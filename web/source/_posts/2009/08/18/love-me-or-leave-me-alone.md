@@ -3,9 +3,9 @@ title: Love me or leave me alone
 id: '1647'
 author: neverbot
 tags:
-  - Blog
-  - Internet
-  - Neverbot
+  - blog
+  - internet
+  - neverbot
 date: 2009-08-18 12:30:17
 ---
 

@@ -3,8 +3,8 @@ title: Fotos en Flickr
 id: '1511'
 author: neverbot
 tags:
-  - Fotografía
-  - Internet
+  - fotografía
+  - internet
 date: 2009-08-01 15:44:58
 ---
 

@@ -3,8 +3,8 @@ title: Defense Condition
 id: '510'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-08-10 14:10:57
 ---
 

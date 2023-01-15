@@ -3,8 +3,8 @@ title: Reseñas cinematográficas relámpago (III)
 id: '2033'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2009-11-07 23:32:13
 ---
 

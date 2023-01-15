@@ -3,8 +3,8 @@ title: Ruleta rusa entre Lobezno y Masacre
 id: '1996'
 author: neverbot
 tags:
-  - Humor
-  - Tebeos
+  - humor
+  - tebeos
 date: 2009-11-03 17:51:56
 ---
 

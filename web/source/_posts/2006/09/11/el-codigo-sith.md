@@ -3,7 +3,7 @@ title: El código Sith
 id: '72'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-09-11 18:36:00
 ---
 

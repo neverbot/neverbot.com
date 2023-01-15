@@ -3,9 +3,9 @@ title: Este país es lo peor
 id: '844'
 author: neverbot
 tags:
-  - Blog
-  - Música
-  - Tv
+  - blog
+  - música
+  - tv
 date: 2008-07-17 09:32:01
 ---
 

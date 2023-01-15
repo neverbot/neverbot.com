@@ -3,8 +3,8 @@ title: Recetas para una vida mejor (IV)
 id: '321'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-01-10 18:44:21
 ---
 

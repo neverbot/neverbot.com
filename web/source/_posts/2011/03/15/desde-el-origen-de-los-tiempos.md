@@ -3,8 +3,8 @@ title: Desde el origen de los tiempos
 id: '2927'
 author: neverbot
 tags:
-  - Informática
-  - Internet
+  - informática
+  - internet
 date: 2011-03-15 13:24:22
 ---
 

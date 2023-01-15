@@ -3,8 +3,8 @@ title: También en Tumblr
 id: '5979'
 author: neverbot
 tags:
-  - Internet
-  - Neverbot
+  - internet
+  - neverbot
 date: 2013-03-06 15:37:33
 ---
 

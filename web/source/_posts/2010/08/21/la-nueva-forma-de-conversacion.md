@@ -3,8 +3,8 @@ title: La nueva forma de conversación
 id: '2645'
 author: neverbot
 tags:
-  - Al blog que vas
-  - Mundo Real™
+  - al blog que vas
+  - mundo real™
 date: 2010-08-21 19:40:12
 ---
 

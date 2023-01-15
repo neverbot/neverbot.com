@@ -3,8 +3,8 @@ title: Stop following me, you freaks
 id: '1673'
 author: neverbot
 tags:
-  - Clásicos de Internet
-  - Ilustración
+  - clásicos de internet
+  - ilustración
 date: 2009-08-22 22:37:15
 ---
 

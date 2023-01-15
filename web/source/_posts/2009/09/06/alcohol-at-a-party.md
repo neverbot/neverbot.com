@@ -3,8 +3,8 @@ title: Alcohol at a party
 id: '1742'
 author: neverbot
 tags:
-  - Humor
-  - Ilustración
+  - humor
+  - ilustración
 date: 2009-09-06 13:14:29
 ---
 

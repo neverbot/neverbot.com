@@ -3,9 +3,9 @@ title: El cáncer del mundo del videojuego
 id: '260'
 author: neverbot
 tags:
-  - Internet
-  - Publicidad
-  - Videojuegos
+  - internet
+  - publicidad
+  - videojuegos
 date: 2006-12-02 16:48:59
 ---
 

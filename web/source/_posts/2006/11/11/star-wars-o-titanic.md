@@ -3,8 +3,8 @@ title: ¿Star Wars o Titanic?
 id: '192'
 author: neverbot
 tags:
-  - Cine
-  - Humor
+  - cine
+  - humor
 date: 2006-11-11 15:37:16
 ---
 

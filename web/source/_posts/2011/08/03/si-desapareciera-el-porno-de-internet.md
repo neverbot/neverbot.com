@@ -3,9 +3,9 @@ title: Si desapareciera el porno de internet...
 id: '3057'
 author: neverbot
 tags:
-  - Internet
-  - Mundo Real™
-  - Tv
+  - internet
+  - mundo real™
+  - tv
 date: 2011-08-03 19:12:51
 ---
 

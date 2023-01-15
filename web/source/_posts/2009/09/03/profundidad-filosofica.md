@@ -3,7 +3,7 @@ title: Profundidad filosófica
 id: '1720'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2009-09-03 10:46:41
 ---
 

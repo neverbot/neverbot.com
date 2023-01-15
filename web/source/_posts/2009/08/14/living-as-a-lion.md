@@ -3,7 +3,7 @@ title: Living as a lion
 id: '1601'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2009-08-14 10:26:56
 ---
 

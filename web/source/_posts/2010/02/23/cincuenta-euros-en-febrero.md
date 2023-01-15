@@ -4,9 +4,9 @@ id: '2389'
 author: neverbot
 tags:
   - Compras
-  - Informática
-  - Libros
-  - Tebeos
+  - informática
+  - libros
+  - tebeos
 date: 2010-02-23 17:30:27
 ---
 

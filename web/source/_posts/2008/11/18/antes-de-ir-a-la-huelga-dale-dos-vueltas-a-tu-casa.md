@@ -3,9 +3,9 @@ title: Antes de ir a la huelga, dale dos vueltas a tu casa...
 id: '1112'
 author: neverbot
 tags:
-  - Blog
-  - Informática
-  - Mundo Real™
+  - blog
+  - informática
+  - mundo real™
 date: 2008-11-18 16:25:11
 ---
 

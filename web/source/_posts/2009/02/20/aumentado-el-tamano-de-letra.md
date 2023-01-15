@@ -3,8 +3,8 @@ title: Aumentado el tamaño de letra
 id: '1195'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2009-02-20 12:26:41
 ---
 

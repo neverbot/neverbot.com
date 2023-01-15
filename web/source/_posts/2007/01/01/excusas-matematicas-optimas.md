@@ -3,7 +3,7 @@ title: Excusas matemáticas óptimas
 id: '295'
 author: neverbot
 tags:
-  - Humor
+  - humor
 date: 2007-01-01 21:26:05
 ---
 

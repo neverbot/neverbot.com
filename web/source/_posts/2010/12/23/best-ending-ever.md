@@ -3,7 +3,7 @@ title: Best ending ever
 id: '2838'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2010-12-23 23:46:52
 ---
 

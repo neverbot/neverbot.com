@@ -3,7 +3,7 @@ title: Cosas de la ciencia
 id: '377'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-02-14 18:29:08
 ---
 

@@ -3,7 +3,7 @@ title: El cuento de hadas más corto
 id: '100'
 author: neverbot
 tags:
-  - Humor
+  - humor
 date: 2006-10-01 01:42:07
 ---
 

@@ -3,8 +3,8 @@ title: Erróneo o irrelevante
 id: '838'
 author: neverbot
 tags:
-  - Libros
-  - Pensamientos aleatorios
+  - libros
+  - pensamientos aleatorios
 date: 2008-07-15 08:42:22
 ---
 

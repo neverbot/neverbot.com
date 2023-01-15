@@ -3,7 +3,7 @@ title: Una teoría de la relatividad de los problemas vitales
 id: '2925'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2011-03-09 16:13:01
 ---
 

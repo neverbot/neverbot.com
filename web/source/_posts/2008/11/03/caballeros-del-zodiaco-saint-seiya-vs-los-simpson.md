@@ -3,10 +3,10 @@ title: Caballeros del Zodiaco (Saint Seiya) vs Los Simpson
 id: '1077'
 author: neverbot
 tags:
-  - Ilustración
-  - Música
-  - Tebeos
-  - Tv
+  - ilustración
+  - música
+  - tebeos
+  - tv
 date: 2008-11-03 16:52:23
 ---
 

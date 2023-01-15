@@ -3,8 +3,8 @@ title: Poema
 id: '2342'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Videojuegos
+  - pensamientos aleatorios
+  - videojuegos
 date: 2010-02-15 19:39:56
 ---
 

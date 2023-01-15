@@ -3,8 +3,8 @@ title: If your question is stupid...
 id: '1689'
 author: neverbot
 tags:
-  - Informática
-  - Mundo Real™
+  - informática
+  - mundo real™
 date: 2009-08-27 16:45:45
 ---
 

@@ -3,8 +3,8 @@ title: popuri.us, servicio para comprobar la popularidad web
 id: '450'
 author: neverbot
 tags:
-  - Internet
-  - Neverbot
+  - internet
+  - neverbot
 date: 2007-05-19 15:57:07
 ---
 

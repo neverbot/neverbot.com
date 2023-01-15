@@ -3,7 +3,7 @@ title: Respeto materno
 id: '592'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-11-26 16:40:22
 ---
 

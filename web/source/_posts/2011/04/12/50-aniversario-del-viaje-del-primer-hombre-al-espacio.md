@@ -3,8 +3,8 @@ title: 50 aniversario del viaje del primer hombre al espacio
 id: '3011'
 author: neverbot
 tags:
-  - Internet
-  - Mundo Real™
+  - internet
+  - mundo real™
 date: 2011-04-12 11:33:15
 ---
 

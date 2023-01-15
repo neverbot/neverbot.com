@@ -3,8 +3,8 @@ title: Más vale bug en mano...
 id: '326'
 author: neverbot
 tags:
-  - Informática
-  - Pensamientos aleatorios
+  - informática
+  - pensamientos aleatorios
 date: 2007-01-15 16:44:11
 ---
 

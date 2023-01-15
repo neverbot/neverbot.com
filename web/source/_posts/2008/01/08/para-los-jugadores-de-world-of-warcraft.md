@@ -3,8 +3,8 @@ title: Para los jugadores de World of Warcraft
 id: '668'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Videojuegos
+  - pensamientos aleatorios
+  - videojuegos
 date: 2008-01-08 12:15:42
 ---
 

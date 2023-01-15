@@ -3,9 +3,9 @@ title: Inteligencia artificial
 id: '202'
 author: neverbot
 tags:
-  - Blog
-  - Humor
-  - Informática
+  - blog
+  - humor
+  - informática
 date: 2006-11-14 13:01:10
 ---
 

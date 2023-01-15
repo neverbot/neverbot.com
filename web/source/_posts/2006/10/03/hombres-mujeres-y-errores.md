@@ -3,8 +3,8 @@ title: Hombres, mujeres y errores
 id: '107'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tv
+  - pensamientos aleatorios
+  - tv
 date: 2006-10-03 19:34:17
 ---
 

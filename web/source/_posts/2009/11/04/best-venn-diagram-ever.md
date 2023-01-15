@@ -3,8 +3,8 @@ title: Best Venn diagram ever!!
 id: '2000'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2009-11-04 10:32:05
 ---
 

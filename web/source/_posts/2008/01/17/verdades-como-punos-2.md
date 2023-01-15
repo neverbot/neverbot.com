@@ -3,8 +3,8 @@ title: Verdades como puños
 id: '678'
 author: neverbot
 tags:
-  - Blog
-  - Videojuegos
+  - blog
+  - videojuegos
 date: 2008-01-17 13:57:48
 ---
 

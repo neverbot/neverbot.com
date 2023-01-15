@@ -3,8 +3,8 @@ title: Según SnapShot...
 id: '625'
 author: neverbot
 tags:
-  - Internet
-  - Neverbot
+  - internet
+  - neverbot
 date: 2007-12-10 19:01:55
 ---
 

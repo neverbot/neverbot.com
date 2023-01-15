@@ -3,8 +3,8 @@ title: Objects in mirror are losers
 id: '2741'
 author: neverbot
 tags:
-  - Humor
-  - Videojuegos
+  - humor
+  - videojuegos
 date: 2010-09-30 21:09:07
 ---
 

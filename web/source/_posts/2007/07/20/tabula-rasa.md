@@ -3,8 +3,8 @@ title: Tabula Rasa
 id: '490'
 author: neverbot
 tags:
-  - Miniblog
-  - Videojuegos
+  - miniblog
+  - videojuegos
 date: 2007-07-20 13:04:29
 ---
 

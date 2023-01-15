@@ -3,8 +3,8 @@ title: The Name Decoder
 id: '83'
 author: neverbot
 tags:
-  - Blog
-  - Internet
+  - blog
+  - internet
 date: 2006-09-20 16:57:37
 ---
 

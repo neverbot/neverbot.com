@@ -3,9 +3,9 @@ title: Listas de reproducción
 id: '2995'
 author: neverbot
 tags:
-  - Humor
-  - Internet
-  - Música
+  - humor
+  - internet
+  - música
 date: 2011-04-02 18:41:16
 ---
 

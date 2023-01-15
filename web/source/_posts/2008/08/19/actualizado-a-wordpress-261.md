@@ -3,8 +3,8 @@ title: Actualizado a Wordpress 2.6.1
 id: '877'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2008-08-19 21:26:47
 ---
 

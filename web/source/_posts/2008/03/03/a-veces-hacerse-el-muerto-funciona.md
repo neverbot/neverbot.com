@@ -3,8 +3,8 @@ title: A veces hacerse el muerto funciona
 id: '737'
 author: neverbot
 tags:
-  - Miniblog
-  - Mundo Real™
+  - miniblog
+  - mundo real™
 date: 2008-03-03 22:52:19
 ---
 

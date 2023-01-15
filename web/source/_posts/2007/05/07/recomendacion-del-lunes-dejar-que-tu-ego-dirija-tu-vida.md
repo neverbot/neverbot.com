@@ -3,8 +3,8 @@ title: 'Recomendación del lunes: Dejar que tu ego dirija tu vida'
 id: '429'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2007-05-07 16:07:29
 ---
 

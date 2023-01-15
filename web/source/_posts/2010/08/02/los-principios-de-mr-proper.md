@@ -3,10 +3,10 @@ title: Los principios de Mr. Proper
 id: '2605'
 author: neverbot
 tags:
-  - Al blog que vas
-  - Mundo Real™
-  - Publicidad
-  - Tv
+  - al blog que vas
+  - mundo real™
+  - publicidad
+  - tv
 date: 2010-08-02 13:53:40
 ---
 

@@ -3,8 +3,8 @@ title: 'Recomendación del lunes: Nip/Tuck'
 id: '325'
 author: neverbot
 tags:
-  - Reseñas
-  - Tv
+  - reseñas
+  - tv
 date: 2007-01-15 14:22:23
 ---
 

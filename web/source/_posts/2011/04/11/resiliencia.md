@@ -3,7 +3,7 @@ title: Resiliencia
 id: '3006'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2011-04-11 23:55:39
 ---
 

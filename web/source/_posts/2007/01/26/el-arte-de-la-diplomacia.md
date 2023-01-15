@@ -3,7 +3,7 @@ title: El arte de la diplomacia
 id: '348'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-01-26 14:19:46
 ---
 

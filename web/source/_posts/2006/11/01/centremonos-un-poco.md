@@ -3,13 +3,13 @@ title: Centrémonos un poco
 id: '162'
 author: neverbot
 tags:
-  - Cine
-  - Libros
-  - Neverbot
-  - Reseñas
-  - Tebeos
-  - Tv
-  - Videojuegos
+  - cine
+  - libros
+  - neverbot
+  - reseñas
+  - tebeos
+  - tv
+  - videojuegos
 date: 2006-11-01 15:56:15
 ---
 

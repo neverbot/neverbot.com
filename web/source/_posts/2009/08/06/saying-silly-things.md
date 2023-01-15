@@ -3,7 +3,7 @@ title: Saying silly things
 id: '1542'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2009-08-06 00:42:06
 ---
 

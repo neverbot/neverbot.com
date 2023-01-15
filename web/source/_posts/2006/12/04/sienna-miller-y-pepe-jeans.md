@@ -3,8 +3,8 @@ title: Sienna Miller y Pepe Jeans
 id: '263'
 author: neverbot
 tags:
-  - Fotografía
-  - Publicidad
+  - fotografía
+  - publicidad
 date: 2006-12-04 19:59:50
 ---
 

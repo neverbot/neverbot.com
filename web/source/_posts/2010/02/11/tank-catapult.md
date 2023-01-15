@@ -3,7 +3,7 @@ title: Tank Catapult
 id: '2333'
 author: neverbot
 tags:
-  - Humor
+  - humor
 date: 2010-02-11 21:22:14
 ---
 

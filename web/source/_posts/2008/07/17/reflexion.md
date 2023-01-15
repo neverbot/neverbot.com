@@ -3,8 +3,8 @@ title: Reflexión
 id: '845'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
+  - blog
+  - miniblog
 date: 2008-07-17 09:39:13
 ---
 

@@ -3,8 +3,8 @@ title: Change is possible
 id: '1240'
 author: neverbot
 tags:
-  - Humor
-  - Ilustración
+  - humor
+  - ilustración
 date: 2009-02-25 20:03:09
 ---
 

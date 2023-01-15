@@ -3,7 +3,7 @@ title: El mejor gif animado de la historia
 id: '2911'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2011-03-06 12:03:21
 ---
 

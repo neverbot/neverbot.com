@@ -3,8 +3,8 @@ title: Which Superhero are you?
 id: '94'
 author: neverbot
 tags:
-  - Internet
-  - Tebeos
+  - internet
+  - tebeos
 date: 2006-09-26 13:46:03
 ---
 

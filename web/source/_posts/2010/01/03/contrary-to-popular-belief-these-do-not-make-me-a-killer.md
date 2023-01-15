@@ -3,8 +3,8 @@ title: Contrary to popular belief, these do not make me a killer
 id: '2227'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Videojuegos
+  - mundo real™
+  - videojuegos
 date: 2010-01-03 14:22:26
 ---
 

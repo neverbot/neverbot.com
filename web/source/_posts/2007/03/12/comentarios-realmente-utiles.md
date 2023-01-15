@@ -3,7 +3,7 @@ title: Comentarios realmente útiles
 id: '397'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-03-12 11:39:58
 ---
 

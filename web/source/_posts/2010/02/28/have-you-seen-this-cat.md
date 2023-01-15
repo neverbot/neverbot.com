@@ -3,7 +3,7 @@ title: Have you seen this cat?
 id: '2400'
 author: neverbot
 tags:
-  - Humor
+  - humor
 date: 2010-02-28 11:49:26
 ---
 

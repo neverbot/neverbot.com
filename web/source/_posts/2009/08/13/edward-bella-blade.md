@@ -3,8 +3,8 @@ title: Edward & Bella & Blade
 id: '1581'
 author: neverbot
 tags:
-  - Cine
-  - Humor
+  - cine
+  - humor
 date: 2009-08-13 13:54:59
 ---
 

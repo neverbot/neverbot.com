@@ -3,9 +3,9 @@ title: Verdadera inspiración
 id: '2369'
 author: neverbot
 tags:
-  - Fotografía
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - fotografía
+  - mundo real™
+  - pensamientos aleatorios
 date: 2010-02-18 21:04:53
 ---
 

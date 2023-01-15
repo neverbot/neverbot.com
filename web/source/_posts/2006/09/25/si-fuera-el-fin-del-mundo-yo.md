@@ -3,8 +3,8 @@ title: Si fuera el fin del mundo, yo...
 id: '93'
 author: neverbot
 tags:
-  - Blog
-  - Internet
+  - blog
+  - internet
 date: 2006-09-25 22:32:52
 ---
 

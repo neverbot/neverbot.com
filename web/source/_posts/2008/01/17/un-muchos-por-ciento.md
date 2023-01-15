@@ -3,7 +3,7 @@ title: Un "muchos" por ciento...
 id: '677'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-01-17 10:33:15
 ---
 

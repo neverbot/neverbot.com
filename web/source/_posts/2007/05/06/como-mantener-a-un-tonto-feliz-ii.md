@@ -3,8 +3,8 @@ title: Cómo mantener a un tonto feliz (II)
 id: '424'
 author: neverbot
 tags:
-  - Blog
-  - Neverbot
+  - blog
+  - neverbot
 date: 2007-05-06 16:45:27
 ---
 

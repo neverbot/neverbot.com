@@ -3,7 +3,7 @@ title: Videojuegos vistos desde otro prisma
 id: '741'
 author: neverbot
 tags:
-  - Videojuegos
+  - videojuegos
 date: 2008-03-08 11:31:59
 ---
 

@@ -3,7 +3,7 @@ title: Nostalgia
 id: '2577'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2010-06-27 12:34:01
 ---
 

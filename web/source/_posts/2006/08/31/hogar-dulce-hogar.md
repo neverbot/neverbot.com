@@ -3,8 +3,8 @@ title: Hogar, dulce hogar
 id: '61'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2006-08-31 22:08:56
 ---
 

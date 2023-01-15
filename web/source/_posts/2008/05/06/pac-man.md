@@ -3,7 +3,7 @@ title: Pac-Man
 id: '774'
 author: neverbot
 tags:
-  - Videojuegos
+  - videojuegos
 date: 2008-05-06 16:40:49
 ---
 

@@ -3,8 +3,8 @@ title: Requetemegatón
 id: '645'
 author: neverbot
 tags:
-  - Miniblog
-  - Videojuegos
+  - miniblog
+  - videojuegos
 date: 2007-12-20 10:27:12
 video: ZUN7mHUtzno
 ---

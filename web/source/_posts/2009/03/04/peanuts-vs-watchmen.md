@@ -3,8 +3,8 @@ title: Peanuts vs. Watchmen
 id: '1271'
 author: neverbot
 tags:
-  - Ilustración
-  - Tebeos
+  - ilustración
+  - tebeos
 date: 2009-03-04 17:00:30
 ---
 

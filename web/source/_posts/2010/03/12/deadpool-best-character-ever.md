@@ -3,8 +3,8 @@ title: Deadpool, best character ever
 id: '2453'
 author: neverbot
 tags:
-  - Cine
-  - Tebeos
+  - cine
+  - tebeos
 date: 2010-03-12 11:43:34
 ---
 

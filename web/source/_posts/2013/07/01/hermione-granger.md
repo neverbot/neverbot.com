@@ -3,7 +3,7 @@ title: Hermione Granger
 id: '6364'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2013-07-01 10:37:56
 ---
 

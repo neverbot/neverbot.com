@@ -3,9 +3,9 @@ title: Hellboy - Futurama ¿por Matt Groening?
 id: '791'
 author: neverbot
 tags:
-  - Ilustración
-  - Tebeos
-  - Tv
+  - ilustración
+  - tebeos
+  - tv
 date: 2008-06-05 10:04:59
 ---
 

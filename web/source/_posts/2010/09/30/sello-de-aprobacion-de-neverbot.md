@@ -3,9 +3,9 @@ title: Sello de aprobación de neverbot
 id: '2731'
 author: neverbot
 tags:
-  - Cine
-  - Humor
-  - Neverbot
+  - cine
+  - humor
+  - neverbot
 date: 2010-09-30 20:24:32
 ---
 

@@ -3,8 +3,8 @@ title: La historia de mi vida (II)
 id: '720'
 author: neverbot
 tags:
-  - Blog
-  - Música
+  - blog
+  - música
 date: 2008-02-24 13:47:20
 video: ZSM3w1v-A_Y
 ---

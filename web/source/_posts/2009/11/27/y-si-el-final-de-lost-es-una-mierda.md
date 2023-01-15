@@ -3,10 +3,10 @@ title: ¿Y si el final de Lost es una mierda?
 id: '2126'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
-  - Pensamientos aleatorios
-  - Tv
+  - blog
+  - mundo real™
+  - pensamientos aleatorios
+  - tv
 date: 2009-11-27 19:24:45
 ---
 

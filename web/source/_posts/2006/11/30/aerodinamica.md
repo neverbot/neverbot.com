@@ -3,7 +3,7 @@ title: Aerodinámica
 id: '249'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-11-30 10:21:54
 ---
 

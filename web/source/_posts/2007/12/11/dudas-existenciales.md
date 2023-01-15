@@ -3,8 +3,8 @@ title: Dudas existenciales
 id: '626'
 author: neverbot
 tags:
-  - Humor
-  - Pensamientos aleatorios
+  - humor
+  - pensamientos aleatorios
 date: 2007-12-11 09:42:29
 ---
 

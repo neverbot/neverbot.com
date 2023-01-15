@@ -3,9 +3,9 @@ title: You used to laugh
 id: '6516'
 author: neverbot
 tags:
-  - Blog
-  - Música
-  - Pensamientos aleatorios
+  - blog
+  - música
+  - pensamientos aleatorios
 date: 2013-08-11 20:27:15
 ---
 

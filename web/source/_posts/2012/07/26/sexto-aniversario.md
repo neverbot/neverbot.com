@@ -3,8 +3,8 @@ title: ¡Sexto aniversario!
 id: '3135'
 author: neverbot
 tags:
-  - Blog
-  - Neverbot
+  - blog
+  - neverbot
 date: 2012-07-26 19:08:52
 ---
 

@@ -3,7 +3,7 @@ title: You found god?
 id: '2061'
 author: neverbot
 tags:
-  - Humor
+  - humor
 date: 2009-11-10 19:37:10
 ---
 

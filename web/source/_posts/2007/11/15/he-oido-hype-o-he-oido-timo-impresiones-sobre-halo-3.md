@@ -3,7 +3,7 @@ title: ¿He oído hype o he oído timo? Impresiones sobre Halo 3
 id: '579'
 author: neverbot
 tags:
-  - Videojuegos
+  - videojuegos
 date: 2007-11-15 13:15:22
 ---
 

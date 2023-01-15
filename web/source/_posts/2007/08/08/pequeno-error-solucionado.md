@@ -3,8 +3,8 @@ title: Pequeño error solucionado
 id: '509'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2007-08-08 17:40:58
 ---
 

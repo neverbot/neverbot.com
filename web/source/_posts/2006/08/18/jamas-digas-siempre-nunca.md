@@ -3,8 +3,8 @@ title: Jamás digas siempre nunca
 id: '48'
 author: neverbot
 tags:
-  - Cine
-  - Pensamientos aleatorios
+  - cine
+  - pensamientos aleatorios
 date: 2006-08-18 18:01:20
 ---
 

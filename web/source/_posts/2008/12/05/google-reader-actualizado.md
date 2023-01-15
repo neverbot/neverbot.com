@@ -3,7 +3,7 @@ title: Google Reader actualizado
 id: '1121'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2008-12-05 12:10:35
 ---
 

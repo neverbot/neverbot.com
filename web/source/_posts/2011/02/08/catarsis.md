@@ -3,8 +3,8 @@ title: Catarsis
 id: '2849'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2011-02-08 13:37:42
 ---
 

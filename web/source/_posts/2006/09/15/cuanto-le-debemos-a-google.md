@@ -3,7 +3,7 @@ title: Cuánto le debemos a Google
 id: '78'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2006-09-15 13:12:21
 ---
 

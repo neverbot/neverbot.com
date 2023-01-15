@@ -3,9 +3,9 @@ title: John Lennon en Google
 id: '2746'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
-  - Música
+  - ilustración
+  - internet
+  - música
 date: 2010-10-08 12:19:14
 ---
 

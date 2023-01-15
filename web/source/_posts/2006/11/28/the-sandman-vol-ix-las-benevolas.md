@@ -3,7 +3,7 @@ title: 'The Sandman, Vol. IX: Las Benévolas'
 id: '244'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2006-11-28 20:10:26
 ---
 

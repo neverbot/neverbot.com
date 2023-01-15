@@ -3,8 +3,8 @@ title: Danger, Zombies!
 id: '2302'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - mundo real™
+  - pensamientos aleatorios
 date: 2010-01-28 17:20:59
 ---
 

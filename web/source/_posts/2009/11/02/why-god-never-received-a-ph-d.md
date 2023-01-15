@@ -3,8 +3,8 @@ title: Why God never received a Ph.D.
 id: '1991'
 author: neverbot
 tags:
-  - Clásicos de Internet
-  - Humor
+  - clásicos de internet
+  - humor
 date: 2009-11-02 19:23:16
 ---
 

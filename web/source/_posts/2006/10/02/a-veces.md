@@ -3,7 +3,7 @@ title: A veces...
 id: '106'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-10-02 17:50:40
 ---
 

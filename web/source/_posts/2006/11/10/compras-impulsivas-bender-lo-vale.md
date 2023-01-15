@@ -3,8 +3,8 @@ title: Compras impulsivas (Bender lo vale)
 id: '187'
 author: neverbot
 tags:
-  - Blog
-  - Tv
+  - blog
+  - tv
 date: 2006-11-10 13:42:31
 ---
 

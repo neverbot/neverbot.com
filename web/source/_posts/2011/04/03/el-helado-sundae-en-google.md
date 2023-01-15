@@ -3,7 +3,7 @@ title: El helado Sundae en Google
 id: '2997'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2011-04-03 00:07:25
 ---
 

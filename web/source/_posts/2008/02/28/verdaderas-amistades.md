@@ -3,7 +3,7 @@ title: Verdaderas amistades
 id: '727'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2008-02-28 16:29:37
 ---
 

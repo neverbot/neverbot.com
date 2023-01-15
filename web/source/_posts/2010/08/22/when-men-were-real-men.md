@@ -3,9 +3,9 @@ title: When men were real men
 id: '2652'
 author: neverbot
 tags:
-  - Cine
-  - Humor
-  - Libros
+  - cine
+  - humor
+  - libros
 date: 2010-08-22 12:23:54
 ---
 

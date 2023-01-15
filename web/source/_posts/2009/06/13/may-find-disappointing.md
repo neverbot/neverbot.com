@@ -3,8 +3,8 @@ title: May find disappointing
 id: '1419'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - mundo real™
+  - pensamientos aleatorios
 date: 2009-06-13 09:49:27
 ---
 

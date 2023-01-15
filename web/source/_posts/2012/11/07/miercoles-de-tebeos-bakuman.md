@@ -3,7 +3,7 @@ title: 'Miércoles de tebeos: Bakuman'
 id: '5429'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2012-11-07 19:09:23
 ---
 

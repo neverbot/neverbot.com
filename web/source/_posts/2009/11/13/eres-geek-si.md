@@ -3,8 +3,8 @@ title: Eres geek si...
 id: '2080'
 author: neverbot
 tags:
-  - Humor
-  - Mundo Real™
+  - humor
+  - mundo real™
 date: 2009-11-13 12:37:21
 ---
 

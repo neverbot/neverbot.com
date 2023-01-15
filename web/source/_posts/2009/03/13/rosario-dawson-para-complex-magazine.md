@@ -3,7 +3,7 @@ title: Rosario Dawson para Complex Magazine
 id: '1307'
 author: neverbot
 tags:
-  - Fotografía
+  - fotografía
 date: 2009-03-13 09:55:36
 ---
 

@@ -3,7 +3,7 @@ title: 'Boredom hurts: Qué pena que sólo sea publicidad'
 id: '437'
 author: neverbot
 tags:
-  - Publicidad
+  - publicidad
 date: 2007-05-14 15:32:30
 ---
 

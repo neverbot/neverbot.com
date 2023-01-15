@@ -3,8 +3,8 @@ title: El Gran Almirante Thrawn
 id: '2068'
 author: neverbot
 tags:
-  - Cine
-  - Juegos
+  - cine
+  - juegos
 date: 2009-11-10 21:08:40
 ---
 

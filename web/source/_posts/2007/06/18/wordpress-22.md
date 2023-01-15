@@ -3,7 +3,7 @@ title: Wordpress 2.2
 id: '478'
 author: neverbot
 tags:
-  - Neverbot
+  - neverbot
 date: 2007-06-18 21:28:32
 ---
 

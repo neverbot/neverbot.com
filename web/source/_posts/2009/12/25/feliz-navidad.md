@@ -3,8 +3,8 @@ title: Feliz Navidad
 id: '2207'
 author: neverbot
 tags:
-  - Blog
-  - Miniblog
+  - blog
+  - miniblog
 date: 2009-12-25 13:16:24
 ---
 

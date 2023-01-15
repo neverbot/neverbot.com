@@ -3,8 +3,8 @@ title: ¿Cafeterías o Apple Stores?
 id: '1255'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2009-03-03 11:20:08
 ---
 

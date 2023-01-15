@@ -3,8 +3,8 @@ title: La ciudad del placer
 id: '22'
 author: neverbot
 tags:
-  - Fotografía
-  - Publicidad
+  - fotografía
+  - publicidad
 date: 2006-08-02 12:53:23
 ---
 

@@ -3,8 +3,8 @@ title: Mi nueva filosofía de vida
 id: '2910'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2011-03-05 21:20:59
 ---
 

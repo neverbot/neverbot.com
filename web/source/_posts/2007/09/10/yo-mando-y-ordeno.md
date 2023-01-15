@@ -3,7 +3,7 @@ title: Yo mando y ordeno...
 id: '525'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2007-09-10 14:11:02
 ---
 

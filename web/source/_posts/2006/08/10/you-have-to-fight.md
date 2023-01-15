@@ -3,10 +3,10 @@ title: You have to fight
 id: '33'
 author: neverbot
 tags:
-  - Blog
-  - Cine
-  - Libros
-  - Pensamientos aleatorios
+  - blog
+  - cine
+  - libros
+  - pensamientos aleatorios
 date: 2006-08-10 10:42:30
 ---
 

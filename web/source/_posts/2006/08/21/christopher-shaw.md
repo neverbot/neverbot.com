@@ -3,7 +3,7 @@ title: Christopher Shaw
 id: '51'
 author: neverbot
 tags:
-  - Ilustración
+  - ilustración
 date: 2006-08-21 13:51:12
 ---
 

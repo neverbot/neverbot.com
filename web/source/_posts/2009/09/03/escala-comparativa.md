@@ -3,7 +3,7 @@ title: Escala comparativa
 id: '1726'
 author: neverbot
 tags:
-  - Publicidad
+  - publicidad
 date: 2009-09-03 15:35:27
 ---
 

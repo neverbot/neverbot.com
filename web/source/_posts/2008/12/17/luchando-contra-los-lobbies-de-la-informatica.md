@@ -3,8 +3,8 @@ title: Luchando contra los lobbies de la informática
 id: '1131'
 author: neverbot
 tags:
-  - Informática
-  - Neverbot
+  - informática
+  - neverbot
 date: 2008-12-17 12:28:55
 ---
 

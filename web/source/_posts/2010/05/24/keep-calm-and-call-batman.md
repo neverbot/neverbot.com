@@ -3,7 +3,7 @@ title: Keep calm and call Batman
 id: '2533'
 author: neverbot
 tags:
-  - Humor
+  - humor
 date: 2010-05-24 21:10:02
 ---
 

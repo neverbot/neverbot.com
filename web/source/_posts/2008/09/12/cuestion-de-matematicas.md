@@ -3,7 +3,7 @@ title: Cuestión de matemáticas
 id: '957'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-09-12 11:18:20
 ---
 

@@ -3,7 +3,7 @@ title: Tipos de hombres
 id: '660'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-12-31 08:24:18
 ---
 

@@ -3,9 +3,9 @@ title: Vampiros de verdad dándole una paliza a un infeliz
 id: '2130'
 author: neverbot
 tags:
-  - Cine
-  - Mundo Real™
-  - Tv
+  - cine
+  - mundo real™
+  - tv
 date: 2009-11-29 18:34:19
 ---
 

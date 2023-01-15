@@ -3,8 +3,8 @@ title: Al carajo con Microsoft (III)
 id: '238'
 author: neverbot
 tags:
-  - Blog
-  - Informática
+  - blog
+  - informática
 date: 2006-11-27 19:48:52
 ---
 

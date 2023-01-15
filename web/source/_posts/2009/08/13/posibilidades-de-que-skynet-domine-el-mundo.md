@@ -3,8 +3,8 @@ title: Posibilidades de que Skynet domine el mundo
 id: '1571'
 author: neverbot
 tags:
-  - Ilustración
-  - Mundo Real™
+  - ilustración
+  - mundo real™
 date: 2009-08-13 11:41:22
 ---
 

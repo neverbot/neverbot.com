@@ -3,7 +3,7 @@ title: Two days left
 id: '550'
 author: neverbot
 tags:
-  - Videojuegos
+  - videojuegos
 date: 2007-09-24 18:39:18
 ---
 

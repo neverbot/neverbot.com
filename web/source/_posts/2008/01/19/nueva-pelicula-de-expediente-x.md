@@ -3,9 +3,9 @@ title: Nueva película de Expediente X
 id: '682'
 author: neverbot
 tags:
-  - Cine
-  - Miniblog
-  - Tv
+  - cine
+  - miniblog
+  - tv
 date: 2008-01-19 15:27:19
 ---
 

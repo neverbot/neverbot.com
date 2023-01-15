@@ -3,7 +3,7 @@ title: Pensar antes de hablar... o no
 id: '671'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-01-15 10:25:18
 ---
 

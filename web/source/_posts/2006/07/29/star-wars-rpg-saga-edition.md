@@ -3,7 +3,7 @@ title: 'Star Wars RPG: Saga Edition'
 id: '13'
 author: neverbot
 tags:
-  - Juegos
+  - juegos
 date: 2006-07-29 10:14:08
 ---
 

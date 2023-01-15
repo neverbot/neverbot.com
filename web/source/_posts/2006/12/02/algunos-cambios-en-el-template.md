@@ -3,7 +3,7 @@ title: Algunos cambios en el template
 id: '258'
 author: neverbot
 tags:
-  - Neverbot
+  - neverbot
 date: 2006-12-02 14:08:26
 ---
 

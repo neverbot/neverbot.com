@@ -3,8 +3,8 @@ title: El problema de que todos los discos sean iguales
 id: '562'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Música
+  - mundo real™
+  - música
 date: 2007-10-29 10:21:47
 ---
 

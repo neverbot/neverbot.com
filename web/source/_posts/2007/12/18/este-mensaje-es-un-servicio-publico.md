@@ -3,7 +3,7 @@ title: Este mensaje es un servicio público
 id: '642'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-12-18 19:04:20
 ---
 

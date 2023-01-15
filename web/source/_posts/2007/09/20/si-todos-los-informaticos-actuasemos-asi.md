@@ -3,8 +3,8 @@ title: Si todos los informáticos actuásemos así...
 id: '546'
 author: neverbot
 tags:
-  - Informática
-  - Mundo Real™
+  - informática
+  - mundo real™
 date: 2007-09-20 13:00:13
 ---
 

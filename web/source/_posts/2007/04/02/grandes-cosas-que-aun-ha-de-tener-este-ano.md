@@ -3,7 +3,7 @@ title: Grandes cosas que aún ha de tener este año
 id: '407'
 author: neverbot
 tags:
-  - Videojuegos
+  - videojuegos
 date: 2007-04-02 16:34:27
 ---
 

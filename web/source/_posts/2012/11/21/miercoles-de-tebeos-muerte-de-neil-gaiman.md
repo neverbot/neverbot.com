@@ -3,7 +3,7 @@ title: 'Miércoles de tebeos: Muerte, de Neil Gaiman'
 id: '5520'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2012-11-21 13:39:01
 ---
 

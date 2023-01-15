@@ -3,8 +3,8 @@ title: Una menos (y II)
 id: '99'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2006-09-30 16:03:51
 ---
 

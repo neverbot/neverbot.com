@@ -3,9 +3,9 @@ title: Algo realmente preocupante sobre el universo
 id: '296'
 author: neverbot
 tags:
-  - Blog
-  - Cine
-  - Mundo Real™
+  - blog
+  - cine
+  - mundo real™
 date: 2007-01-01 21:32:48
 ---
 

@@ -3,7 +3,7 @@ title: Al blog que vas
 id: '704'
 author: neverbot
 tags:
-  - Al blog que vas
+  - al blog que vas
 date: 2008-02-13 17:48:43
 ---
 

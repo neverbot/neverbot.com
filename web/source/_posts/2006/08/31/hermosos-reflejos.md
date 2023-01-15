@@ -3,7 +3,7 @@ title: Hermosos reflejos
 id: '60'
 author: neverbot
 tags:
-  - Fotografía
+  - fotografía
 date: 2006-08-31 21:09:51
 ---
 

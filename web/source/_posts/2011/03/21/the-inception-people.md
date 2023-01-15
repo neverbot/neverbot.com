@@ -3,8 +3,8 @@ title: The Inception people
 id: '2945'
 author: neverbot
 tags:
-  - Cine
-  - Fotografía
+  - cine
+  - fotografía
 date: 2011-03-21 23:42:24
 ---
 

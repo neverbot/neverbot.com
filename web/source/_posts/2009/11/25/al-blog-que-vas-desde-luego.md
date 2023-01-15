@@ -3,7 +3,7 @@ title: Al blog que vas, desde luego...
 id: '2107'
 author: neverbot
 tags:
-  - Al blog que vas
+  - al blog que vas
 date: 2009-11-25 12:01:44
 ---
 

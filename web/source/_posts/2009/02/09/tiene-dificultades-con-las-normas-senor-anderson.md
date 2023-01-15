@@ -3,8 +3,8 @@ title: Tiene dificultades con las normas, señor Anderson
 id: '1156'
 author: neverbot
 tags:
-  - Cine
-  - Pensamientos aleatorios
+  - cine
+  - pensamientos aleatorios
 date: 2009-02-09 15:11:18
 ---
 

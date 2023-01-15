@@ -3,7 +3,7 @@ title: Silencio
 id: '367'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-02-09 10:35:29
 ---
 

@@ -3,7 +3,7 @@ title: For today I am a robot
 id: '1378'
 author: neverbot
 tags:
-  - Ilustración
+  - ilustración
 date: 2009-04-28 10:54:56
 ---
 

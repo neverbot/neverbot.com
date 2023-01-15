@@ -3,8 +3,8 @@ title: 'Thomas Allen: Libros en tres dimensiones'
 id: '459'
 author: neverbot
 tags:
-  - Fotografía
-  - Ilustración
+  - fotografía
+  - ilustración
 date: 2007-05-23 13:33:43
 ---
 

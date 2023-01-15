@@ -3,8 +3,8 @@ title: Estertores de inspiración
 id: '651'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tebeos
+  - pensamientos aleatorios
+  - tebeos
 date: 2007-12-27 09:42:29
 ---
 

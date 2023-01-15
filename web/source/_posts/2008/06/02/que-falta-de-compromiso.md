@@ -3,8 +3,8 @@ title: Qué falta de compromiso
 id: '784'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2008-06-02 17:22:39
 ---
 

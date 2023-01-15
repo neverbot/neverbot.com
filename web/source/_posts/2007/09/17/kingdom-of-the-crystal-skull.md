@@ -3,7 +3,7 @@ title: Kingdom of the Crystal Skull
 id: '537'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2007-09-17 10:42:05
 ---
 

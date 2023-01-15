@@ -3,8 +3,8 @@ title: Distintas formas de trabajar
 id: '416'
 author: neverbot
 tags:
-  - Informática
-  - Pensamientos aleatorios
+  - informática
+  - pensamientos aleatorios
 date: 2007-04-10 12:04:46
 ---
 

@@ -3,8 +3,8 @@ title: Ubuntu 8.04 ya disponible
 id: '766'
 author: neverbot
 tags:
-  - Informática
-  - Miniblog
+  - informática
+  - miniblog
 date: 2008-04-24 17:18:22
 ---
 

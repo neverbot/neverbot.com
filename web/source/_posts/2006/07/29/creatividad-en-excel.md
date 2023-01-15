@@ -3,8 +3,8 @@ title: Creatividad en Excel
 id: '17'
 author: neverbot
 tags:
-  - Blog
-  - Pensamientos aleatorios
+  - blog
+  - pensamientos aleatorios
 date: 2006-07-29 12:31:22
 ---
 

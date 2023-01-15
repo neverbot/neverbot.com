@@ -3,8 +3,8 @@ title: No habría reglas
 id: '87'
 author: neverbot
 tags:
-  - Cine
-  - Pensamientos aleatorios
+  - cine
+  - pensamientos aleatorios
 date: 2006-09-20 18:25:09
 ---
 

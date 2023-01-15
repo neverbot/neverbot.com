@@ -3,7 +3,7 @@ title: Beyond the call of duty (II)
 id: '610'
 author: neverbot
 tags:
-  - Videojuegos
+  - videojuegos
 date: 2007-12-04 18:30:04
 ---
 

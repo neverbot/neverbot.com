@@ -3,7 +3,7 @@ title: La falacia del periodismo actual
 id: '1407'
 author: neverbot
 tags:
-  - Mundo Real™
+  - mundo real™
 date: 2009-06-12 10:29:31
 ---
 

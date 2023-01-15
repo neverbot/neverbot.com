@@ -3,8 +3,8 @@ title: Complicadas negociaciones
 id: '80'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2006-09-17 11:52:34
 ---
 

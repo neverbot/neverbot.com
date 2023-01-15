@@ -3,8 +3,8 @@ title: Miércoles de cine
 id: '167'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2006-11-01 23:34:37
 ---
 

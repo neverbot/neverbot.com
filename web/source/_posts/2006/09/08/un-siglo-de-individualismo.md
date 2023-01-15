@@ -3,8 +3,8 @@ title: Un siglo de individualismo
 id: '71'
 author: neverbot
 tags:
-  - Blog
-  - Videojuegos
+  - blog
+  - videojuegos
 date: 2006-09-08 19:15:22
 ---
 

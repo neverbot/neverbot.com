@@ -3,9 +3,9 @@ title: Lo contradictorio de algunos premios
 id: '1117'
 author: neverbot
 tags:
-  - Blog
-  - Internet
-  - Videojuegos
+  - blog
+  - internet
+  - videojuegos
 date: 2008-11-26 17:40:25
 ---
 

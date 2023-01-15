@@ -3,8 +3,8 @@ title: Los videos musicales de los Beatles en Beatlestube.net
 id: '1371'
 author: neverbot
 tags:
-  - Internet
-  - Música
+  - internet
+  - música
 date: 2009-04-27 13:46:01
 ---
 

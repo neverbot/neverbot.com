@@ -3,8 +3,8 @@ title: Nota de expulsión
 id: '1954'
 author: neverbot
 tags:
-  - Mundo Real™
-  - Tebeos
+  - mundo real™
+  - tebeos
 date: 2009-10-22 18:48:57
 ---
 

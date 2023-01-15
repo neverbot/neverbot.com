@@ -3,9 +3,9 @@ title: Paris, Je T'aime
 id: '396'
 author: neverbot
 tags:
-  - Blog
-  - Cine
-  - Mundo Real™
+  - blog
+  - cine
+  - mundo real™
 date: 2007-03-12 00:46:17
 ---
 

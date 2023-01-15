@@ -3,7 +3,7 @@ title: Google Panic
 id: '862'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2008-08-05 08:28:25
 ---
 

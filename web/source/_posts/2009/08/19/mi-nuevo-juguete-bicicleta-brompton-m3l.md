@@ -3,7 +3,7 @@ title: 'Mi nuevo juguete: Bicicleta Brompton M3L'
 id: '1653'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2009-08-19 21:16:02
 ---
 

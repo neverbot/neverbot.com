@@ -3,8 +3,8 @@ title: Nuevas galerías en flickr
 id: '876'
 author: neverbot
 tags:
-  - Fotografía
-  - Mundo Real™
+  - fotografía
+  - mundo real™
 date: 2008-08-19 21:17:00
 ---
 

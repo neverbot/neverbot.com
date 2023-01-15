@@ -3,8 +3,8 @@ title: Deadpool Mouse
 id: '1842'
 author: neverbot
 tags:
-  - Ilustración
-  - Tebeos
+  - ilustración
+  - tebeos
 date: 2009-09-26 21:12:53
 ---
 

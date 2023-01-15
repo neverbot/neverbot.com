@@ -3,8 +3,8 @@ title: You will reblog this
 id: '2713'
 author: neverbot
 tags:
-  - Cine
-  - Internet
+  - cine
+  - internet
 date: 2010-09-18 10:58:25
 ---
 

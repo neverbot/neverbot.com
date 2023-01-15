@@ -3,9 +3,9 @@ title: La justicia del programador
 id: '2394'
 author: neverbot
 tags:
-  - Informática
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - informática
+  - mundo real™
+  - pensamientos aleatorios
 date: 2010-02-23 17:41:07
 ---
 

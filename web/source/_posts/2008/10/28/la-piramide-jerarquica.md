@@ -3,8 +3,8 @@ title: La pirámide jerárquica
 id: '1074'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2008-10-28 16:03:02
 ---
 

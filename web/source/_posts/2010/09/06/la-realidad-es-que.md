@@ -3,8 +3,8 @@ title: La realidad es que...
 id: '2693'
 author: neverbot
 tags:
-  - Internet
-  - Pensamientos aleatorios
+  - internet
+  - pensamientos aleatorios
 date: 2010-09-06 08:22:23
 ---
 

@@ -3,8 +3,8 @@ title: Lista de deseos de la Tienda de Cyberdark
 id: '1042'
 author: neverbot
 tags:
-  - Internet
-  - Libros
+  - internet
+  - libros
 date: 2008-10-14 17:25:56
 ---
 

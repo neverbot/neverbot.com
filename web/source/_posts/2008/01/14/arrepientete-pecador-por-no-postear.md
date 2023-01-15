@@ -3,7 +3,7 @@ title: Arrepiéntete, pecador, por no postear
 id: '670'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2008-01-14 15:37:44
 ---
 

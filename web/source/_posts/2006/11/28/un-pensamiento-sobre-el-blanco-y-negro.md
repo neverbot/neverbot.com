@@ -3,7 +3,7 @@ title: Un pensamiento sobre el blanco y negro
 id: '247'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2006-11-28 21:03:48
 ---
 

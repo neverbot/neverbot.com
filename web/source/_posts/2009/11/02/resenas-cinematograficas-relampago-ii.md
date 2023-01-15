@@ -3,8 +3,8 @@ title: Reseñas cinematográficas relámpago (II)
 id: '1978'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2009-11-02 19:05:48
 ---
 

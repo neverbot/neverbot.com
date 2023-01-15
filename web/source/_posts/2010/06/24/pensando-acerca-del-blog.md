@@ -3,8 +3,8 @@ title: Pensando acerca del blog
 id: '2549'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2010-06-24 12:24:16
 ---
 

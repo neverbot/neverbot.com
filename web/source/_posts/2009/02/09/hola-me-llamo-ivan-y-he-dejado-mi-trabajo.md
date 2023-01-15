@@ -3,8 +3,8 @@ title: Hola, me llamo Iván y he dejado mi trabajo
 id: '1153'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2009-02-09 15:02:12
 ---
 

@@ -3,7 +3,7 @@ title: Fine Art and Design
 id: '44'
 author: neverbot
 tags:
-  - Ilustración
+  - ilustración
 date: 2006-08-16 00:19:51
 ---
 

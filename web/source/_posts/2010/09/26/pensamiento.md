@@ -3,8 +3,8 @@ title: Pensamiento
 id: '2724'
 author: neverbot
 tags:
-  - Miniblog
-  - Pensamientos aleatorios
+  - miniblog
+  - pensamientos aleatorios
 date: 2010-09-26 13:24:05
 ---
 

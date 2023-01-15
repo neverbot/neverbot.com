@@ -3,8 +3,8 @@ title: Darth Vader navegando por Spacebook
 id: '1810'
 author: neverbot
 tags:
-  - Humor
-  - Internet
+  - humor
+  - internet
 date: 2009-09-14 13:31:55
 ---
 

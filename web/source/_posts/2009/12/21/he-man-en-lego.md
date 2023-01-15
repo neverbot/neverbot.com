@@ -3,8 +3,8 @@ title: He-Man en Lego
 id: '2203'
 author: neverbot
 tags:
-  - Juegos
-  - Tv
+  - juegos
+  - tv
 date: 2009-12-21 20:35:15
 ---
 

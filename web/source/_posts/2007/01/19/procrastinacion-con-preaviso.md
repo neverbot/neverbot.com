@@ -3,9 +3,9 @@ title: Procrastinación con preaviso
 id: '341'
 author: neverbot
 tags:
-  - Blog
-  - Internet
-  - Neverbot
+  - blog
+  - internet
+  - neverbot
 date: 2007-01-19 10:40:48
 ---
 

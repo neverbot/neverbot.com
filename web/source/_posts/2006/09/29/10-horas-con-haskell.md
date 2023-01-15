@@ -3,10 +3,10 @@ title: 10 horas con Haskell
 id: '96'
 author: neverbot
 tags:
-  - Blog
-  - Informática
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - blog
+  - informática
+  - mundo real™
+  - pensamientos aleatorios
 date: 2006-09-29 04:59:36
 ---
 

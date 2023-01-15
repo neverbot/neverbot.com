@@ -3,8 +3,8 @@ title: Un pequeño inciso
 id: '532'
 author: neverbot
 tags:
-  - Internet
-  - Pensamientos aleatorios
+  - internet
+  - pensamientos aleatorios
 date: 2007-09-16 02:47:26
 ---
 

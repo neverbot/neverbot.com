@@ -3,7 +3,7 @@ title: Todos tenemos un objetivo en la vida
 id: '2977'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2011-04-01 20:27:09
 ---
 

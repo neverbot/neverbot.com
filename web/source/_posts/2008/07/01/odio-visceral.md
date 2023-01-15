@@ -3,8 +3,8 @@ title: Odio visceral
 id: '818'
 author: neverbot
 tags:
-  - Miniblog
-  - Pensamientos aleatorios
+  - miniblog
+  - pensamientos aleatorios
 date: 2008-07-01 12:49:44
 ---
 

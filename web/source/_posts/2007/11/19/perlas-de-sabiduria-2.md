@@ -3,7 +3,7 @@ title: Perlas de sabiduría (II)
 id: '582'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2007-11-19 16:35:49
 ---
 

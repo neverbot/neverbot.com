@@ -3,9 +3,9 @@ title: Logo de Google de La Tomatina 2008
 id: '914'
 author: neverbot
 tags:
-  - ¿Sabías que...?
-  - Ilustración
-  - Internet
+  - ¿sabías que...?
+  - ilustración
+  - internet
 date: 2008-08-27 10:11:46
 ---
 

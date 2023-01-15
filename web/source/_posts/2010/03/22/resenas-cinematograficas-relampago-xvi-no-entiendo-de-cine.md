@@ -3,8 +3,8 @@ title: Reseñas cinematográficas relámpago (XVI) (No entiendo de cine)
 id: '2473'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2010-03-22 17:04:07
 ---
 

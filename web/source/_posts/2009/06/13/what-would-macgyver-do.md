@@ -3,8 +3,8 @@ title: What would Macgyver do?
 id: '1422'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tv
+  - pensamientos aleatorios
+  - tv
 date: 2009-06-13 09:57:47
 ---
 

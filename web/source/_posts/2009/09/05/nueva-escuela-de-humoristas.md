@@ -3,9 +3,9 @@ title: Nueva escuela de humoristas
 id: '1736'
 author: neverbot
 tags:
-  - Blog
-  - Cine
-  - Humor
+  - blog
+  - cine
+  - humor
 date: 2009-09-05 20:49:03
 ---
 

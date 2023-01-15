@@ -3,7 +3,7 @@ title: ephPod
 id: '693'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2008-02-04 10:51:12
 ---
 

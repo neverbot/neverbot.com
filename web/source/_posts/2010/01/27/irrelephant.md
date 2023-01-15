@@ -3,7 +3,7 @@ title: Irrelephant
 id: '2294'
 author: neverbot
 tags:
-  - Humor
+  - humor
 date: 2010-01-27 20:57:48
 ---
 

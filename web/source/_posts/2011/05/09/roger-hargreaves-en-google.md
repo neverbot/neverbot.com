@@ -3,8 +3,8 @@ title: Roger Hargreaves en Google
 id: '3046'
 author: neverbot
 tags:
-  - Ilustración
-  - Internet
+  - ilustración
+  - internet
 date: 2011-05-09 10:50:02
 ---
 

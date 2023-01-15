@@ -3,8 +3,8 @@ title: Pensamientos sobre Java
 id: '713'
 author: neverbot
 tags:
-  - Informática
-  - Pensamientos aleatorios
+  - informática
+  - pensamientos aleatorios
 date: 2008-02-20 10:53:37
 ---
 

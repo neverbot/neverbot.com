@@ -3,8 +3,8 @@ title: Es una forma de decirlo
 id: '684'
 author: neverbot
 tags:
-  - Libros
-  - Pensamientos aleatorios
+  - libros
+  - pensamientos aleatorios
 date: 2008-01-20 21:06:48
 ---
 

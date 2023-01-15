@@ -3,8 +3,8 @@ title: Más motivacionales no-motivacionales
 id: '2077'
 author: neverbot
 tags:
-  - Fotografía
-  - Humor
+  - fotografía
+  - humor
 date: 2009-11-12 09:55:04
 ---
 

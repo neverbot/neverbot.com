@@ -3,7 +3,7 @@ title: Empecemos por el principio
 id: '35'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-08-12 17:57:49
 ---
 

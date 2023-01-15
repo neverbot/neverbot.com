@@ -3,7 +3,7 @@ title: Cine fantástico, no me robes el final, por favor
 id: '5552'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2012-11-23 15:22:17
 ---
 

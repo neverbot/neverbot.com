@@ -3,7 +3,7 @@ title: El sentido de la vida
 id: '179'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2006-11-05 16:42:11
 ---
 

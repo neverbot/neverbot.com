@@ -3,8 +3,8 @@ title: Eres tan feo...
 id: '399'
 author: neverbot
 tags:
-  - Blog
-  - Humor
+  - blog
+  - humor
 date: 2007-03-16 16:58:41
 ---
 

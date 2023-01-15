@@ -3,8 +3,8 @@ title: 'Recomendación del lunes: Thai Gardens'
 id: '500'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2007-08-06 15:35:22
 ---
 

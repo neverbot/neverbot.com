@@ -3,7 +3,7 @@ title: ¿Conversación?
 id: '2672'
 author: neverbot
 tags:
-  - Internet
+  - internet
   - Opinión
 date: 2010-08-31 17:26:20
 ---

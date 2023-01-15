@@ -3,8 +3,8 @@ title: Bloc de notas de Google
 id: '520'
 author: neverbot
 tags:
-  - Informática
-  - Internet
+  - informática
+  - internet
 date: 2007-09-05 16:08:00
 ---
 

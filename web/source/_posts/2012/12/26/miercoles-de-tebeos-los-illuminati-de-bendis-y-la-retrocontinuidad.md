@@ -3,7 +3,7 @@ title: 'Miércoles de tebeos: Los Illuminati de Bendis y la retrocontinuidad'
 id: '5742'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2012-12-26 14:36:37
 ---
 

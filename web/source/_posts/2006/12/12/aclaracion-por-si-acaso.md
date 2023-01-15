@@ -3,9 +3,9 @@ title: Aclaración (por si acaso)
 id: '273'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
-  - Neverbot
+  - blog
+  - mundo real™
+  - neverbot
 date: 2006-12-12 18:42:01
 ---
 

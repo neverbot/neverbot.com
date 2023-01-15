@@ -3,7 +3,7 @@ title: Twitter died
 id: '2466'
 author: neverbot
 tags:
-  - Internet
+  - internet
 date: 2010-03-14 17:46:57
 ---
 

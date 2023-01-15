@@ -3,7 +3,7 @@ title: Demostraciones matemáticas
 id: '602'
 author: neverbot
 tags:
-  - Blog
+  - blog
 date: 2007-11-28 11:53:36
 ---
 

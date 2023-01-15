@@ -3,8 +3,8 @@ title: Un turista más
 id: '950'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2008-09-12 08:36:50
 ---
 

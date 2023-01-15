@@ -3,8 +3,8 @@ title: El poder de internet
 id: '503'
 author: neverbot
 tags:
-  - Miniblog
-  - Música
+  - miniblog
+  - música
 date: 2007-08-07 11:19:49
 ---
 

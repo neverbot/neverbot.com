@@ -3,7 +3,7 @@ title: Te estoy oyendo pensar
 id: '735'
 author: neverbot
 tags:
-  - Al blog que vas
+  - al blog que vas
 date: 2008-03-03 22:34:48
 ---
 

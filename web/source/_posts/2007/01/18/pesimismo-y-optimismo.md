@@ -3,8 +3,8 @@ title: Pesimismo y optimismo
 id: '334'
 author: neverbot
 tags:
-  - Humor
-  - Pensamientos aleatorios
+  - humor
+  - pensamientos aleatorios
 date: 2007-01-18 14:29:02
 ---
 

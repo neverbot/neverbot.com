@@ -3,7 +3,7 @@ title: Planeando algo para el sábado
 id: '714'
 author: neverbot
 tags:
-  - Al blog que vas
+  - al blog que vas
 date: 2008-02-20 12:04:22
 ---
 

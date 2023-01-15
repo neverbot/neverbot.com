@@ -3,9 +3,9 @@ title: Estupideces que nunca leeréis en otro blog (V)
 id: '847'
 author: neverbot
 tags:
-  - Internet
-  - Miniblog
-  - Neverbot
+  - internet
+  - miniblog
+  - neverbot
 date: 2008-07-17 13:30:48
 ---
 

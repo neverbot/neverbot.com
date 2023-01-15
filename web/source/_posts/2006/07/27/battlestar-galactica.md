@@ -3,7 +3,7 @@ title: Battlestar Galactica
 id: '11'
 author: neverbot
 tags:
-  - Tv
+  - tv
 date: 2006-07-27 20:19:34
 ---
 

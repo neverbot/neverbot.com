@@ -3,7 +3,7 @@ title: 'Clásicos de ayer y hoy: Evolution of dance'
 id: '696'
 author: neverbot
 tags:
-  - Clásicos de Internet
+  - clásicos de internet
 date: 2008-02-05 21:29:15
 video: dMH0bHeiRNg
 ---

@@ -3,7 +3,7 @@ title: 'Se veía venir: Resumen de la semana 11/2009'
 id: '1316'
 author: neverbot
 tags:
-  - Resúmenes
+  - resúmenes
 date: 2009-03-16 11:34:47
 ---
 

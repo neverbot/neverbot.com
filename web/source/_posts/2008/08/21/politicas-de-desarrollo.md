@@ -3,7 +3,7 @@ title: Políticas de desarrollo
 id: '891'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2008-08-21 18:26:21
 ---
 

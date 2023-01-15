@@ -3,8 +3,8 @@ title: ¿Obama?
 id: '1923'
 author: neverbot
 tags:
-  - Blog
-  - Mundo Real™
+  - blog
+  - mundo real™
 date: 2009-10-09 12:28:40
 ---
 

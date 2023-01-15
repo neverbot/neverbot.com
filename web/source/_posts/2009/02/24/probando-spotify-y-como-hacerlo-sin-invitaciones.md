@@ -3,8 +3,8 @@ title: Probando Spotify (y cómo hacerlo sin invitaciones)
 id: '1230'
 author: neverbot
 tags:
-  - Internet
-  - Música
+  - internet
+  - música
 date: 2009-02-24 18:00:03
 ---
 

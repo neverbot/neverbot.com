@@ -3,7 +3,7 @@ title: Sabios consejos de Chrome
 id: '5983'
 author: neverbot
 tags:
-  - Informática
+  - informática
 date: 2013-03-06 19:55:40
 ---
 

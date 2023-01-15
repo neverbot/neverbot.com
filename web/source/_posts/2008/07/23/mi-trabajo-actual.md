@@ -3,8 +3,8 @@ title: Mi trabajo actual
 id: '855'
 author: neverbot
 tags:
-  - Internet
-  - Tebeos
+  - internet
+  - tebeos
 date: 2008-07-23 11:42:28
 ---
 

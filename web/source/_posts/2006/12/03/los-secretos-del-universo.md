@@ -3,10 +3,10 @@ title: Los secretos del universo
 id: '261'
 author: neverbot
 tags:
-  - Cine
-  - Pensamientos aleatorios
-  - Tebeos
-  - Tv
+  - cine
+  - pensamientos aleatorios
+  - tebeos
+  - tv
 date: 2006-12-03 18:46:33
 ---
 

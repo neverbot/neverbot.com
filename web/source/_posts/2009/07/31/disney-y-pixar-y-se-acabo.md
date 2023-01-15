@@ -3,7 +3,7 @@ title: Disney y Pixar... y se acabó
 id: '1502'
 author: neverbot
 tags:
-  - Cine
+  - cine
 date: 2009-07-31 15:02:56
 ---
 

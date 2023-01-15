@@ -3,10 +3,10 @@ title: 8-bits
 id: '2327'
 author: neverbot
 tags:
-  - Ilustración
-  - Informática
-  - Tebeos
-  - Tv
+  - ilustración
+  - informática
+  - tebeos
+  - tv
 date: 2010-02-07 17:34:57
 ---
 

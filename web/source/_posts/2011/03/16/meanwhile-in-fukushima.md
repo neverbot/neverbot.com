@@ -3,8 +3,8 @@ title: Meanwhile, in Fukushima
 id: '2933'
 author: neverbot
 tags:
-  - Humor
-  - Mundo Real™
+  - humor
+  - mundo real™
 date: 2011-03-16 14:26:29
 ---
 

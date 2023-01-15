@@ -3,7 +3,7 @@ title: Tormenta de verano
 id: '69'
 author: neverbot
 tags:
-  - Fotografía
+  - fotografía
 date: 2006-09-06 19:25:48
 ---
 

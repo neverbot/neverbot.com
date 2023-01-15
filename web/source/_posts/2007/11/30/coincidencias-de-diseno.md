@@ -3,9 +3,9 @@ title: Coincidencias de diseño
 id: '607'
 author: neverbot
 tags:
-  - Internet
-  - Miniblog
-  - Neverbot
+  - internet
+  - miniblog
+  - neverbot
 date: 2007-11-30 10:15:08
 ---
 

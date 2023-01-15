@@ -3,7 +3,7 @@ title: Terry & Rachel Dodson
 id: '64'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2006-09-04 14:21:18
 ---
 

@@ -3,7 +3,7 @@ title: 'Recomendación del lunes: ¿Naruto?'
 id: '389'
 author: neverbot
 tags:
-  - Tebeos
+  - tebeos
 date: 2007-03-05 13:02:32
 ---
 

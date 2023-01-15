@@ -3,8 +3,8 @@ title: Sábado de cine en el lago
 id: '196'
 author: neverbot
 tags:
-  - Cine
-  - Reseñas
+  - cine
+  - reseñas
 date: 2006-11-11 20:53:30
 ---
 

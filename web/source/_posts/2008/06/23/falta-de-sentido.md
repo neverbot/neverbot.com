@@ -3,7 +3,7 @@ title: Falta de sentido
 id: '808'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2008-06-23 13:18:46
 ---
 

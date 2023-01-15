@@ -3,7 +3,7 @@ title: La supervivencia del individuo
 id: '123'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-10-15 16:41:20
 ---
 

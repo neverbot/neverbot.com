@@ -3,8 +3,8 @@ title: ¿PageRank? ¿Qué PageRank?
 id: '2001'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2009-11-04 10:41:15
 ---
 

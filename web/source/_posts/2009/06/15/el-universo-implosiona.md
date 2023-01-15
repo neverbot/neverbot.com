@@ -3,8 +3,8 @@ title: El universo implosiona
 id: '1426'
 author: neverbot
 tags:
-  - Cine
-  - Tv
+  - cine
+  - tv
 date: 2009-06-15 13:32:14
 ---
 

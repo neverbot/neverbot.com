@@ -3,8 +3,8 @@ title: Récords en el blog
 id: '1823'
 author: neverbot
 tags:
-  - Miniblog
-  - Neverbot
+  - miniblog
+  - neverbot
 date: 2009-09-17 15:00:57
 ---
 

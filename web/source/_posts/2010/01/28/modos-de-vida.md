@@ -3,9 +3,9 @@ title: Modos de vida
 id: '2304'
 author: neverbot
 tags:
-  - Fotografía
-  - Mundo Real™
-  - Pensamientos aleatorios
+  - fotografía
+  - mundo real™
+  - pensamientos aleatorios
 date: 2010-01-28 18:02:20
 ---
 

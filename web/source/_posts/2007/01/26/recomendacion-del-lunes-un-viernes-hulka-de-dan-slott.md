@@ -3,8 +3,8 @@ title: 'Recomendación del lunes (un viernes): Hulka, de Dan Slott'
 id: '351'
 author: neverbot
 tags:
-  - Reseñas
-  - Tebeos
+  - reseñas
+  - tebeos
 date: 2007-01-26 16:53:49
 ---
 

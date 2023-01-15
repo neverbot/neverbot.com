@@ -3,8 +3,8 @@ title: Mi propio parque de atracciones
 id: '2615'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tv
+  - pensamientos aleatorios
+  - tv
 date: 2010-08-09 11:16:34
 ---
 

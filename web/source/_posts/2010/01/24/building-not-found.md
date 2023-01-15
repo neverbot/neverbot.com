@@ -3,7 +3,7 @@ title: Building not found
 id: '2271'
 author: neverbot
 tags:
-  - Humor
+  - humor
 date: 2010-01-24 20:47:27
 ---
 

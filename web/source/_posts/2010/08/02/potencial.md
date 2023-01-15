@@ -3,8 +3,8 @@ title: Potencial
 id: '2600'
 author: neverbot
 tags:
-  - Fotografía
-  - Mundo Real™
+  - fotografía
+  - mundo real™
 date: 2010-08-02 12:56:36
 ---
 

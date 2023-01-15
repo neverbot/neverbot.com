@@ -3,8 +3,8 @@ title: El corazón de una mujer...
 id: '9'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
-  - Tv
+  - pensamientos aleatorios
+  - tv
 date: 2006-07-26 19:41:15
 ---
 

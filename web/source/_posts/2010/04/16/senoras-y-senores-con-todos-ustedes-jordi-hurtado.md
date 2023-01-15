@@ -3,9 +3,9 @@ title: Señoras y señores, con todos ustedes, Jordi Hurtado
 id: '2491'
 author: neverbot
 tags:
-  - Humor
-  - Mundo Real™
-  - Tv
+  - humor
+  - mundo real™
+  - tv
 date: 2010-04-16 10:22:55
 ---
 

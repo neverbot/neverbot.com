@@ -3,7 +3,7 @@ title: Profundidad de pensamiento
 id: '168'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2006-11-02 11:40:12
 ---
 

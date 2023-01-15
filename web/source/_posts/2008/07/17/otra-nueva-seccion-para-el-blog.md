@@ -3,9 +3,9 @@ title: Otra nueva sección para el blog
 id: '846'
 author: neverbot
 tags:
-  - Miniblog
-  - Mundo Real™
-  - Neverbot
+  - miniblog
+  - mundo real™
+  - neverbot
 date: 2008-07-17 13:02:24
 ---
 

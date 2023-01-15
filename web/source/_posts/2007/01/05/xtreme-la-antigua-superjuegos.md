@@ -3,8 +3,8 @@ title: Xtreme (la antigua Superjuegos)
 id: '306'
 author: neverbot
 tags:
-  - Reseñas
-  - Videojuegos
+  - reseñas
+  - videojuegos
 date: 2007-01-05 20:59:14
 ---
 

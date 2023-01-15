@@ -3,8 +3,8 @@ title: Formas de personalizar un blog
 id: '597'
 author: neverbot
 tags:
-  - Internet
-  - Miniblog
+  - internet
+  - miniblog
 date: 2007-11-27 12:13:42
 ---
 

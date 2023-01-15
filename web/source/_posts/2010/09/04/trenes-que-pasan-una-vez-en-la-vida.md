@@ -3,7 +3,7 @@ title: Trenes que pasan una vez en la vida
 id: '2688'
 author: neverbot
 tags:
-  - Pensamientos aleatorios
+  - pensamientos aleatorios
 date: 2010-09-04 00:53:57
 ---
 

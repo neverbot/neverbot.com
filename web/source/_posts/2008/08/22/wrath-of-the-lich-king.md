@@ -3,8 +3,8 @@ title: Wrath of the Lich King
 id: '896'
 author: neverbot
 tags:
-  - Miniblog
-  - Videojuegos
+  - miniblog
+  - videojuegos
 date: 2008-08-22 11:10:42
 ---
 
