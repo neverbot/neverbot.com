@@ -2,9 +2,10 @@
 title: Cosas que compartir esta semana (2ª de 2022)
 tags:
   - blog
-  - resúmenes
 author: neverbot
+date: 2023-01-15 15:09:49
 ---
+
 
 Al hilo del post que escribí acerca de [mi abandono de Twitter](./not-on-twitter-anymore/) (borrado de contenido, si nos ponemos precisos), unas cuentas lecturas interesantes que he ido encontrado de los últimos meses:
 

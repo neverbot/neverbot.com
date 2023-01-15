@@ -2,10 +2,10 @@
 title: Ad Free Blog
 tags:
   - blog
-  - internet
-  - pensamientos aleatorios
 author: neverbot
+date: 2023-01-15 15:09:01
 ---
+
 
 Rebuscando entre los entresijos más vintage de este y otros blogs, encontré una imagen que casi ni recordaba, pero que despertó en algún lugar profundo de mi cerebro una nostalgia por tiempos electrónicos mejores:
 
