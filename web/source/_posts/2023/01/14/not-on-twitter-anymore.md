@@ -3,6 +3,7 @@ title: Not on Twitter anymore
 tags:
   - blog
   - internet
+  - neverbot
 author: neverbot
 date: 2023-01-14 21:03:40
 ---
