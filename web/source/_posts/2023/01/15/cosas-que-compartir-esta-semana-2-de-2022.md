@@ -2,6 +2,7 @@
 title: Cosas que compartir esta semana (2ª de 2022)
 tags:
   - blog
+  - resúmenes
 author: neverbot
 date: 2023-01-15 15:09:49
 ---
