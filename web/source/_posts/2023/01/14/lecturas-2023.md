@@ -13,7 +13,7 @@ Durante el pasado año sucedió algo lamentable y ridículamente inesperado en m
 
 Empecé muchos, tengo medio docena a medio leer, otra media docena empezados del año anterior en los que he ido avanzando algunos capítulos aquí y allá... pero 2022 fue un año muy complejo a todos los niveles, en el que la vida personal y profesional me tuvo atrapado hasta el punto de no encontrar apenas ratos sueltos  para dedicárselos a unas páginas, y yéndome a dormir casi cada día derrotado de cansancio, sin ser capaz ni de leer antes de caer dormido. Leí mucho tebeo, pero ese no es el tema.
 
-Es necesario arreglar esto durante el año 2023 y todos los próximos, y remotar el buen hábito de la lectura.
+Es necesario arreglar esto durante el año 2023 y todos los próximos, y remontar el buen hábito de la lectura.
 
 ### Enero
 
