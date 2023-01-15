@@ -36,6 +36,6 @@ Al hilo del post que escribí acerca de [mi abandono de Twitter](./not-on-twitte
   
   Ya en tiempos modernos, pseudo-historiadores locuelos han inventado un Imperio perdido que es el *verdadero nombre de Rusia*, con (espera que aquí viene lo bueno) edificios en todo el mundo que son vestigios de este gran imperio. En las Guerras Mundiales Tartaria fue destruida y "escondida", deshaciéndonos de la mayor parte de los restos. Por alguna razón hay gente que esto se lo cree, y lo más extraño es que a mí ya ni me sorprende.
 
-  En la foto, el antiguo [Edificio Singer de Nueva York](https://en.wikipedia.org/wiki/Singer_Building) (ya demolido), que claramente era una prueba de la existencia del Imperio de Tartaria.
+  En la foto, el antiguo [Edificio Singer de Nueva York](https://en.wikipedia.org/wiki/Singer_Building) (ya demolido), que *claramente* era una prueba de la existencia del Imperio de Tartaria.
   
   Fantástico [artículo en Never Was Magazine](https://neverwasmag.com/2021/10/lost-empire-of-tartaria/), y [otro en Bloomberg](https://www.bloomberg.com/news/features/2021-04-27/inside-architecture-s-wildest-conspiracy-theory). 
