@@ -15,7 +15,6 @@
   "dependencies": {
     "hexo": "^6.3.0",
     "hexo-asset-link": "^2.2.1",
-    "hexo-butterfly-charts": "^1.1.3",
     "hexo-fontawesome": "^2.3.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
@@ -27,6 +26,7 @@
     "hexo-renderer-markdown": "^1.6.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
+    "hexo-statistics-charts": "^3.3.1",
     "hexo-tag-instagram": "^1.1.0",
     "hexo-theme-landscape": "^0.0.3"
   }
