@@ -30,7 +30,7 @@ Al hilo del post que escribí acerca de [mi abandono de Twitter](./not-on-twitte
   
   Más fáciles de ver (y con más imágenes) [en DjFood](https://www.djfood.org/fantasy-jodorowsky-tron-visualisations-by-johnny-darrell/).
 
-- La teoría de la conspiración chachi de esta semana es: **El Imperio perdido de Tartaria**. [Tartaria](https://en.wikipedia.org/w/index.php?title=Tartary) era el nombre con el que se llamaba entre los siglos XIII y XVIII (*año arriba, año abajo*) a ciertas regiones del Asia central (de ahí "los tártaros"), que en el siglo XIX fue cayendo en desuso conforme la cartografía disponible en Europa era más fiable.
+- La teoría de la conspiración chachi de esta semana es: **El Imperio perdido de Tartaria**. [Tartaria](https://en.wikipedia.org/wiki/Tartary) era el nombre con el que se llamaba entre los siglos XIII y XVIII (*año arriba, año abajo*) a ciertas regiones del Asia central (de ahí "los tártaros"), que en el siglo XIX fue cayendo en desuso conforme la cartografía disponible en Europa era más fiable.
 
   ![Singer-Building-New-York](./cosas-que-compartir-esta-semana-2-de-2022/Singer-Building-New-York.jpg){.right}
   
