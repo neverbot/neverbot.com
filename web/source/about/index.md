@@ -6,10 +6,11 @@ tags:
   - neverbot
 date: 2006-07-26 16:03:04
 ---
+## ¿Qué es esto?
 
 Esta es la página personal de Iván Alonso. Si nos conocemos quizá haya sido con el nombre de **Folken** ([muds](http://en.wikipedia.org/wiki/MUD) varios, [cYbErDaRk.NeT](http://www.cyberdark.net/index2.php)), **Ddraencara** ([XBox Live](https://live.xbox.com/es-ES/Profile?pp=0&GamerTag=ddraencara) o [World of Warcraft](http://eu.battle.net/wow/en/character/shendralar/Ddraencara/) por ejemplo) o, desde hace ya tiempo, **neverbot**, el _nick_ más habitual que utilizo.
 
-Así puedes encontrarme en:
+## Estoy en
 
 *   [neverbot.com](https://neverbot.com), obviamente.
 *   [Tumblr](http://neverbot.tumblr.com/)
@@ -31,3 +32,10 @@ Muchos lugares y muy poco tiempo...
 [_Peter Steiner en The New Yorker, 5 de julio de 1993_](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog)
 
 Si quieres ponerte en contacto conmigo para cualquier tema, déjame una mención en [@neverbot en Twitter](http://twitter.com/neverbot).
+
+## Estadísticas
+
+<div id="posts-calendar" class="js-pjax"></div>
+<div id="posts-chart" class="js-pjax"></div>
+<!-- "data-length" = how many tags to show, default 10 -->
+<div id="tags-chart" data-length="10" class="js-pjax"></div>
