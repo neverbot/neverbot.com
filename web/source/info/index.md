@@ -16,7 +16,7 @@ Así puedes encontrarme en:
 *   [GitHub](https://github.com/neverbot)
 *   [Instagram](http://instagram.com/neverbot)
 *   [Letterboxd](http://letterboxd.com/neverbot/)
-*   ~~[Twitter](http://twitter.com/neverbot)~~. [Ya no uso Twitter](./not-on-twitter-anymore), aunque aún mantengo la cuenta.
+*   ~~[Twitter](http://twitter.com/neverbot)~~. [Ya no uso Twitter](https://neverbot.com/not-on-twitter-anymore), aunque aún mantengo la cuenta.
 *   [Flickr](http://www.flickr.com/photos/neverbot/). No lo utilizo desde 2016, aunque aún mantengo la cuenta.
 
 y en muchos otros lugares. Con mi nombre real estoy en:
