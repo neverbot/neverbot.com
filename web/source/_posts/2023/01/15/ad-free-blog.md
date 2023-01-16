@@ -2,6 +2,7 @@
 title: Ad Free Blog
 tags:
   - blog
+  - internet
 author: neverbot
 date: 2023-01-15 15:09:01
 ---
