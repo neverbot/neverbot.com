@@ -1,7 +1,7 @@
 ---
 title: Today's results
 tags:
-  - blog
+  - pensamientos aleatorios
 author: neverbot
 date: 2022-09-29 19:14:57
 ---

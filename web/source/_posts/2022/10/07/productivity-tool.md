@@ -1,7 +1,7 @@
 ---
 title: Productivity tool
 tags:
-  - blog
+  - pensamientos aleatorios
 author: neverbot
 date: 2022-10-07 01:48:15
 ---

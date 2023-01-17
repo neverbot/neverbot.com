@@ -1,7 +1,7 @@
 ---
 title: You will never find time
 tags:
-  - blog
+  - pensamientos aleatorios
 author: neverbot
 date: 2022-09-27 21:01:16
 ---

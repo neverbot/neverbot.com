@@ -1,7 +1,6 @@
 ---
 title: The Tale of Jenny & Screech
 tags:
-  - blog
   - música
 author: neverbot
 date: 2023-01-16 14:26:56

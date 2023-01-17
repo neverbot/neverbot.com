@@ -1,9 +1,9 @@
 ---
 title: I hate humans!
 tags:
-  - blog
   - anime
   - cine
+  - pensamientos aleatorios
 author: neverbot
 date: 2022-11-18 16:23:53
 ---

@@ -1,7 +1,8 @@
 ---
 title: You are in love with your computer
 tags:
-  - blog
+  - pensamientos aleatorios
+  - internet
 author: neverbot
 date: 2022-10-23 20:16:57
 ---

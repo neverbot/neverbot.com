@@ -1,7 +1,6 @@
 ---
 title: Video Girl Ai
 tags:
-  - blog
   - anime
   - manga
 author: neverbot

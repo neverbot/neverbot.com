@@ -1,7 +1,7 @@
 ---
 title: Adult content
 tags:
-  - blog
+  - internet
 author: neverbot
 date: 2022-10-17 12:29:55
 ---
