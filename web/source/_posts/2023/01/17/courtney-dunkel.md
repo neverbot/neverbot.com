@@ -1,9 +1,11 @@
 ---
 title: Courtney Dunkel
 tags:
-  - tebeos
+  - blog
 author: neverbot
+date: 2023-01-17 12:04:04
 ---
+
 
 ![Image](./courtney-dunkel/FmkX4LYWQAIn48c.jpeg)
 
