@@ -29,7 +29,7 @@ Muchos lugares y muy poco tiempo...
 
 ![dog-on-the-internet-by-peter-steiner](./index/dog-on-the-internet-by-peter-steiner.jpg)
 
-[_Peter Steiner en The New Yorker, 5 de julio de 1993_](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog)
+[_Peter Steiner en The New Yorker, 5 de julio de 1993_](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog).{.center}
 
 Si quieres ponerte en contacto conmigo para cualquier tema, déjame una mención en [@neverbot en Twitter](http://twitter.com/neverbot).
 
