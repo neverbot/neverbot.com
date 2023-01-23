@@ -1,5 +1,5 @@
 ---
-title: Cosas que compartir esta semana (2ª de 2022)
+title: Cosas que compartir esta semana (2ª de 2023)
 tags:
   - blog
   - resúmenes
@@ -12,7 +12,7 @@ Al hilo del post que escribí acerca de [mi abandono de Twitter](./not-on-twitte
 
 - En [Daring Fireball](https://daringfireball.net), **John Gruber** [hablaba en Diciembre](https://daringfireball.net/2022/12/i_wish_i_could_tell_you_this_is_not_all_about_twitter) de cómo el Twitter de **Elon Musk** tomaba decisiones erráticas, como cerrar [Revue](https://www.getrevue.co/) tras comprarla menos de dos años antes, casualmente un día después de que **Jack Dorsey** (co-creador y ex-CEO de Twitter) [comenzase](https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112) allí una *newsletter* hablando de las cosas que habían funcionado mal. La forma en la que se empezaron a eliminar todas las cuentas que incluyeran enlaces a **Mastodon** fue la guinda a un mes interesante.
 
-  ![this_is_fine](./cosas-que-compartir-esta-semana-2-de-2022/this_is_fine.png)
+  ![this_is_fine](./cosas-que-compartir-esta-semana-2-de-2023/this_is_fine.png)
 
   *[Imagen de IconFactory](https://blog.iconfactory.com/2023/01/state-of-the-twitterverse/)*.{.center}
 
@@ -26,13 +26,13 @@ Al hilo del post que escribí acerca de [mi abandono de Twitter](./not-on-twitte
 
 - Imágenes creadas por **Johnny Darrell** con inteligencia artificial de una película que nunca existió: El **Tron** de **Jodorowski** de 1976, [en el New York Times](https://www.nytimes.com/interactive/2023/01/13/opinion/jodorowsky-dune-ai-tron.html).
   
-  ![Jodo-Tron-1-6](./cosas-que-compartir-esta-semana-2-de-2022/Jodo-Tron-1-6.jpg)
+  ![Jodo-Tron-1-6](./cosas-que-compartir-esta-semana-2-de-2023/Jodo-Tron-1-6.jpg)
   
   Más fáciles de ver (y con más imágenes) [en DjFood](https://www.djfood.org/fantasy-jodorowsky-tron-visualisations-by-johnny-darrell/).
 
 - La teoría de la conspiración chachi de esta semana es: **El Imperio perdido de Tartaria**. [Tartaria](https://en.wikipedia.org/wiki/Tartary) era el nombre con el que se llamaba entre los siglos XIII y XVIII (*año arriba, año abajo*) a ciertas regiones del Asia central (de ahí "los tártaros"), que en el siglo XIX fue cayendo en desuso conforme la cartografía disponible en Europa era más fiable.
 
-  ![Singer-Building-New-York](./cosas-que-compartir-esta-semana-2-de-2022/Singer-Building-New-York.jpg){.right}
+  ![Singer-Building-New-York](./cosas-que-compartir-esta-semana-2-de-2023/Singer-Building-New-York.jpg){.right}
   
   Ya en tiempos modernos, pseudo-historiadores locuelos han inventado un Imperio perdido que es el *verdadero nombre de Rusia*, con (espera que aquí viene lo bueno) edificios en todo el mundo que son vestigios de este gran imperio. En las Guerras Mundiales Tartaria fue destruida y "escondida", deshaciéndonos de la mayor parte de los restos. Por alguna razón hay gente que esto se lo cree, y lo más extraño es que a mí ya ni me sorprende.
 
