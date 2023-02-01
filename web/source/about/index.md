@@ -37,5 +37,4 @@ Si quieres ponerte en contacto conmigo para cualquier tema, déjame una mención
 
 <div id="posts-calendar" class="js-pjax"></div>
 <div id="posts-chart" class="js-pjax"></div>
-<!-- "data-length" = how many tags to show, default 10 -->
 <div id="tags-chart" data-length="10" class="js-pjax"></div>
