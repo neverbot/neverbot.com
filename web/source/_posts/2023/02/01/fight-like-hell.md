@@ -1,7 +1,7 @@
 ---
 title: Fight like hell
 tags:
-  - blog
+  - pensamientos aleatorios
 author: neverbot
 date: 2023-02-01 12:46:11
 ---
