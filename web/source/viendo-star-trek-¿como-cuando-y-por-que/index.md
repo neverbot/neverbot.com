@@ -1,5 +1,9 @@
 ---
 title: Viendo Star Trek, ¿Cómo, cuándo y por qué?
+tags:
+  - tv
+  - star trek
+author: neverbot
 date: 2023-02-01 11:34:27
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: 'Star Trek: el episodio piloto perdido'
 tags:
-  - blog
+  - tv
+  - star trek
 author: neverbot
 date: 2023-02-01 19:23:42
 ---
