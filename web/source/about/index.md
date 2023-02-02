@@ -6,24 +6,25 @@ tags:
   - neverbot
 date: 2006-07-26 16:03:04
 ---
+
 ## ¿Qué es esto?
 
 Esta es la página personal de Iván Alonso. Si nos conocemos quizá haya sido con el nombre de **Folken** ([muds](http://en.wikipedia.org/wiki/MUD) varios, [cYbErDaRk.NeT](http://www.cyberdark.net/index2.php)), **Ddraencara** ([XBox Live](https://live.xbox.com/es-ES/Profile?pp=0&GamerTag=ddraencara) o [World of Warcraft](http://eu.battle.net/wow/en/character/shendralar/Ddraencara/) por ejemplo) o, desde hace ya tiempo, **neverbot**, el _nick_ más habitual que utilizo.
 
-## Estoy en
+## Estoy en...
 
-*   [neverbot.com](https://neverbot.com), obviamente.
-*   [Tumblr](http://neverbot.tumblr.com/)
-*   [GitHub](https://github.com/neverbot)
-*   [Instagram](http://instagram.com/neverbot)
-*   [Letterboxd](http://letterboxd.com/neverbot/)
-*   ~~[Twitter](http://twitter.com/neverbot)~~. [Ya no uso Twitter](https://neverbot.com/not-on-twitter-anymore), aunque aún mantengo la cuenta.
-*   [Flickr](http://www.flickr.com/photos/neverbot/). No lo utilizo desde 2016, aunque aún mantengo la cuenta.
+- [neverbot.com](https://neverbot.com), obviamente.
+- [Tumblr](http://neverbot.tumblr.com/)
+- [GitHub](https://github.com/neverbot)
+- [Instagram](http://instagram.com/neverbot)
+- [Letterboxd](http://letterboxd.com/neverbot/)
+- ~~[Twitter](http://twitter.com/neverbot)~~. [Ya no uso Twitter](https://neverbot.com/not-on-twitter-anymore), aunque aún mantengo la cuenta.
+- [Flickr](http://www.flickr.com/photos/neverbot/). No lo utilizo desde 2016, aunque aún mantengo la cuenta.
 
 y en muchos otros lugares. Con mi nombre real estoy en:
 
-*   [LinkedIn](http://www.linkedin.com/in/ivanalonso) (red profesional)
-*   ~~Facebook (no profesional)~~. [Ya no uso Facebook](https://www.instagram.com/p/_FU_gySxMi/).
+- [LinkedIn](http://www.linkedin.com/in/ivanalonso) (red profesional)
+- ~~Facebook (no profesional)~~. [Ya no uso Facebook](https://www.instagram.com/p/_FU_gySxMi/).
 
 Muchos lugares y muy poco tiempo...
 
@@ -31,7 +32,7 @@ Muchos lugares y muy poco tiempo...
 
 [_Peter Steiner en The New Yorker, 5 de julio de 1993_](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog).{.center}
 
-Si quieres ponerte en contacto conmigo para cualquier tema, déjame una mención en [@neverbot en Twitter](http://twitter.com/neverbot).
+Si quieres ponerte en contacto conmigo para cualquier tema, déjame una mención en [Twitter a @neverbot](http://twitter.com/neverbot).
 
 ## Estadísticas
 
