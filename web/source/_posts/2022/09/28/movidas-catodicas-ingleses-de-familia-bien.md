@@ -17,7 +17,7 @@ Cuando consigues ignorar todo lo que te está diciendo tu cerebro sobre este 0,1
 
 ### [Bridgerton](https://www.themoviedb.org/tv/91239-bridgerton) (*Los Bridgerton*, *Netflix*, 2020, 2 temporadas y contando)
 
-![Screenshot 2022-09-27 at 19.22.52](./movidas-catodicas-ingleses-de-familia-bien/19.22.52.png)
+![Screenshot 2022-09-27 at 19.22.52](./movidas-catodicas-ingleses-de-familia-bien/19.22.52.jpg)
 
 Se haría imposible no mencionar el elefante en la habitación del ruido mediático que hizo el casting *United Colors of Benetton*, pero si a las lectoras de las novelas originales les dio igual (o no hicieron el ruido suficiente, porque yo no me enteré), no me va a importar a mí. Tampoco negaré que si la serie fuese un drama histórico *serio*, me chocaría. Pero tiene tanto de comedia involuntaria a veces que es difícil darle importancia.
 
@@ -25,7 +25,7 @@ Y estas cosas del romanticismo del constante "*ay, qué dirán*" se hacen divert
 
 ### [The Crown](https://www.themoviedb.org/tv/65494-the-crown) (*Netflix*, 2016, 4 temporadas)
 
-![Screenshot 2022-09-27 at 19.25.50](./movidas-catodicas-ingleses-de-familia-bien/19.25.50.png)
+![Screenshot 2022-09-27 at 19.25.50](./movidas-catodicas-ingleses-de-familia-bien/19.25.50.jpg)
 
 Es posible que no os hayáis enterado, dada la poca cobertura mediática que tuvo, pero algo sucedió hace poco acerca del fallecimiento de una señora en una isla. En *Netflix* la serie que produjeron hace unos años a modo de biografía dramatizada ha debido ver nuevos picos de audiencia, porque ahí hemos caído nosotros engañados, para echarle un vistazo. Me imagino la sala de control del señor *Netflix* con un medidor de aguja que de repente sube, como una central eléctrica, y así se enteran de que pasan cosas.
 
@@ -33,7 +33,7 @@ Todavía voy por la primera, pero creo que lo que vaya a ir sucediendo no van a 
 
 ### [Downton Abbey](https://www.themoviedb.org/tv/33907-downton-abbey) (*ITV*, 2020, 6 temporadas y 2 películas)
 
-![Screenshot 2022-09-27 at 19.27.01](./movidas-catodicas-ingleses-de-familia-bien/19.27.01.png)
+![Screenshot 2022-09-27 at 19.27.01](./movidas-catodicas-ingleses-de-familia-bien/19.27.01.jpg)
 
 Y llegamos a la madre de todas estas series, una de esas cosas bonitas de lugares comunes y gente afable donde nunca pasa nada malo y puedes refugiarte poniendo un episodio más para sentirte como en casa, ¿verdad? ¿VERDAD?
 

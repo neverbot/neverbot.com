@@ -12,7 +12,7 @@ A finales del cretácico, cuando aún escribía en este blog, solía agrupar los
 
 ### [Reacher](https://www.themoviedb.org/tv/108978-jack-reacher) (*Amazon Prime Video*, 2022)
 
-![15.06.38](./movidas-catodicas-testosterona/15.06.38.png)
+![15.06.38](./movidas-catodicas-testosterona/15.06.38.jpg)
 
 Si vamos a jugar a decir la verdad, los párrafos escritos sobre estas series son intercambiables, y esa es su virtud y su desgracia. Son odas al macho alfa moderno, puestas al día de los *James Bond* clásicos actualizados en sus escenas de acción, ligeramente rebajados a héroes de clase obrera con vaqueros en lugar de trajes elegantes y cervezas antes que [martinis mezclados, no agitados](https://www.youtube.com/watch?v=6SEtPBcsbF4).
 
@@ -22,7 +22,7 @@ Por lo demás, pues... si es que ya ni me acuerdo de qué iba esto. Jack llega a
 
 ### [The Terminal List](https://www.themoviedb.org/tv/120911-the-terminal-list) (*La lista terminal*, *Amazon Prime Video*, 2022)
 
-![15.37.16](./movidas-catodicas-testosterona/15.37.16.png)
+![15.37.16](./movidas-catodicas-testosterona/15.37.16.jpg)
 
 Pues lo mismo. Pero con un SEAL en lugar de un policía militar. Un poquito más de espionaje internacional, una pizca de ex-compañeros de equipo y un aderezo con más tiros y explosiones. Ha recibido peores críticas, y preveo menos posibilidades de que tenga una segunda temporada, pero ambas series tienen finales perfectamente aceptables si no llegan a producirse más episodios.
 

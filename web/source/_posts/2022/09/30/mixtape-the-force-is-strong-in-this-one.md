@@ -13,7 +13,7 @@ Sin embargo, una gran cantidad de lo que consumimos es en un formato digital, ar
 
 Por ejemplo, este disco de septiembre:
 
-![cover](./mixtape-the-force-is-strong-in-this-one/cover.png)
+![cover](./mixtape-the-force-is-strong-in-this-one/cover.jpg)
 
 01. [Dua Lipa - Levitating](https://www.youtube.com/watch?v=TUVcZfQe-Kw)
 02. [Taio Cruz - Dynamite](https://www.youtube.com/watch?v=Vysgv7qVYTo)
