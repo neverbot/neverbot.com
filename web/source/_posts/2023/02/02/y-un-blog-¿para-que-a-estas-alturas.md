@@ -16,7 +16,7 @@ Hace poco leía que lo bueno que tenía la incipiente **Internet 2.0** de los bl
 
 ![image-20230201114506426](./y-un-blog-¿para-que-a-estas-alturas/image-20230201114506426.png)
 
-[Tendencias históricas del término Web 2.0](https://trends.google.com/trends/explore?date=all&q=web%202.0) según *Google Trends*.{.center}
+[Tendencias históricas del término Web 2.0](https://trends.google.com/trends/explore?date=all&q=web%202.0) según *Google Trends*. Este blog [empezó en el 2006](./hello-world/).{.center}
 
 A lo largo de los años he ido tomando notas de (algunas de) las películas que iba viendo, y últimamente he empezado a hacerlo con algunas series de televisión:
 
@@ -36,7 +36,7 @@ Por ejemplo, quise empezar a hacerlo con la página [Los Premios Hugo](./los-pre
 - Lectura de todas las [novelas premiadas con el Premio Hugo](./los-premios-hugo/).
 - Revisionado de [**Smallville**](https://thetvdb.com/series/smallville) siguiendo [el Podcast Talk Ville](https://www.youtube.com/@talkvillepodcast) que están haciendo **Michael Rosenbaum** y **Tom Welling** (acaba de empezar su revisionado la segunda temporada cuando escribo estas líneas, yo por ahora he visto unos pocos de la primera). Ver el capítulo y luego escuchar su *podcast* me parece la forma idónea de acometer esto.
 - He comenzado ya con la serie sobre el [revisionado de todo **Star Trek**](./viendo-star-trek-¿como-cuando-y-por-que/) (*estamos locos*) y el primer post que continúa el texto de la página, sobre [el primer episodio piloto de la serie](./star-trek-el-episodio-piloto-perdido/), perdido durante dos décadas.
-- En mi ánimo nostálgico por regresar a las cosas que me proporcionaron felicidad, también volví a comenzar [**Expediente-X**](https://thetvdb.com/series/the-x-files), y sigo con la fantasía recurrente de que volver a ver [**Perdidos**](https://thetvdb.com/series/lost) más de una década después de que terminase quizá fuese algo interesante que hacer. Me da miedo, pero serían dos temas interesantes sobre los que ir escribiendo posts conforme avanzase.
+- En mi ánimo nostálgico por regresar a las cosas que me proporcionaron felicidad, también volví a comenzar [**Expediente-X**](https://thetvdb.com/series/the-x-files), y sigo con la fantasía recurrente de que volver a ver [**Perdidos**](https://thetvdb.com/series/lost) más de una década después de que terminase quizá fuese algo interesante que hacer. Me da miedo, pero serían dos buenos temas sobre los que ir escribiendo posts conforme avanzase.
 - Veo bastante **Anime**, y creo que es algo de lo que apenas he hablado por aquí en alguna ocasión. Pero con tantas series tan parecidas unas a otras, tanto *Isekai*, desde el final de una temporada hasta el comienzo de la siguiente pasa tanto tiempo que empiezo a mezclar personajes y tramas, y quizá debería hacer lo mismo y dejar apuntados algunos resúmenes... porque he tenido que volver a empezar desde el principio [**Overlord**](https://thetvdb.com/series/overlord), [**Danmachi**](https://thetvdb.com/series/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon) o [**Re:Zero**](https://thetvdb.com/series/re-zero-starting-life-in-another-world) porque en mi mente todas son la misma serie.
 
 ¿Saldrá algo de todas estas ideas de "*voy a...*", "*voy a...*"? Pronto lo sabremos, en el mismo *bat-canal* a la misma *bat-hora* de siempre.
