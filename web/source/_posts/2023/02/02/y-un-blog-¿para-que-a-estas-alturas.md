@@ -25,7 +25,7 @@ A lo largo de los años he ido tomando notas de (algunas de) las películas que 
 
 Un buen ejercicio sería obligarme a escribir al menos unas líneas sobre todo lo que consumo relacionado con esas categorías que, para mi desgracia, es más de lo que me gustaría admitir.
 
-![img](./y-un-blog-¿para-que-a-estas-alturas/tumblr_nppbieNhhG1u8ln5ho1_1280.png){.center width=70%}
+![img](./y-un-blog-¿para-que-a-estas-alturas/tumblr_nppbieNhhG1u8ln5ho1_1280.jpg){.center width=70%}
 
 [🔗](https://neverbot.tumblr.com/post/155298911208) *No es la razón para escribir estas líneas, pero me ha hecho gracia*.{.center}
 
