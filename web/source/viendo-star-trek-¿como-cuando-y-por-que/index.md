@@ -72,11 +72,12 @@ Podemos verlas, tienen su diversión, pero no encajan en un visionado cronológi
 
 Pues una mezcla. Voy a empezar el visionado teniendo en cuenta la fecha de estreno (ya he empezado con **La Serie Original**), pero teniendo un ojo atento a la lista cronológica para saber lo que ocurre antes o después. ¿Por qué? Principalmente porque tampoco sé muy bien hasta donde voy a llegar o si voy a terminar el proyecto entero, pero tengo claro que sí quiero ver a la tripulación original en sus tres temporadas, así como las siete de **La Nueva Generación**, que es con lo que empecé yo como *Trekkie*. A partir de ahí, hasta donde nos lleve la imaginación.
 
-## Registro
+## Registro personal
 
-| Serie | Episodio | Fecha | Stardate | Episodio |
-| :---: | -------- | ----: | -------: | -------- |
-| TOS   | s00e01 | 2254 | - | [The Cage (primer piloto)](../star-trek-el-episodio-piloto-perdido/) |
+| Serie | Episodio | Fecha | Stardate | Título |
+| :---: | -------- | ----: | -------: | ------ |
+| TOS   | s00e01 | 30/1/2023 | 2254 / - | [The Cage (primer piloto)](../star-trek-el-episodio-piloto-perdido/) |
+| TOS   | s01e01 | 2/2/2023 | 2266 / 1513.1 | [The Man Trap](../star-trek-la-serie-original-primera-temporada/)|
 
 Leyenda:
 
@@ -92,3 +93,8 @@ Leyenda:
 - **PRO**: Prodigy.
 - **SNW**: Strange New Worlds.
 - *Short Treks* y las películas no tienen una abreviatura concreta.
+
+## Enlaces de interés
+
+- [Memory Alpha](https://memory-alpha.fandom.com), la wiki específica sobre todo **Star Trek**.
+- En [tor.com](https://www.tor.com/) hicieron lo mismo: [Star Trek ReWatch](https://www.tor.com/series/star-trek-rewatch/).
