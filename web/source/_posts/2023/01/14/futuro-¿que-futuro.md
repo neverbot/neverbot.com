@@ -8,7 +8,7 @@ date: 2023-01-14 19:46:44
 
 ---
 
-![futuro-que-futuro](./futuro-¿que-futuro/futuro-que-futuro.jpg){.left}
+![futuro-que-futuro](./futuro-¿que-futuro/futuro-que-futuro.jpg){.left width=40%}
 
 **Futuro, ¿Qué futuro?**
 Santiago Niño-Becerra
