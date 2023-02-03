@@ -2,7 +2,7 @@
 title: 'Star Trek: La Serie Original, primera temporada'
 tags:
   - tv
-  - Star Trek
+  - star trek
 author: neverbot
 date: 2023-02-03 19:18:58
 ---
