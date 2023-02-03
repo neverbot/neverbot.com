@@ -7,7 +7,7 @@ author: neverbot
 date: 2023-01-14 19:31:24
 ---
 
-![making-time](./lecturas-2023/making-time.jpg){.right}
+![making-time](./lecturas-2023/making-time.jpg){.right width=40%}
 
 Durante el pasado año sucedió algo lamentable y ridículamente inesperado en mi vida adulta, o siquiera desde que tengo uso de razón, y es que creo que a lo largo de todo el año no terminé ningún libro. Reitero el "creo", porque ahora mismo no consigo recordar ningún libro concreto, así que podría estar equivocado. 
 

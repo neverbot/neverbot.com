@@ -32,7 +32,7 @@ Al hilo del post que escribí acerca de [mi abandono de Twitter](./not-on-twitte
 
 - La teoría de la conspiración chachi de esta semana es: **El Imperio perdido de Tartaria**. [Tartaria](https://en.wikipedia.org/wiki/Tartary) era el nombre con el que se llamaba entre los siglos XIII y XVIII (*año arriba, año abajo*) a ciertas regiones del Asia central (de ahí "los tártaros"), que en el siglo XIX fue cayendo en desuso conforme la cartografía disponible en Europa era más fiable.
 
-  ![Singer-Building-New-York](./cosas-que-compartir-esta-semana-2-de-2023/Singer-Building-New-York.jpg){.right}
+  ![Singer-Building-New-York](./cosas-que-compartir-esta-semana-2-de-2023/Singer-Building-New-York.jpg){.right width=40%}
   
   Ya en tiempos modernos, pseudo-historiadores locuelos han inventado un Imperio perdido que es el *verdadero nombre de Rusia*, con (espera que aquí viene lo bueno) edificios en todo el mundo que son vestigios de este gran imperio. En las Guerras Mundiales Tartaria fue destruida y "escondida", deshaciéndonos de la mayor parte de los restos. Por alguna razón hay gente que esto se lo cree, y lo más extraño es que a mí ya ni me sorprende.
 
