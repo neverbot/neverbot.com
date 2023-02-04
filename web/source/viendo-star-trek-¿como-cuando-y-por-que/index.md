@@ -77,7 +77,7 @@ Pues una mezcla. Voy a empezar el visionado teniendo en cuenta la fecha de estre
 | Serie | Episodio | Fecha | Stardate | Título |
 | :---: | -------- | ----: | -------: | ------ |
 | TOS   | s00e01 | 30/1/2023 | 2254 / - | [The Cage (primer piloto)](../star-trek-el-episodio-piloto-perdido/) |
-| TOS   | s01e01 | 2/2/2023 | 2266 / 1513.1 | [The Man Trap](../star-trek-la-serie-original-primera-temporada/)|
+| TOS   | s01e01 | 2/2/2023 | 2266 / 1513.1 | [The Man Trap](../star-trek-la-serie-original-primera-temporada/#the-man-trap-(s01e01))|
 
 Leyenda:
 
