@@ -98,3 +98,4 @@ Leyenda:
 
 - [Memory Alpha](https://memory-alpha.fandom.com), la wiki específica sobre todo **Star Trek**.
 - En [tor.com](https://www.tor.com/) hicieron lo mismo: [Star Trek ReWatch](https://www.tor.com/series/star-trek-rewatch/).
+- En el blog [Let's Watch Star Trek](https://www.letswatchstartrek.com) están en ello.
