@@ -8,7 +8,7 @@ date: 2023-01-15 15:09:49
 ---
 
 
-Al hilo del post que escribí acerca de [mi abandono de Twitter](./not-on-twitter-anymore/) (borrado de contenido, si nos ponemos precisos), unas cuentas lecturas interesantes que he ido encontrado de los últimos meses:
+Al hilo del post que escribí acerca de [mi abandono de Twitter](/not-on-twitter-anymore/) (borrado de contenido, si nos ponemos precisos), unas cuentas lecturas interesantes que he ido encontrado de los últimos meses:
 
 - En [Daring Fireball](https://daringfireball.net), **John Gruber** [hablaba en Diciembre](https://daringfireball.net/2022/12/i_wish_i_could_tell_you_this_is_not_all_about_twitter) de cómo el Twitter de **Elon Musk** tomaba decisiones erráticas, como cerrar [Revue](https://www.getrevue.co/) tras comprarla menos de dos años antes, casualmente un día después de que **Jack Dorsey** (co-creador y ex-CEO de Twitter) [comenzase](https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112) allí una *newsletter* hablando de las cosas que habían funcionado mal. La forma en la que se empezaron a eliminar todas las cuentas que incluyeran enlaces a **Mastodon** fue la guinda a un mes interesante.
 

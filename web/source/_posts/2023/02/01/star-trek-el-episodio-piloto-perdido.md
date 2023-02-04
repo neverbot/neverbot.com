@@ -7,7 +7,7 @@ author: neverbot
 date: 2023-02-01 19:23:42
 ---
 
-*Este post forma parte de una serie sobre el [revisionado completo de todo Star Trek](./viendo-star-trek-¿como-cuando-y-por-que/), 
+*Este post forma parte de una serie sobre el [revisionado completo de todo Star Trek](/viendo-star-trek-¿como-cuando-y-por-que/), 
 es recomendable empezar por ahí*.{.textright}
 
 ¿Por dónde comenzar? Por el principio. Si empezamos a ver **Star Trek** desde su origen tenemos que empezar por el primer episodio de la primera temporada de **La Serie Original**, ¿no? 

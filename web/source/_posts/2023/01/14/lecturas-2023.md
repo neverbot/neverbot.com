@@ -17,5 +17,5 @@ Es necesario arreglar esto durante el año 2023 y todos los próximos, y remonta
 
 ### Enero
 
-- [Futuro, ¿Qué futuro?](./futuro-¿que-futuro/) de Santiago Niño-Becerra.
+- [Futuro, ¿Qué futuro?](/futuro-¿que-futuro/) de Santiago Niño-Becerra.
 

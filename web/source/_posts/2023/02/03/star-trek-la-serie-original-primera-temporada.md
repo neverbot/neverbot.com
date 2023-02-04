@@ -7,7 +7,7 @@ author: neverbot
 date: 2023-02-03 19:18:58
 ---
 
-*Este post forma parte de una serie sobre el [revisionado completo de todo Star Trek](./viendo-star-trek-¿como-cuando-y-por-que/), 
+*Este post forma parte de una serie sobre el [revisionado completo de todo Star Trek](/viendo-star-trek-¿como-cuando-y-por-que/), 
 es recomendable empezar por ahí*.{.textright}
 
 Pues entramos en harina. Después de ver el piloto perdido no aprobado por la cadena, empezamos con la primera temporada propiamente dicha. *Spoilers ahead*, obviamente, pero que esto tiene ya casi 60 años desde que se emitió por primera vez.
