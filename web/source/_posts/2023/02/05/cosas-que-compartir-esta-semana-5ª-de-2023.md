@@ -1,7 +1,8 @@
 ---
 title: Cosas que compartir esta semana (5ª de 2023)
 tags:
-  - blog
+  - resúmenes
+  - internet
 author: neverbot
 date: 2023-02-05 21:37:00
 ---
