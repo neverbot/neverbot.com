@@ -3,6 +3,7 @@ title: 'Star Trek: el episodio piloto perdido'
 tags:
   - tv
   - star trek
+  - reseñas
 author: neverbot
 date: 2023-02-01 19:23:42
 ---

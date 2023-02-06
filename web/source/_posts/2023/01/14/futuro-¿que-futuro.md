@@ -1,7 +1,7 @@
 ---
 title: Futuro, ¿Qué futuro?
 tags:
-  - blog
+  - reseñas
   - libros
 author: neverbot
 date: 2023-01-14 19:46:44

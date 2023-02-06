@@ -1,7 +1,7 @@
 ---
 title: 'Movidas catódicas: Ingleses de familia bien'
 tags:
-  - blog
+  - reseñas
   - tv
 author: neverbot
 

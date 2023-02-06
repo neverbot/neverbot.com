@@ -1,7 +1,7 @@
 ---
 title: Tom Cruise through the ages
 tags:
-  - blog  
+  - reseñas  
   - cine
 author: neverbot
 date: 2022-11-03 19:17:59

@@ -1,7 +1,7 @@
 ---
 title: Dreams are forever...
 tags:
-  - blog
+  - pensamientos aleatorios
 author: neverbot
 date: 2023-01-20 22:51:54
 ---
