@@ -13,7 +13,7 @@ date: 2023-02-07 12:07:15
 
 # **Mushoku Tensei: Isekai Ittara Honki Dasu**
 
-También conocido como **Mushoku Tensei: Jobless Reincarnation** en inglés, o **Mushoku Tensei: Reencarnación desde cero** en España.
+También conocido como *Mushoku Tensei: Jobless Reincarnation* en inglés, o *Mushoku Tensei: Reencarnación desde cero* en España.
 
 ## Anime
 
