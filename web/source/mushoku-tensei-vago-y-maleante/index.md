@@ -17,6 +17,8 @@ También conocido como *Mushoku Tensei: Jobless Reincarnation* en inglés, o *Mu
 
 ## Anime
 
+Una lista con resúmenes de todos los episodios según los estoy volviendo a ver. Naturalmente, *spoilers ahead*, no leas esta sección si no quieres estropear las sorpresas.
+
 ### Primera temporada, primera parte
 
 ##### Episodio 1, Reencarnación desde cero
@@ -38,6 +40,14 @@ Esto avanza rápido. Pasan varios años (**Rudeus** celebra su quinto cumpleaño
 ![image-20230207165034393](./index/image-20230207165034393.jpg)
 
 **Rudeus** utiliza su recién encontrada confianza en sí mismo para superar algunos de los miedos de su vida anterior y salir a su nuevo "mundo real" a conocer gente, haciendo un nuevo amigo: **Sylph**. ¡Sorpresa! Piensa que era un chico y tras una serie de enredos descubre que era una chica, medio elfa. No nos lo esperábamos para nada `</sarcasmo>`. Episodio típico que hemos visto mil veces en otras series.
+
+##### Episodio 4, Reunión familiar de emergencia
+
+![image-20230208002935779](./index/image-20230208002935779.jpg)
+
+Qué rápido pasan las cosas al inicio de esta serie. La madre de **Rudeus** está embarazada... pero también **Lilia**, la sirvienta de esta curiosa familia, ambas de **Paul**, en un culebrón interesante. **Rudeus** tiene un hermano y una hermana, y ya han pasado dos años desde que se marchó **Roxy**, cuando llega una carta suya: ya ha avanzado hasta el nivel de *magia real* (los magos de este nivel pueden contarse con los dedos de una mano, comenta **Paul**), y recomienda a Rudeus que debe seguir estudiando en la *Universidad de la Magia de Ranoa*.
+
+**Rudeus** decide que si va a esta escuela quiere hacerlo con **Sylph**, pero su familia sólo podría pagar una matrícula, así que decide empezar a trabajar (¿explotación infantil?) para poder llevar a su amiga. Aparentemente **Paul** le encuentra un trabajo, que aún no sabemos cuál será, cuando llega **Ghislaine**, una espadachina *mujer-bestia*, para llevárselo en carro no sabemos muy bien a dónde.
 
 ### Primera temporada, segunda parte
 
