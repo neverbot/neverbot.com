@@ -15,7 +15,7 @@ Esta es la página personal de Iván Alonso. Si nos conocemos quizá haya sido c
 
 En principio de cualquier cosa que me cruce por la cabeza captando mi interés durante más de media hora, lo que viene siendo un *blog*, vaya. En la práctica suele ser sobre consumismo multimedia e internet en general, desde la perspectiva de lo mal que está el mundo la mayor parte de las veces, aunque estoy trabajando en practicar un punto de vista más positivo siempre que puedo.
 
-Además del blog en sí, comentarios/posts en orden cronológico inverso, también hay unas cuantas páginas más estables donde suelo ir recopilando material publicado anteriormente, a modo de índices de categorías:
+Además del *blog* en sí, comentarios/*posts* en orden cronológico inverso, también hay unas cuantas páginas más estables donde suelo ir recopilando material publicado anteriormente, a modo de índices de categorías:
 
 ### Páginas
 
