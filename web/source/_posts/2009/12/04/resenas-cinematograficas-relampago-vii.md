@@ -6,6 +6,7 @@ tags:
   - cine
   - reseñas
   - tebeos
+  - reseñas cinematográficas relámpago
 date: 2009-12-04 12:13:00
 ---
 

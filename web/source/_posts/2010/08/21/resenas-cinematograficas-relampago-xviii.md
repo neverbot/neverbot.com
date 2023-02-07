@@ -5,6 +5,7 @@ author: neverbot
 tags:
   - cine
   - reseñas
+  - reseñas cinematográficas relámpago
 date: 2010-08-21 18:22:56
 ---
 

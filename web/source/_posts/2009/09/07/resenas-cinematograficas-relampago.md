@@ -6,6 +6,7 @@ tags:
   - blog
   - cine
   - reseñas
+  - reseñas cinematográficas relámpago  
 date: 2009-09-07 18:20:45
 ---
 

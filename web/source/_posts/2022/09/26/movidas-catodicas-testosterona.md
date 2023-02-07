@@ -9,7 +9,7 @@ date: 2022-09-26 15:55:23
 ---
 
 
-A finales del cretácico, cuando aún escribía en este blog, solía agrupar los pensamientos y opiniones sobre las películas que iba viendo en entradas tituladas "*Reseñas cinematográficas relámpago*", porque era muy habitual ver y escribir sobre cine y se me acababan los títulos ingeniosos. Ahora que hace ya tiempo que estamos en la nueva-nueva edad de oro de la televisión, creo que ya tocaba hacer lo mismo con toda la tele que consumimos, y este "*Movidas catódicas*" es lo que me ha venido a la mente. Por descontado que [rayos catódicos](https://en.wikipedia.org/wiki/Cathode-ray_tube) últimamente vemos pocos, pero oye, que la realidad no te estropee un buen titular.
+A finales del cretácico, cuando aún escribía en este blog, solía agrupar los pensamientos y opiniones sobre las películas que iba viendo en entradas tituladas "[*Reseñas cinematográficas relámpago*](/tags/resenas-cinematograficas-relampago/)", porque era muy habitual ver y escribir sobre cine y se me acababan los títulos ingeniosos. Ahora que hace ya tiempo que estamos en la nueva-nueva edad de oro de la televisión, creo que ya tocaba hacer lo mismo con toda la tele que consumimos, y este "*Movidas catódicas*" es lo que me ha venido a la mente. Por descontado que [rayos catódicos](https://en.wikipedia.org/wiki/Cathode-ray_tube) últimamente vemos pocos, pero oye, que la realidad no te estropee un buen titular.
 
 ### [Reacher](https://www.themoviedb.org/tv/108978-jack-reacher) (*Amazon Prime Video*, 2022)
 

@@ -3,12 +3,13 @@ title: 'Reseñas cinematográficas relámpago: comienza el año'
 tags:
   - cine
   - reseñas
+  - reseñas cinematográficas relámpago
 author: neverbot
 date: 2023-02-06 14:41:04
 ---
 
 
-Recuperamos la tradición de las reseñas cinematográficas relámpago, en la que [sería la entrada número XXXI](/resenas-cinematograficas-relampago-xxx/), pero lo de llevar la cuenta se hace cansino, así que lo dejamos.
+Recuperamos la tradición de las [reseñas cinematográficas relámpago](/tags/resenas-cinematograficas-relampago/), en la que [sería la entrada número XXXI](/resenas-cinematograficas-relampago-xxx/), pero lo de llevar la cuenta se hace cansino, así que lo dejamos.
 
 ## [You People](https://letterboxd.com/film/you-people-2023/) (*La gente como vosotros*, 2023)
 

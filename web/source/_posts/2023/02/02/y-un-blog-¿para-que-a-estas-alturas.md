@@ -19,7 +19,7 @@ Hace poco leía que lo bueno que tenía la incipiente **Internet 2.0** de los bl
 
 A lo largo de los años he ido tomando notas de (algunas de) las películas que iba viendo, y últimamente he empezado a hacerlo con algunas series de televisión:
 
-- [Categoría de cine](/tags/cine/) y los posts titulados "*Reseñas cinematográficas relámpago*".
+- [Categoría de cine](/tags/cine/) y los posts titulados "[*Reseñas cinematográficas relámpago*](/tags/resenas-cinematograficas-relampago/)".
 - [Categoría de televisión](/tags/tv/) y los posts titulados "[*Movidas catódicas*](/tags/movidas-catodicas/)".
 
 Un buen ejercicio sería obligarme a escribir al menos unas líneas sobre todo lo que consumo relacionado con esas categorías que, para mi desgracia, es más de lo que me gustaría admitir.
