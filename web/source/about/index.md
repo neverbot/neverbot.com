@@ -57,15 +57,6 @@ Si quieres ponerte en contacto conmigo para cualquier tema, déjame una mención
 
 ## Estadísticas
 
-
-				HTML
-
-
-​					
-​				
-​				
-​						
-​				
-​			
-​		
-
+<div id="posts-calendar" class="js-pjax"></div>
+<div id="posts-chart" class="js-pjax"></div>
+<div id="tags-chart" data-length="10" class="js-pjax"></div>
