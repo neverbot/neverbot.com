@@ -6,6 +6,7 @@ tags:
   - cine
   - tebeos
   - tv
+  - anime
 date: 2012-10-18 19:05:49
 ---
 

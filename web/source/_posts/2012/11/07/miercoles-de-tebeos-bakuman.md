@@ -4,6 +4,7 @@ id: '5429'
 author: neverbot
 tags:
   - tebeos
+  - manga
 date: 2012-11-07 19:09:23
 ---
 

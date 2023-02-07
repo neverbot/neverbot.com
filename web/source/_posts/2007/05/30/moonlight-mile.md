@@ -5,6 +5,7 @@ author: neverbot
 tags:
   - reseñas
   - tebeos
+  - manga
 date: 2007-05-30 11:41:05
 ---
 

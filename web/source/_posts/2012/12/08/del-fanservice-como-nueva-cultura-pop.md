@@ -6,6 +6,7 @@ tags:
   - cine
   - libros
   - tv
+  - anime
 date: 2012-12-08 15:45:14
 ---
 
