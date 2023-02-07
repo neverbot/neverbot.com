@@ -85,7 +85,9 @@ Y, como final, también convendría mencionar otra obra de ciencia-ficción del 
 
 *Portada de Dominion: Tank Police*.{.center}
 
-![img](./la-ciencia-ficcion-segun-masamune-shirow/image017-20230207143401870.jpg){.left}Iván Alonso (alias Folken) tiene 23 años y vive en Madrid. Estudia Ingeniería Informática, aunque prefiere pensar que es ingeniero y se dedica a trabajar de estudiante. No, no lleva gafas.
+![img](./la-ciencia-ficcion-segun-masamune-shirow/image017-20230207143401870.jpg){.left}
+
+Iván Alonso (alias Folken) tiene 23 años y vive en Madrid. Estudia Ingeniería Informática, aunque prefiere pensar que es ingeniero y se dedica a trabajar de estudiante. No, no lleva gafas.
 
 ---
 
