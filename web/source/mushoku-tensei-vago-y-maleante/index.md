@@ -39,18 +39,44 @@ Esto avanza rápido. Pasan varios años (**Rudeus** celebra su quinto cumpleaño
 
 ![image-20230207165034393](./index/image-20230207165034393.jpg)
 
-**Rudeus** utiliza su recién encontrada confianza en sí mismo para superar algunos de los miedos de su vida anterior y salir a su nuevo "mundo real" a conocer gente, haciendo un nuevo amigo: **Sylph**. ¡Sorpresa! Piensa que era un chico y tras una serie de enredos descubre que era una chica, medio elfa. No nos lo esperábamos para nada `</sarcasmo>`. Episodio típico que hemos visto mil veces en otras series.
+**Rudeus** utiliza su recién encontrada confianza en sí mismo para superar algunos de los miedos de su vida anterior y salir a su nuevo "mundo real" a conocer gente, haciendo un nuevo amigo: **Sylph**. ¡Sorpresa! Piensa que era un chico y tras una serie de enredos descubre que era una chica, medio elfa. No nos lo esperábamos para nada `</sarcasmo>`. Episodio prototípico que hemos visto mil veces en otras series.
 
 ##### Episodio 4, Reunión familiar de emergencia
 
 ![image-20230208002935779](./index/image-20230208002935779.jpg)
 
-Qué rápido pasan las cosas al inicio de esta serie. La madre de **Rudeus** está embarazada... pero también **Lilia**, la sirvienta de esta curiosa familia, ambas de **Paul**, en un culebrón interesante. **Rudeus** tiene un hermano y una hermana, y ya han pasado dos años desde que se marchó **Roxy**, cuando llega una carta suya: ya ha avanzado hasta el nivel de *magia real* (los magos de este nivel pueden contarse con los dedos de una mano, comenta **Paul**), y recomienda a Rudeus que debe seguir estudiando en la *Universidad de la Magia de Ranoa*.
+Qué rápido pasan las cosas al inicio de esta serie. La madre de **Rudeus** está embarazada... pero también **Lilia**, la sirvienta de esta curiosa familia, ambas de **Paul**, en un culebrón interesante. Rudeus tiene una hermana (**Norn**) y una medio-hermana (**Aisha**), y ya han pasado dos años desde que se marchó **Roxy**, cuando llega una carta suya: ya ha avanzado hasta el nivel de *magia real* (los magos de este nivel pueden contarse con los dedos de una mano, comenta Paul), y recomienda a Rudeus que debe seguir estudiando en la *Universidad de la Magia de Ranoa*.
 
-**Rudeus** decide que si va a esta escuela quiere hacerlo con **Sylph**, pero su familia sólo podría pagar una matrícula, así que decide empezar a trabajar (¿explotación infantil?) para poder llevar a su amiga. Aparentemente **Paul** le encuentra un trabajo, que aún no sabemos cuál será, cuando llega **Ghislaine**, una espadachina *mujer-bestia*, para llevárselo en carro no sabemos muy bien a dónde.
+Rudeus decide que si va a esta escuela quiere hacerlo con **Sylph**, pero su familia sólo podría pagar una matrícula, así que decide empezar a trabajar (¿explotación infantil?) para poder llevar a su amiga. Aparentemente Paul le encuentra un trabajo, que aún no sabemos cuál será, cuando llega **Ghislaine**, una espadachina *mujer-bestia*, para llevárselo en carro no sabemos muy bien a dónde.
+
+Algo más de trasfondo videojueguil: existen tres estilos de esgrima: *Dios de la Espada*, *Dios del Agua* y *Dios del Norte*. Paul es nivel avanzado en los tres. ¿Suponemos que los niveles son los mismos que en la magia? Vamos a pensar que sí.
+
+---
+
+##### El primer cambio de contexto
+
+Una de las peculiaridades de esta serie, de las que a la vez más me agradan y más me molestan, es que nos encontramos a cada poco con puntos de inflexión que en cualquier otro tipo de narrativa podrían ser lo suficientemente importantes como para ser algo como un final de temporada, cuando aquí no tienen apenas relevancia alguna. 
+
+Al terminar el cuarto capítulo (sólo llevamos cuatro, ojo), encontramos el primero de estos puntos de inflexión: el protagonista abandona el lugar en el que se encontraba, y podemos olvidarnos durante mucho tiempo de todos los personajes, situaciones y argumentos que se estuvieran desarrollando. En una serie de imagen real podría haber sido un final de temporada y comenzar la siguiente con los nuevos personajes que se van a presentar, mientras que aquí sólo es un descanso entre capítulos. Prosigamos.
+
+![image-20230208223324665](./index/image-20230208223324665.jpg){.right}
+
+---
+
+##### Episodio 5, Una señorita y violencia
+
+Rudeus conoce a parte de la familia Greyrat, nobles en la lejana ciudad de *Roa*, que quieren que sea el nuevo tutor de su joven hija **Eris**, el personaje [tsundere](https://en.wikipedia.org/wiki/Tsundere) por excelencia, que ya faltaba uno así en la serie. A mí este tipo de personajes se me hacen bola, pero asumo que tienen sus defensores. 
+
+El resto del episodio es Rudeus intentando ganarse el respeto de Eris con un engaño con un falso secuestro que se tuerce y acaba siendo real, y al final le vemos hacer algo de magia decente y a Ghislaine demostrando en un espectacular rescate final que está a otro nivel. Aprendemos de ella que es una "*Rey de la Espada*", en un término que quizá debería traducirse mejor y añadirle género, pero qué sé yo de esto.
+
+Rudeus es contratado para hacer de tutor los próximos cinco años, hasta que cumpla doce, así que ya podemos ir acostumbrándonos al nuevo lugar.
 
 ### Primera temporada, segunda parte
 
 ### Segunda temporada
 
 Anunciada para algún momento de 2023, aún no estrenada.
+
+## Enlaces de interés
+
+- [Mushoku Tensei Wiki](https://mushokutensei.fandom.com/wiki/Mushoku_Tensei_Wiki).
