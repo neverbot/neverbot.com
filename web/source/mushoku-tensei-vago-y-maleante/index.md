@@ -45,9 +45,9 @@ Esto avanza rápido. Pasan varios años (**Rudeus** celebra su quinto cumpleaño
 
 ![image-20230208002935779](./index/image-20230208002935779.jpg)
 
-Qué rápido pasan las cosas al inicio de esta serie. La madre de **Rudeus** está embarazada... pero también **Lilia**, la sirvienta de esta curiosa familia, ambas de **Paul**, en un culebrón interesante. Rudeus tiene una hermana (**Norn**) y una medio-hermana (**Aisha**), y ya han pasado dos años desde que se marchó **Roxy**, cuando llega una carta suya: ya ha avanzado hasta el nivel de *magia real* (los magos de este nivel pueden contarse con los dedos de una mano, comenta Paul), y recomienda a Rudeus que debe seguir estudiando en la *Universidad de la Magia de Ranoa*.
+Qué rápido pasan las cosas al inicio de esta serie. La madre de **Rudeus** está embarazada... pero también **Lilia**, la sirvienta de esta curiosa familia, ambas de **Paul**, en un culebrón interesante. Nace una hermana (**Norn**) y una medio-hermana (**Aisha**), y ya han pasado dos años desde que se marchó **Roxy**, cuando llega una carta suya: ya ha avanzado hasta el nivel de *magia real* (los magos de este nivel pueden contarse con los dedos de una mano, comenta Paul), y recomienda a Rudeus que debe seguir estudiando en la *Universidad de la Magia de Ranoa*.
 
-Rudeus decide que si va a esta escuela quiere hacerlo con **Sylph**, pero su familia sólo podría pagar una matrícula, así que decide empezar a trabajar (¿explotación infantil?) para poder llevar a su amiga. Aparentemente Paul le encuentra un trabajo, que aún no sabemos cuál será, cuando llega **Ghislaine**, una espadachina *mujer-bestia*, para llevárselo en carro no sabemos muy bien a dónde.
+Nuestro protagonista decide que si va a esta escuela quiere hacerlo con **Sylph**, pero su familia sólo podría pagar una matrícula, así que decide empezar a trabajar (¿explotación infantil?) para poder llevar a su amiga. Aparentemente Paul le encuentra un trabajo, que aún no sabemos cuál será, cuando llega **Ghislaine**, una espadachina *mujer-bestia*, para llevárselo en carro no sabemos muy bien a dónde.
 
 Algo más de trasfondo videojueguil: existen tres estilos de esgrima: *Dios de la Espada*, *Dios del Agua* y *Dios del Norte*. Paul es nivel *avanzado* en los tres. ¿Suponemos que los niveles son los mismos que en la magia? Vamos a pensar que sí.
 
@@ -87,7 +87,7 @@ Datos interesantes que sacamos:
 
 ![image-20230209184356623](./index/image-20230209184356623.jpg)
 
-Otro episodio prescindible: Eris aprende a bailar para la fiesta de su décimo cumpleaños, llega la fiesta, los protagonistas se van haciendo más amigos. Al final del episodio nos damos cuenta de que una extraña esfera rojiza ha empezado a flotar sobre la ciudad. Mala pinta.
+Otro episodio prescindible: Eris aprende a bailar para la fiesta de su décimo cumpleaños, llega la fiesta, y los protagonistas se van haciendo más amigos. Al final del episodio nos damos cuenta de que una extraña esfera rojiza ha empezado a flotar sobre la ciudad con muy mala pinta.
 
 ### Primera temporada, segunda parte
 

@@ -33,4 +33,4 @@ Me da igual lo que me digáis, yo sigo siendo *Team* **M. Night Shyamalan**. Una
 
 ![image-20230206143115411](./resenas-cinematograficas-relampago-comienza-el-ano/image-20230206143115411.jpg)
 
-La historia del primer preso en el corredor de la muerte en el estado de **Alabama** que acabó demostrando su inocencia y siendo puesto en libertad. Correcto **Michael B. Jordan**, muy bien **Jamie Foxx**. Le sobra fácilmente media hora de metraje y, puestos a recomendar, me parece casi más recomendable los títulos de crédito en los que hablan de los personajes reales en los que está basada la película, y se dan algunas cifras escalofriantes.
+La historia del primer preso en el corredor de la muerte en el estado de **Alabama** que acabó demostrando su inocencia y siendo puesto en libertad. Correcto **Michael B. Jordan**, muy bien **Jamie Foxx**. Le sobra fácilmente media hora de metraje y, puestos a recomendar, me parecen casi más recomendables los títulos de crédito en los que hablan de los personajes reales en los que está basada la película, y se dan algunas cifras escalofriantes.
