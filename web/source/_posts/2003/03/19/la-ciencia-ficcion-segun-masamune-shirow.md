@@ -5,6 +5,7 @@ tags:
   - anime
   - manga
   - neverbot
+  - cyberdark
 date: 2003-03-19 11:11:11
 ---
 > Este artículo fue publicado tiempo antes de que tuviera un blog, durante el pretérito año 2003, en el ya extinto portal sobre literatura de género [cYbErDaRk.net](http://www.cyberdark.net/portada.php?edi=6&cod=126). Lo he recuperado para dejarlo aquí y que no se pierda, con su fecha original.
