@@ -49,7 +49,7 @@ Qué rápido pasan las cosas al inicio de esta serie. La madre de **Rudeus** est
 
 Rudeus decide que si va a esta escuela quiere hacerlo con **Sylph**, pero su familia sólo podría pagar una matrícula, así que decide empezar a trabajar (¿explotación infantil?) para poder llevar a su amiga. Aparentemente Paul le encuentra un trabajo, que aún no sabemos cuál será, cuando llega **Ghislaine**, una espadachina *mujer-bestia*, para llevárselo en carro no sabemos muy bien a dónde.
 
-Algo más de trasfondo videojueguil: existen tres estilos de esgrima: *Dios de la Espada*, *Dios del Agua* y *Dios del Norte*. Paul es nivel avanzado en los tres. ¿Suponemos que los niveles son los mismos que en la magia? Vamos a pensar que sí.
+Algo más de trasfondo videojueguil: existen tres estilos de esgrima: *Dios de la Espada*, *Dios del Agua* y *Dios del Norte*. Paul es nivel *avanzado* en los tres. ¿Suponemos que los niveles son los mismos que en la magia? Vamos a pensar que sí.
 
 ---
 
@@ -69,7 +69,25 @@ Rudeus conoce a parte de la familia Greyrat, nobles en la lejana ciudad de *Roa*
 
 El resto del episodio es Rudeus intentando ganarse el respeto de Eris con un engaño con un falso secuestro que se tuerce y acaba siendo real, y al final le vemos hacer algo de magia decente y a Ghislaine demostrando en un espectacular rescate final que está a otro nivel. Aprendemos de ella que es una "*Rey de la Espada*", en un término que quizá debería traducirse mejor y añadirle género, pero qué sé yo de esto.
 
-Rudeus es contratado para hacer de tutor los próximos cinco años, hasta que cumpla doce, así que ya podemos ir acostumbrándonos al nuevo lugar.
+Nuestro protagonista es contratado para hacer de tutor los próximos cinco años, hasta que cumpla doce, así que ya podemos ir acostumbrándonos al nuevo lugar.
+
+##### Episodio 6, Un día libre en Roa
+
+![image-20230209184029308](./index/image-20230209184029308.jpg)
+
+Día de visita al mercado, episodio totalmente prescindible. De vez en cuando hay unos acercamientos entre los dos niños (que no llegan a los diez años) que serían graciosos si no recordásemos que de alguna forma dentro de Rudeus lo que hay en realidad es un señor de más de cuarenta. *Creepy, disturbing*. Quiero pensar que poco a poco se ha ido convirtiendo también en un niño, pero la verdad es que los espectadores generalmente no sabrán cómo enfocar esas situaciones.
+
+Datos interesantes que sacamos: 
+
+- El grupo de aventureros de Ghislaine, Paul y Zenith se llamaba **Los Colmillos del Lobo Negro**. 
+- *Roa* es la ciudad más grande de la región de *Fittoa* del reino de *Asura*.
+- Hay una ciudadela volante dando vueltas por ahí desde hace 400 años: la fortaleza de **Perugius**, uno de los tres héroes que derrotaron a **Laplace**, el Dios Demonio. Esto ahora mismo nos da igual, pero hay aquí un trasfondo de qué sucede en este mundo de fantasía que se irá ampliando poco a poco. 
+
+##### Episodio 7, Lo que yace más allá del esfuerzo
+
+![image-20230209184356623](./index/image-20230209184356623.jpg)
+
+Otro episodio prescindible: Eris aprende a bailar para la fiesta de su décimo cumpleaños, llega la fiesta, los protagonistas se van haciendo más amigos. Al final del episodio nos damos cuenta de que una extraña esfera rojiza ha empezado a flotar sobre la ciudad. Mala pinta.
 
 ### Primera temporada, segunda parte
 
