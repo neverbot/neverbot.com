@@ -1,6 +1,5 @@
 ---
 title: La ciencia ficción según Masamune Shirow
-id: '9'
 author: neverbot
 tags:
   - anime
