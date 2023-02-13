@@ -56,9 +56,15 @@ prismjs:
   tab_replace: ''
 
 post_asset_folder: true
-marked:
-  prependRoot: true
-  postAsset: true
+# marked:
+#   prependRoot: true
+#   postAsset: true
+markdown:
+  plugins:
+    markdown-it-katex:
+      disabled: true
+    markdown-it-texmath:
+      disabled: true
   
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
