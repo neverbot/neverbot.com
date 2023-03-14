@@ -15,22 +15,26 @@ Esta es la página personal de Iván Alonso. Si nos conocemos quizá haya sido c
 
 En principio de cualquier cosa que me cruce por la cabeza captando mi interés durante más de media hora, lo que viene siendo un *blog*, vaya. En la práctica suele ser sobre consumismo multimedia e internet en general, desde la perspectiva de lo mal que está el mundo la mayor parte de las veces, aunque estoy trabajando en practicar un punto de vista más positivo siempre que puedo.
 
-Además del *blog* en sí: comentarios/*posts* en orden cronológico inverso, también hay unas cuantas páginas más estables donde suelo ir recopilando material publicado anteriormente, a modo de índices de categorías:
+Además del *blog* en sí (comentarios/*posts* en orden cronológico inverso), también hay unas cuantas páginas más estables donde suelo ir recopilando material publicado anteriormente, a modo de índices de categorías:
 
 ### Páginas
 
 - [About/Acerca de...](/about/), la página que estás leyendo ahora mismo.
 - **Libros**:
   - [Lista de los Premios Hugo de novela que voy leyendo](/los-premios-hugo/) (aunque esta iniciativa quedó parada apenas empezó).
+  - La [categoría de libros](/tags/libros).
 - **Televisión**:
   - [Movidas catódicas](/tags/movidas-catodicas/), categoría de *posts* con micro reseñas sobre series vistas.
   - [Revisionado completo de todo Star Trek](/viendo-star-trek-¿como-cuando-y-por-que/).
+  - La [categoría de televisión](/tags/tv).
 - **Cine**:
   - [Reseñas cinematográficas relámpago](/tags/resenas-cinematograficas-relampago/), categoría de *posts* con micro reseñas sobre películas vistas.
+  - La [categoría cine](/tags/cine).
 - **Anime**:
   - [Índice general sobre temática de Anime](/anime-mania/) en esta página.
   - [Revisionado de Overlord](/todo-sobre-overlord/).
   - [Revisionado de Mushoku Tensei](/mushoku-tensei-vago-y-maleante/).
+  - La [categoría de anime](/tags/anime).
 
 ## Me puedes encontrar en...
 
