@@ -27,7 +27,7 @@ Una lista con resúmenes de todos los episodios según los estoy volviendo a ver
 
 Nuestro protagonista, *nini* [*hikikomori*](https://en.wikipedia.org/wiki/Hikikomori) de manual de primero de anime, muere por circunstancias que nos dan igual y se reencarna en **Rudeus**, un recién nacido en un mundo de fantasía. La excusa del [*isekai*](https://en.wikipedia.org/wiki/Isekai) la podemos ignorar porque va a tener bastante poco peso en la mayor parte de la historia, salvo para servirnos de narrador con la voz del señor adulto original que va descubriendo este nuevo mundo junto al espectador.
 
-Conocemos a los padres de Rudeus: **Paul Greyrat** el espadachín y **Zenith** la sanadora (la *healer*). Cero información por ahora sobre el mundo, su gobierno, a qué se dedican estos padres o por qué viven en este lugar. Pero Rudeus, teniendo en cuenta que su mente es en realidad la de un cuarentañero, muestra interés por todo a su alrededor y aprende a hablar, leer y ¡hacer magia! a muy temprana edad. Los padres contratan a una maestra de magia para entrenar a nuestro protagonista, y así aparece **Roxy** (un tipo de demonio, lo que es patente por tener el pelo azul, por lo visto).
+Conocemos a los padres de Rudeus: **Paul Greyrat** el espadachín y **Zenith** la sanadora (la *healer*). Cero información por ahora sobre el mundo, su gobierno, a qué se dedican estos padres o por qué viven en este lugar. Pero Rudeus, teniendo en cuenta que su mente es en realidad la de un treintañero, muestra interés por todo a su alrededor y aprende a hablar, leer y ¡hacer magia! a muy temprana edad. Los padres contratan a una maestra de magia para entrenar a nuestro protagonista, y así aparece **Roxy** (un tipo de demonio, lo que es patente por tener el pelo azul, por lo visto).
 
 ##### Episodio 2, Profesora
 
@@ -75,7 +75,7 @@ Nuestro protagonista es contratado para hacer de tutor los próximos cinco años
 
 ![image-20230209184029308](./index/image-20230209184029308.jpg)
 
-Día de visita al mercado, episodio totalmente prescindible. De vez en cuando hay unos acercamientos entre los dos niños (que no llegan a los diez años) que serían graciosos si no recordásemos que de alguna forma dentro de Rudeus lo que hay en realidad es un señor de más de cuarenta. *Creepy, disturbing*. Quiero pensar que poco a poco se ha ido convirtiendo también en un niño, pero la verdad es que los espectadores generalmente no sabrán cómo enfocar esas situaciones.
+Día de visita al mercado, episodio totalmente prescindible. De vez en cuando hay unos acercamientos entre los dos niños (que no llegan a los diez años) que serían graciosos si no recordásemos que de alguna forma dentro de Rudeus lo que hay en realidad es un señor de más de treinta. *Creepy, disturbing*. Quiero pensar que poco a poco se ha ido convirtiendo también en un niño, pero la verdad es que los espectadores generalmente no sabrán cómo enfocar esas situaciones.
 
 Datos interesantes que sacamos: 
 
