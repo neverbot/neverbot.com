@@ -89,6 +89,30 @@ Datos interesantes que sacamos:
 
 Otro episodio prescindible: Eris aprende a bailar para la fiesta de su décimo cumpleaños, llega la fiesta, y los protagonistas se van haciendo más amigos. Al final del episodio nos damos cuenta de que una extraña esfera rojiza ha empezado a flotar sobre la ciudad con muy mala pinta.
 
+##### Episodio 8, Punto de Inflexión 1
+
+![image-20230327162943](./index/image-20230327162943.jpg)
+
+Tres cuartas partes de episodio prescindible, aunque anotamos unas cuantas cosas que vamos aprendiendo sobre el mundo:
+
+- Han pasado dos años en los que Rudeus ha estado aprendiendo idiomas, hasta llegar la fecha de su décimo cumpleaños. El orbe flotante parece haber crecido de tamaño pero a nadie parece importarle. Ahí sigue.
+- La familia **Greyrat** tiene cuatro ramas principales, enter las que están los Noto (**donde** están Paul y Rudeus) y los **Boreas** (quienes alojan a Rudeus ahora). Todos los varones Boreas deben ser educados por el cabeza de familia en la capital, y por eso los hermanos de Eris no viven en Roa, y su madre le tenía una cierta animadversión a Rudeus. 
+- Eris le regala un báculo de mago a Rudeus por su cumpleaños, de nombre (los báculos tienen nombre, parece ser) **Aqua Heartia**.
+
+La noche del cumpleaños tenemos otra escena tremendamente *creepy* entre Rudeus y Eris, que tienen 10 y 12 años respectivamente. Intento no pensar demasiado en esto, no sé que le pasa a esta cultura con estas cosas, pero no me gusta. Al final deciden dejarlo estar para cuando Rudeus cumpla 15 años, que al parecer es la mayoría de edad en este mundo.
+
+Al día siguiente, mientras Rudeus, Eris y Ghislaine van a las afueras a probar el nuevo báculo, una gran nube oscura aparece sobre Roa y ya la hemos liado. Vemos a unos cuantos personajes para hacer recapitulación del estado actual y se nos presenta alguno nuevo:
+
+- **Paul**, **Zenith** y **Sylph** siguen igual.
+- **Roxy** sigue haciendo de maestra.
+- Un señor raro junto a un dragón, aún no sabemos quién es.
+- "El" gran emperador del mundo demoníaco: Kishirika Kishirisu. Seguimos teniendo problemas con las traducciones del género, porque lo que parece una niña pequeña, pero creo que este nombre lo lleva también en inglés, quizá incluso en el japonés original, así que yo qué sabré.
+- Quien parece ser el gran héroe **Perugius**, en su fortaleza volante, hablando con un subalterno llamado **Amalfi**, a quien manda a investigar.
+
+Y ahí estamos cuando aparece Amalfi junto a nuestros protagonistas pensando que quizá tengan algo que ver con la gran nube y el problema mágico que parece estar sucediendo, por estar haciendo mágicamente el tonto en mitad de la nada... pero no, todo es una gran confusión. Y ¡pum! el orbe hace algo raro y una luz se traga a todo el mundo. Fin.
+
+Como decía antes, esta serie tiene la mala y fea costumbre de tener puntos de inflexión en los que todo cambia y ya nos podemos ir olvidando de todos los personajes porque, de nuevo, todo va a cambiar.
+
 ### Primera temporada, segunda parte
 
 ### Segunda temporada
