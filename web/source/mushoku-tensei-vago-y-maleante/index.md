@@ -106,12 +106,12 @@ Al día siguiente, mientras Rudeus, Eris y Ghislaine van a las afueras a probar 
 - **Paul**, **Zenith** y **Sylph** siguen igual.
 - **Roxy** sigue haciendo de maestra.
 - Un señor raro junto a un dragón, aún no sabemos quién es.
-- "El" gran emperador del mundo demoníaco: Kishirika Kishirisu. Seguimos teniendo problemas con las traducciones del género, porque lo que parece una niña pequeña, pero creo que este nombre lo lleva también en inglés, quizá incluso en el japonés original, así que yo qué sabré.
+- "El" gran emperador del mundo demoníaco: Kishirika Kishirisu. Seguimos teniendo problemas con las traducciones del género, porque lo que parece es una niña pequeña, pero creo que este nombre lo lleva también en inglés, quizá incluso en el japonés original, así que yo qué sabré.
 - Quien parece ser el gran héroe **Perugius**, en su fortaleza volante, hablando con un subalterno llamado **Amalfi**, a quien manda a investigar.
 
-Y ahí estamos cuando aparece Amalfi junto a nuestros protagonistas pensando que quizá tengan algo que ver con la gran nube y el problema mágico que parece estar sucediendo, por estar haciendo mágicamente el tonto en mitad de la nada... pero no, todo es una gran confusión. Y ¡pum! el orbe hace algo raro y una luz se traga a todo el mundo. Fin.
+Y en esas estamos cuando aparece Amalfi, el radiante, junto a nuestros protagonistas. Pensando que quizá tengan algo que ver con la gran nube y el problema mágico que parece estar sucediendo, intenta hacerles desistir de estar haciendo mágicamente el tonto en mitad de la nada... pero no, todo es una gran confusión. Y ¡pum! el orbe hace algo raro y una luz se traga a todo el mundo. Fin.
 
-Como decía antes, esta serie tiene la mala y fea costumbre de tener puntos de inflexión en los que todo cambia y ya nos podemos ir olvidando de todos los personajes porque, de nuevo, todo va a cambiar.
+Como decía más arriba, esta serie tiene la mala y fea costumbre de tener puntos de inflexión en los que todo cambia y ya nos podemos ir olvidando de todos los personajes.
 
 ### Primera temporada, segunda parte
 
