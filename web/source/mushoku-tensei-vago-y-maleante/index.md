@@ -106,14 +106,48 @@ Al día siguiente, mientras Rudeus, Eris y Ghislaine van a las afueras a probar 
 - **Paul**, **Zenith** y **Sylph** siguen igual.
 - **Roxy** sigue haciendo de maestra.
 - Un señor raro junto a un dragón, aún no sabemos quién es.
-- "El" gran emperador del mundo demoníaco: Kishirika Kishirisu. Seguimos teniendo problemas con las traducciones del género, porque lo que parece es una niña pequeña, pero creo que este nombre lo lleva también en inglés, quizá incluso en el japonés original, así que yo qué sabré.
+- "El" gran emperador del mundo demoníaco: **Kishirika Kishirisu**. Seguimos teniendo problemas con las traducciones del género, porque lo que parece es una niña pequeña, pero creo que este nombre lo lleva también en inglés, quizá incluso en el japonés original, así que yo qué sabré.
 - Quien parece ser el gran héroe **Perugius**, en su fortaleza volante, hablando con un subalterno llamado **Amalfi**, a quien manda a investigar.
 
 Y en esas estamos cuando aparece Amalfi, el radiante, junto a nuestros protagonistas. Pensando que quizá tengan algo que ver con la gran nube y el problema mágico que parece estar sucediendo, intenta hacerles desistir de estar haciendo mágicamente el tonto en mitad de la nada... pero no, todo es una gran confusión. Y ¡pum! el orbe hace algo raro y una luz se traga a todo el mundo. Fin.
 
 Como decía más arriba, esta serie tiene la mala y fea costumbre de tener puntos de inflexión en los que todo cambia y ya nos podemos ir olvidando de todos los personajes.
 
+##### Episodio 9, Un encuentro fortuito
+
+![image-20230328192359](./index/image-20230328192359.jpg)
+
+Aquí comienza una de las subtramas globales que más darán que hablar: nuestro protagonista comienza el episodio en un mundo... ¿"*astral*"? con su antiguo cuerpo pre-isekai, y se encuentra con un ente que queremos entender que es algún tipo de ¿deidad?
+
+Un largo diálogo entre los dos nos hace pensar que no es él quien reencarnó a nuestro protagonista en este mundo (*no puede devolverle a un lugar fuera de "este mundo de seis caras"*), sino quizá "*el malvado Dios Dragón*". Explica que ha ocurrido un desastre de poder mágico, y se despertará en el continente demoníaco, muy lejos de su hogar. "*Cuando despiertes, verás a un hombre cerca de ti. Confía en él y haz lo posible por ayudarlo*". 
+
+Y así comienza una nueva etapa: **Rudeus** y **Eris** han sido transportados al otro lado del mundo, y conocen a **Ruijerd Superdia**, un demonio de la tribu *Superd*, que promete ayudarles a volver a su país de origen.
+
+El resto del capítulo transcurre comenzando el viaje, donde llegan al pueblo de la tribu Migurd donde viven los padres de Roxy (¡qué casualidad!), y conociendo la historia de Ruijerd: en la gran guerra de hace 400 años, Laplace unificó las tribus de demonios y regaló a los Superd unas lanzas malditas, que acabaron dominándolos y haciendo que atacaran a cualquiera, amigo o enemigo, padres, hijos y hermanos. Desde entonces se mantiene un miedo y odio hacia los Superd, y el objetivo de Ruijerd es acabar con esa mala reputación (está complicado). Rudeus promete ayudarle en su objetivo, y parten de viaje.
+
+##### Episodio 10, El valor de la vida y el primer trabajo
+
+![image-20230328192644](./index/image-20230328192644.jpg)
+
+Llegan a la ciudad de **Rikarisu**, donde Ruijerd tiene que intentar pasar desapercibido, y se apuntan al gremio de aventureros para realizar misiones de nivel bajo con las que ganar algo de dinero. El misterioso Dios vuelve a aparecerse en sueños a Rudeus para ir dejándole sugerencias de lo que debe hacer.
+
+##### Episodio 11, Los niños y los guerreros
+
+![image-20230328193012](./index/image-20230328193012.jpg)
+
+Otro año más ha pasado con nuestros protagonistas viajando por el continente demoníaco y haciendo misiones para el gremio de aventureros en varias ciudades, hasta llegar a la costa.
+
+Sabemos que el desastre mágico no ha afectado a todo el mundo: vemos a Roxy, a Paul con Norn, y averiguamos que Zenith, Lilia y Aisha han desaparecido. Roxy y otros dos nuevos personajes de los que aún no sabemos nada parten en barco hacia la misma ciudad del continente demoníaco a la que ha llegado Rudeus, y con esa escena se termina la primera parte de la primera temporada.
+
 ### Primera temporada, segunda parte
+
+##### Episodio 12, La Mujer con Ojos Mágicos
+
+![image-20230328193428](./index/image-20230328193428.jpg)
+
+Gracias a otra recomendación en sueños del misterioso dios, Rudeus encuentra en la ciudad a **Kishirika Kishirisu**, a quien los espectadores ya conocimos hace algunos capítulos. En pago a un favor, Kishirika le da a Rudeus uno de sus ojos demoníacos con poderes: el **Ojo de la Adivinación,** con el que a partir de ahora Rudeus es capaz de predecir lo que sucederá en pocos segundos.
+
+Dado que nadie quiere llevar en barco a un Superd, los protagonistas acuerdan que tendrán que viajar en algún barco de contrabandistas.
 
 ### Segunda temporada
 
