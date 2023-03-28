@@ -129,7 +129,7 @@ El resto del capítulo transcurre comenzando el viaje, donde llegan al pueblo de
 
 ![image-20230328192644](./index/image-20230328192644.jpg)
 
-Llegan a la ciudad de **Rikarisu**, donde Ruijerd tiene que intentar pasar desapercibido, y se apuntan al gremio de aventureros para realizar misiones de nivel bajo con las que ganar algo de dinero. El misterioso Dios vuelve a aparecerse en sueños a Rudeus para ir dejándole sugerencias de lo que debe hacer.
+Llegan a la ciudad de **Rikarisu**, donde Ruijerd tiene que intentar pasar desapercibido, y se apuntan al gremio de aventureros para realizar misiones de nivel bajo con las que ganar algo de dinero. El misterioso Dios vuelve a aparecerse en sueños a Rudeus para ir dándole sugerencias de lo que debe hacer.
 
 ##### Episodio 11, Los niños y los guerreros
 
@@ -145,7 +145,7 @@ Sabemos que el desastre mágico no ha afectado a todo el mundo: vemos a Roxy, a 
 
 ![image-20230328193428](./index/image-20230328193428.jpg)
 
-Gracias a otra recomendación en sueños del misterioso dios, Rudeus encuentra en la ciudad a **Kishirika Kishirisu**, a quien los espectadores ya conocimos hace algunos capítulos. En pago a un favor, Kishirika le da a Rudeus uno de sus ojos demoníacos con poderes: el **Ojo de la Adivinación,** con el que a partir de ahora Rudeus es capaz de predecir lo que sucederá en pocos segundos.
+Gracias a otra recomendación en sueños del misterioso dios, Rudeus encuentra en la ciudad a **Kishirika Kishirisu**, a quien los espectadores ya conocimos hace algunos capítulos. En pago a un favor, Kishirika le da a Rudeus uno de sus ojos demoníacos con poderes: el **Ojo de la Adivinación,** con el que a partir de ahora Rudeus es capaz de predecir el futuro con un margen de unos pocos segundos.
 
 Dado que nadie quiere llevar en barco a un Superd, los protagonistas acuerdan que tendrán que viajar en algún barco de contrabandistas.
 
