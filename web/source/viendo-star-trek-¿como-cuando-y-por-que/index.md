@@ -17,22 +17,22 @@ Probablemente es imposible que vaya a terminar algún día este "*proyecto*", ya
 
 *[Wikipedia](https://en.wikipedia.org/wiki/Star_Trek): en 2023 están emitiéndose cinco series de Star Trek. Esto es una locura*.{.center}
 
-Una lista de lo que tenemos por delante, actualizada a Enero de 2023:
+Una lista de lo que tenemos por delante, actualizada a Marzo de 2023:
 
 | Serie | Temps | Eps | Emisión |
 | ----- | :---: | :-: | ------- |
-| *Star Trek, La Serie Original* | 3 | 79 | Sept 1966 – Junio 1969 |
-| *The Animated Series* | 2 | 22 | Sept 1973 – Octubre 1974 |
-| *La Nueva Generación* | 7 | 178 | Sept 1987 – Mayo 1994 |
-| *Deep Space Nine* | 7 | 176 | Enero 1993 – Mayo 1999 |
-| *Voyager* | 7 | 172 | Enero 1995 – Mayo 2001 |
-| *Enterprise* | 4 | 98 | Sep 2001 – Mayo 2005 |
-| *Discovery* | 4 | 55 | Sept 2017 – **presente** |
-| *Short Treks* | 2 | 10 | Octubre 2018 – Enero 2020 |
-| *Picard* | 2 | 20 | Enero 2020 – **presente** |
-| *Lower Decks* | 3 | 30 | Agosto 2020 – **presente** |
-| *Prodigy* | 1 | 20 | Octubre 2021 – **presente** |
-| *Strange New Worlds* | 1 | 10 | Mayo 2022 – **presente** |
+| [*Star Trek, La Serie Original*](https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series) | 3 | 79 | Sept 1966 – Junio 1969 |
+| [*The Animated Series*](https://en.wikipedia.org/wiki/Star_Trek:_The_Animated_Series) | 2 | 22 | Sept 1973 – Octubre 1974 |
+| [*La Nueva Generación*](https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation) | 7 | 178 | Sept 1987 – Mayo 1994 |
+| [*Deep Space Nine*](https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine) | 7 | 176 | Enero 1993 – Mayo 1999 |
+| [*Voyager*](https://en.wikipedia.org/wiki/Star_Trek:_Voyager) | 7 | 172 | Enero 1995 – Mayo 2001 |
+| [*Enterprise*](https://en.wikipedia.org/wiki/Star_Trek:_Enterprise) | 4 | 98 | Sep 2001 – Mayo 2005 |
+| [*Discovery*](https://en.wikipedia.org/wiki/Star_Trek:_Discovery) | 4 | 55 | Sept 2017 – **presente** |
+| [*Short Treks*](https://en.wikipedia.org/wiki/Star_Trek:_Short_Treks) | 2 | 10 | Octubre 2018 – Enero 2020 |
+| *[Picard](https://en.wikipedia.org/wiki/Star_Trek:_Picard)* | 3 | 28 | Enero 2020 – **presente** |
+| [*Lower Decks*](https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks) | 3 | 30 | Agosto 2020 – **presente** |
+| [*Prodigy*](https://en.wikipedia.org/wiki/Star_Trek:_Prodigy) | 1 | 20 | Octubre 2021 – **presente** |
+| [*Strange New Worlds*](https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds) | 1 | 10 | Mayo 2022 – **presente** |
 
 Esta ordenación está hecha por fecha de emisión original, no por fecha estelar, es decir, el momento cronológico dentro del propio universo de **Star Trek** en el que sucede el contenido de cada capítulo. Durante mucho tiempo la serie original (la del *Capitán Kirk* de **William Shatner** y el *Doctor Spock* de **Leonard Nimoy**) fue la primera también cronológicamente, pero hay que tener en cuenta que casi toda **Enterprise** sucede casi un siglo antes que esto, ya que narra los acontecimientos de la primera misión de exploración del espacio profundo y la primera nave llamada *Enterprise*.
 
