@@ -1,4 +1,3 @@
----
 title: Viendo Star Trek, ¿Cómo, cuándo y por qué?
 tags:
   - tv
@@ -13,7 +12,7 @@ Probablemente es imposible que vaya a terminar algún día este "*proyecto*", ya
 
 ## Las Series
 
-![https://upload.wikimedia.org/wikipedia/en/timeline/eh4ii5gtnx21zp598u6dhhn9tmcysyx.png](./index/eh4ii5gtnx21zp598u6dhhn9tmcysyx.png)
+![Timeline de series de Star Trek](./index/eh4ii5gtnx21zp598u6dhhn9tmcysyx.png)
 
 *[Wikipedia](https://en.wikipedia.org/wiki/Star_Trek): en 2023 están emitiéndose cinco series de Star Trek. Esto es una locura*.{.center}
 
