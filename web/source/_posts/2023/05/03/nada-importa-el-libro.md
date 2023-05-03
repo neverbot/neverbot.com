@@ -9,7 +9,7 @@ date: 2023-05-03 23:53:43
 
 ![nada_importa](./nada-importa-el-libro/nada_importa.jpg){.right width=50%}
 
-Últimamente he recomendado en [varias](/nada-importa/) [ocasiones](/cosas-que-compartir-esta-semana-5%C2%AA-de-2023/) por aquí algunos textos de [Jesús Terrés](nadaimporta.com), autor de unas cuantas cosas en internet desde hace unos cuantos años, así que no era de extrañar que acabara haciéndome con el libro que publicó en el 2020 [con Círculo de Tiza](https://circulodetiza.es/libros/nada-importa/) recopilando textos suyos sueltos de aquí y de allá.
+Últimamente he recomendado en [varias](/nada-importa/) [ocasiones](/cosas-que-compartir-esta-semana-5%C2%AA-de-2023/) por aquí algunos textos de [Jesús Terrés](https://nadaimporta.com), autor de unas cuantas cosas en internet desde hace unos cuantos años, así que no era de extrañar que acabara haciéndome con el libro que publicó en el 2020 [con Círculo de Tiza](https://circulodetiza.es/libros/nada-importa/) recopilando textos suyos sueltos de aquí y de allá.
 
 Son textos del siglo XXI, cortitos y al pie, probablemente en su mayoría *posts* de *blogs* o columnas de revistas (¿no es lo mismo?), casi siempre sin relación unos con otros, aunque haya unos temas y estilos globales comunes: hedonismo, cultura, *savoir-vivre*... así que el libro se ha prestado mucho a estar rotando por la casa para leer capítulos sueltos en distintos momentos del día, durante meses, hasta que esta semana lo he terminado por fin.
 
