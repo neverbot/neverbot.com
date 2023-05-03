@@ -19,3 +19,7 @@ Es necesario arreglar esto durante el año 2023 y todos los próximos, y remonta
 
 - [Futuro, ¿Qué futuro?](/futuro-¿que-futuro/) de Santiago Niño-Becerra.
 
+### Mayo
+
+- [Nada Importa](/nada-importa-el-libro), de Jesús Terrés.
+
