@@ -5,6 +5,7 @@ author: neverbot
 tags:
   - cine
   - reseñas
+  - anime
 date: 2013-05-15 20:57:42
 ---
 
