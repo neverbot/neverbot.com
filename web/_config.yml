@@ -128,3 +128,7 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+
+# do not convert admin/*.yml in json files
+skip_render:
+  - "admin/*"
