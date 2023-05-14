@@ -29,6 +29,8 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+  # do not convert admin/*.yml in json files
+  - "admin/*"
 
 # Writing
 new_post_name: :year/:month/:day/:title.md # File name of new posts
@@ -128,7 +130,3 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
-
-# do not convert admin/*.yml in json files
-skip_render:
-  - "admin/*"
