@@ -1,7 +1,7 @@
 ---
 title: The possibility of having a dream come true
 tags:
-  - blog
+  - pensamientos aleatorios
 author: neverbot
 date: 2023-05-15 15:14:22
 ---
