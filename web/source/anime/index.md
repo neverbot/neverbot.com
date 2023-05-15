@@ -13,11 +13,11 @@ date: 2023-02-07 12:34:53
 
 Recopilatorio de temas de **Anime** de los que hemos hablado por aquí:
 
-- [Índice general sobre temática de Anime](/anime-mania/), la página que estás leyendo.
+- [Índice general sobre temática de Anime](/anime/), la página que estás leyendo.
 
-- [Revisionado de Overlord](/todo-sobre-overlord/).
+- [Revisionado de Overlord](/anime/overlord/).
 
-- [Revisionado de Mushoku Tensei](/mushoku-tensei-vago-y-maleante/).
+- [Revisionado de Mushoku Tensei](/anime/mushoku-tensei/).
 
 - [La chica que saltaba a través del tiempo](/la-chica-que-saltaba-a-traves-del-tiempo/) (post de 2013).
 

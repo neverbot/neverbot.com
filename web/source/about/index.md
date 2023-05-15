@@ -31,9 +31,9 @@ Además del *blog* en sí (comentarios/*posts* en orden cronológico inverso), t
   - [Reseñas cinematográficas relámpago](/tags/resenas-cinematograficas-relampago/), categoría de *posts* con micro reseñas sobre películas vistas.
   - La [categoría cine](/tags/cine).
 - **Anime**:
-  - [Índice general sobre temática de Anime](/anime-mania/) en esta página.
-  - [Revisionado de Overlord](/todo-sobre-overlord/).
-  - [Revisionado de Mushoku Tensei](/mushoku-tensei-vago-y-maleante/).
+  - [Índice general sobre temática de Anime](/anime/) en esta página.
+  - [Revisionado de Overlord](/anime/overlord/).
+  - [Revisionado de Mushoku Tensei](/anime/mushoku-tensei/).
   - La [categoría de anime](/tags/anime).
 
 ## Me puedes encontrar en...

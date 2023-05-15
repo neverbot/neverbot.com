@@ -1,5 +1,5 @@
 ---
-title: Anime
+title: Akira por Justin Van Genderen
 id: '2691'
 author: neverbot
 tags:
