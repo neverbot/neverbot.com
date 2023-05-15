@@ -19,7 +19,7 @@ Existen numerosas categorías, aunque quizá las más importantes sean las de re
 
 Por si fueran pocos libros, en al menos tres ocasiones se han producido empates de votos (66, 93 y 2010), teniendo estos años dos novelas ganadoras *ex aequo*. Y por si esto a su vez fuera poco, en ocasiones los premios han recaído en terceras, cuartas o quintas partes de alguna saga, lo que me obligará quizá a leerlas enteras. Por suerte la esperanza de vida de nuestra civilización es bastante alta.
 
-Algunas contras tenía que tener este plan de dominación mundial: ciertos premios son inexplicables. En 1983 la cuarta parte de la saga de la *Fundación* de *Isaac Asimov* recibió el premio, obligándome a leer las tres anteriores, aparentemente de mayor calidad a tenor de las reseñas que he leído. En 2003 *Homínidos*, primera parte de una trilogía escrita por *Robert J. Sawyer*, un escritor de *best sellers* canadiense – el año que la convención se celebró en Canadá –. En 2001 fue para la cuarta parte de *Harry Potter*. Premios con historias sin terminar, o premios tardíos porque no nos atrevimos a darlos en el primer libro.
+Algunos contras tenía que tener este plan de dominación mundial: ciertos premios son inexplicables. En 1983 la cuarta parte de la saga de la *Fundación* de *Isaac Asimov* recibió el premio, obligándome a leer las tres anteriores, aparentemente de mayor calidad a tenor de las reseñas que he leído. En 2003 *Homínidos*, primera parte de una trilogía escrita por *Robert J. Sawyer*, un escritor de *best sellers* canadiense – el año que la convención se celebró en Canadá –. En 2001 fue para la cuarta parte de *Harry Potter*. Premios con historias sin terminar, o premios tardíos porque no nos atrevimos a darlos en el primer libro.
 
 Pero teniendo en cuenta que se han entregado ya 65 premios *Hugo* de novela, creo que hay mucho y muy bueno que leer antes de llegar a las malas obras. Cinco libros de *Heinlein*, cuatro de *Lois McMaster Bujold*, obras creadoras de nuevos géneros como el *Neuromante* de *William Gibson*, clásicos de *Clarke*, *Zelazny* o *Dick* y un largo etcétera.
 
@@ -31,4 +31,4 @@ Dejo en esta página constancia de las novelas galardonadas con un premio Hugo q
 
 [Listado de novelas premiadas (en castellano)](https://es.wikipedia.org/wiki/Premio_Hugo_a_la_mejor_novela).
 
-* **[Pórtico](https://neverbot.com/portico-de-frederik-pohl/)**, de Frederik Pohl.
+* **[Pórtico](/portico-de-frederik-pohl/)**, de Frederik Pohl.
