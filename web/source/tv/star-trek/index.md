@@ -17,7 +17,7 @@ Probablemente es imposible que vaya a terminar algún día este "*proyecto*", ya
 
 *[Wikipedia](https://en.wikipedia.org/wiki/Star_Trek): en 2023 están emitiéndose cinco series de Star Trek. Esto es una locura*.{.center}
 
-Una lista de lo que tenemos por delante, actualizada a Marzo de 2023:
+Una lista de lo que tenemos por delante, actualizada a Mayo de 2023:
 
 | Serie | Temps | Eps | Emisión |
 | ----- | :---: | :-: | ------- |
@@ -29,7 +29,7 @@ Una lista de lo que tenemos por delante, actualizada a Marzo de 2023:
 | [*Enterprise*](https://en.wikipedia.org/wiki/Star_Trek:_Enterprise) | 4 | 98 | Sep 2001 – Mayo 2005 |
 | [*Discovery*](https://en.wikipedia.org/wiki/Star_Trek:_Discovery) | 4 | 55 | Sept 2017 – **presente** |
 | [*Short Treks*](https://en.wikipedia.org/wiki/Star_Trek:_Short_Treks) | 2 | 10 | Octubre 2018 – Enero 2020 |
-| *[Picard](https://en.wikipedia.org/wiki/Star_Trek:_Picard)* | 3 | 28 | Enero 2020 – **presente** |
+| *[Picard](https://en.wikipedia.org/wiki/Star_Trek:_Picard)* | 3 | 30 | Enero 2020 – **presente** |
 | [*Lower Decks*](https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks) | 3 | 30 | Agosto 2020 – **presente** |
 | [*Prodigy*](https://en.wikipedia.org/wiki/Star_Trek:_Prodigy) | 1 | 20 | Octubre 2021 – **presente** |
 | [*Strange New Worlds*](https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds) | 1 | 10 | Mayo 2022 – **presente** |
@@ -62,7 +62,7 @@ Ahora bien, si queremos hacer el visionado cronológico, ni intentemos calcularl
 
 ### La línea temporal Kelvin
 
-Sobre las últimas películas de esa lista ya [escribí un poco hace tiempo](../lista-de-correo-de-neverbot-com-01/): en 2009 se produjo un... erm... *reboot*... recomienzo... un cambio en el universo **Star Trek** gracias a un viaje en el tiempo, creando una nueva línea temporal. En esta "realidad" nada de lo que conocemos (**La Serie Original**, **La Nueva Generación**... nada) ha sucedido, y todo vuelve a contarse desde que *Kirk* y *Spock* son jóvenes. 
+Sobre las últimas películas de esa lista ya [escribí un poco hace tiempo](/lista-de-correo-de-neverbot-com-01/): en 2009 se produjo un... erm... *reboot*... recomienzo... un cambio en el universo **Star Trek** gracias a un viaje en el tiempo, creando una nueva línea temporal. En esta "realidad" nada de lo que conocemos (**La Serie Original**, **La Nueva Generación**... nada) ha sucedido, y todo vuelve a contarse desde que *Kirk* y *Spock* son jóvenes. 
 
 [Esta primera película de 2009](http://www.imdb.com/title/tt0796366/) fue dirigida por [J. J. Abrams](http://www.imdb.com/name/nm0009190?ref_=tt_ov_dr). El abuelo de este señor se llamaba *Henry Kelvin*, aparentemente una figura de importancia durante su juventud, y desde entonces ha utilizado como guiño y homenaje la palabra Kelvin [en todas sus producciones](http://the-odi.blogspot.com.es/2008/10/abrams-explains-use-of-kelvin-in-his.html), en forma de huevo de pascua escondido. Tuvimos la nave *U.S.S. Kelvin* en [la primera película](http://www.imdb.com/title/tt0796366/), el [Kelvin Memorial Archive](https://www.youtube.com/watch?v=N7JGgdFRero) en [Into Darkness](http://www.imdb.com/title/tt1408101/). Y finalmente el *fandom* [acabó bautizando](http://screenrant.com/star-trek-jj-abrams-kelvin-timeline/) a esta "línea temporal" como la **línea temporal Kelvin**.
 
@@ -76,8 +76,8 @@ Pues una mezcla. Voy a empezar el visionado teniendo en cuenta la fecha de estre
 
 | Serie | Episodio | Fecha | Stardate | Título |
 | :---: | -------- | ----: | -------: | ------ |
-| TOS   | s00e01 | 30/1/2023 | 2254 / - | [The Cage (primer piloto)](../star-trek-el-episodio-piloto-perdido/) |
-| TOS   | s01e01 | 2/2/2023 | 2266 / 1513.1 | [The Man Trap](../star-trek-la-serie-original-primera-temporada/#the-man-trap-(s01e01))|
+| TOS   | s00e01 | 30/1/2023 | 2254 / - | [The Cage (primer piloto)](/star-trek-el-episodio-piloto-perdido/) |
+| TOS   | s01e01 | 2/2/2023 | 2266 / 1513.1 | [The Man Trap](/star-trek-la-serie-original-primera-temporada/#the-man-trap-(s01e01)) |
 
 Leyenda:
 
