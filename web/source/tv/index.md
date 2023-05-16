@@ -12,7 +12,9 @@ Recopilatorio de temas de **Televisión** de los que hemos hablado por aquí:
 
 - [Índice general sobre temática de Televisión](/tv/), la página que estás leyendo.
 
-- [Revisionado de todo Star Trek ](/tv/star-trek/) (*estoy loquísimo*).
+- [Revisionado de todo Star Trek](/tv/star-trek/) (*estoy loquísimo*).
+
+- [Revisionado de Stranger Things](/tv/stranger-things/).
 
 - [Movidas catódicas](/tags/movidas-catodicas/), categoría propia de *posts* con micro reseñas sobre series vistas.
 
