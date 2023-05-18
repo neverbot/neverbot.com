@@ -31,6 +31,6 @@ Pero yo aquí venía a hablar de mi libro. He *consumido* cada una de las tempor
 
 Y esto, con *mi queridísimo Piscis*, quiero decir, **Stranger Things**, no podía ser. Quería ver la nueva temporada como debe ser, recordando cómo habíamos llegado hasta aquí y pudiendo disfrutar cada momento. Y me ha costado meses encontrar el hueco para poder volver a ver las tres temporadas que ya existían. Así que... aquí estamos.
 
-[Revisionado de Stranger Things](/tv/stranger-things).{.center}
+[Revisionado de Stranger Things](/tv/stranger-things/).{.center}
 
 *Let's go*.

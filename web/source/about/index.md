@@ -26,7 +26,8 @@ Además del *blog* en sí (comentarios/*posts* en orden cronológico inverso), t
 - **Televisión**:
   - [Índice general sobre temática de Televisión](/tv/) en esta página.
   - [Movidas catódicas](/tags/movidas-catodicas/), categoría propia de *posts* con micro reseñas sobre series vistas.
-  - [Revisionado completo de todo Star Trek](/viendo-star-trek-¿como-cuando-y-por-que/).
+  - [Revisionado completo de todo Star Trek](/tv/star-trek/).
+  - [Revisionado de Stranger Things](/tv/stranger-things/).
   - La [categoría de televisión](/tags/tv).
 - **Cine**:
   - [Reseñas cinematográficas relámpago](/tags/resenas-cinematograficas-relampago/), categoría de *posts* con micro reseñas sobre películas vistas.
