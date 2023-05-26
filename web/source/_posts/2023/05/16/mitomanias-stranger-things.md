@@ -19,7 +19,7 @@ Mis mitomanías televisivas por décadas:
 
 Sí, entiendo que **Stranger Things** pueda estar uno (o varios) peldaños por debajo para la mayor parte de los espectadores, pero en mi humilde (pero infalible) opinión, si se hubiera distribuído a un ritmo de episodio semanal igual que las anteriores, muy probablemente hubiese eclipsado cualquier otro estreno durante sus años y habría dominado (aún más) el *zeitgeist* televisivo de los últimos tiempos.
 
-Hay muchas razones buenas y malas para discutir acerca de los ritmos de estrenos y las retransmisiones, y seguro que es más cómodo consumir como el espectador desea, pero no podemos negar que el impacto se diluye sobremanera. Netflix no ha sabido explotar esto, que HBO siempre supo y Disney+ sí ha entendido aún llegando mucho tiempo después.
+Hay muchas razones buenas y malas para discutir acerca de los ritmos de estrenos y las retransmisiones, y seguro que es más cómodo consumir como el espectador desea, pero no podemos negar que el impacto se diluye sobremanera. *Netflix* no ha sabido explotar esto, que *HBO* siempre supo y *Disney+* sí ha entendido aún llegando mucho tiempo después.
 
 ![stranger-things](./mitomanias-stranger-things/stranger-things.png){.right}
 
