@@ -54,6 +54,6 @@ No gastéis tiempo en esto.
 
 Emociones encontradas aquí. Es la segunda vez que intento verla (tuve que volver a empezar desde el principio porque no recordaba nada), y me he vuelto a parar, esta vez en algún momento de la quinta temporada.
 
-Hay cosas muy decentes aquí, de [*Ci-Fi Hard*](https://en.wikipedia.org/wiki/Hard_science_fiction), que la ponen bastante por encima de la media. Pero luego vemos otros detalles, y unas actuaciones lamentables, que quitan las ganas de continuar.
+Tiene muchas cosas decentes, de [*Ci-Fi Hard*](https://en.wikipedia.org/wiki/Hard_science_fiction), que la ponen bastante por encima de la media. Pero luego vemos otros detalles, y unas actuaciones lamentables, que quitan las ganas de continuar.
 
 Intentaré terminarla, pero me están entrando más ganas de leer los libros que de seguir viendo episodios.
