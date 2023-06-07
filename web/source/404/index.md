@@ -1,11 +1,7 @@
 ---
 title: 404
-author: neverbot
-tags:
-  - blog
-date: 2023-06-07 23:32:04
+date: 2023-06-07 23:34:20
 ---
-
 
 No tenemos nada de eso por aquí.
 
