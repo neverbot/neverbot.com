@@ -16,7 +16,7 @@ Estoy a tope últimamente con las series de ciencia-ficción, y no consigo dar c
 
 Miniserie autocontenida, que siempre está bien. Historias parcialmente relacionadas, con algunos personajes comunes, que nos cuentan posibles resultados de la deriva climática de este, nuestro planeta, a lo largo de las próximas décadas. Algunos actores chachis, otros *meh*, argumentos que te llevan de la manita con músicas de fondo para dejarte claro cómo tienes que sentirte en cada momento. Que está bien, pero... misma sensación que con [Don't Look Up](https://letterboxd.com/film/dont-look-up-2021/), si me lo edulcoras todo tanto el mensaje se diluye, e incluso llega al punto de empezar a provocar rechazo, narrativamente hablando: "*a ver si acaba esto ya*".
 
-### [Halo](https://www.themoviedb.org/tv/52814-halo) (2022, *Paramount+*, 1ª temporada)
+### [Halo](https://www.themoviedb.org/tv/52814-halo) (*Paramount+*, 2022, 1ª temporada)
 
 ![halo-tv-series](./movidas-catodicas-ciencia-ficcion-televisiva/halo-tv-series.jpg)
 
