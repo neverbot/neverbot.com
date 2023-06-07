@@ -29,8 +29,6 @@ Cuando recuerdas algo, hay una parte de tu cerebro que no sabe distinguir si est
 
 Pero yo aquí venía a hablar de mi libro. He *consumido* cada una de las temporadas de **Stranger Things** en su momento, con la consabida expectación previa. Pero con esta última, la cuarta, no he podido hacerlo. Ha habido una larga pausa desde el 2019 de la tercera temporada hasta el 2022 de la cuarta, durante la que **pasaron un montón de cosas en nuestro mundo real**, ¿os acordáis? Algo le ha sucedido a mis procesos mentales durante estos años, en los que muchas cosas se han diluído en el recuerdo, como si hubiera pasado una década en vez de los tres años reales. Lo cierto es que no recordaba *nada*. Me está pasando con muchas cosas, con libros, películas y series... los argumentos se diluyen y confunden, y sólo guardo tenues recuerdos de las líneas generales.
 
-Y esto, con *mi queridísimo Piscis*, quiero decir, **Stranger Things**, no podía ser. Quería ver la nueva temporada como debe ser, recordando cómo habíamos llegado hasta aquí y pudiendo disfrutar cada momento. Y me ha costado meses encontrar el hueco para poder volver a ver las tres temporadas que ya existían. Así que... aquí estamos.
+Y esto, con *mi queridísimo Piscis*, quiero decir, **Stranger Things**, no podía ser. Quería ver la nueva temporada como debe ser, recordando cómo habíamos llegado hasta aquí y pudiendo disfrutar cada momento. Y me ha costado meses encontrar el hueco para poder volver a ver las tres temporadas que ya existían. 
 
-[Revisionado de Stranger Things](/tv/stranger-things/).{.center}
-
-*Let's go*.
+Así que... aquí estamos. Voy a pegarme un revisionado de **Stranger Things** desde el comienzo, y así podré por fin ponerme al día. Os contaré cuando termine. *Let's go*.
