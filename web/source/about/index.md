@@ -33,6 +33,7 @@ Además del *blog* en sí (comentarios/*posts* en orden cronológico inverso), t
   - La [categoría cine](/tags/cine).
 - **Anime**:
   - [Índice general sobre temática de Anime](/anime/) en esta página.
+  - Todo [Shingeki no Kyojin - Ataque a los Titanes](/anime/shingeki-no-kyojin/).
   - [Revisionado de Overlord](/anime/overlord/).
   - [Revisionado de Mushoku Tensei](/anime/mushoku-tensei/).
   - La [categoría de anime](/tags/anime).

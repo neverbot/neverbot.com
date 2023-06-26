@@ -15,6 +15,8 @@ Recopilatorio de temas de **Anime** de los que hemos hablado por aquí:
 
 - [Índice general sobre temática de Anime](/anime/), la página que estás leyendo.
 
+- Todo [Shingeki no Kyojin - Ataque a los Titanes](/anime/shingeki-no-kyojin/).
+
 - [Revisionado de Overlord](/anime/overlord/).
 
 - [Revisionado de Mushoku Tensei](/anime/mushoku-tensei/).
