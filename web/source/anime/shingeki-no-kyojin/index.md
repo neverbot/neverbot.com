@@ -29,3 +29,9 @@ Tremendo mundo este, en el que la humanidad vive dentro de tres grandes murallas
 ![image-20230626163339](./index/image-20230626163339.png)
 
 ![image-20230626163344](./index/image-20230626163344.png)
+
+#### Episodio 2, La caída de Shiganshina (2ª parte)
+
+![image-20230627153601](./index/image-20230627153601.jpg)
+
+No sólo es invadida la ciudad, sino que los titanes traspasan el primer muro campando a sus anchas. Refugiados, hambruna, qué mal pinta todo. Pasa un año y los intentos de retomar los territorios perdidos tienen resultados catastróficos. Nuestros protagonistas, ahora huérfanos, deciden alistarse, entrando a formar parte de la **Tropa de Reclutas del Ciclo Nº104**, con lo que termina este prólogo de dos capítulos.
