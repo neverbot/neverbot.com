@@ -31,6 +31,7 @@ Además del *blog* en sí (comentarios/*posts* en orden cronológico inverso), t
 - **Cine**:
   - [Índice general sobre temática de cine](/cine/) en esta página.
   - [Reseñas cinematográficas relámpago](/tags/resenas-cinematograficas-relampago/), categoría de *posts* con micro reseñas sobre películas vistas.
+  - [Revisionado completo de todo Star Wars](/cine/todo-star-wars/).
   - La [categoría cine](/tags/cine).
 - **Anime**:
   - [Índice general sobre temática de Anime](/anime/) en esta página.
