@@ -24,11 +24,12 @@ Además del *blog* en sí (comentarios/*posts* en orden cronológico inverso), t
   - [Lista de los Premios Hugo de novela que voy leyendo](/los-premios-hugo/) (aunque esta iniciativa quedó parada apenas empezó).
   - La [categoría de libros](/tags/libros).
 - **Televisión**:
-  - [Índice general sobre temática de Televisión](/tv/) en esta página.
+  - [Índice general sobre temática de televisión](/tv/) en esta página.
   - [Movidas catódicas](/tags/movidas-catodicas/), categoría propia de *posts* con micro reseñas sobre series vistas.
   - [Revisionado completo de todo Star Trek](/tv/star-trek/).
   - La [categoría de televisión](/tags/tv).
 - **Cine**:
+  - [Índice general sobre temática de cine](/cine/) en esta página.
   - [Reseñas cinematográficas relámpago](/tags/resenas-cinematograficas-relampago/), categoría de *posts* con micro reseñas sobre películas vistas.
   - La [categoría cine](/tags/cine).
 - **Anime**:
