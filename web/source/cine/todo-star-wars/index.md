@@ -21,6 +21,10 @@ Algunas de las cosas de esta lista estarán marcadas como {% badge "orange" "Leg
 
 Actualizado a Octubre de 2023.
 
+{% year "36-19 B" "2022, Tv, Animación (1 temporada, 6 capítulos)" "Star Wars: Tales of the Jedi" %}
+![img](./index/k3nWQb0E8mLSR8acSkJP78VRVMv.jpg){.left width=150px}*Adéntrate en las vidas de dos Jedi completamente diferentes, antes de las precuelas cinematográficas: Ahsoka Tano y el Conde Dooku.*
+{% endyear %}
+
 {% year "32 BBY" "1999, Cine" "Episode I The Phantom Menace" %}
 ![img](./index/50711-star-wars-episode-i-the-phantom-menace-0-230-0-345-crop.jpg){.left width=150px}*Un niño llamado Anakin Skywalker es encontrado por los Jedi Obi-Wan Kenobi y Qui-Gon Jinn. Juntos, intentan proteger a la Reina Amidala y luchar contra la amenaza de un malvado sith llamado Darth Maul y su señor Darth Sidious.*
 {% endyear %}
@@ -97,8 +101,16 @@ Actualizado a Octubre de 2023.
 ![img](./index/laCJxobHoPVaLQTKxc14Y2zV64J.jpg){.left width=150px}*Seguimos el viaje de Ahsoka tras su última aparición durante "The Book of Boba Fett", donde conoció a Grogu.*
 {% endyear %}
 
+{% year "33 ABY" "2018, Tv, Animación (1 temporada, 20 capítulos)" "Star Wars: Resistance (_temporada 1_)" %}
+![img](./index/xul6SG8rar3wkHPY8YusUtxcdlZ.jpg){.left width=150px}*Serie animada que se centra en la vida de Kazuda Xiono, un joven piloto de la Resistencia. Poco antes de los eventos de "The Force Awakens", Kazuda Xiono es reclutado por Leia Organa y Poe Dameron para trabajar como espía y descubrir información sobre la Primera Orden, una organización que amenaza a la galaxia.*
+{% endyear %}
+
 {% year "34 ABY" "2015, Cine" "Episode VII The Force Awakens" %}
 ![img](./index/g2mqdMU3jaz6uEosF5aqJgbw7e9-0-230-0-345-crop.jpg){.left width=150px}*Primera película de la tercera trilogía de Star Wars, ambientada décadas después de los eventos de "Return of the Jedi". La película sigue a una nueva generación de personajes mientras se enfrentan a la amenaza de la Primera Orden, sucesora del Imperio Galáctico. La trama se centra en Rey, una chatarrera con un misterioso pasado, Finn, un exsoldado de la Primera Orden en busca de redención, y Poe Dameron, un piloto de la Resistencia. Juntos, se embarcan en una misión para encontrar a Luke Skywalker, el último Jedi, quien ha desaparecido. Mientras tanto, el villano Kylo Ren, seguidor del Lado Oscuro de la Fuerza, busca consolidar su poder y encontrar a Luke.*
+{% endyear %}
+
+{% year "34 ABY" "2019, Tv, Animación (1 temporada, 18 capítulos)" "Star Wars: Resistance (_temporada 2_)" %}
+![img](./index/xul6SG8rar3wkHPY8YusUtxcdlZ.jpg){.left width=150px}*Siguen las aventuras del joven piloto Kazuda Xiono como espía de la Resistencia, en paralelo a los eventos de "The Last Jedi". A medida que la serie avanza, la amenaza de la Primera Orden se vuelve más evidente y Kazuda y sus aliados se ven involucrados en conflictos más peligrosos.*
 {% endyear %}
 
 {% year "34 ABY" "2017, Cine" "Episode VIII The Last Jedi" %}
@@ -110,3 +122,35 @@ Actualizado a Octubre de 2023.
 {% endyear %}
 
 {% endtimeline %}
+
+
+## Fuera de orden y continuidad
+
+{% timeline %}
+
+{% year " " "1978, Tv" "Star Wars Holiday Special" %}
+![img](./index/220px-StarWarsHS.jpg){.left width=150px}{% badge "orange" "No canon" %}
+{% endyear %}
+
+{% year " " "1984, Tv" "The Ewok Adventure" %}
+![img](./index/220px-Caravan_bg.jpeg){.left width=150px}{% badge "orange" "No canon" %}
+{% endyear %}
+
+{% year " " "1985, Tv" "Ewoks: The Battle for Endor" %}
+![img](./index/220px-Ilm-ewok2.jpg){.left width=150px}{% badge "orange" "No canon" %}
+{% endyear %}
+
+{% year " " "2020, Tv" "The Lego Star Wars Holiday Special" %}
+![img](./index/220px-The_Lego_Star_Wars_Holiday_Special_poster.jpg){.left width=150px}{% badge "orange" "No canon" %}
+{% endyear %}
+
+{% year " " "2021, Tv, Animación (1 temporada, 9 capítulos)" "Star Wars: Visions (_temporada 1_)" %}
+![img](./index/8yECMpsZ8wAvra4Sow6Bz9WOO5f.jpg){.left width=150px}{% badge "orange" "No canon" %}
+{% endyear %}
+
+{% year " " "2023, Tv, Animación (1 temporada, 9 capítulos)" "Star Wars: Visions (_temporada 2_)" "last" %}
+![img](./index/6NgLGcOHscy6yLXpKCQi4Mz1yVa.jpg){.left width=150px}{% badge "orange" "No canon" %}
+{% endyear %}
+
+{% endtimeline %}
+
