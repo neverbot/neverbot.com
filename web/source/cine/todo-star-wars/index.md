@@ -50,47 +50,63 @@ Actualizado a Octubre de 2023.
 {% endyear %}
 
 {% year "13-10 B" "2005, Cine" "Solo: A Star Wars Story" %}
-![img](./index/278668-solo-a-star-wars-story-0-230-0-345-crop.jpg){.left width=150px}
+![img](./index/278668-solo-a-star-wars-story-0-230-0-345-crop.jpg){.left width=150px}*Seguimos la juventud de Han Solo mientras escapa de su planeta natal, Corellia, y se involucra en actividades criminales en el inframundo galáctico, conociendo a Chewbacca y Lando Calrissian, y consiguiendo su icónica nave, el Halcón Milenario.*
 {% endyear %}
 
 {% year "9 BBY" "2022, Tv (1 temporada, 6 capítulos)" "Obi-Wan Kenobi" %}
-![img](./index/qJRB789ceLryrLvOKrZqLKr2CGf.jpg){.left width=150px}
+![img](./index/qJRB789ceLryrLvOKrZqLKr2CGf.jpg){.left width=150px}*Vuelve el icónico Jedi Obi-Wan Kenobi, interpretado por Ewan McGregor, diez años después de los eventos de "Star Wars: Episode III - Revenge of the Sith". Seguimos a Obi-Wan mientras se esconde en el desértico planeta Tatooine, vigilando desde las sombras al joven Luke Skywalker.*
 {% endyear %}
 
 {% year "5-0 B" "2014, Tv, Animación (4 temporadas, 75 capítulos)" "Star Wars Rebels" %}
-![img](./index/vOUxo5sfXyQPIoF8rtYK1OVVBPi.jpg){.left width=150px}
+![img](./index/vOUxo5sfXyQPIoF8rtYK1OVVBPi.jpg){.left width=150px}*"Star Wars Rebels" es una serie de animación situada entre los eventos de "Star Wars: Episode III - Revenge of the Sith" y "Star Wars: Episode IV - A New Hope". La serie sigue las aventuras de un variado grupo de rebeldes que luchan contra el Imperio Galáctico: Ezra Bridger, un joven con habilidades sensibles a la Fuerza; Kanan Jarrus, un Jedi superviviente; Hera Syndulla, la piloto y líder; Sabine Wren, una artista y experta en explosivos; Garazeb "Zeb" Orrelios, un guerrero Lasat; y Chopper, un droide astromecánico.*
 {% endyear %}
 
 {% year "5-0 B" "2022, Tv (1 temporada, 12 capítulos)" "Andor" %}
-![img](./index/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg){.left width=150px}
+![img](./index/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg){.left width=150px}*Seguimos al personaje de Cassian Andor, interpretado por Diego Luna, quien previamente apareció en la película "Rogue One: A Star Wars Story", cinco años antes de los eventos de "Rogue One", sumergiéndonos en el mundo del espionaje y la resistencia contra el Imperio Galáctico.*
 {% endyear %}
 
 {% year "0 BBY" "2005, Cine" "Rogue One: A Star Wars Story" %}
-![img](./index/258128-rogue-one-a-star-wars-story-0-230-0-345-crop.jpg){.left width=150px}
+![img](./index/258128-rogue-one-a-star-wars-story-0-230-0-345-crop.jpg){.left width=150px}*Justo antes de los eventos de "Star Wars: Episode IV - A New Hope", conocemos a un grupo de rebeldes liderados por Jyn Erso, quien es reclutada por la Alianza Rebelde para robar los planos de la Estrella de la Muerte, la temible estación espacial del Imperio Galáctico capaz de destruir planetas enteros.*
 {% endyear %}
 
 {% year "0 BBY" "1977, Cine" "Episode IV A New Hope" %}
-![img](./index/2706-star-wars-0-230-0-345-crop.jpg){.left width=150px}*Luke Skywalker se une a la Alianza Rebelde para enfrentarse al malvado Imperio Galáctico. Con la ayuda de Obi-Wan Kenobi, la Princesa Leia y Han Solo, Luke se embarca en un viaje para destruir la Estrella de la Muerte y restaurar la paz en la galaxia.*
+![img](./index/2706-star-wars-0-230-0-345-crop.jpg){.left width=150px}*Primera película de la trilogía original de Star Wars. Luke Skywalker se une a la Alianza Rebelde para enfrentarse al malvado Imperio Galáctico. Con la ayuda de Obi-Wan Kenobi, la Princesa Leia y Han Solo, Luke se embarca en un viaje para destruir la Estrella de la Muerte y restaurar la paz en la galaxia.*
 {% endyear %}
 
 {% year "3 ABY" "1980, Cine" "Episode V The Empire Strikes Back" %}
-![img](./index/7BuH8itoSrLExs2YZSsM01Qk2no-0-230-0-345-crop.jpg){.left width=150px}
+![img](./index/7BuH8itoSrLExs2YZSsM01Qk2no-0-230-0-345-crop.jpg){.left width=150px}*Segunda película de la trilogía original de Star Wars. La película continúa la lucha de la Alianza Rebelde contra el Imperio Galáctico y sigue a Luke Skywalker, Leia Organa, Han Solo tras la destrucción de la Estrella de la Muerte. Seremos testigos del entrenamiento de Luke como Jedi por parte de Yoda en el planeta Dagobah, mientras que Han y Leia buscan refugio en la ciudad de las nubes de Bespin, solo para caer en una trampa tendida por el temible Darth Vader.*
 {% endyear %}
 
 {% year "4 ABY" "1983, Cine" "Episode VI Return of the Jedi" %}
-![img](./index/5wDrNqePjb5SOucrWQwiFu340vv-0-230-0-345-crop.jpg){.left width=150px}
+![img](./index/5wDrNqePjb5SOucrWQwiFu340vv-0-230-0-345-crop.jpg){.left width=150px}*Tercera película de la trilogía original de Star Wars. Continúa la lucha de la Alianza Rebelde contra el Imperio Galáctico y sigue a Luke Skywalker, Leia Organa, Han Solo y sus aliados mientras se preparan para el enfrentamiento final con el Emperador Palpatine y su aprendiz, Darth Vader.*
+{% endyear %}
+
+{% year "9 ABY" "2019, Tv (2 temporadas, 16 capítulos)" "The Mandalorian (_temporadas 1, 2_)" %}
+![img](./index/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg){.left width=150px}*Sigue las aventuras de un cazarrecompensas conocido simplemente como "El Mandaloriano" o "Mando", miembro de una antigua orden de guerreros conocidos por su código de honor. Mando es contratado para rastrear y capturar a un misterioso niño alienígena de la misma especie que Yoda. A medida que Mando se involucra en la búsqueda, desarrolla un fuerte vínculo con el niño y se convierte en su protector. En la segunda temporada, Mando se embarca en una misión para encontrar al hogar del niño, buscando a otros mandalorianos que puedan ayudarlo.*
+{% endyear %}
+
+{% year "9-11 A" "2022, Tv (1 temporada, 7 capítulos)" "The Book of Boba Fett" %}
+![img](./index/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg){.left width=150px}*Tras los eventos de la segunda temporada de "The Mandalorian", seguimos a Boba Fett y Fennec Shand mientras asumen un papel de liderazgo en el inframundo del crimen en Tatooine. La serie aborda cómo Boba Fett recuperó su icónica armadura y su regreso a la escena galáctica después de ser devorado por el Sarlacc en "Return of the Jedi".*
+{% endyear %}
+
+{% year "11 ABY" "2023, Tv (1 temporada, 8 capítulos)" "The Mandalorian (_temporada 3_)" %}
+![img](./index/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg){.left width=150px}*El Mandaloriano y Grogu viajan hasta Mandalore junto a Bo-Katan Kryze para unir a varias facciones de Mandalorianos y reclamar el planeta.*
+{% endyear %}
+
+{% year "11 ABY" "2023, Tv (1 temporada, 8 capítulos)" "Ahsoka" %}
+![img](./index/laCJxobHoPVaLQTKxc14Y2zV64J.jpg){.left width=150px}*Seguimos el viaje de Ahsoka tras su última aparición durante "The Book of Boba Fett", donde conoció a Grogu.*
 {% endyear %}
 
 {% year "34 ABY" "2015, Cine" "Episode VII The Force Awakens" %}
-![img](./index/g2mqdMU3jaz6uEosF5aqJgbw7e9-0-230-0-345-crop.jpg){.left width=150px}
+![img](./index/g2mqdMU3jaz6uEosF5aqJgbw7e9-0-230-0-345-crop.jpg){.left width=150px}*Primera película de la tercera trilogía de Star Wars, ambientada décadas después de los eventos de "Return of the Jedi". La película sigue a una nueva generación de personajes mientras se enfrentan a la amenaza de la Primera Orden, sucesora del Imperio Galáctico. La trama se centra en Rey, una chatarrera con un misterioso pasado, Finn, un exsoldado de la Primera Orden en busca de redención, y Poe Dameron, un piloto de la Resistencia. Juntos, se embarcan en una misión para encontrar a Luke Skywalker, el último Jedi, quien ha desaparecido. Mientras tanto, el villano Kylo Ren, seguidor del Lado Oscuro de la Fuerza, busca consolidar su poder y encontrar a Luke.*
 {% endyear %}
 
 {% year "34 ABY" "2017, Cine" "Episode VIII The Last Jedi" %}
-![img](./index/47zTsc9gkruDmDssiCqyZTxdOla-0-230-0-345-crop.jpg){.left width=150px}
+![img](./index/47zTsc9gkruDmDssiCqyZTxdOla-0-230-0-345-crop.jpg){.left width=150px}*Continúa la historia de la tercera trilogía de Star Wars, siguiendo a Rey, Finn, Poe Dameron y Kylo Ren mientras luchan por sus respectivas causas, poco después de los eventos de "The Force Awakens", centrándonos en el entrenamiento de Rey como Jedi por parte de Luke Skywalker.*
 {% endyear %}
 
 {% year "35 ABY" "2019, Cine" "Episode IX The Rise of Skywalker" "last" %}
-![img](./index/131984-star-wars-the-rise-of-skywalker-0-230-0-345-crop.jpg){.left width=150px}
+![img](./index/131984-star-wars-the-rise-of-skywalker-0-230-0-345-crop.jpg){.left width=150px}*Conclusión de la tercera trilogía de Star Wars y la saga Skywalker en su conjunto. La película sigue a Rey, Finn, Poe Dameron y sus aliados mientras se enfrentan a la resurgida amenaza del Emperador Palpatine y la Última Orden. La trama se desarrolla después de los eventos de "The Last Jedi" y se centra en la búsqueda de Rey por encontrar su verdadera identidad y su conexión con la Fuerza. Mientras tanto, Kylo Ren continúa su conflicto interno y se convierte en el nuevo líder de la Primera Orden.*
 {% endyear %}
 
 {% endtimeline %}
