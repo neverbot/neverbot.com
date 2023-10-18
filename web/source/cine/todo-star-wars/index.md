@@ -65,7 +65,7 @@ Actualizado a Octubre de 2023.
 ![img](./index/vOUxo5sfXyQPIoF8rtYK1OVVBPi.jpg){.left width=150px}*"Star Wars Rebels" es una serie de animación situada entre los eventos de "Star Wars: Episode III - Revenge of the Sith" y "Star Wars: Episode IV - A New Hope". La serie sigue las aventuras de un variado grupo de rebeldes que luchan contra el Imperio Galáctico: Ezra Bridger, un joven con habilidades sensibles a la Fuerza; Kanan Jarrus, un Jedi superviviente; Hera Syndulla, la piloto y líder; Sabine Wren, una artista y experta en explosivos; Garazeb "Zeb" Orrelios, un guerrero Lasat; y Chopper, un droide astromecánico.*
 {% endyear %}
 
-{% year "5-0 B" "2022, Tv (1 temporada, 12 capítulos)" "Andor" %}
+{% year "5 BBY" "2022, Tv (1 temporada, 12 capítulos)" "Andor" %}
 ![img](./index/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg){.left width=150px}*Seguimos al personaje de Cassian Andor, interpretado por Diego Luna, quien previamente apareció en la película "Rogue One: A Star Wars Story", cinco años antes de los eventos de "Rogue One", sumergiéndonos en el mundo del espionaje y la resistencia contra el Imperio Galáctico.*
 {% endyear %}
 
