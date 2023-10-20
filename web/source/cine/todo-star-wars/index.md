@@ -15,11 +15,11 @@ Algunas de las cosas de esta lista estarán marcadas como {% badge "orange" "Leg
 
 *[Wikipedia](https://en.wikipedia.org/wiki/Star_Wars#Fictional_timeline): dónde va cada cosa desde 2014, fecha de creación del nuevo canon Disney.*{.center}
 
-{% timeline %}
-
 ## Timeline
 
 Actualizado a Octubre de 2023.
+
+{% timeline %}
 
 {% year "36-19 B" "2022, Tv, Animación (1 temporada, 6 capítulos)" "Star Wars: Tales of the Jedi" %}
 ![img](./index/k3nWQb0E8mLSR8acSkJP78VRVMv.jpg){.left width=150px}*Adéntrate en las vidas de dos Jedi completamente diferentes, antes de las precuelas cinematográficas: Ahsoka Tano y el Conde Dooku.*
