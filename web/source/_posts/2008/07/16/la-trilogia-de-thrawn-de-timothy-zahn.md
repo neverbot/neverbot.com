@@ -9,7 +9,7 @@ tags:
 date: 2008-07-16 13:06:43
 ---
 
-> Asumamos las cosas bien claras desde el principio: **últimamente no hago más que leer mierda**. Pero tenía unos cuantos libros a medias desde hacía años y no me gusta dejarlos así. Bien es cierto que la vida es corta y hay muchas cosas por hacer (entre ellas leer algo bueno), pero en el caso de Reinos Olvidados [el último libro](./el-legado-de-rasalvatore/) ha servido para cancelar mi necesidad de seguir sabiendo algo más de la saga, así que quizá consiga lo mismo si termino de leer algunos de los pendientes.
+> Asumamos las cosas bien claras desde el principio: **últimamente no hago más que leer mierda**. Pero tenía unos cuantos libros a medias desde hacía años y no me gusta dejarlos así. Bien es cierto que la vida es corta y hay muchas cosas por hacer (entre ellas leer algo bueno), pero en el caso de Reinos Olvidados [el último libro](/el-legado-de-rasalvatore/) ha servido para cancelar mi necesidad de seguir sabiendo algo más de la saga, así que quizá consiga lo mismo si termino de leer algunos de los pendientes.
 > 
 > Siempre me estoy excusando por leer este tipo de cosas, como si quisiera que no pensárais que no tengo cultura... a ver, **a veces son libros divertidos**, y punto. También he leído hace poco [¿Quién se ha llevado mi queso?](http://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F) y no os castigo hablando del él. Aunque bien pensado... me lo dejo apuntado para escribir algo al respecto.
 
