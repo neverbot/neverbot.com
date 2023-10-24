@@ -23,7 +23,7 @@ Mi compra de este mes:
   
 ![200911091256.jpg](./cincuenta-euros-en-noviembre/200911091256.jpg)[Starless Night](http://www.bookdepository.co.uk/book/9780786948611/) (Noche sin estrellas). En castellano creo recordar que está descatalogado, y ya sólo se puede comprar en cofres o en la horrenda edición de "_coleccionista_" que tiene _Timun Mas_. El precio individual rondaba los catorce euros. Precio en _BookDepository_: 4.91 euros.
 
-Es el... ¿octavo? libro de _R. A. Salvatore_ centrado en el personaje de _Drizzt Do'Urden_. En mi post sobre el último de estos libros que leí ([El Legado](https://neverbot.com/juegos/rol/el-legado-de-rasalvatore/), que era el séptimo, post de Julio de 2008), lo puse a caer de un burro, y con razón. Quiero probar el siguiente en inglés por ver si cambia algo. No aprendo y no aprenderé nunca.
+Es el... ¿octavo? libro de _R. A. Salvatore_ centrado en el personaje de _Drizzt Do'Urden_. En mi post sobre el último de estos libros que leí ([El Legado](/el-legado-de-rasalvatore/), que era el séptimo, post de Julio de 2008), lo puse a caer de un burro, y con razón. Quiero probar el siguiente en inglés por ver si cambia algo. No aprendo y no aprenderé nunca.
 
   
 ![200911091301.jpg](./cincuenta-euros-en-noviembre/200911091301.jpg) [Mouse Guard, The Roleplaying Game](http://www.bookdepository.co.uk/book/9781848561748/). Uno de los juegos de rol independientes que más ruido han hecho durante el último año (mejor juego del 2009 en los premios _Origin_).

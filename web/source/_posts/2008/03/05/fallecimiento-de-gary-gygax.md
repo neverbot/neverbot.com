@@ -6,6 +6,7 @@ tags:
   - juegos
   - miniblog
   - mundo real™
+  - rol
 date: 2008-03-05 16:02:41
 ---
 

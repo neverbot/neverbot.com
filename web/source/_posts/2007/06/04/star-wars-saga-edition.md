@@ -4,6 +4,7 @@ id: '472'
 author: neverbot
 tags:
   - juegos
+  - rol
 date: 2007-06-04 12:38:25
 ---
 
