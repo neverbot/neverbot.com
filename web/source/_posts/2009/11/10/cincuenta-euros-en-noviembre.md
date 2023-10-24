@@ -3,10 +3,10 @@ title: Cincuenta euros en Noviembre
 id: '2053'
 author: neverbot
 tags:
-  - Compras
+  - compras
   - libros
   - juegos
-    - Rol
+  - rol
   - tebeos
 date: 2009-11-10 11:18:39
 ---

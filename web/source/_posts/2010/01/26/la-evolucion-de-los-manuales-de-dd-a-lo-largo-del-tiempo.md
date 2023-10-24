@@ -4,8 +4,7 @@ id: '2281'
 author: neverbot
 tags:
   - juegos
-  - juegos
-    - Rol
+  - rol
 date: 2010-01-26 09:54:20
 ---
 

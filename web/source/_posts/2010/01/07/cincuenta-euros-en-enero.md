@@ -4,7 +4,7 @@ id: '2242'
 author: neverbot
 tags:
   - cine
-  - Compras
+  - compras
   - tebeos
 date: 2010-01-07 20:28:49
 ---

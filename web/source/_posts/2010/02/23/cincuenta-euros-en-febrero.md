@@ -3,7 +3,7 @@ title: Cincuenta euros en Febrero
 id: '2389'
 author: neverbot
 tags:
-  - Compras
+  - compras
   - informática
   - libros
   - tebeos

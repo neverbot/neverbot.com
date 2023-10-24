@@ -6,7 +6,7 @@ tags:
   - libros
   - reseñas
   - juegos
-    - Rol
+  - rol
 date: 2008-07-10 09:13:51
 ---
 

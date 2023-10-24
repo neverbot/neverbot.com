@@ -3,7 +3,7 @@ title: Don Draper says...
 id: '2820'
 author: neverbot
 tags:
-  - Compras
+  - compras
   - pensamientos aleatorios
   - tv
 date: 2010-12-14 09:37:59
