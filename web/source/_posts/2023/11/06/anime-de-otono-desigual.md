@@ -43,5 +43,5 @@ Si haces estas cosas de machacar teclas y botones online le verás la gracia (*I
 Estoy probando, sin decidirme todavía:
 
 - [*Bōshoku no Beruseruku*](https://en.wikipedia.org/wiki/Berserk_of_Gluttony), *Boushoku no berserk*, ***Berserk of Gluttony***, como lo veáis escrito.
-- En breve empiezo con la segunda temporada de [Goblin Slayer](https://en.wikipedia.org/wiki/Goblin_Slayer), quiero tener cápitulos de margen.
+- En breve empiezo con la segunda temporada de [**Goblin Slayer**](https://en.wikipedia.org/wiki/Goblin_Slayer), quiero tener cápitulos de margen.
 - [*Toaru Ossan no VRMMO Katsudōki*](https://en.wikipedia.org/wiki/A_Playthrough_of_a_Certain_Dude%27s_VRMMO_Life), ***A Playthrough of a Certain Dude's VRMMO Life***, esta creo que no va a pasar mi gillotina personal, después de un par de capítulos no la veo al nivel exigido, pero está por confirmar. Tiene una premisa muy similar a *Shangri-La Frontier*, pero centrándose en partes mucho menos (a priori) interesantes de la experiencia de un juego *online*.
