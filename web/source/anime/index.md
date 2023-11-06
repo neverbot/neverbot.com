@@ -15,14 +15,18 @@ Recopilatorio de temas de **Anime** de los que hemos hablado por aquí:
 
 - [Índice general sobre temática de Anime](/anime/), la página que estás leyendo.
 
-- Todo [Shingeki no Kyojin - Ataque a los Titanes](/anime/shingeki-no-kyojin/).
+- La [categoría de anime](/tags/anime).
 
-- [Revisionado de Overlord](/anime/overlord/).
+- Todo [**Shingeki no Kyojin** - Ataque a los Titanes](/anime/shingeki-no-kyojin/).
 
-- [Revisionado de Mushoku Tensei](/anime/mushoku-tensei/).
+- [Revisionado de **Overlord**](/anime/overlord/).
 
-- [La chica que saltaba a través del tiempo](/la-chica-que-saltaba-a-traves-del-tiempo/) (post de 2013).
+- [Revisionado de **Mushoku Tensei**](/anime/mushoku-tensei/).
 
-- [Ghost in the Shell](/ghost-in-the-shell/) (post del 2012), aunque ya había escrito [largo y tendido acerca de *Shirow*](/la-ciencia-ficcion-segun-masamune-shirow/) en 2003, en un artículo para el portal [cYbErDaRk.net](http://www.cyberdark.net/portada.php?edi=6&cod=126) que he recuperado en este blog.
+- [**La chica que saltaba a través del tiempo**](/la-chica-que-saltaba-a-traves-del-tiempo/) (post de 2013).
 
-- [Apunte rápido sobre High School of the Dead](/del-fanservice-como-nueva-cultura-pop/) acerca del *fanservice* en general (post de 2012).
+- [**Ghost in the Shell**](/ghost-in-the-shell/) (post del 2012), aunque ya había escrito [largo y tendido acerca de *Shirow*](/la-ciencia-ficcion-segun-masamune-shirow/) en 2003, en un artículo para el portal [cYbErDaRk.net](http://www.cyberdark.net/portada.php?edi=6&cod=126) que he recuperado en este blog.
+
+- [Apunte rápido sobre **High School of the Dead**](/del-fanservice-como-nueva-cultura-pop/) acerca del *fanservice* en general (post de 2012).
+
+- Apuntes sobre las **nuevas temporadas de anime**: [otoño 2023](/anime-de-otono-desigual/).
