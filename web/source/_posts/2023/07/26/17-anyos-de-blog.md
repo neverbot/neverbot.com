@@ -15,5 +15,5 @@ Aniversarios:
 
 - [Duodécimo](/una-forma-como-cualquier-otra-de-perder-el-tiempo), [undécimo](/once/), [décimo](/y-diez/), [noveno](/nueve/), [octavo](/ocho/), [séptimo](/septimo-aniversario/), [sexto](/sexto-aniversario/), [quinto](/quinto-aniversario/), [cuarto](/cuarto-aniversario-de-neverbot-com/), [tercero](/tercer-aniversario-del-blog/).
 
-*   El primero y segundo no tuvieron _posts_
-*   [¡Hola Mundo!](/hello-world/), el primer _post_
+*   El primero y segundo no tuvieron _posts_.
+*   [¡Hola Mundo!](/hello-world/), el primer _post._

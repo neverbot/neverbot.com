@@ -128,3 +128,7 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+
+statcounter:
+  project: 2084337
+  security: d7af9911
