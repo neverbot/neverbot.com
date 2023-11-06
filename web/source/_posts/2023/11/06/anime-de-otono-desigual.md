@@ -6,6 +6,8 @@ tags:
 date: 2023-11-06 17:45:43
 ---
 
+Apuntes rápidos sobre algunas de las series de anime que empiezan en esta nueva temporada.
+
 ## Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai Suru Hanashi
 
 ![Kimizero](./anime-de-otono-desigual/kimizero.jpg)
