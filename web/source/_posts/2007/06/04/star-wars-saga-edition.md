@@ -5,6 +5,7 @@ author: neverbot
 tags:
   - juegos
   - rol
+  - star wars
 date: 2007-06-04 12:38:25
 ---
 

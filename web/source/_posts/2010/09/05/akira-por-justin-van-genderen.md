@@ -9,6 +9,6 @@ tags:
 date: 2010-09-05 21:56:46
 ---
 
-![201009052155.jpg](./anime/201009052155.jpg)
+![201009052155.jpg](./akira-por-justin-van-genderen/201009052155.jpg)
 
 Por [Justin Van Genderen](http://www.2046design.com/Anime.html)

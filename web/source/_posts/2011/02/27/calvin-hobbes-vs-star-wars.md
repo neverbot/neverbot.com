@@ -6,6 +6,7 @@ tags:
   - cine
   - ilustración
   - tebeos
+  - star wars
 date: 2011-02-27 13:43:19
 ---
 

@@ -6,6 +6,7 @@ tags:
   - cine
   - clásicos de internet
   - fotografía
+  - star wars
 date: 2009-08-17 10:54:00
 ---
 

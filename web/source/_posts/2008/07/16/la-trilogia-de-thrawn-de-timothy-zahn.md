@@ -6,6 +6,7 @@ tags:
   - cine
   - libros
   - reseñas
+  - star wars
 date: 2008-07-16 13:06:43
 ---
 
