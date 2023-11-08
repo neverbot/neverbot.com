@@ -53,12 +53,9 @@ Tras las primeras impresiones (no todas ellas muy positivas, como se puede ver) 
 *   No me he enterado de la historia \[**Posibles spoilers en este párrafo, sáltatelo si quieres**\]. Sigo sin saber quién o qué es el Gravemind, todo el tema relacionado con los Flood está cogido con pinzas y sucede demasiado rápido. Parece ser que hay algo relacionado con los humanos y/o sus antepasados pero no hay quien se entere, así que el tema forerunner sigue siendo un misterio. No sé que es eso que hay enterrado bajo Nueva Mombasa. Cuando viajas al Arca y se reconstruye el primer Halo, sólo juegas un nivel, mientras que la primera vez que lo visitas es un juego entero. \[**Fin de los spoilers**\]
     
 *   Y, por último, \[**Spoiler again**\] intentar repetir el emocionante final del primer juego con otro nivel centrado en la huída en un Warthog es como intentar un sucedáneo cutre de la gloria original. \[**Fin de los spoilers**\]
-    
-
-![Los personajes del modo cooperativo](./he-oido-hype-o-he-oido-timo-impresiones-sobre-halo-3/halo3_cooperativo.jpg "Los personajes del modo cooperativo")
 
 Además, básicamente hay dos agujeros negros de diseño imperdonables: Centrarse demasiado en el juego online (que yo aún no he probado en ninguno de los tres juegos porque no me importa), olvidándose de la campaña principal, y olvidarse de que el potencial jugador no sólo es el que viene de los juegos anteriores, sino que podría ser alguien que no sepa nada del universo Halo, y habría que explicarle muchas más cosas.
 
 Por quedarme con algunas cosas positivas hay algún momento argumental interesante, como cuando bandos que anteriormente habían sido tus enemigos pasan a ser tus aliados. El final también tiene su gracia, aunque no tiene mucho sentido hasta después de los créditos.
 
-**Resumiendo**: Que sí, que está bien, merecía el hype que se le dió pero no merecía las reviews y las [espectaculares notas](https://neverbot.com/juegos/videojuegos/two-days-left/) recibidas tras probarlo.
+**Resumiendo**: Que sí, que está bien, merecía el hype que se le dió pero no merecía las reviews y las [espectaculares notas](/two-days-left/) recibidas tras probarlo.

@@ -7,7 +7,7 @@ tags:
 date: 2008-02-25 18:10:59
 ---
 
-A colación del [anterior post](https://neverbot.com/pensamientos-aleatorios/dudas-de-las-importantes/) sobre el color de la orina de un pitufo, ha comenzado una conversación por email que ha desembocado en esto:
+A colación del [anterior post](/dudas-de-las-importantes/) sobre el color de la orina de un pitufo, ha comenzado una conversación por email que ha desembocado en esto:
 
 > Quién sabe... es que yo nunca he sabido si el azul es un pigmento de la piel o por dentro también son azules... **habría que cortar a uno en trocitos** para verlo y tampoco creo que fuera una solución muy bien recibida por los fans.
 

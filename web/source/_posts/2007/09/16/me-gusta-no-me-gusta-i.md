@@ -3,7 +3,7 @@ title: Me gusta / No me gusta (I)
 id: '533'
 author: neverbot
 tags:
-  - Me gusta / No me gusta
+  - me gusta / no me gusta
   - neverbot
 date: 2007-09-16 03:09:28
 ---

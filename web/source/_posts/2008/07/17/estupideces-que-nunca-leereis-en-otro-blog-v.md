@@ -9,4 +9,4 @@ tags:
 date: 2008-07-17 13:30:48
 ---
 
-[Siete meses después](https://neverbot.com/internet/estupideces-que-nunca-leereis-en-otro-blog-ii/), sigo siendo el primer resultado de Google cuando buscas "[yo no he dicho na](http://www.google.es/search?q=yo+no+he+dicho+na)". Escalofriante, ¿no?
+[Siete meses después](/estupideces-que-nunca-leereis-en-otro-blog-ii/), sigo siendo el primer resultado de Google cuando buscas "[yo no he dicho na](http://www.google.es/search?q=yo+no+he+dicho+na)". Escalofriante, ¿no?

@@ -7,7 +7,7 @@ tags:
 date: 2008-08-26 11:17:19
 ---
 
-Colección de carteles de metro de Japón, vía [PixFans](http://www.pixfans.com/carteles-de-normas-del-metro-de-tokio/). Sobre todo me ha encantado éste, que es uno de los que hace que se me quiten las ganas de utilizar transporte público cada vez que entro en el metro de Madrid. Aunque ahora está la última moda de ir escuchando música en el móvil... con el altavoz, como si fuera un equipo stereo y aún estuviéramos en los 80, pero [en plan reaggetón](https://neverbot.com/musica/prohibido-perrear-en-esta-zona/), que es aún peor.
+Colección de carteles de metro de Japón, vía [PixFans](http://www.pixfans.com/carteles-de-normas-del-metro-de-tokio/). Sobre todo me ha encantado éste, que es uno de los que hace que se me quiten las ganas de utilizar transporte público cada vez que entro en el metro de Madrid. Aunque ahora está la última moda de ir escuchando música en el móvil... con el altavoz, como si fuera un equipo stereo y aún estuviéramos en los 80, pero [en plan reaggetón](/prohibido-perrear-en-esta-zona/), que es aún peor.
 
 ![Cartel de Metro en Japón](./por-favor-hazlo-en-casa/cartel_metro_japon_01.jpg "Cartel de Metro en Japón")
 

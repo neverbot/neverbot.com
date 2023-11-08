@@ -1,5 +1,5 @@
 ---
-title: I thought I heard my soul die..
+title: I thought I heard my soul die...
 id: '805'
 author: neverbot
 tags:
