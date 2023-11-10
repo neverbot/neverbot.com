@@ -33,7 +33,7 @@ He terminado las dos primeras, y *a tope con esto*. Espectacular [**Jessica Lang
 
 ![The Changeling](./movidas-catodicas-fun-house-mystery-dungeon/the-changeling.jpg)
 
-Ya había escrito este post, cuando he caído en que aún me falta por ver el último capítulo de la temporada, así que no estoy seguro de si es una obra cerrada, o tendrá continuación.
+Ya había escrito este *post*, cuando he caído en que aún me falta por ver el último capítulo de la temporada, así que no estoy seguro de si es una obra cerrada, o tendrá continuación.
 
 En cualquier caso, absoluta recomendación, con una fantástica atmósfera en todo momento. Últimamente estoy viendo unas cuantas cosas de [**LaKeith Stanfield**](https://www.imdb.com/name/nm3147751/) y siempre quedo contento con su interpretación. *Recordatorio para mí mismo*: tengo que escribir sobre [**Atlanta**](https://thetvdb.com/series/atlanta).
 
@@ -43,4 +43,4 @@ En cualquier caso, absoluta recomendación, con una fantástica atmósfera en to
 
 Un sacerdote atribulado ([**Mike Colter**](https://www.imdb.com/name/nm1591496/)) convence a una psiquiatra escéptica ([**Katja Herbers**](https://www.imdb.com/name/nm1126156/)) para que la ayude a investigar casos de posesiones, exorcismos, y un divertido etcétera. A la fantástica química que muestran en pantalla la acompañan buenos secundarios que con el tiempo protagonizan sus propias líneas narrativas ([**Aasif Mandvi**](https://www.imdb.com/name/nm0541902/)), y un fantástico [**Michael Emerson**](https://www.imdb.com/name/nm0256237/) haciendo de villano.
 
-Aunque su otra serie fuera (como tantas otras de la época **Netflix** de **Marvel**) un bluff, me gustaba **Mike Colter** como [Luke Cage](https://thetvdb.com/series/marvels-luke-cage), no vería mal que también recuperasen este personaje para la nueva Marvel de **Disney**.
+Aunque su otra serie fuera (como tantas otras de la época **Netflix** de **Marvel**) un *bluff*, me gustaba **Mike Colter** como [**Luke Cage**](https://thetvdb.com/series/marvels-luke-cage), no vería mal que también recuperasen este personaje para la nueva **Marvel** de **Disney**.
