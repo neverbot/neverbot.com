@@ -26,4 +26,4 @@ date: 2009-11-02 19:23:16
 16.  His office hours were infrequent and usually held on a mountain top.
 17.  No record of working well with colleagues.
 
-Vía [Livertumblr](http://livercake.tumblr.com/post/229925278/why-god-never-received-a-phd)
+Vía [Livertumblr](http://livercake.tumblr.com/post/229925278/why-god-never-received-a-phd).

@@ -7,7 +7,6 @@ tags:
 date: 2023-07-18 23:25:57
 ---
 
-
 ### [Bupkis](https://thetvdb.com/series/bupkis) (*Peacock*, 2023, 8 episodios)
 
 ![bupkis](./movidas-catodicas-perdedores-televisivos/bupkis.jpg)

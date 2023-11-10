@@ -12,4 +12,4 @@ date: 2009-11-03 17:51:56
 
 Otro de esos chistes que no todos los presentes sabrán pillar.
 
-Vía [Dando por culo](http://dandoporculo.com/post/194181515)
+Vía [Dando por culo](http://dandoporculo.com/post/194181515).

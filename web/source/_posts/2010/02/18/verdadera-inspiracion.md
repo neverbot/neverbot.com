@@ -13,4 +13,4 @@ date: 2010-02-18 21:04:53
 
 > _This photo makes me feel like I am not doing enough with my life._  
 
-Vía [La Tonesera](http://johntones.tumblr.com/post/395362875/la-foto-mas-inspiradora-que-he-visto-en-meses)
+Vía [La Tonesera](http://johntones.tumblr.com/post/395362875/la-foto-mas-inspiradora-que-he-visto-en-meses).

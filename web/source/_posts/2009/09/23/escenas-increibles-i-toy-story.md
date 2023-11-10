@@ -14,9 +14,9 @@ A Woody se le ocurre encender el cohete, y gracias a eso despegan... y vuelan. P
 
 ![Toy Story - Escena final](./escenas-increibles-i-toy-story/Toy-Story-Escena-final.png "Toy Story - Escena final")
 
-*   Buzz, ¡estás volando!
-*   Esto no es volar, es... caer con estilo.
-*   Ja, ja. Hasta el infinito, ¡Y más allá!
+> - Buzz, ¡estás volando!
+> - Esto no es volar, es... caer con estilo.
+> - Ja, ja. Hasta el infinito, ¡Y más allá!
 
 Este es el momento que realmente define la relación entre los dos protagonistas, que es de lo que habla esa gran alegoría de la amistad que es Toy Story. Toda la película se desarrolla alrededor de los conceptos de amistad y de encontrar tu lugar en el mundo, y es en esta escena cuando los dos se dan cuenta por fin de la amistad que los unirá y de cuál es su verdadero sitio.
 

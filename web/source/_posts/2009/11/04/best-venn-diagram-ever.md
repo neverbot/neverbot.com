@@ -12,4 +12,4 @@ date: 2009-11-04 10:32:05
 
 ¿Qué tienen en común los zombies, el monstruo de Frankenstein, Drácula y Jesucristo?
 
-Vía [Livertumblr](http://livercake.tumblr.com/post/224471256/best-venn-diagram-ever-seashelllz), aunque ha rondado por medio internet últimamente
+Vía [Livertumblr](http://livercake.tumblr.com/post/224471256/best-venn-diagram-ever-seashelllz), aunque ha rondado por medio internet últimamente.

@@ -12,7 +12,7 @@ Teniendo en cuenta que la dominación del planeta comienza con una guerra termon
 
 ![how many nukes will destroy the world?](./posibilidades-de-que-skynet-domine-el-mundo/nukes-to-destroy-the-world.jpg "how many nukes will destroy the world?")
 
-Imagen con licencia [Creative Commons Attribution Non Commercial](http://creativecommons.org/licenses/by-nc/3.0/)
+Imagen con licencia [Creative Commons Attribution Non Commercial](http://creativecommons.org/licenses/by-nc/3.0/).
 
 David McCandless 2009, via [Information is beautiful](http://www.informationisbeautiful.net/2009/how-i-learnt-to-stop-worrying-and-love-the-bomb/).
 

@@ -12,4 +12,4 @@ Si este cartel estuviera en restaurantes y centros comerciales, el mundo sería 
 
 [![](./los-ninos-sin-vigilar-seran-vendidos-como-esclavos/tumblr_kouhjgTVkH1qzqw3vo1_400.jpg)](http://ceasefire.tumblr.com/post/169898278)
 
-Vía [Frivolous Virtue](http://ceasefire.tumblr.com/post/169898278)
+Vía [Frivolous Virtue](http://ceasefire.tumblr.com/post/169898278).

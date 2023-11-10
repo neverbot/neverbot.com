@@ -13,4 +13,4 @@ Esto es muy viejo ya... pero sigue haciéndome gracia.
 
 [![Smurfs Hardcore](./ultimate-pitufos/new_smurfs.jpg "Smurfs Hardcore")](./ultimate-pitufos/new_smurfs.jpg)
 
-_Click para ver grande_
+_Click para ver grande._ {.center}

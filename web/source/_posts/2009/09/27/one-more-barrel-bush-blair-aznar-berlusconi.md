@@ -16,4 +16,4 @@ Es un juego de tablero que se puede encontrar en [Giochix.it](http://www.giochix
 
 [![](./one-more-barrel-bush-blair-aznar-berlusconi/barrel_pres.jpg)](http://silvermoonstudiorpg.blogspot.com/2009/09/one-more-barrel-george-tony-jose-y.html)
 
-A veces el mundo real te sorprende con cosas como esta. Vía [Silvermoon Studio RPG](http://silvermoonstudiorpg.blogspot.com/2009/09/one-more-barrel-george-tony-jose-y.html)
+A veces el mundo real te sorprende con cosas como esta. Vía [Silvermoon Studio RPG](http://silvermoonstudiorpg.blogspot.com/2009/09/one-more-barrel-george-tony-jose-y.html).

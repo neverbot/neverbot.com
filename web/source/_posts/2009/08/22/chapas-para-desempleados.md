@@ -12,4 +12,4 @@ date: 2009-08-22 23:02:51
 
 Dentro de poco tendré que ponerme la chapa de "Contrátame"...
 
-Vía [quimicefa](http://quimicefa.tumblr.com/post/134096071/todas-las-quiero-todas-via-www-irinablok-com), vía [Irina Blok](http://www.irinablok.com/), donde se pueden comprar
+Vía [quimicefa](http://quimicefa.tumblr.com/post/134096071/todas-las-quiero-todas-via-www-irinablok-com), vía [Irina Blok](http://www.irinablok.com/), donde se pueden comprar.

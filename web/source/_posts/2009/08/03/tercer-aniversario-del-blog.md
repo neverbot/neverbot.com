@@ -8,7 +8,7 @@ tags:
 date: 2009-08-03 12:30:50
 ---
 
-Aunque lo celebro con retraso, he recordado que el 26 de Julio esta página cumplió **tres años** online. [Desde el primer ¡Hola mundo!](https://neverbot.com/hello-world/) no he hecho más que decir las mismas tonterías. Revisando algunos posts del primer mes he visto que los mismos temas que me preocupan hoy mismo ya me preocupaban entonces... y eso no me deja en muy buen lugar porque quiere decir que nunca he hecho nada por solucionarlos (ni lo haré, seguramente).
+Aunque lo celebro con retraso, he recordado que el 26 de Julio esta página cumplió **tres años** online. [Desde el primer ¡Hola mundo!](/hello-world/) no he hecho más que decir las mismas tonterías. Revisando algunos posts del primer mes he visto que los mismos temas que me preocupan hoy mismo ya me preocupaban entonces... y eso no me deja en muy buen lugar porque quiere decir que nunca he hecho nada por solucionarlos (ni lo haré, seguramente).
 
 Desde entonces he escrito **816 entradas** almacenadas en **28 categorías** distintas, he recibido poco más de **dos mil comentarios** (sin contar spam, obviamente), he perdido más horas de las que debería haber perdido, me he planteado dejar el blog en al menos media docena de ocasiones porque no va a ninguna parte, he pensado en rehacer el diseño un par de veces (aunque el original me gusta), y... sigue habiendo gastado más dinero del que ha ingresado por publicidad.
 

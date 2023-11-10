@@ -12,4 +12,4 @@ date: 2009-09-11 14:15:47
 
 Si empezamos a ver chistes por internet es que a la gente se le está empezando a pasar la tontería.
 
-Vía [fluzorama](http://fluzo.tumblr.com/post/185208334/finaironia)
+Vía [fluzorama](http://fluzo.tumblr.com/post/185208334/finaironia).
