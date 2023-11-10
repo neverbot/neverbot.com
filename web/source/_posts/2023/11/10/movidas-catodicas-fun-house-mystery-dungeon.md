@@ -37,7 +37,7 @@ Ya había escrito este *post*, cuando he caído en que aún me falta por ver el 
 
 En cualquier caso, absoluta recomendación, con una fantástica atmósfera en todo momento. Últimamente estoy viendo unas cuantas cosas de [**LaKeith Stanfield**](https://www.imdb.com/name/nm3147751/) y siempre quedo contento con su interpretación. *Recordatorio para mí mismo*: tengo que escribir sobre [**Atlanta**](https://thetvdb.com/series/atlanta).
 
-### [Evil](https://thetvdb.com/series/evil) (Paramount+, 2021, 3 temporadas)
+### [Evil](https://thetvdb.com/series/evil) (*Paramount+*, 2021, 3 temporadas)
 
 ![Evil](./movidas-catodicas-fun-house-mystery-dungeon/evil.jpg)
 
