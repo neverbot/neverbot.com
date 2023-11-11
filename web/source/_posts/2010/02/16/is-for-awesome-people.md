@@ -11,4 +11,4 @@ date: 2010-02-16 20:07:05
 
 ![201002162006.jpg](./is-for-awesome-people/201002162006.jpg)
 
-Vía [booklover](http://booklover.tumblr.com/post/392696980/wordpainting-omundomeu-itsmekeren-theinspirationtre)
+Vía [booklover](http://booklover.tumblr.com/post/392696980/wordpainting-omundomeu-itsmekeren-theinspirationtre).

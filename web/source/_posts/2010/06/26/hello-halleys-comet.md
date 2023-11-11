@@ -9,4 +9,4 @@ date: 2010-06-26 17:52:29
 
 ![201006261752.jpg](./hello-halleys-comet/201006261752.jpg)
 
-Vía [fluzorama](http://fluzo.tumblr.com/post/735937889/cometa)
+Vía [fluzorama](http://fluzo.tumblr.com/post/735937889/cometa).

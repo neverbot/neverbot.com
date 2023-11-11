@@ -12,6 +12,6 @@ date: 2006-08-08 10:40:42
 
 > En el día más brillante, en la noche más oscura, el mal no escapará de mi vista. Aquellos que adoran el mal que teman mi poder, la luz de Linterna Verde.
 
-Juramento de los Linterna Verde
+Juramento de los Linterna Verde.
 
 Bonito, ¿no?

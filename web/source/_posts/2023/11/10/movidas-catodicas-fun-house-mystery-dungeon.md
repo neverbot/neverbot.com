@@ -41,6 +41,6 @@ En cualquier caso, absoluta recomendación, con una fantástica atmósfera en to
 
 ![Evil](./movidas-catodicas-fun-house-mystery-dungeon/evil.jpg)
 
-Un sacerdote atribulado ([**Mike Colter**](https://www.imdb.com/name/nm1591496/)) convence a una psiquiatra escéptica ([**Katja Herbers**](https://www.imdb.com/name/nm1126156/)) para que la ayude a investigar casos de posesiones, exorcismos, y un divertido etcétera. A la fantástica química que muestran en pantalla la acompañan buenos secundarios que con el tiempo protagonizan sus propias líneas narrativas ([**Aasif Mandvi**](https://www.imdb.com/name/nm0541902/)), y un fantástico [**Michael Emerson**](https://www.imdb.com/name/nm0256237/) haciendo de villano.
+Un sacerdote atribulado ([**Mike Colter**](https://www.imdb.com/name/nm1591496/)) convence a una psiquiatra escéptica ([**Katja Herbers**](https://www.imdb.com/name/nm1126156/)) para que le ayude a investigar casos de posesiones, exorcismos, y un divertido etcétera. A la fantástica química que muestran en pantalla la acompañan buenos secundarios que con el tiempo protagonizan sus propias líneas narrativas ([**Aasif Mandvi**](https://www.imdb.com/name/nm0541902/)), y un fantástico [**Michael Emerson**](https://www.imdb.com/name/nm0256237/) haciendo de villano.
 
 Aunque su otra serie fuera (como tantas otras de la época **Netflix** de **Marvel**) un *bluff*, me gustaba **Mike Colter** como [**Luke Cage**](https://thetvdb.com/series/marvels-luke-cage), no vería mal que también recuperasen este personaje para la nueva **Marvel** de **Disney**.

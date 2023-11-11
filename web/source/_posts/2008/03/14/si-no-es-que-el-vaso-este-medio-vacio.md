@@ -9,4 +9,4 @@ date: 2008-03-14 20:58:42
 
 > Yo no soy pesimista, es este mundo el que es pésimo.
 
-[José Saramago](http://en.wikipedia.org/wiki/Jos%C3%A9_Saramago)
+[José Saramago](http://en.wikipedia.org/wiki/Jos%C3%A9_Saramago).

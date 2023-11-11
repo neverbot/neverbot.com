@@ -24,7 +24,7 @@ date: 2006-08-18 18:01:20
 > 
 > \- Mira, para erecciones me basto yo solito, ¿eh? Y eso... lo de bianuales con chicas... bueno, sí, mola, lo veo en internet, pero no me sentiría cómodo empalado por un tío dándole zumo de pera. Ya sé que muchos dicen jamás digas siempre nunca, pero tengo muy claro que mi culo es un tubo de desague, y no una toma de entrada. ¿Me vas pillando un poquito?
 
-[Alí G anda suelto](http://www.imdb.com/title/tt0284837/)
+[Alí G anda suelto](http://www.imdb.com/title/tt0284837/).
 
 Para que nadie se me traumatice, os dejo también otra cita un poco más positiva de la segunda mejor película de la historia de la humanidad (tengo que pensar cuál puede ser la primera).
 

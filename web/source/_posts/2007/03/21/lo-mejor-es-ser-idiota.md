@@ -9,4 +9,4 @@ date: 2007-03-21 12:46:37
 
 > Existen dos maneras de ser feliz en esta vida: una es hacerse el idiota y la otra serlo.
 
-Atribuido a [Sigmund Freud](http://en.wikipedia.org/wiki/Sigmund_Freud)
+Atribuido a [Sigmund Freud](http://en.wikipedia.org/wiki/Sigmund_Freud).
