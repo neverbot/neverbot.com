@@ -11,7 +11,7 @@ date: 2010-09-05 14:03:18
 
 Lo estaba escribiendo para una lista de correo en la que participo, pero me ha parecido que tenía más sentido aquí. Supongo que es una forma de demostrar que sólo es mi opinión, y no una forma de intentar imponer dicha opinión al resto de participantes de la lista de correo.
 
-> [_Action Script_](http://en.wikipedia.org/wiki/Action_Script) (el lenguaje de programación de la plataforma f_lash_) nunca se ha podido utilizar para desarrollar sobre _iPhone_, ni como _web_ ni como aplicación nativa, así que no creo que nadie haya perdido su tiempo ni haya sido engañado.
+> [_Action Script_](http://en.wikipedia.org/wiki/Action_Script) (el lenguaje de programación de la plataforma _flash_) nunca se ha podido utilizar para desarrollar sobre _iPhone_, ni como _web_ ni como aplicación nativa, así que no creo que nadie haya perdido su tiempo ni haya sido engañado.
 > 
 > Razones por las que esto, además, tiene sentido:  
 > 
