@@ -10,7 +10,7 @@ date: 2013-02-20 16:56:06
 
 Se me hace difícil pensar en un tebeo _mainstream_ con un humor tan blanco como para poder poner ejemplos de qué es este [**¡Yotsuba!**](http://en.wikipedia.org/wiki/Yotsuba%26!) de [Kiyohiko Azuma](http://en.wikipedia.org/wiki/Kiyohiko_Azuma). Quizá las más inocentes tiras de _Calvin & Hobbes_ puedan servir de marco de referencia, con ese humor de sonrisa tímida que da el ver la realidad desde una perspectiva ya perdida.
 
-[![Yotsuba](./miercoles-de-tebeos-yotsuba-de-kiyohiko-azuma/yotsuba.jpg)](https://neverbot.com/wp-content/uploads/2013/02/yotsuba.jpg)_¡Yotsuba!, de Kiyohiko Azuma. Portada del quinto tomo._
+![Yotsuba](./miercoles-de-tebeos-yotsuba-de-kiyohiko-azuma/yotsuba.jpg)_¡Yotsuba!, de Kiyohiko Azuma. Portada del quinto tomo._ {.center}
 
 _Yotsuba_ es una niña de cinco años que vive con su padre adoptivo, y su historia comienza cuando se mudan a un nuevo barrio. Cada capítulo nos cuenta cómo esta niña conoce cosas nuevas con la imparable curiosidad propia de su edad: sus vecinos, montar en bicicleta, visitar una granja o hacer la compra.
 

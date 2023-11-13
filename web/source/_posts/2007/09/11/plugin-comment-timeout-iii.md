@@ -11,7 +11,7 @@ Estaba comentando en mi propia esta página y me he encontrado con esto.
 
 > Comments for this post will be closed on 9 November 2007.
 
-Es una frase incluida al activar el plugin Comment Timeout (ya os conté cosas [aquí](https://neverbot.com/neverbot/plugin-comment-timeout/) y un poco después [aquí](https://neverbot.com/miniblog/plugin-comment-timeout-ii/)). Pero anda que me avisáis de que salen textos en el idioma hereje de la pérfida Albión. Argh, cómo os odio.
+Es una frase incluida al activar el plugin Comment Timeout (ya os conté cosas [aquí](/plugin-comment-timeout/) y un poco después [aquí](/plugin-comment-timeout-ii/)). Pero anda que me avisáis de que salen textos en el idioma hereje de la pérfida Albión. Argh, cómo os odio.
 
 A ver si tengo un rato y lo traduzco, que no sé dónde está.
 

@@ -9,15 +9,15 @@ date: 2016-07-26 13:56:05
 
 Diez años de _blog_. Ni uno, ni dos, ni tres, sino diez.
 
-*   [Noveno aniversario](https://neverbot.com/nueve/)
-*   [Octavo aniversario](https://neverbot.com/ocho/)
-*   [Séptimo aniversario](https://neverbot.com/septimo-aniversario/)
-*   [Sexto aniversario](https://neverbot.com/sexto-aniversario/)
-*   [Quinto aniversario](https://neverbot.com/quinto-aniversario/)
-*   [Cuarto aniversario](https://neverbot.com/cuarto-aniversario-de-neverbot-com/)
-*   [Tercer aniversario](https://neverbot.com/tercer-aniversario-del-blog/)
+*   [Noveno aniversario](/nueve/)
+*   [Octavo aniversario](/ocho/)
+*   [Séptimo aniversario](/septimo-aniversario/)
+*   [Sexto aniversario](/sexto-aniversario/)
+*   [Quinto aniversario](/quinto-aniversario/)
+*   [Cuarto aniversario](/cuarto-aniversario-de-neverbot-com/)
+*   [Tercer aniversario](/tercer-aniversario-del-blog/)
 *   El primero y segundo no tuvieron _posts_
-*   [¡Hola Mundo!](https://neverbot.com/hello-world/), el primer _post_
+*   [¡Hola Mundo!](/hello-world/), el primer _post_
 
 No tiene mucho sentido ya publicar estas entradas, que seguramente nadie leerá, pero siempre he sido respetuoso con las fechas señaladas. Me importan demasiado, supongo.
 

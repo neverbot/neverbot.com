@@ -7,7 +7,7 @@ tags:
 date: 2013-04-11 13:19:10
 ---
 
-[![Google es el mal](./google-es-el-mal/Captura-de-pantalla-2013-04-11-a-las-13.08.40.png)](https://neverbot.com/wp-content/uploads/2013/04/Captura-de-pantalla-2013-04-11-a-las-13.08.40.png)
+![Google es el mal](./google-es-el-mal/Captura-de-pantalla-2013-04-11-a-las-13.08.40.png)
 
 Hoy, en _Razones para no usar productos de Google_: [el sexto](http://www.slate.com/articles/technology/map_of_the_week/2013/03/google_reader_joins_graveyard_of_dead_google_products.html) proyecto de _Google_ que utilizo que cierran.
 

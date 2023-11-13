@@ -15,7 +15,7 @@ date: 2010-06-24 13:13:57
 
 ![Captura de pantalla 2010-06-24 a las 12.37.53.png](./resenas-cinematograficas-relampago-xvii/Captura-de-pantalla-2010-06-24-a-las-12.37.53.png)  
 
-**[Prince of Persia: Las arenas olvidadas](http://www.imdb.com/title/tt0473075/)** (_Prince of Persia: The sands of time_, 2010): De esto [ya hablé hace poco](https://neverbot.com/cine/prince-of-persia-las-arenas-olvidadas/). De lo peor que he tenido la desgracia de ver últimamente, aunque hay quienes dicen que la película tiene sus virtudes. Ya digo que yo no las encontré.
+**[Prince of Persia: Las arenas olvidadas](http://www.imdb.com/title/tt0473075/)** (_Prince of Persia: The sands of time_, 2010): De esto [ya hablé hace poco](/prince-of-persia-las-arenas-olvidadas/). De lo peor que he tenido la desgracia de ver últimamente, aunque hay quienes dicen que la película tiene sus virtudes. Ya digo que yo no las encontré.
 
 ![Captura de pantalla 2010-06-24 a las 12.43.27.png](./resenas-cinematograficas-relampago-xvii/Captura-de-pantalla-2010-06-24-a-las-12.43.27.png)
 
@@ -35,4 +35,4 @@ Aunque también he de decir que yo sólo tengo las ediciones extendidas, esto qu
 
 El único momento insultante es el de terminar con un _cliffhanger_ sin cerrar un arco narrativo claro, más en la línea de un episodio de televisión que de una película. Desconozco si los libros siguen ese patrón (ni me importa), pero estoy muy cansado de verlo aplicado en cine, donde considero que si tengo que pagar un dinero para entrar a la sala, me deberían ofrecer una obra completa y entendible por sí misma.
 
-Y por supuesto yo estoy con los lobos, no con esa panda de amanerados de piel brillante.
+Y por supuesto yo estoy con los lobos, no con esa panda de pieles brillantes.

@@ -7,7 +7,7 @@ tags:
 date: 2007-02-28 15:38:50
 ---
 
-Es un número como cualquier otro, pero yo es que me ilusiono con muy poca cosa. Concretamente ha sido [este comentario](https://neverbot.com/filosofia-practica-para-mentes-jovenes-ii/#comment-3098) en [este post](https://neverbot.com/filosofia-practica-para-mentes-jovenes-ii/).
+Es un número como cualquier otro, pero yo es que me ilusiono con muy poca cosa. Concretamente ha sido [este comentario](/filosofia-practica-para-mentes-jovenes-ii/#comment-3098) en [este post](/filosofia-practica-para-mentes-jovenes-ii/).
 
 ![Estadísticas](./1000-comentarios/estadisticas.gif "Estadísticas")
 

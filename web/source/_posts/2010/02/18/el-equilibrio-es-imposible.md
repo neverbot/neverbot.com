@@ -11,4 +11,4 @@ date: 2010-02-18 11:21:36
 > cazando en los bares,  
 > viviendo deprisa_
 
-[El equilibrio es imposible](http://www.goear.com/listen/bdc8119/el-equilibrio-es-imposible-los-piratas), de **Los Piratas**
+[El equilibrio es imposible](http://www.goear.com/listen/bdc8119/el-equilibrio-es-imposible-los-piratas), de **Los Piratas**.

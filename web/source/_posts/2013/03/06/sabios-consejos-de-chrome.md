@@ -7,6 +7,6 @@ tags:
 date: 2013-03-06 19:55:40
 ---
 
-[![Consejos de Chrome](./sabios-consejos-de-chrome/Captura-de-pantalla-2013-03-06-a-las-19.53.17.png)](https://neverbot.com/wp-content/uploads/2013/03/Captura-de-pantalla-2013-03-06-a-las-19.53.17.png)
+![Consejos de Chrome](./sabios-consejos-de-chrome/Captura-de-pantalla-2013-03-06-a-las-19.53.17.png)
 
 ¡Shh! El modo de incógnito puede serte de utilidad la próxima vez.

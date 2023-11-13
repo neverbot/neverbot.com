@@ -10,7 +10,7 @@ date: 2013-09-08 18:12:05
 
 Cosas que he visto en internet esta semana y merecen gastar unos minutos en ellas:
 
-[![Resumen de la semana](./recopilacion/jpeg.jpeg)](https://neverbot.com/wp-content/uploads/2013/09/jpeg.jpeg)
+![Resumen de la semana](./recopilacion/jpeg.jpeg)
 
 *   Recopilación de información útil en el gabinete del Dr. Zito sobre **[los mitos de la tierra hueca](http://drzito.wordpress.com/2013/09/05/declaro-que-la-tierra-es-hueca/)**. _La Tierra es cóncava. Moramos en su interior._ Nunca sabes cuándo esto te hará falta, los platillos volantes nazis podrían salir de sus últimas bases y conviene estar informados.
 *   **[I Am Street Fighter - 25th Anniversary Documentary](http://www.youtube.com/watch?v=2gZBITO5GwI)**, un documental sobre la saga de videojuegos _Street Fighter_ en su 25 aniversario. Completo en _YouTube_, 1h12m.

@@ -13,4 +13,4 @@ date: 2010-01-27 21:09:11
 
 Pagaría dinero por jugar a esto. No, en serio, de verdad que pagaría lo que cuesta un juego moderno por una aventura gráfica como esa.  
 
-Vía [Fluzorama](http://fluzo.tumblr.com/post/352489902/lostvideogame)
+Vía [Fluzorama](http://fluzo.tumblr.com/post/352489902/lostvideogame).

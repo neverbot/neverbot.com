@@ -11,4 +11,4 @@ date: 2010-03-01 21:33:24
 
 > _Y cuando crees que el capitalismo ya no puede sorprenderte más, te encuentras el muñeco articulado del Che vestido con su propia camiseta por sólo 99 euros más gastos de envío._
 
-Vía [Mi mesa cojea](http://www.mimesacojea.com/2010/02/patria-o-muerte.html)
+Vía [Mi mesa cojea](http://www.mimesacojea.com/2010/02/patria-o-muerte.html).

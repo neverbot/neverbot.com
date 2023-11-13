@@ -11,9 +11,9 @@ Es un proyecto de lectura tan válido como pueda serlo el de “*todos los libro
 
 Desde 1953 se conceden los [**premios Hugo**](http://en.wikipedia.org/wiki/Hugo_Award) a las mejores obras en los campos de la fantasía y la ciencia ficción – es decir, son premios *de género*, vaya el aviso por delante –. Son votados por los visitantes (de pago) de la convención *WorldCon* y, dado que no existen normas escritas sobre qué califica a una obra para que esta sea considerada fantasía o ciencia ficción, más que el hecho de que sean propuestas para votación a principios de año, podría decirse que son unos premios bastante democráticos. No es que esto sea bueno o malo *per se*, pero explica algunas de las obras premiadas.
 
-[![Hugo Award](./index/hugo_award.jpg)](https://neverbot.com/proyecto-de-lectura-los-premios-hugo/hugo_award.jpg)
+![Hugo Award](./index/hugo_award.jpg)
 
-*El logo es un cohete. Bien.*
+*El logo es un cohete. Bien.* {.center}
 
 Existen numerosas categorías, aunque quizá las más importantes sean las de relato y novela, siendo esta última la que más me interesa a mí, que es lo que importa en este caso. Como peculiaridades, en 1954 y 57 no hubo premios de novela, pero desde mediados de los noventa se entregan también los *retrohugos* para solventar que haya habido ediciones de la *WorldCon* sin sus respectivos premios, habiendo “solucionado” ya los años 46, 51 y 54.
 

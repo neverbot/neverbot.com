@@ -7,7 +7,7 @@ tags:
 date: 2007-01-20 15:48:51
 ---
 
-Era [una gran serie](https://neverbot.com/tebeos/5-razones-por-las-que-me-gusta-the-oc/). En la cuarta temporada, han decidido dejarlo estar. Los espectadores, apenados, ruegan una oración por su catódica alma.
+Era [una gran serie](/5-razones-por-las-que-me-gusta-the-oc/). En la cuarta temporada, han decidido dejarlo estar. Los espectadores, apenados, ruegan una oración por su catódica alma.
 
 Noticia en [Fox News](http://www.foxnews.com/story/0,2933,241447,00.html). Visto vía [El Chaiko](http://elchaiko.blogspot.com/2007/01/noooooooooooooooooo.html).
 

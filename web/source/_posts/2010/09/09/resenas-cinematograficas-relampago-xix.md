@@ -33,7 +33,7 @@ Por otro lado la historia no tiene por dónde cogerse, ya que los personajes lle
 
 **[G.I.Joe](http://www.imdb.com/title/tt1046173/)** (_G.I.Joe: The rise of Cobra_, 2009) **revisionado**
 
-Ya hablé de ella [en su momento](https://neverbot.com/resenas-cinematograficas-relampago/), cuando la vi en cine, y me sigue gustando. Un poco menos que antes, eso es cierto, ya que la primera media hora es excesiva y no tiene mucho sentido, pero después se endereza y tiene su gracia como película de entretenimiento. Y no recordaba que el final era un exageradísimo "continuará". Si hacen una segunda parte yo iré a verla.
+Ya hablé de ella [en su momento](/resenas-cinematograficas-relampago/), cuando la vi en cine, y me sigue gustando. Un poco menos que antes, eso es cierto, ya que la primera media hora es excesiva y no tiene mucho sentido, pero después se endereza y tiene su gracia como película de entretenimiento. Y no recordaba que el final era un exageradísimo "continuará". Si hacen una segunda parte yo iré a verla.
 
 ![totoro.png](./resenas-cinematograficas-relampago-xix/totoro.png)  
 

@@ -14,4 +14,4 @@ date: 2010-03-03 23:27:55
 
 Sé que dije que iba a dejar de publicar este tipo de cosas, pero es superior a mi (escaso, por otra parte) autocontrol.
 
-Vía [fluzorama](http://fluzo.tumblr.com/post/422571575/dracovsedward)
+Vía [fluzorama](http://fluzo.tumblr.com/post/422571575/dracovsedward).

@@ -8,7 +8,7 @@ tags:
 date: 2006-11-18 16:05:28
 ---
 
-He añadido una página nueva, que se encuentra en [www.neverbot.com/hosting](https://neverbot.com/hosting/), donde explico cómo funciona la empresa donde está alojada esta página web, [dreamhost.com](http://www.dreamhost.com/).
+He añadido una página nueva, que se encuentra en [www.neverbot.com/hosting](/hosting/), donde explico cómo funciona la empresa donde está alojada esta página web, [dreamhost.com](http://www.dreamhost.com/).
 
 Ahí podéis encontrar un código de promoción para **ahorrar 80 dólares** en la contratación de un plan de alojamiento. Si contratáseis la misma opción que yo tengo (por ejemplo, aunque hay muchas más), un contrato anual se os quedaría en sólo 40 dólares. Tal y como están el dólar y el euro, me parece un precio inmejorable: 200 GB de disco duro, 2000 GB de transferencia (sí, habéis leído bien, eso son 2TB), etc.
 

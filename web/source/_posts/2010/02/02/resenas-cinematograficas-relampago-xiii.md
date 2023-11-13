@@ -19,7 +19,7 @@ Prescindible para el resto de público, por supuesto.
 
 **![201002021950.jpg](./resenas-cinematograficas-relampago-xiii/201002021950.jpg)[Te quiero, tío](http://www.imdb.com/title/tt1155056/)** (_I love you, man_, 2009)
 
-Pros: _Paul Rudd_ y _Jason Segel_, que siempre me han gustado como actores de comedia. Contras: _Jamie Pressly_ cada día está más vieja. Y sé lo que me digo porque estoy volviendo a ver _Jack & Jill_ y se parecen como la noche y el día. Y _Jon Favreau_ ya no me cuela como actor, se me antoja más clara su carrera como director de cine.
+Pros: _Paul Rudd_ y _Jason Segel_, que siempre me han gustado como actores de comedia. Contras: _Jamie Pressly_ está irreconocible, la estoy volviendo a ver _Jack & Jill_ y se parecen como la noche y el día. Y _Jon Favreau_ ya no me cuela como actor, se me antoja más clara su carrera como director de cine.
 
 Algún comentario más: _blegh_. Nada del otro mundo.
 
@@ -31,7 +31,7 @@ No me gustó sin embargo esa parte de investigación, ese espíritu _Phileas Fog
 
 Es interesante y curiosa. Cuenta con una acertada elección de los actores protagonistas, que parecen conectar muy bien en pantalla, pero con una incorrecta inclusión de un personaje femenino completamente innecesario para toda la historia y sobrada absoluta de presentación del argumento de la siguiente película en un claro "_y de esto irá Sherlock Holmes 2_" como si ya estuviéramos planteando una nueva franquicia de _Batman_.
 
-¿Nadie ha pensado que los derechos de _Sherlock Holmes_ ya son libres y cualquier estudio podría hacer otra película de antes de esa supuesta continuación? No me parece una decisión de márketing muy acertada cuando cualquier empresa puede fabricar merchandising "_levemente_" relacionado, pueden escribir libros, o publicar casi lo que quieran. No se puede utilizar "_este_" _Sherlock Holmes_ pero se puede utilizar el concepto para lo que se quiera. ¿O estoy equivocado al respecto?
+¿Nadie ha pensado que los derechos de _Sherlock Holmes_ ya son libres y cualquier estudio podría hacer otra película antes de esa supuesta continuación? No me parece una decisión de márketing muy acertada cuando cualquier empresa puede fabricar merchandising "_levemente_" relacionado, pueden escribir libros, o publicar casi lo que quieran. No se puede utilizar "_este_" _Sherlock Holmes_ pero se puede utilizar el concepto para lo que se quiera. ¿O estoy equivocado al respecto?
 
 **![201002022007.jpg](./resenas-cinematograficas-relampago-xiii/201002022007.jpg)[Lío embarazoso](http://www.imdb.com/title/tt0478311/)** (_Knocked up_, 2007)
 

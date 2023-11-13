@@ -30,7 +30,7 @@ El principal defecto de control del juego es que deja todo en manos de la habili
 
 ![Captura de pantalla 2010-06-27 a las 14.32.33.png](./terminado-fifa-2010/Captura-de-pantalla-2010-06-27-a-las-14.32.33.png)
 
-_Recomiendo_ [_este vídeo de Youtube_](http://www.youtube.com/watch?v=h8tgRw8I7U0) _sobre algunas filigranas_
+_Recomiendo_ [_este vídeo de Youtube_](http://www.youtube.com/watch?v=h8tgRw8I7U0) _sobre algunas filigranas_. {.center}
 
 En FIFA se utilizan todos los botones del mando, que no son pocos. Sin embargo hay conceptos como el "tiro con clase" que apura más cerca de la portería a costa de una menor potencia. Si simplemente utilizas el botón de disparo generalmente el balón se va al tercer anfiteatro. Repito el mismo razonamiento anterior: yo es que no necesito un simulador, si aprieto el botón de disparo asumo que es porque quiero disparar a la portería, no a la grada. Si **algo tan básico como disparar a puerta se acaba haciendo tan complicado**, eso dice mucho sobre el control. Si quieres que el personaje corra, debes mantener pulsado el botón de correr (que generalmente permanece pulsado durante todo el partido). ¿No es obvio que si el personaje puede correr siempre debería correr? ¿Para qué un botón si debería ser el comportamiento por defecto?
 

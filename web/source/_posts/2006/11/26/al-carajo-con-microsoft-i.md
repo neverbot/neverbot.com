@@ -8,7 +8,7 @@ tags:
 date: 2006-11-26 16:55:23
 ---
 
-Ya está, ya me cansé. Al hilo de [un post de hace poco](https://neverbot.com/inteligencia-artificial/) sobre los "Expedientes X" que estaban produciéndose en mi(s) ordenador(es) con Windows XP, he de añadir que ya me he cansado.
+Ya está, ya me cansé. Al hilo de [un post de hace poco](/inteligencia-artificial/) sobre los "Expedientes X" que estaban produciéndose en mi(s) ordenador(es) con Windows XP, he de añadir que ya me he cansado.
 
 No soy un usuario inexperto mosqueado con nadie, ni me he dejado llevar por la publicidad de unos o de otros. He trabajado durante bastante tiempo como administrador de sistemas y creo que sé de lo que hablo. Siempre he tenido dos excusas que me han servido para seguir manteniendo Windows como mi sistema operativo "por defecto", utilizando otros únicamente para solucionar problemas concretos e identificables (siempre hablando de PCs, claro está):
 

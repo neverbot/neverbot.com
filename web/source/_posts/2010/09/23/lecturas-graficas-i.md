@@ -12,7 +12,7 @@ date: 2010-09-23 20:48:52
 
 **Green Lantern: Rage of the Red Lanterns** (_Geoff Johns y varios dibujantes_, 2009) (edición americana)
 
-Continúa el camino hacia _Blackest Night_ allá donde lo dejó [Green Lantern: Secret Origin](https://neverbot.com/tebeos/leido-green-lantern-secret-origin-de-geoff-johns/). _Atrocitus_ y los _Red Lanterns_, _Ganthet_ y los _Blue Lanterns_, _Sinestro_ y sus propios _Corps_ amarillos, y pistas sobre los próximos contendientes en este próximo Apocalipsis galáctico. _Geoff Johns_ se está construyendo una nueva mitología completa para los _Lanterns_, entretejiéndola con todo lo que sabíamos hasta ahora, y de un modo magistral. Probablemente sea de lo mejorcito en cómic _mainstream_ que se ha podido leer en los últimos años. Gran guión y gran dibujo, aún contando con varios artistas, ya que todos mantienen una línea similar.
+Continúa el camino hacia _Blackest Night_ allá donde lo dejó [Green Lantern: Secret Origin](/leido-green-lantern-secret-origin-de-geoff-johns/). _Atrocitus_ y los _Red Lanterns_, _Ganthet_ y los _Blue Lanterns_, _Sinestro_ y sus propios _Corps_ amarillos, y pistas sobre los próximos contendientes en este próximo Apocalipsis galáctico. _Geoff Johns_ se está construyendo una nueva mitología completa para los _Lanterns_, entretejiéndola con todo lo que sabíamos hasta ahora, y de un modo magistral. Probablemente sea de lo mejorcito en cómic _mainstream_ que se ha podido leer en los últimos años. Gran guión y gran dibujo, aún contando con varios artistas, ya que todos mantienen una línea similar.
 
 ![cerebus.png](./lecturas-graficas-i/cerebus.png)
 

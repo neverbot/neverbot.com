@@ -8,7 +8,7 @@ tags:
 date: 2006-11-23 13:25:16
 ---
 
-Dado que [planes anteriores](https://neverbot.com/recetas-para-una-vida-mejor/) parecen no concretarse, y hoy estoy sentado en mi mesa con unas inmensas ganas de levantarme y gritar:
+Dado que [planes anteriores](/recetas-para-una-vida-mejor/) parecen no concretarse, y hoy estoy sentado en mi mesa con unas inmensas ganas de levantarme y gritar:
 
 > Menos mal que no existe un colegio de informáticos y no es obligatorio firmar proyectos, porque si yo tuviera que firmar esto, ¡no lo haría! Si el código es poesía, yo estoy escribiendo El Código Da Vinci de todos los programas. ¡No se puede trabajar así!
 

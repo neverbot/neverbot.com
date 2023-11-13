@@ -16,9 +16,9 @@ He estado un poco liado estos últimos días y apenas he estado en mi casa, por 
 
 Previously, on neverbot:
 
-*   [Al carajo con Microsoft (III)](https://neverbot.com/al-carajo-con-microsoft-iii/)
-*   [Al carajo con Microsoft (II)](https://neverbot.com/al-carajo-con-microsoft-ii/)
-*   [Al carajo con Microsoft (I)](https://neverbot.com/al-carajo-con-microsoft-i/)
+*   [Al carajo con Microsoft (III)](/al-carajo-con-microsoft-iii/)
+*   [Al carajo con Microsoft (II)](/al-carajo-con-microsoft-ii/)
+*   [Al carajo con Microsoft (I)](/al-carajo-con-microsoft-i/)
 
 **Actualizado** (con algunos problemas encontrados esta tarde):
 

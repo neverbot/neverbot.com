@@ -9,4 +9,4 @@ date: 2010-05-29 12:14:59
 
 ![201005291214.jpg](./historia-de-la-television-ii/201005291214.jpg)
 
-Vía [AlexLiam](http://alexliam.tumblr.com/post/155799632)
+Vía [AlexLiam](http://alexliam.tumblr.com/post/155799632).

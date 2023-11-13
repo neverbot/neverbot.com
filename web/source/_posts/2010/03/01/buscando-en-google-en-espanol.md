@@ -9,6 +9,6 @@ tags:
 date: 2010-03-01 21:05:00
 ---
 
-**[ESPAÑOLES BUSCANDO EN GOOGLE](http://www.slideshare.net/ynlch/espaoles-buscando-en-google "ESPAÑOLES BUSCANDO EN GOOGLE")**
+**[ESPAÑOLES BUSCANDO EN GOOGLE](http://www.slideshare.net/ynlch/espaoles-buscando-en-google "ESPAÑOLES BUSCANDO EN GOOGLE")**.
 
-**Grandioso**, vía el blog de [Zendir](http://zendir.blogspot.com/2010/02/espanoles-buscando-en-google.html)
+**Grandioso**, vía el blog de [Zendir](http://zendir.blogspot.com/2010/02/espanoles-buscando-en-google.html).
