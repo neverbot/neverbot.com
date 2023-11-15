@@ -13,7 +13,7 @@ Salía hoy de casa hacia la oficina cuando he visto uno de esos horribles árbol
 
 [![patera.jpg](./y-ahora/patera.jpg)](http://www.flickr.com/photos/gaspars/540617487/)
 
-_Patera en la playa, cc (by-nc-nd)_ [_Gaspar Serrano_](http://www.flickr.com/photos/gaspars/540617487/)
+_Patera en la playa, cc (by-nc-nd)_ [_Gaspar Serrano_](http://www.flickr.com/photos/gaspars/540617487/) {.center}
 
 Este último par de años algunas estadísticas indican tendencias claras: Los _blogs_ no crecen tanto como antes, ya no hay tanto interés en mantener estos exhibicionistas diarios virtuales. ¿Era una tendencia, una moda? ¿Tienen también los _blogs_ programada esa obsolescencia que los hace caducos y faltos de interés?
 

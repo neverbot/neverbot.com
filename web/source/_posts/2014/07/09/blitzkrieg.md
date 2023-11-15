@@ -11,7 +11,7 @@ Decía alguien con más experiencia a sus espaldas que yo que a través del fút
 
 ![blitzkrieg](./blitzkrieg/blitzkrieg.jpg)
 
-_Foto vía [Business Insider](http://www.businessinsider.com/photos-brazil-loss-germany-2014-7)._
+_Foto vía [Business Insider](http://www.businessinsider.com/photos-brazil-loss-germany-2014-7)._ {.center}
 
 Veo difícil explicar a mis nietos que hay cosas que no suceden porque sí. Que si Brasil y Alemania llevan tantas estrellas en el pecho es por algo. Y que, aunque parezca inexplicable, en un campeonato que sólo se repite cada cuatro años, donde en cada evento los jugadores y los entrenadores son, y pueden y deben ser, distintos, las tradiciones sin embargo se mantienen. Los estilos que establecen las naciones se reflejan en el balón y se entienden. Si pintásemos las camisetas de blanco y negro, como una partida de ajedrez, y no supiéramos en qué lado juega cada uno, desde un lejano avión identificaríamos el toque de Brasil, las bandas de Argentina, la defensa de Italia y el control de Alemania. Y los demás, los que han visto la aparición de un favor divino y bordan estrellas en la camiseta, se sientan y miran, esperando que la suerte vuelva a aparecer.
 
@@ -19,4 +19,4 @@ Cuando no es la suerte la que habla, sino la tradición, la historia futbolísti
 
 ![tears](./blitzkrieg/tears.jpg)
 
-_Captura de pantalla de la retransmisión televisiva._
+_Captura de pantalla de la retransmisión televisiva._ {.center}

@@ -11,4 +11,4 @@ Ahora que tan de moda está el tema de la [Tizona](http://en.wikipedia.org/wiki/
 
 ![Soy el Click Campeador](./el-click-campeador/Click_campeador.jpg "Soy el Click Campeador")
 
-Vía [Tienda de Ultramarinos](http://tiendadeultramarinos.blogspot.com/2006/12/el-click-campeador.html)
+Vía [Tienda de Ultramarinos](http://tiendadeultramarinos.blogspot.com/2006/12/el-click-campeador.html).

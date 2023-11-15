@@ -16,7 +16,7 @@ Me di dos hostias. Me vestí. Vine a trabajar. Encontré un email de hace tres o
 
 [![](./catarsis/wake_up.jpg "Wake up")](./catarsis/wake_up.jpg)
 
-_[wake up](http://www.flickr.com/photos/isobrown/4208526321/) (cc by-nc) por [isobrown](http://www.flickr.com/photos/isobrown/)_
+_[wake up](http://www.flickr.com/photos/isobrown/4208526321/) (cc by-nc) por [isobrown](http://www.flickr.com/photos/isobrown/)_ {.center}
 
 Seguro que me quedan por delante muchas ocasiones de sentir un nudo en el estómago. De pasar por según qué sitios, vestirme con según qué prendas, ver según qué fotos. ¿Y qué? Los nudos se desatan. Y el karma me debe una muy gorda, esto va a mejorar muy rápido.
 

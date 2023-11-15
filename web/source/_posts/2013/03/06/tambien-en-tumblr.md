@@ -12,4 +12,4 @@ Sigo con el [tumblr](http://neverbot.tumblr.com/) en el que comparto cosas que e
 
 ![Resumen de mi tumblr](./tambien-en-tumblr/neverbot.tumblr.com_.png)
 
-_Resumen proporcionado por [tumblrstats.com](http://tumblrstats.com/)_
+_Resumen proporcionado por [tumblrstats.com](http://tumblrstats.com/)_. {.center}

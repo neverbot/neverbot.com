@@ -11,4 +11,4 @@ date: 2007-05-22 00:09:15
 > 
 > Si son más de cinco ya va siendo hora de que sueltes lastre.
 
-Vía [este post](http://rare.bulletrain.net/felicidad-y-lastre/) de [Rare](http://rare.bulletrain.net/) No se puede explicar más con menos palabras, creo yo.
+Vía [este post](http://rare.bulletrain.net/felicidad-y-lastre/) de [Rare](http://rare.bulletrain.net/). No se puede explicar más con menos palabras, creo yo.
