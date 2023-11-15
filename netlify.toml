@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://blog.neverbot.com/*"
+  to = "https://neverbot.com/:splat"
+  status = 301
+  force = true
