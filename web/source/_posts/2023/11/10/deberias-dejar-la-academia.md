@@ -8,6 +8,6 @@ tags:
 
 Vía [el blog de Rinzewind](https://rinzewind.org/blog-es/2022/deberias-dejar-la-academia.html), esta recomendación para los que trabajan como investigadores en universidades:
 
-[shouldyouquitacademia.com](https://shouldyouquitacademia.com/) {.center}
+[**shouldyouquitacademia.com**](https://shouldyouquitacademia.com/) {.center}
 
 *Disclaimer*: tiene gracia que lo diga yo, que estoy volviendo a intentar lo de doctorarme.
