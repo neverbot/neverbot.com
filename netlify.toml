@@ -1,4 +1,4 @@
-[[build]]
+[build]
   base = "web/"
   publish = "web/public"
   command = "npm run build"
