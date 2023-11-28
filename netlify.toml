@@ -1,3 +1,8 @@
+[[build]]
+  base = web/
+  publish = web/public
+  command = hexo generate
+
 [[redirects]]
   from = "https://blog.neverbot.com/*"
   to = "https://neverbot.com/:splat"
