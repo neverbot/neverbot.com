@@ -8,3 +8,15 @@
   to = "https://neverbot.com/:splat"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/archivo/*"
+  to = "/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://655f35d5ef82880008b69a9b--musing-shannon-142f96.netlify.app"
+  to = "https://neverbot.com"
+  status = 301
+  force = true
