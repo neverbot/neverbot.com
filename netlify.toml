@@ -1,22 +1,32 @@
+# general build configuration
 [build]
   base = "web/"
   publish = "web/public"
   command = "npm run build"
 
+# try to redirect when accessing directly from the netlify address
+[[redirects]]
+  from = "https://655f35d5ef82880008b69a9b--musing-shannon-142f96.netlify.app"
+  to = "https://neverbot.com"
+  status = 301
+  force = true
+
+# redirect from old blog.neverbot.com
 [[redirects]]
   from = "https://blog.neverbot.com/*"
   to = "https://neverbot.com/:splat"
   status = 301
   force = true
 
+# redirect from old permalinks with categories and subcategories
 [[redirects]]
-  from = "/archivo/*"
+  from = "/archivo/:category/:subcategory/*"
   to = "/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://655f35d5ef82880008b69a9b--musing-shannon-142f96.netlify.app"
-  to = "https://neverbot.com"
+  from = "/archivo/:category/*"
+  to = "/:splat"
   status = 301
   force = true
