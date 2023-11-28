@@ -4,13 +4,6 @@
   publish = "web/public"
   command = "npm run build"
 
-# try to redirect when accessing directly from the netlify address
-[[redirects]]
-  from = "https://655f35d5ef82880008b69a9b--musing-shannon-142f96.netlify.app"
-  to = "https://neverbot.com"
-  status = 301
-  force = true
-
 # redirect from old blog.neverbot.com
 [[redirects]]
   from = "https://blog.neverbot.com/*"
@@ -20,13 +13,13 @@
 
 # redirect from old permalinks with categories and subcategories
 [[redirects]]
-  from = "/archivo/:category/:subcategory/*"
-  to = "/:splat"
+  from = "/archivo/:category/:subcategory/:title"
+  to = "/:title"
   status = 301
   force = true
 
 [[redirects]]
-  from = "/archivo/:category/*"
-  to = "/:splat"
+  from = "/archivo/:category/:title"
+  to = "/:title"
   status = 301
   force = true
