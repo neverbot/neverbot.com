@@ -6,8 +6,9 @@ tags:
   - música
   - pensamientos aleatorios
 date: 2007-09-28 16:12:34
-video: 4mtfnfQoAco
 ---
+
+{% youtube 4mtfnfQoAco %}
 
 > Don't let the system get you down.
 

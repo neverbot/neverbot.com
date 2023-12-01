@@ -6,7 +6,8 @@ tags:
   - cine
   - esperando por...
 date: 2010-10-28 12:07:51
-video: OlhLOWTnVoQ
 ---
+
+{% youtube OlhLOWTnVoQ %}
 
 _And the Oscar goes to_: James Franco (al menos eso están diciendo las opiniones de quienes ya han visto la película).

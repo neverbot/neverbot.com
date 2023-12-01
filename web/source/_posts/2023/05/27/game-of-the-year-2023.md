@@ -3,10 +3,10 @@ title: 'Game of the Year 2023: MyHouse.wad'
 author: neverbot
 tags:
   - videojuegos
-video: 5wAo54DHDY0
 date: 2023-05-27 20:33:55
 ---
 
+{% youtube 5wAo54DHDY0 %}
 
 [***MyHouse.wad***, Inside Doom’s Most Terrifying Mod](https://www.youtube.com/watch?v=5wAo54DHDY0).{.center}
 

@@ -5,8 +5,10 @@ author: neverbot
 tags:
   - cine
   - tv
+  - clásicos de internet
 date: 2011-03-23 22:19:31
-video: Vxq9yj2pVWk
 ---
+
+{% youtube Vxq9yj2pVWk %}
 
 Amplía. Amplía. Para. Limpia la imagen.

@@ -6,7 +6,8 @@ tags:
   - internet
   - mundo real™
 date: 2011-12-23 13:35:08
-video: yaAhxg4Lz0A
 ---
+
+{% youtube yaAhxg4Lz0A %}
 
 [Meme Proposal Tim \* Audrey](http://vimeo.com/33507366) from [Crazy Monkey Studio](http://vimeo.com/crazymonkey) on [Vimeo](http://vimeo.com).

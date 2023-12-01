@@ -5,8 +5,9 @@ author: neverbot
 tags:
   - música
 date: 2007-06-18 22:00:11
-video: PD_0fqvT32g
 ---
+
+{% youtube PD_0fqvT32g %}
 
 Razones por las que seguir incluyendo a [Green Day](http://www.greenday.com/greenday.html) entre los más grandes de los más grandes. The saints are coming con [U2](http://www.u2.com/).
 

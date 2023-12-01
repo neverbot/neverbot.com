@@ -6,8 +6,9 @@ tags:
   - escenas
   - tv
 date: 2009-11-27 13:37:19
-video: M9VKct1dNEs
 ---
+
+{% youtube M9VKct1dNEs %}
 
 Seguimos con la serie de posts sobre escenas increíbles de la historia del cine y la televisión. En este caso, la escena final del último episodio de la tercera temporada de Galactica, Estrella de combate.
 

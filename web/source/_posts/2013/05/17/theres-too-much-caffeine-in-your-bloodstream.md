@@ -6,8 +6,9 @@ tags:
   - música
   - pensamientos aleatorios
 date: 2013-05-17 22:39:22
-video: D1RDbp6sa3A
 ---
+
+{% youtube D1RDbp6sa3A %}
 
 > *There's too much caffeine* 
 >

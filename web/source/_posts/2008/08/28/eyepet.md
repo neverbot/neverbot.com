@@ -5,8 +5,8 @@ author: neverbot
 tags:
   - videojuegos
 date: 2008-08-28 08:39:42
-video: YZvxIjdyyII
 ---
 
+{% youtube YZvxIjdyyII %}
 
-Espectacular. Y seguro que da menos la lata que una mascota de verdad.
+Espectacular.

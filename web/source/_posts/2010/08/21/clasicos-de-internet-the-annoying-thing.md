@@ -5,7 +5,8 @@ author: neverbot
 tags:
   - clásicos de internet
 date: 2010-08-21 11:25:37
-video: oNnRGtVkr6E
 ---
 
-The Annoying Thing
+{% youtube oNnRGtVkr6E %}
+
+_The Annoying Thing_ {.center}

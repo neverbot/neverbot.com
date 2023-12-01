@@ -6,8 +6,9 @@ tags:
   - blog
   - música
 date: 2007-12-17 15:34:38
-video: -Kobdb37Cwc
 ---
+
+{% youtube -Kobdb37Cwc %}
 
 > ... **I don't like Mondays**.
 

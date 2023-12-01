@@ -6,8 +6,9 @@ tags:
   - música
   - pensamientos aleatorios
 date: 2010-08-03 11:45:24
-video: K7l5ZeVVoCA
 ---
+
+{% youtube K7l5ZeVVoCA %}
 
 > No one should take themselves so seriously  
 > With many years ahead to fall in line

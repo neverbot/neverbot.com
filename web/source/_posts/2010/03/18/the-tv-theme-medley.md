@@ -5,9 +5,11 @@ author: neverbot
 tags:
   - música
   - tv
+  - clásicos de internet
 date: 2010-03-18 10:46:23
-video: 8i7u3fl-hP8
 ---
+
+{% youtube 8i7u3fl-hP8 %}
 
 Es el nombre de este gran vídeo que encuentro vía [MundoGeek](http://mundogeek.net/archivos/2010/03/18/popurri-de-series-de-television/). Una misma persona, a piano y guitarra acústica, tocando las canciones de grandes series de televisión.
 

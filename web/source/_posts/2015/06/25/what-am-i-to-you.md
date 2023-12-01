@@ -6,8 +6,9 @@ tags:
   - música
   - tv
 date: 2015-06-25 13:16:43
-video: E8KERqctugU
 ---
+
+{% youtube E8KERqctugU %}
 
 _Best song. Ever._
 
