@@ -1,5 +1,6 @@
 ---
 title: ¿Deberías dejar la academia?
+subtitle: Consejos vendo, que para mí no tengo
 author: neverbot
 date: 2023-11-10 13:10:20
 tags:
