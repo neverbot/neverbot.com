@@ -1,5 +1,5 @@
 ---
-title: Esperando por... Furiosa: A Mad Max Saga
+title: 'Esperando por... Furiosa: A Mad Max Saga'
 subtitle: Tengo el _jaip_ por las nubes
 author: neverbot
 date: 2023-12-01 11:47:05
