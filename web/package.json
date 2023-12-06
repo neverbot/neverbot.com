@@ -1,13 +1,13 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "neverbot.com",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "hexo generate",
-    "clean": "hexo clean",
-    "deploy": "hexo deploy",
-    "server": "hexo server"
+    "build": "npx hexo generate",
+    "clean": "npx hexo clean",
+    "deploy": "npx hexo deploy",
+    "server": "npx hexo server"
   },
   "dependencies": {
     "hexo": "^6.3.0",
