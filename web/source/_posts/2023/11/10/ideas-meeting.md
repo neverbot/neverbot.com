@@ -1,6 +1,5 @@
 ---
 title: Ideas meeting
-subtitle: Hay que decirlo más
 author: neverbot
 date: 2023-11-10 15:43:30
 tags:
