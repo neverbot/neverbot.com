@@ -69,6 +69,23 @@ Sobre las últimas películas de esa lista ya [escribí un poco hace tiempo](/li
 
 Podemos verlas, tienen su diversión, pero no encajan en un visionado cronológico con el resto porque son un reboot completo del universo. Podríamos hacer un visionado cronológico de la línea temporal Kelvin por su lado, que sería... ver las tres películas en orden y ya. *Win*.
 
+## Los proyectos fan
+
+Esta lista puede ser ignorable si no os interesa, y según vaya descubriendo nuevas cosas las iré añadiendo. Todo aquí es muy secundario, pero... La [wiki de Star Trek Expanded Universe](https://stexpanded.fandom.com/wiki/Main_Page) es un lugar en el que perder el tiempo un rato.
+
+| Título                                                       | Año       | Episodios |
+| ------------------------------------------------------------ | --------- | --------- |
+| [*Star Trek: Hidden Frontier*](*Star Trek: Hidden Frontier*) | 2000-2007 | 50        |
+| [*Starship Exeter*](https://en.wikipedia.org/wiki/Starship_Exeter) | 2002-2004 | 2         |
+| [*Star Trek: Intrepid*](https://en.wikipedia.org/wiki/Star_Trek:_Intrepid) | 2007...   | varios    |
+| [*Star Trek: Odissey*](https://en.wikipedia.org/wiki/Star_Trek:_Odyssey) | 2007-2001 | 10        |
+| [*Star Trek: Phoenix*](https://en.wikipedia.org/wiki/Star_Trek:_Phoenix) | 2010      | 1         |
+| [*Star Trek: New Voyages*](https://en.wikipedia.org/wiki/Star_Trek:_New_Voyages) | 2004-2016 | 10        |
+| [*Star Trek: Of Gods and Men*](https://en.wikipedia.org/wiki/Star_Trek:_Of_Gods_and_Men) | 2008      | 1         |
+| [*Star Trek Continues*](https://en.wikipedia.org/wiki/Star_Trek_Continues) | 2013-2017 | 13        |
+| [*Prelude to Axanar*](https://en.wikipedia.org/wiki/Prelude_to_Axanar) | 2014      |           |
+| [*Star Trek: Renegades*](https://en.wikipedia.org/wiki/Star_Trek:_Renegades) | 2015      |           |
+
 ## ¿Y cómo lo voy a hacer yo?
 
 Pues una mezcla. Voy a empezar el visionado teniendo en cuenta la fecha de estreno (ya he empezado con **La Serie Original**), pero teniendo un ojo atento a la lista cronológica para saber lo que ocurre antes o después. ¿Por qué? Principalmente porque tampoco sé muy bien hasta donde voy a llegar o si voy a terminar el proyecto entero, pero tengo claro que sí quiero ver a la tripulación original en sus tres temporadas, así como las siete de **La Nueva Generación**, que es con lo que empecé yo como *Trekkie*. A partir de ahí, hasta donde nos lleve la imaginación.
