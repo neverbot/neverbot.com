@@ -74,8 +74,8 @@ Podemos verlas, tienen su diversión, pero no encajan en un visionado cronológi
 Esta lista puede ser ignorable si no os interesa, y según vaya descubriendo nuevas cosas las iré añadiendo. Todo aquí es muy secundario, pero... La [wiki de Star Trek Expanded Universe](https://stexpanded.fandom.com/wiki/Main_Page) es un lugar en el que perder el tiempo un rato.
 
 | Título                                                       | Año       | Episodios |
-| ------------------------------------------------------------ | --------- | --------- |
-| [*Star Trek: Hidden Frontier*](*Star Trek: Hidden Frontier*) | 2000-2007 | 50        |
+| ------------------------------------------------------------ | :-------: | :-------: |
+| [*Star Trek: Hidden Frontier*](Star Trek: Hidden Frontier)   | 2000-2007 | 50        |
 | [*Starship Exeter*](https://en.wikipedia.org/wiki/Starship_Exeter) | 2002-2004 | 2         |
 | [*Star Trek: Intrepid*](https://en.wikipedia.org/wiki/Star_Trek:_Intrepid) | 2007...   | varios    |
 | [*Star Trek: Odissey*](https://en.wikipedia.org/wiki/Star_Trek:_Odyssey) | 2007-2001 | 10        |
