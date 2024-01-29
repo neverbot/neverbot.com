@@ -73,18 +73,18 @@ Podemos verlas, tienen su diversión, pero no encajan en un visionado cronológi
 
 Esta lista puede ser ignorable si no os interesa, y según vaya descubriendo nuevas cosas las iré añadiendo. Todo aquí es muy secundario, pero... La [wiki de Star Trek Expanded Universe](https://stexpanded.fandom.com/wiki/Main_Page) es un lugar en el que perder el tiempo un rato.
 
-| Título                                                       | Año       | Episodios |
+| Título                                                       |    Año    | Episodios |
 | ------------------------------------------------------------ | :-------: | :-------: |
-| [*Star Trek: Hidden Frontier*](Star Trek: Hidden Frontier)   | 2000-2007 | 50        |
-| [*Starship Exeter*](https://en.wikipedia.org/wiki/Starship_Exeter) | 2002-2004 | 2         |
-| [*Star Trek: Intrepid*](https://en.wikipedia.org/wiki/Star_Trek:_Intrepid) | 2007...   | varios    |
-| [*Star Trek: Odissey*](https://en.wikipedia.org/wiki/Star_Trek:_Odyssey) | 2007-2001 | 10        |
-| [*Star Trek: Phoenix*](https://en.wikipedia.org/wiki/Star_Trek:_Phoenix) | 2010      | 1         |
-| [*Star Trek: New Voyages*](https://en.wikipedia.org/wiki/Star_Trek:_New_Voyages) | 2004-2016 | 10        |
-| [*Star Trek: Of Gods and Men*](https://en.wikipedia.org/wiki/Star_Trek:_Of_Gods_and_Men) | 2008      | 1         |
-| [*Star Trek Continues*](https://en.wikipedia.org/wiki/Star_Trek_Continues) | 2013-2017 | 13        |
-| [*Prelude to Axanar*](https://en.wikipedia.org/wiki/Prelude_to_Axanar) | 2014      |           |
-| [*Star Trek: Renegades*](https://en.wikipedia.org/wiki/Star_Trek:_Renegades) | 2015      |           |
+| [*Star Trek: Hidden Frontier*](https://en.wikipedia.org/wiki/Star_Trek:_Hidden_Frontier) | 2000-2007 |    50     |
+| [*Starship Exeter*](https://en.wikipedia.org/wiki/Starship_Exeter) | 2002-2004 |     2     |
+| [*Star Trek: Intrepid*](https://en.wikipedia.org/wiki/Star_Trek:_Intrepid) |  2007...  |  varios   |
+| [*Star Trek: Odissey*](https://en.wikipedia.org/wiki/Star_Trek:_Odyssey) | 2007-2001 |    10     |
+| [*Star Trek: Phoenix*](https://en.wikipedia.org/wiki/Star_Trek:_Phoenix) |   2010    |     1     |
+| [*Star Trek: New Voyages*](https://en.wikipedia.org/wiki/Star_Trek:_New_Voyages) | 2004-2016 |    10     |
+| [*Star Trek: Of Gods and Men*](https://en.wikipedia.org/wiki/Star_Trek:_Of_Gods_and_Men) |   2008    |     1     |
+| [*Star Trek Continues*](https://en.wikipedia.org/wiki/Star_Trek_Continues) | 2013-2017 |    13     |
+| [*Prelude to Axanar*](https://en.wikipedia.org/wiki/Prelude_to_Axanar) |   2014    |           |
+| [*Star Trek: Renegades*](https://en.wikipedia.org/wiki/Star_Trek:_Renegades) |   2015    |           |
 
 ## ¿Y cómo lo voy a hacer yo?
 
