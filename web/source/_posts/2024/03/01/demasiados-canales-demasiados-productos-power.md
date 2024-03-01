@@ -14,9 +14,7 @@ En este caso, además, parece que tiene sentido que en el internet hispanohablan
 
 ![power](./demasiados-canales-demasiados-productos-power/power.jpg)
 
-Saltando de enlace en enlace, buscando no sé muy bien el qué, acabé en [imdb](https://www.imdb.com/) en alguna película en la que aparecía [**50 cent**](https://en.wikipedia.org/wiki/50_Cent), y se me ocurrió cotillear qué mas cine y tv había hecho.
-
-¿44 capítulos de una serie que se llama [**Power**](https://en.wikipedia.org/wiki/Power_(TV_series))? ¿Qué carajo es eso? ¿También como productor ejecutivo? ¿Y sale en tantos capítulos sin ser el protagonista?
+Saltando de enlace en enlace, buscando no sé muy bien el qué, acabé en [imdb](https://www.imdb.com/) en alguna película en la que aparecía [**50 cent**](https://en.wikipedia.org/wiki/50_Cent), y se me ocurrió cotillear qué mas cine y tv había hecho. ¿Aparece en 44 capítulos de una serie que se llama [**Power**](https://en.wikipedia.org/wiki/Power_(TV_series))? ¿Qué carajo es eso? ¿También como productor ejecutivo? ¿Y sale en tantos capítulos sin ser el protagonista?
 
 Seis temporadas emitidas en **Starz** entre 2014 y 2020, contando la historia de *Ghost*, traficante de drogas que está ascendiendo en la escalera del crimen de Nueva York, propietario de una sala de música, y toda la *troupe* que hay a su alrededor: amigos de la infancia, familia, ex-parejas... y los líos con la ley y con sus competidores en el mundo del crimen.
 
