@@ -127,6 +127,6 @@ feed:
   autodiscovery: true
   template:
 
-statcounter:
-  project: 2084337
-  security: d7af9911
+# statcounter:
+#   project: xxx
+#   security: xxx
