@@ -8,10 +8,10 @@ author: neverbot
 date: 2023-02-01 19:23:42
 ---
 
-*Este post forma parte de una serie sobre el [revisionado completo de todo Star Trek](/tv/star-trek/), 
+*Este post forma parte de una serie sobre el [revisionado completo de todo Star Trek](/tv/star-trek/),
 es recomendable empezar por ahí*.{.textright}
 
-¿Por dónde comenzar? Por el principio. Si empezamos a ver **Star Trek** desde su origen tenemos que empezar por el primer episodio de la primera temporada de **La Serie Original**, ¿no? 
+¿Por dónde comenzar? Por el principio. Si empezamos a ver **Star Trek** desde su origen tenemos que empezar por el primer episodio de la primera temporada de **La Serie Original**, ¿no?
 
 No. Porque anteriormente a ese comienzo se rodó un primer piloto que estuvo parcialmente perdido durante unos cuantos años (como tantos y tantos [episodios de Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who_missing_episodes)). En 1965 se rodó este piloto, con el título "**The Cage**" como prueba para la NBC, con algunas cosas comunes pero con unas cuantas diferencias.
 

@@ -8,14 +8,14 @@ tags:
 date: 2009-11-14 11:36:20
 ---
 
-![200911141126.jpg](./tebeos-de-planeta-deagostini-nunca-mas/200911141126.jpg) 
+![200911141126.jpg](./tebeos-de-planeta-deagostini-nunca-mas/200911141126.jpg)
 
 Ya prácticamente no compro tebeos americanos _mainstream_ en castellano, exceptuando alguna compra muy puntual por seguir a algún autor, pero hace un par de días pasé por una librería y decidí arriesgarme con una novedad, por tener algo que leer esa tarde. Opté por el último tomo de Batman publicado por Planeta: **Batman R.I.P.**
 
 He pagado 17 euros por un timo, y es que **la editorial engaña por partida doble**:
 
-1.  Interrumpe la colección regular de Batman, donde deberían encajar los números unitarios que componen este tomo, para publicar esto en un tomo... lo que **parece indicar al comprador que es un conjunto argumental autónomo**, que puede leerse únicamente con lo que en él está contenido.
-2.  **Le proporciona una tapa dura** y una serie de características, además de un precio que no es barato, queriendo hacer ver al comprador que es algo que realmente merece esta edición, que puede ser una historia realmente buena y que el tebeo se la merece.
+1. Interrumpe la colección regular de Batman, donde deberían encajar los números unitarios que componen este tomo, para publicar esto en un tomo... lo que **parece indicar al comprador que es un conjunto argumental autónomo**, que puede leerse únicamente con lo que en él está contenido.
+2. **Le proporciona una tapa dura** y una serie de características, además de un precio que no es barato, queriendo hacer ver al comprador que es algo que realmente merece esta edición, que puede ser una historia realmente buena y que el tebeo se la merece.
 
 **Los dos puntos anteriores son mentira**. El último número de la colección regular en grapa aparece con el subtítulo _Batman RIP: Prólogo_. Lo que también es mentira, porque no existe ningún prólogo, son simplemente dos historias más, exactamente igual que el número anterior. La decisión de dónde poner el comienzo de la historia y dónde colocar el supuesto prólogo ha sido completamente arbitraria. De hecho ya la primera página del tomo incluye un amplio resumen en texto para entender de dónde está viniendo toda la historia, ya que, siendo honestos, te encuentras en la mitad de una saga amplia y no hay ningún tipo de comienzo argumental ni en el prólogo ni en el tomo.
 

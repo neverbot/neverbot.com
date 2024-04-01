@@ -46,7 +46,7 @@ Llegamos al día de graduación y quiere *la casualidad* que los titanes comienc
 
 ---
 
-Durante el prólogo, el padre de Eren había salido de viaje, y no hemos vuelto a saber nada de él ni han intentado buscarlo. ¿Me he perdido algo? 
+Durante el prólogo, el padre de Eren había salido de viaje, y no hemos vuelto a saber nada de él ni han intentado buscarlo. ¿Me he perdido algo?
 
 Hemos visto que Eren tiene de cuando en cuando algunos extraños sueños relacionados con su padre, e intuyo que algo de los que parecía sueño habrá sucedido de verdad, pero no quiero buscar más información no vaya a ser que me coma algún *spoiler* (*que ya me he tragado un par de ellos*).
 

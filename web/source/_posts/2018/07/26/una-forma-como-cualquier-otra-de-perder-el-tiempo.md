@@ -13,6 +13,6 @@ _So long, and thanks for all the fish_.
 
 Doce años de blog. Aniversarios:
 
-*   [Undécimo](/once/), [décimo](/y-diez/), [noveno](/nueve/), [octavo](/ocho/), [séptimo](/septimo-aniversario/), [sexto](/sexto-aniversario/), [quinto](/quinto-aniversario/), [cuarto](/cuarto-aniversario-de-neverbot-com/), [tercero](/tercer-aniversario-del-blog/).
-*   El primero y segundo no tuvieron _posts_.
-*   [¡Hola Mundo!](/hello-world/), el primer _post_, 26 de Julio de 2006.
+* [Undécimo](/once/), [décimo](/y-diez/), [noveno](/nueve/), [octavo](/ocho/), [séptimo](/septimo-aniversario/), [sexto](/sexto-aniversario/), [quinto](/quinto-aniversario/), [cuarto](/cuarto-aniversario-de-neverbot-com/), [tercero](/tercer-aniversario-del-blog/).
+* El primero y segundo no tuvieron _posts_.
+* [¡Hola Mundo!](/hello-world/), el primer _post_, 26 de Julio de 2006.

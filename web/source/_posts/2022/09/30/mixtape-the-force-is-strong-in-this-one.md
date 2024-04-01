@@ -9,7 +9,7 @@ date: 2022-09-30 14:13:10
 
 Por dentro soy un señor mayor. Disfruto del placer de consumir música en soportes físicos, en discos de vinilo o CDs. Sigo buscando un buen reproductor/grabador de minidiscs para poder usarlo algún día, y creo que en el año 2022 con eso está todo dicho.
 
-Sin embargo, una gran cantidad de lo que consumimos es en un formato digital, archivos o *streaming*. En una de las dos opciones el control de los bits es tuyo, en el otro pagas por un alquiler, una licencia de reproducción, que te sigue dando acceso a los mismos bits mientras sigas pagando. En mi caso **prefiero que mis bits sean míos**. Así que sigo haciéndome mis propias *mixtapes*, en este caso colecciones de *emepetreses* (quien dice *mp3* dice un abanico de formatos, pero nos entendemos). Busco, investigo, descargo, edito, les doy etiquetas *ID3*, les hago una carátula, a veces incluso los tuesto en un CD. Soy un señor mayor. 
+Sin embargo, una gran cantidad de lo que consumimos es en un formato digital, archivos o *streaming*. En una de las dos opciones el control de los bits es tuyo, en el otro pagas por un alquiler, una licencia de reproducción, que te sigue dando acceso a los mismos bits mientras sigas pagando. En mi caso **prefiero que mis bits sean míos**. Así que sigo haciéndome mis propias *mixtapes*, en este caso colecciones de *emepetreses* (quien dice *mp3* dice un abanico de formatos, pero nos entendemos). Busco, investigo, descargo, edito, les doy etiquetas *ID3*, les hago una carátula, a veces incluso los tuesto en un CD. Soy un señor mayor.
 
 Por ejemplo, este disco de septiembre:
 

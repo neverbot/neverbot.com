@@ -13,7 +13,7 @@ En esto hemos gastado la hora de comer.
 
 Hasta que alguien ha dicho:
 
-> \- Pues yo me lo monté con ella y no me dijo nada de Brad Pitt... 
+> \- Pues yo me lo monté con ella y no me dijo nada de Brad Pitt...
   \- Si, claro, eso fue volando sobre la India en un globo tirado por tres dragones, ¿no?
 
 Y hemos seguido trabajando.

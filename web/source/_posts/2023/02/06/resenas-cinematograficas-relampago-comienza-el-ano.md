@@ -27,7 +27,7 @@ Si la anterior era prescindible, poco puedo decir de esta. Me dormí media hora 
 
 ![image-20230206142726243](./resenas-cinematograficas-relampago-comienza-el-ano/image-20230206142726243.jpg)
 
-Una de las escasas vueltas al cine del último año, donde cada vez veo las salas más vacías sin importar la película, el cine o el pase al que vayas. Como todo lo de **Shyamalan**, una impecable factura técnica, planos tensos y sostenidos, desconocimiento de lo que puede ocurrir hasta el final de la película, y... y una sensación al final de "*pues tampoco me has contado nada*". Vale la pena por el viaje, no por la historia. Yo sigo siendo *Team* **M. Night Shyamalan**. 
+Una de las escasas vueltas al cine del último año, donde cada vez veo las salas más vacías sin importar la película, el cine o el pase al que vayas. Como todo lo de **Shyamalan**, una impecable factura técnica, planos tensos y sostenidos, desconocimiento de lo que puede ocurrir hasta el final de la película, y... y una sensación al final de "*pues tampoco me has contado nada*". Vale la pena por el viaje, no por la historia. Yo sigo siendo *Team* **M. Night Shyamalan**.
 
 ## [Just Mercy](https://letterboxd.com/film/just-mercy/) (*Cuestión de Justicia*, 2019)
 

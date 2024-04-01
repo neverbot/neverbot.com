@@ -17,23 +17,22 @@ Y [Blizzard](http://en.wikipedia.org/wiki/Blizzard_Entertainment) me ha enviado 
 
 **A favor**:
 
-*   Me lo han enviado junto a un texto que pone: "Héroe caído: Con esta invitación para que te unas a millones de jugadores en esta prueba gratuita de 10 días de The Burning Crusade, Blizzard Entertainment tiene el placer de animarte a que desempolves la armadura para luchar contra la Legión Ardiente." Eso anima a cualquiera.
-    
-*   Wow tiene un acabado genial que hace que todo "mole". Te puedes pasar horas jugando sólo por explorar un poco más y ver qué hay en el siguiente país.
-    
-*   Estaba "relativamente" cerca de las monturas. El "relativamente" es un eufemismo, claro. Me faltaban siete niveles, creo.
-    
+* Me lo han enviado junto a un texto que pone: "Héroe caído: Con esta invitación para que te unas a millones de jugadores en esta prueba gratuita de 10 días de The Burning Crusade, Blizzard Entertainment tiene el placer de animarte a que desempolves la armadura para luchar contra la Legión Ardiente." Eso anima a cualquiera.
+
+* Wow tiene un acabado genial que hace que todo "mole". Te puedes pasar horas jugando sólo por explorar un poco más y ver qué hay en el siguiente país.
+
+* Estaba "relativamente" cerca de las monturas. El "relativamente" es un eufemismo, claro. Me faltaban siete niveles, creo.
 
 **En contra**:
 
-*   Cuando se abrieron los servidores en castellano me mudé a uno, para descubrir rápidamente que no me gusta. La gente habla en una mezcla de spanglish horrendo, por no contar las continuas patadas al diccionario que se pueden leer. Tendría que volver a mudarme a un servidor en inglés y ya no sé si es posible o no.
-    
-*   La gente con la que jugaba hace un tiempo sigue jugando, pero seguimos teniendo el mismo problema: ellos juegan más rápido. Cuando te quedas atrasado porque el resto de jugadores avanza más rápidamente, el juego se hace aburrido.
-    
-*   Wow es asquerosamente monótono. Todo el juego se basa en "vete a coger esto y traémelo" o "mata a esos y vuelve". El que vea más opciones en ese juego es que tiene la vista nublada por la afición.
-    
-*   Me he cambiado al 100% a Linux y no sé en que estado estará el tema de jugar sobre este sistema. Quizá usando Wine/Cedega podría hacer algo, pero no estoy seguro. Tendría que investigar.
-    
-*   Sigo esperando por [Tabula Rasa](http://en.wikipedia.org/wiki/Tabula_Rasa_%28computer_game%29).
-    
-*   Y el más importante: casi no tengo tiempo libre.
+* Cuando se abrieron los servidores en castellano me mudé a uno, para descubrir rápidamente que no me gusta. La gente habla en una mezcla de spanglish horrendo, por no contar las continuas patadas al diccionario que se pueden leer. Tendría que volver a mudarme a un servidor en inglés y ya no sé si es posible o no.
+
+* La gente con la que jugaba hace un tiempo sigue jugando, pero seguimos teniendo el mismo problema: ellos juegan más rápido. Cuando te quedas atrasado porque el resto de jugadores avanza más rápidamente, el juego se hace aburrido.
+
+* Wow es asquerosamente monótono. Todo el juego se basa en "vete a coger esto y traémelo" o "mata a esos y vuelve". El que vea más opciones en ese juego es que tiene la vista nublada por la afición.
+
+* Me he cambiado al 100% a Linux y no sé en que estado estará el tema de jugar sobre este sistema. Quizá usando Wine/Cedega podría hacer algo, pero no estoy seguro. Tendría que investigar.
+
+* Sigo esperando por [Tabula Rasa](http://en.wikipedia.org/wiki/Tabula_Rasa_%28computer_game%29).
+
+* Y el más importante: casi no tengo tiempo libre.

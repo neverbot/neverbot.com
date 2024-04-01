@@ -12,11 +12,11 @@ Hace unos días, cuando fui a hacer la compra habitual tebeística mensual (aunq
 
 Lo que sí me ha quedado claro desde hace tiempo es que al menos mi capacidad de filtrado es bastante grande. Ahora me fío únicamente de los guionistas, siguiendo a autores concretos, y cuando uno abandona una colección, esta termina para mí.
 
-> Astonishing X-Men de [Josh Whedon](http://en.wikipedia.org/wiki/Josh_Whedon) (a punto de terminar) 
-  Civil War de [Mark Millar](http://en.wikipedia.org/wiki/Mark_Millar) (limitada) 
-  The Ultimates de Mark Millar (último número) 
-  X-Factor de [Peter David](http://en.wikipedia.org/wiki/Peter_David) 
-  Daredevil de [Ed Brubaker](http://en.wikipedia.org/wiki/Ed_Brubaker) 
+> Astonishing X-Men de [Josh Whedon](http://en.wikipedia.org/wiki/Josh_Whedon) (a punto de terminar)
+  Civil War de [Mark Millar](http://en.wikipedia.org/wiki/Mark_Millar) (limitada)
+  The Ultimates de Mark Millar (último número)
+  X-Factor de [Peter David](http://en.wikipedia.org/wiki/Peter_David)
+  Daredevil de [Ed Brubaker](http://en.wikipedia.org/wiki/Ed_Brubaker)
   Eternos de [Neil Gaiman](http://en.wikipedia.org/wiki/Neil_gaiman) (limitada)
 
 Casi todas terminan ya, con lo que mi ahorro futuro está asegurado. Están todos acompañados de grandes dibujantes, lo que me hace disfrutar aún más de las historias. Creo que de esa lista lo único que me falta son los Nuevos Vengadores de [Bendis](http://en.wikipedia.org/wiki/Brian_Michael_Bendis) pero no habían salido todavía. También me llevé Elektra Lives Again de [Frank Miller](http://en.wikipedia.org/wiki/Frank_Miller_%28comics%29), del que tengo que hablar con más detenimiento.

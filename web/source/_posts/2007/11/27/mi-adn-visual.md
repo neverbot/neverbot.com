@@ -11,8 +11,8 @@ date: 2007-11-27 12:28:22
 
 ![VisualDNA](./mi-adn-visual/visualdna.jpg "VisualDNA")
 
-> Personality - love: **Love bug** 
+> Personality - love: **Love bug**
 >
-> You are a real romantic and a bit of dreamer. 
+> You are a real romantic and a bit of dreamer.
 >
 > **Ok, life may not be a movie, but what's wrong with thinking it is?**

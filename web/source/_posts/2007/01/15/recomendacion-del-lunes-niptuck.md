@@ -22,6 +22,6 @@ El personaje de [Christian Troy](http://en.wikipedia.org/wiki/Christian_Troy) ([
 
 El elevado tono sexual de todos y cada uno de los episodios. Delicioso. Aprovecho para [volver a criticar](/peliculas-de-los-x-men-que-queremos-ver/) a [Bryan Singer](http://www.imdb.com/name/nm0001741/), incapaz de transmitir nada ni remotamente parecido al deseo sexual incluso teniendo en pantalla a la vez a [Halle Berry](http://www.imdb.com/name/nm0000932/), [Rebecca Romijn](http://www.imdb.com/name/nm0005381/) y [Famke Janssen](http://www.imdb.com/name/nm0000463/). Esta última interpreta a un personaje de cierta importancia en la segunda temporada de Nip/Tuck y destila sensualidad por todos y cada uno de los poros de su cuerpo durante todos y cada uno de los segundos que aparece en pantalla. Me extendería más en mis comentarios, pero las babas me impedirían teclear.
 
-Y, como ya he dicho antes, la construcción de los personajes principales, que es la razón número uno para ver la serie. Bueno, vale, la segunda. La primera es la que acabo de explicar en el párrafo anterior. 
+Y, como ya he dicho antes, la construcción de los personajes principales, que es la razón número uno para ver la serie. Bueno, vale, la segunda. La primera es la que acabo de explicar en el párrafo anterior.
 
 Yo de mayor quiero ser como el Dr. Troy.

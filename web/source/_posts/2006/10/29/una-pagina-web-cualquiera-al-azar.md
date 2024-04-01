@@ -12,7 +12,7 @@ No sé exactamente cómo llegué hasta esta página web. Supongo que a través d
 
 > A veces me gustaría poner al mundo en No admitido. ([»](http://dissenet.com/jorgemiente/2006/07/23/msnworld/))
 
-> P: ¿Como te definirias en una sola frase? 
+> P: ¿Como te definirias en una sola frase?
 >
 > R: Si pudiera definirme en una sola frase no escribiría un blog. ([»](http://dissenet.com/jorgemiente/2006/10/22/definiendo/))
 

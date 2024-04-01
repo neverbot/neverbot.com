@@ -18,9 +18,9 @@ El pesimista (cita de [Sir Arthur Eddington](http://en.wikipedia.org/wiki/Arthur
 
 Aunque todo esto me recuerda un poco el chiste aquel de:
 
-> *   El optimista te dirá que el vaso está medio lleno.
->     
-> *   El pesimista que está medio vacío.
->     
-> *   El ingeniero te dirá que tenemos un vaso el doble de grande de lo necesario.
+> * El optimista te dirá que el vaso está medio lleno.
+>
+> * El pesimista que está medio vacío.
+>
+> * El ingeniero te dirá que tenemos un vaso el doble de grande de lo necesario.
 >

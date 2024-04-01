@@ -9,11 +9,11 @@ date: 2006-09-06 19:13:11
 ---
 
 > What would you like to do about httpd.conf?
-> 
-> *   install the package maintainer's version
-> *   keep your currently-installed version
-> *   show the differences between the versions
-> *   start a new shell to **examine the situation**
+>
+> * install the package maintainer's version
+> * keep your currently-installed version
+> * show the differences between the versions
+> * start a new shell to **examine the situation**
 
 Examinar la situación con calma suele ser lo que hay que hacer más habitualmente, pero eso es algo que la mayor parte de la gente no suele comprender. Lo de ser informático suele ser más un castigo que otra cosa, dado que se te presupone que sabes arreglar ordenadores (Porque eso hacen los informáticos, ¿no? ¿Qué carajo será la ingeniería de software entonces?) y, por tanto, todo el mundo te pedirá antes o después que le "eches un vistazo rápido a ver qué le pasa", cuando lo que le pasa generalmente es que el usuario no sabe cómo se utiliza la herramienta que se ha comprado. Nadie nace aprendido.
 

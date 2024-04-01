@@ -31,4 +31,3 @@ Supongo que con un porcentaje muy significativo de la serie centrado en personaj
 No me he atrevido a entrar en los *spin-offs* porque no quería invertir la cantidad de horas que se me iban a ir por ese agujero, pero sigo considerándolo de cuando en cuando.
 
 Cosas veredes, amigo Sancho.
-

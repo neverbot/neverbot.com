@@ -19,7 +19,7 @@ Sólo he tardado dos años en pensar cuál sería el tercer personaje, o al meno
 
 ¿Cuántos otros personajes tienen su propia página web dedicada a sus propias citas? **[http://www.arigoldquotes.com](http://www.arigoldquotes.com)**
 
-> Lloyd: Ari, swear to me that you will never again say anything offensive to me about my race or my sexual orientation. 
+> Lloyd: Ari, swear to me that you will never again say anything offensive to me about my race or my sexual orientation.
   Ari: I can’t swear to that, but I promise I will always apologize after.  
 
 > Ari: I always dreamed about ruling the world, but now that I’m getting older I’ll settle for Hollywood.

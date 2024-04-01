@@ -42,7 +42,7 @@ Y me quedé sin probar la _Venganza del Enigma_ (para los de Madrid, la lanzader
 
 Terminando, mis consejos para posibles visitantes:
 
-*   De Asturias para abajo todo es desierto, así que gorra y crema solar son obligatorios.
-*   Bañador para las atracciones acuáticas.
-*   Planificad el orden en el que se quieren hacer las cosas antes de empezar a caminar, porque las distancias son mayores de lo que parece.
-*   Meted la comida en mochilas, no las enseñéis en la entrada _os digan lo que os digan_ y dejadlas en el servicio de taquillas para volver a por ellas a la hora de comer.
+* De Asturias para abajo todo es desierto, así que gorra y crema solar son obligatorios.
+* Bañador para las atracciones acuáticas.
+* Planificad el orden en el que se quieren hacer las cosas antes de empezar a caminar, porque las distancias son mayores de lo que parece.
+* Meted la comida en mochilas, no las enseñéis en la entrada _os digan lo que os digan_ y dejadlas en el servicio de taquillas para volver a por ellas a la hora de comer.

@@ -14,4 +14,4 @@ A un tipo le meten una droga en el cuerpo. Para resumir, la única forma de impe
 
 O conducir una moto robada a un policía, haciendo equilibrios sobre el sillín (de pie sobre el sillín quiero decir), vestido únicamente con un camisón de hospital y con una erección permanente... recordad chicos y chicas, antes o después, las drogas pasan factura.
 
-Es una colección de bizarrismo continuo, desde el primer minuto hasta el último. Lo cierto es que con esa premisa inicial podía haber salido algo mucho mejor, pero tampoco está mal. [Jason Statham](http://www.imdb.com/name/nm0005458/) siempre mola. 
+Es una colección de bizarrismo continuo, desde el primer minuto hasta el último. Lo cierto es que con esa premisa inicial podía haber salido algo mucho mejor, pero tampoco está mal. [Jason Statham](http://www.imdb.com/name/nm0005458/) siempre mola.

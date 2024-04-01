@@ -20,7 +20,7 @@ Miniserie autocontenida, que siempre está bien. Historias parcialmente relacion
 
 ![halo-tv-series](./movidas-catodicas-ciencia-ficcion-televisiva/halo-tv-series.jpg)
 
-Soy **muy** fan de la saga de videojuegos. Creo que hay ahí un trasfondo galáctico y una historia fantástica para ser contada... pero no es esta. Tarda poco en llegar el momento en el que nuestro protagonista se quita el casco y podemos ver que el argumento de la serie va a estar centrado en una persona y no en una situación. 
+Soy **muy** fan de la saga de videojuegos. Creo que hay ahí un trasfondo galáctico y una historia fantástica para ser contada... pero no es esta. Tarda poco en llegar el momento en el que nuestro protagonista se quita el casco y podemos ver que el argumento de la serie va a estar centrado en una persona y no en una situación.
 
 Nos debería dar igual quién es el *Master Chief*. Llevamos tres temporadas de **The Mandalorian** y hemos sabido tres cosas del *mandalorino*, y le hemos visto la cara cinco minutos, y ni falta que hace. Pero en esta serie no nos están contando la historia de los videojuegos, sino una especie de precuela alternativa (*Silver Timeline* han llamado a esta versión), y tenemos un personaje que no actúa como lo hemos hecho todos con el mando de la consola, tenemos secundarios metidos con calzador para contarnos otras historias en otros planetas que nos dan igual, y tenemos... **ojo, posible spoiler**, una historia romántica que no logro entender cómo a quien levantó la mano para proponerla en una reunión de guionistas no lo tiraron por la ventana.
 

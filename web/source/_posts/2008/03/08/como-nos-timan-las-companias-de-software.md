@@ -25,8 +25,6 @@ Probamos a [cargar en el navegador únicamente el archivo swf](http://www.pandas
 
 Vamos a intentar el más difícil todavía... ¿podre cargar el video desde otra web? Total, ellos mismos proponen que incluyamos esta información en nuestras webs. A ver si así puedo sentirme más seguro:
 
-  
-
 Pues parece que sí. Nos están tangando.
 
 Sentíos libres de copiar este post y/o distribuirlo y modificarlo como queráis y por donde queráis, a ver si algún día conseguimos que la gente de los departamentos de marketing deje de intentar colárnoslas tan flagrantemente.

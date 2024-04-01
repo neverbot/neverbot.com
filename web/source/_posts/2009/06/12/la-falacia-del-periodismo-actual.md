@@ -26,7 +26,7 @@ Si probáis a ver uno de estos espacios prestando verdadera atención a lo que d
 Eso no es supuesto... la muerte ya está certificada y ha sido por esa razón, no es discutible.
 
 > \[...\] Supuestamente imputado por un delito de \[...\] o
-> 
+>
 > \[...\] Imputado de un supuesto delito de \[...\]
 
 O está imputado o no lo está, no es necesario utilizar el _supuestamente_ para salvarse de futuras reclamaciones. Y la imputación siempre es por un "_delito de_", no es "_supuesto delito de_". Si tras la imputación resulta inocente o culpable, es otro tema, pero la imputación existe, si no, no se le juzgaría.

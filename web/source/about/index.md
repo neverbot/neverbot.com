@@ -13,9 +13,9 @@ Esta es la página personal de Iván Alonso. Si nos conocemos quizá haya sido c
 
 ## ¿De qué hablo aquí?
 
-En principio de cualquier cosa que me cruce por la cabeza captando mi interés durante más de media hora, lo que viene siendo un *blog*, vaya. En la práctica suele ser sobre consumismo multimedia e internet en general, desde la perspectiva de lo mal que está el mundo la mayor parte de las veces, aunque estoy trabajando en practicar un punto de vista más positivo siempre que puedo.
+En principio de cualquier cosa que me cruce por la cabeza captando mi interés durante más de media hora, lo que viene siendo un _blog_, vaya. En la práctica suele ser sobre consumismo multimedia e internet en general, desde la perspectiva de lo mal que está el mundo la mayor parte de las veces, aunque estoy trabajando en practicar un punto de vista más positivo siempre que puedo.
 
-Además del *blog* en sí (comentarios/*posts* en orden cronológico inverso), también hay unas cuantas páginas más estables donde suelo ir recopilando material publicado anteriormente, a modo de índices de categorías:
+Además del _blog_ en sí (comentarios/_posts_ en orden cronológico inverso), también hay unas cuantas páginas más estables donde suelo ir recopilando material publicado anteriormente, a modo de índices de categorías:
 
 ### Páginas
 
@@ -25,12 +25,12 @@ Además del *blog* en sí (comentarios/*posts* en orden cronológico inverso), t
   - La [categoría de libros](/tags/libros).
 - **Televisión**:
   - [Índice general sobre temática de televisión](/tv/) en esta página.
-  - [Movidas catódicas](/tags/movidas-catodicas/), categoría propia de *posts* con micro reseñas sobre series vistas.
+  - [Movidas catódicas](/tags/movidas-catodicas/), categoría propia de _posts_ con micro reseñas sobre series vistas.
   - [Revisionado completo de todo Star Trek](/tv/star-trek/).
   - La [categoría de televisión](/tags/tv).
 - **Cine**:
   - [Índice general sobre temática de cine](/cine/) en esta página.
-  - [Reseñas cinematográficas relámpago](/tags/resenas-cinematograficas-relampago/), categoría de *posts* con micro reseñas sobre películas vistas.
+  - [Reseñas cinematográficas relámpago](/tags/resenas-cinematograficas-relampago/), categoría de _posts_ con micro reseñas sobre películas vistas.
   - [Revisionado completo de todo Star Wars](/cine/todo-star-wars/).
   - La [categoría cine](/tags/cine).
 - **Anime**:
@@ -40,7 +40,7 @@ Además del *blog* en sí (comentarios/*posts* en orden cronológico inverso), t
   - [Revisionado de Mushoku Tensei](/anime/mushoku-tensei/).
   - La [categoría de anime](/tags/anime).
 
-## Me puedes encontrar en...
+## Me puedes encontrar en
 
 - [neverbot.com](https://neverbot.com), obviamente.
 - [Tumblr](http://neverbot.tumblr.com/)

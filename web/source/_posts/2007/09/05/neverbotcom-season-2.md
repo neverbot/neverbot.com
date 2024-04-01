@@ -14,7 +14,7 @@ Por otra parte, en el trabajo que tengo, las cosas han cambiado ligeramente con 
 
 Estas son las razones principales de que durante los últimos meses apenas haya posts... se han encadenado varias cosas como sabéis: [baja laboral](/primera-fractura-que-divertido/), cambio de oficinas, [cambio de piso](/mudanzas-mudanzas/), y [las vacaciones](/diario-de-guerra/). En Julio terminó el primer año de vida de **neverbot.com**, y llega el momento de echar la vista atrás y adelante y ver hacia dónde quiero ir con esta interesante pérdida de tiempo que tengo como afición.
 
-Me gustaría llevar los posts más cortos a ser aún más cortos (para eso incluí el [miniblog](/tags/miniblog/)), y los más largos a hacerlos un poco más desarrollados y personales. Así que probablemente los posts se llenarán de ese tipo de opiniones. 
+Me gustaría llevar los posts más cortos a ser aún más cortos (para eso incluí el [miniblog](/tags/miniblog/)), y los más largos a hacerlos un poco más desarrollados y personales. Así que probablemente los posts se llenarán de ese tipo de opiniones.
 
 He escrito muchas menos [críticas/reseñas](/tags/resenas/) de las que creía en un principio que iba a hacer, supongo que debido a lo que tardo entre que consumo algo y lo escribo aquí. Una vez que han pasado unos días las (pocas) ganas que podía tener de contar algo al respecto se han visto saciadas por conversaciones con amigos/conocidos/colegas/otros. Estaría bien llevar esas críticas hacia verdaderas críticas un poco más personales y conseguir una cadencia mayor... que para algo soy un consumista nato, algo que he comprobado mientras estoy haciendo mi mudanza, dado que la cantidad de subcultura que estoy traslandando me abruma.
 

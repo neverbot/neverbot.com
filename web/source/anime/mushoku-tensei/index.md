@@ -55,7 +55,7 @@ Algo más de trasfondo videojueguil: existen tres estilos de esgrima: *Dios de l
 
 ##### El primer cambio de contexto
 
-Una de las peculiaridades de esta serie, de las que a la vez más me agradan y más me molestan, es que nos encontramos a cada poco con puntos de inflexión que en cualquier otro tipo de narrativa podrían ser lo suficientemente importantes como para ser algo como un final de temporada, cuando aquí no tienen apenas relevancia alguna. 
+Una de las peculiaridades de esta serie, de las que a la vez más me agradan y más me molestan, es que nos encontramos a cada poco con puntos de inflexión que en cualquier otro tipo de narrativa podrían ser lo suficientemente importantes como para ser algo como un final de temporada, cuando aquí no tienen apenas relevancia alguna.
 
 Al terminar el cuarto capítulo (sólo llevamos cuatro, ojo), encontramos el primero de estos puntos de inflexión: el protagonista abandona el lugar en el que se encontraba, y podemos olvidarnos durante mucho tiempo de todos los personajes, situaciones y argumentos que se estuvieran desarrollando. En una serie de imagen real podría haber sido un final de temporada y comenzar la siguiente con los nuevos personajes que se van a presentar, mientras que aquí sólo es un descanso entre capítulos. Prosigamos.
 
@@ -65,7 +65,7 @@ Al terminar el cuarto capítulo (sólo llevamos cuatro, ojo), encontramos el pri
 
 ##### Episodio 5, Una señorita y violencia
 
-Rudeus conoce a parte de la familia Greyrat, nobles en la lejana ciudad de *Roa*, que quieren que sea el nuevo tutor de su joven hija **Eris**, el personaje [tsundere](https://en.wikipedia.org/wiki/Tsundere) por excelencia, que ya faltaba uno así en la serie. A mí este tipo de personajes se me hacen bola, pero asumo que tienen sus defensores. 
+Rudeus conoce a parte de la familia Greyrat, nobles en la lejana ciudad de *Roa*, que quieren que sea el nuevo tutor de su joven hija **Eris**, el personaje [tsundere](https://en.wikipedia.org/wiki/Tsundere) por excelencia, que ya faltaba uno así en la serie. A mí este tipo de personajes se me hacen bola, pero asumo que tienen sus defensores.
 
 El resto del episodio es Rudeus intentando ganarse el respeto de Eris con un engaño con un falso secuestro que se tuerce y acaba siendo real, y al final le vemos hacer algo de magia decente y a Ghislaine demostrando en un espectacular rescate final que está a otro nivel. Aprendemos de ella que es una "*Rey de la Espada*", en un término que quizá debería traducirse mejor y añadirle género, pero qué sé yo de esto.
 
@@ -77,11 +77,11 @@ Nuestro protagonista es contratado para hacer de tutor los próximos cinco años
 
 Día de visita al mercado, episodio totalmente prescindible. De vez en cuando hay unos acercamientos entre los dos niños (que no llegan a los diez años) que serían graciosos si no recordásemos que de alguna forma dentro de Rudeus lo que hay en realidad es un señor de más de treinta. *Creepy, disturbing*. Quiero pensar que poco a poco se ha ido convirtiendo también en un niño, pero la verdad es que los espectadores generalmente no sabrán cómo enfocar esas situaciones.
 
-Datos interesantes que sacamos: 
+Datos interesantes que sacamos:
 
-- El grupo de aventureros de Ghislaine, Paul y Zenith se llamaba **Los Colmillos del Lobo Negro**. 
+- El grupo de aventureros de Ghislaine, Paul y Zenith se llamaba **Los Colmillos del Lobo Negro**.
 - *Roa* es la ciudad más grande de la región de *Fittoa* del reino de *Asura*.
-- Hay una ciudadela volante dando vueltas por ahí desde hace 400 años: la fortaleza de **Perugius**, uno de los tres héroes que derrotaron a **Laplace**, el Dios Demonio. Esto ahora mismo nos da igual, pero hay aquí un trasfondo de qué sucede en este mundo de fantasía que se irá ampliando poco a poco. 
+- Hay una ciudadela volante dando vueltas por ahí desde hace 400 años: la fortaleza de **Perugius**, uno de los tres héroes que derrotaron a **Laplace**, el Dios Demonio. Esto ahora mismo nos da igual, pero hay aquí un trasfondo de qué sucede en este mundo de fantasía que se irá ampliando poco a poco.
 
 ##### Episodio 7, Lo que yace más allá del esfuerzo
 
@@ -96,7 +96,7 @@ Otro episodio prescindible: Eris aprende a bailar para la fiesta de su décimo c
 Tres cuartas partes de episodio prescindible, aunque anotamos unas cuantas cosas que vamos aprendiendo sobre el mundo:
 
 - Han pasado dos años en los que Rudeus ha estado aprendiendo idiomas, hasta llegar la fecha de su décimo cumpleaños. El orbe flotante parece haber crecido de tamaño pero a nadie parece importarle. Ahí sigue.
-- La familia **Greyrat** tiene cuatro ramas principales, entre las que están los Noto (**donde** están Paul y Rudeus) y los **Boreas** (quienes alojan a Rudeus ahora). Todos los varones Boreas deben ser educados por el cabeza de familia en la capital, y por eso los hermanos de Eris no viven en Roa, y su madre le tenía una cierta animadversión a Rudeus. 
+- La familia **Greyrat** tiene cuatro ramas principales, entre las que están los Noto (**donde** están Paul y Rudeus) y los **Boreas** (quienes alojan a Rudeus ahora). Todos los varones Boreas deben ser educados por el cabeza de familia en la capital, y por eso los hermanos de Eris no viven en Roa, y su madre le tenía una cierta animadversión a Rudeus.
 - Eris le regala un báculo de mago a Rudeus por su cumpleaños, de nombre (los báculos tienen nombre, parece ser) **Aqua Heartia**.
 
 La noche del cumpleaños tenemos otra escena tremendamente *creepy* entre Rudeus y Eris, que tienen 10 y 12 años respectivamente. Intento no pensar demasiado en esto, no sé que le pasa a esta cultura con estas cosas, pero no me gusta. Al final deciden dejarlo estar para cuando Rudeus cumpla 15 años, que al parecer es la mayoría de edad en este mundo.
@@ -119,7 +119,7 @@ Como decía más arriba, esta serie tiene la mala y fea costumbre de tener punto
 
 Aquí comienza una de las subtramas globales que más darán que hablar: nuestro protagonista comienza el episodio en un mundo... ¿"*astral*"? con su antiguo cuerpo pre-isekai, y se encuentra con un ente que queremos entender que es algún tipo de ¿deidad?
 
-Un largo diálogo entre los dos nos hace pensar que no es él quien reencarnó a nuestro protagonista en este mundo (*no puede devolverle a un lugar fuera de "este mundo de seis caras"*), sino quizá "*el malvado Dios Dragón*". Explica que ha ocurrido un desastre de poder mágico, y se despertará en el continente demoníaco, muy lejos de su hogar. "*Cuando despiertes, verás a un hombre cerca de ti. Confía en él y haz lo posible por ayudarlo*". 
+Un largo diálogo entre los dos nos hace pensar que no es él quien reencarnó a nuestro protagonista en este mundo (*no puede devolverle a un lugar fuera de "este mundo de seis caras"*), sino quizá "*el malvado Dios Dragón*". Explica que ha ocurrido un desastre de poder mágico, y se despertará en el continente demoníaco, muy lejos de su hogar. "*Cuando despiertes, verás a un hombre cerca de ti. Confía en él y haz lo posible por ayudarlo*".
 
 Y así comienza una nueva etapa: **Rudeus** y **Eris** han sido transportados al otro lado del mundo, y conocen a **Ruijerd Superdia**, un demonio de la tribu *Superd*, que promete ayudarles a volver a su país de origen.
 

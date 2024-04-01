@@ -16,8 +16,8 @@ Por lo tanto, allí podréis encontrar (si es que a alguno de los lectores habit
 
 **Y, como punto de partida por si queréis leer algo interesante**:
 
-*   [Luchando contra los lobbies del miedo y las falsas huelgas de informáticos (I)](http://www.neverbyte.net/archivo/luchando-contra-los-lobbies-i/)
-*   [Luchando contra los lobbies del miedo y las falsas huelgas de informáticos (II)](http://www.neverbyte.net/archivo/luchando-contra-los-lobbies-ii/)
+* [Luchando contra los lobbies del miedo y las falsas huelgas de informáticos (I)](http://www.neverbyte.net/archivo/luchando-contra-los-lobbies-i/)
+* [Luchando contra los lobbies del miedo y las falsas huelgas de informáticos (II)](http://www.neverbyte.net/archivo/luchando-contra-los-lobbies-ii/)
 
 En los últimos meses he cambiado de theme en esa página ya cuatro veces, por lo que veréis que la página no está terminada (ni terminada de traducir de inglés a español), pero al menos ya es un comienzo.
 

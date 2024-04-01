@@ -20,9 +20,9 @@ Es decir, que perfectamente podría cerrar el sistema de comentarios y no habrí
 
 **¿Y en los blogs grandes?** Hay un tamaño a partir del cual una página web supera una masa crítica determinada y empieza a recibir comentarios como si no hubiera mañana. A partir de ahí hay tres opciones:
 
-*   _Cerrar los comentarios:_ La opción diva.
-*   _No hacer nada_: la opción de dejar que los trogloditas digan lo que quieran, como suele suceder en las páginas web de los periódicos. Un caos de analfabetos escribiendo barbaridades sin sentido.
-*   _Intentar moderar_, bien sea a mano, con administradores o mediante sistemas colectivos (karma y similares).
+* _Cerrar los comentarios:_ La opción diva.
+* _No hacer nada_: la opción de dejar que los trogloditas digan lo que quieran, como suele suceder en las páginas web de los periódicos. Un caos de analfabetos escribiendo barbaridades sin sentido.
+* _Intentar moderar_, bien sea a mano, con administradores o mediante sistemas colectivos (karma y similares).
 
 La segunda opción es abominable. Yo me la planteo como un experimento a nivel global para probar si el proceso de los _infinitos monos golpeando infinitos teclados_ llega a producir _Hamlet_. No parece un experimento concluyente por ahora. La tercera me parece un gasto de tiempo y dinero (bien sea propio o de otros) que no va a ninguna parte. En serio, si alguien quisiera contarte algo realmente interesante te mandaría un _tweet_ (yo lo suelo hacer con absolutos desconocidos), un email (_so nineties_) o, el más difícil todavía, escribiría algo en su propia página.  
 

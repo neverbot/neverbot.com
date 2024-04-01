@@ -18,4 +18,4 @@ Lo compré por dos razones. La primera: era de una nueva colección de libros de
 
 La segunda: el traductor era [Pedro Jorge Romero](http://www.pjorge.com/), blogger al que leo habitualmente, y él recomendaba el libro. Queda un poco feo decir esto de alguien a quien sueles leer, pero creo que su traducción no ha beneficiado precisamente al libro. Por ejemplo, utiliza expresiones que son traducción directa del inglés que jamás se han usado en castellano ("Oh, bien", "en los viejos días"... Dios, jamás he oído a nadie hablar así en el mundo real). Tampoco es algo que se note demasiado, pero si ya le sumas que el libro que estás leyendo no consigue precisamente atraparte pues son detalles que te sacan completamente de la lectura.
 
-Mal libro. Argh. 
+Mal libro. Argh.

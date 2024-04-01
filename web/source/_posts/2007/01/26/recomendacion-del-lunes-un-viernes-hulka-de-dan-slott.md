@@ -16,7 +16,7 @@ Hulka es una vengadora fiestera. Su novio (un modelo de ropa interior) decide ro
 
 Tras esta debacle, deciden contratarla en el más reputado bufete de la costa este, en su nueva división de asuntos superhumanos, con la condición de que trabaje con su identidad "humana", sin mezclar a Hulka en todo el asunto (recordemos que se diferencia de su "colega" masculino en que ella controla a voluntad sus transformaciones). Es bastante impresionante ver cómo el guionista es capaz de contarnos historias verdaderamente interesantes sin necesidad de llenar las páginas de peleas de tipos en pijama (que también las hay, claro). El juicio en el que [Spiderman](http://en.wikipedia.org/wiki/Spiderman) denuncia a [Jameson](http://en.wikipedia.org/wiki/J._Jonah_Jameson) por difamación es impagable.
 
-Los primeros números están dibujados por Juan Bobillo, que se ajusta a la perfección a una serie con este tono humorístico. Los últimos por desgracia están dibujados por alguien de corte más "clásico" (como un mal Byrne), que es Paul Pelletier. Y esas grandiosas portadas de [Adi Granov](http://en.wikipedia.org/wiki/Adi_Granov)... 
+Los primeros números están dibujados por Juan Bobillo, que se ajusta a la perfección a una serie con este tono humorístico. Los últimos por desgracia están dibujados por alguien de corte más "clásico" (como un mal Byrne), que es Paul Pelletier. Y esas grandiosas portadas de [Adi Granov](http://en.wikipedia.org/wiki/Adi_Granov)...
 
 Por dejaros unos enlaces, os dejo con [lo que opina Álvaro Pons](http://www.lacarceldepapel.com/indexblog.php?p=1339) \[[La cárcel de papel](http://www.lacarceldepapel.com/blog.html)\] o lo que decían de Dan Slott en "[Es la hora de las tortas](http://www.eslahoradelastortas.com/?p=2382)".
 

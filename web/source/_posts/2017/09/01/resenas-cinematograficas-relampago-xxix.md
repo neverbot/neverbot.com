@@ -25,6 +25,6 @@ Un señor construye un laberinto con cajas de cartón en el salón de su casa...
 
 Y aún más relámpago, cosas que he visto en los últimos días:
 
-*   **[All eyez on me](http://www.imdb.com/title/tt1666185)** (_Benny Boom_, 2017): Biopic muy aburrido sobre la vida de Tupac Shakur. Y además ya te sabes el final.
-*   **[The Lost City of Z](http://www.imdb.com/title/tt1212428)** (_James Gray_, 2016): The Lost City of Zzzzzz. El chiste es malísimo, y ya es mejor que la película.
-*   **[Gold](http://www.imdb.com/title/tt1800302)** (_Stephen Gaghan_, 2016): No recuerdo que se haya llegado a estrenar en España, y es que, pese a no poder decir nada particularmente infame, tampoco puedo reseñar virtudes interesantes. Insulsa. Al menos se puede ver a [Matthew McConaughey](http://www.imdb.com/name/nm0000190) interpretar a un señor gordo y calvo.
+* **[All eyez on me](http://www.imdb.com/title/tt1666185)** (_Benny Boom_, 2017): Biopic muy aburrido sobre la vida de Tupac Shakur. Y además ya te sabes el final.
+* **[The Lost City of Z](http://www.imdb.com/title/tt1212428)** (_James Gray_, 2016): The Lost City of Zzzzzz. El chiste es malísimo, y ya es mejor que la película.
+* **[Gold](http://www.imdb.com/title/tt1800302)** (_Stephen Gaghan_, 2016): No recuerdo que se haya llegado a estrenar en España, y es que, pese a no poder decir nada particularmente infame, tampoco puedo reseñar virtudes interesantes. Insulsa. Al menos se puede ver a [Matthew McConaughey](http://www.imdb.com/name/nm0000190) interpretar a un señor gordo y calvo.

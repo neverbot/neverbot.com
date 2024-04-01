@@ -15,9 +15,9 @@ La canción del nuevo anuncio de BP es [L.A., de Message of the Blues](http://ww
 
 **Actualizado**: Efectivamente la versión Say Hey es exclusiva para el anuncio, y no la he encontrado en goear. **Solución**:
 
-1.  Buscar el video en Youtube en la calidad que más nos convenga. Por ejemplo, [este video](http://www.youtube.com/watch?v=3rklKyFMUME).
-2.  Copiar la dirección de la página de Youtube y llevarla a [ListenToYoutube](http://www.listentoyoutube.com/), donde nos extraerá sólo el audio en mp3.
-3.  Si nos ponemos quisquillosos, utilizar un programa de edición de audio para mejorar un poco el tono para móvil, quitando silencios al principio y al final, o cambiándolos por fades in/out, etc. Yo estoy usando [TwistedWave](http://twistedwave.com/) en Mac (estoy con el trial) y por ahora tiene buena pinta.
+1. Buscar el video en Youtube en la calidad que más nos convenga. Por ejemplo, [este video](http://www.youtube.com/watch?v=3rklKyFMUME).
+2. Copiar la dirección de la página de Youtube y llevarla a [ListenToYoutube](http://www.listentoyoutube.com/), donde nos extraerá sólo el audio en mp3.
+3. Si nos ponemos quisquillosos, utilizar un programa de edición de audio para mejorar un poco el tono para móvil, quitando silencios al principio y al final, o cambiándolos por fades in/out, etc. Yo estoy usando [TwistedWave](http://twistedwave.com/) en Mac (estoy con el trial) y por ahora tiene buena pinta.
 
 Y con eso y un bizcocho, ya tengo tono para el móvil.
 

@@ -25,8 +25,6 @@ Cada día entiendo menos las diferencias entre las versiones locales de Google, 
 
 **Y el cuarto día** sigue con un cambio más. Esto empieza a ser un poco exagerado. ¡Gracias H.!
 
-  
-
 ![200911071218.jpg](./google-40º-aniversario-de-barrio-sesamo/200911071218.jpg)
 
 **Y el quinto día, [Elmo](http://en.wikipedia.org/wiki/Elmo)** . Esto ya me demuestra dos cosas: Los responsables de esto deben ser medio idiotas. Uno por el abuso de Barrio Sésamo, que ha habido cosas más importantes que celebrar y no han durado cinco días. Dos, por la utilización de [Elmo](http://en.wikipedia.org/wiki/Elmo), ¡un personaje que en España no hemos visto NUNCA! Es el programa original es uno de los protagonistas, porque aparecía en las escenas de imagen real, con actores sin disfrazar, que en España fueron sustituidas por Espinete y la panda de su barrio. ¿Por qué estamos viendo a Elmo en Google.es si nadie lo conoce?

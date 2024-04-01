@@ -10,7 +10,7 @@ date: 2023-05-16 14:39:19
 
 ![](./mitomanias-stranger-things/Stranger_Things_logo.png)
 
-Mis mitomanías televisivas por décadas: 
+Mis mitomanías televisivas por décadas:
 
 - Los 90 de [The X-Files](https://en.wikipedia.org/wiki/The_X-Files).
 - Los 2000 de [Lost](https://en.wikipedia.org/wiki/Lost_(TV_series)).
@@ -23,12 +23,12 @@ Hay muchas razones buenas y malas para discutir acerca de los ritmos de estrenos
 
 ![stranger-things](./mitomanias-stranger-things/stranger-things.png){.right}
 
-Creo que ya lo he comentado anteriormente en otros lugares: sé que es una trampa fácil caer en la **nostalgia de los ochenta**, porque los que estamos en los *cuarentaytantos* estamos en un sector de consumo muy apetecible, por capacidades adquisitivas, por desapego con muchas producciones culturales actuales, por el falso "*lo de antes siempre fue mejor*" y porque, obviamente, si apelamos a un tiempo en el que teníamos diez años es obvio que en nuestro recuerdo los tiempos eran mejores, porque... lo eran. Cero problemas y cero responsabilidades. 
+Creo que ya lo he comentado anteriormente en otros lugares: sé que es una trampa fácil caer en la **nostalgia de los ochenta**, porque los que estamos en los *cuarentaytantos* estamos en un sector de consumo muy apetecible, por capacidades adquisitivas, por desapego con muchas producciones culturales actuales, por el falso "*lo de antes siempre fue mejor*" y porque, obviamente, si apelamos a un tiempo en el que teníamos diez años es obvio que en nuestro recuerdo los tiempos eran mejores, porque... lo eran. Cero problemas y cero responsabilidades.
 
 Cuando recuerdas algo, hay una parte de tu cerebro que no sabe distinguir si está sucediendo ahora mismo o no. Si recuerdas algo feliz, sientes una fracción de esa felicidad. Si te ponen música de los 80, estilos visuales de los 80, y temáticas de los 80, y tenías ocho años en aquel entonces, es muy complicado que la nostalgia no te de una suave bofetada envuelta en un guantelete de acero de diez kilos.
 
 Pero yo aquí venía a hablar de mi libro. He *consumido* cada una de las temporadas de **Stranger Things** en su momento, con la consabida expectación previa. Pero con esta última, la cuarta, no he podido hacerlo. Ha habido una larga pausa desde el 2019 de la tercera temporada hasta el 2022 de la cuarta, durante la que **pasaron un montón de cosas en nuestro mundo real**, ¿os acordáis? Algo le ha sucedido a mis procesos mentales durante estos años, en los que muchas cosas se han diluído en el recuerdo, como si hubiera pasado una década en vez de los tres años reales. Lo cierto es que no recordaba *nada*. Me está pasando con muchas cosas, con libros, películas y series... los argumentos se diluyen y confunden, y sólo guardo tenues recuerdos de las líneas generales.
 
-Y esto, con *mi queridísimo Piscis*, quiero decir, **Stranger Things**, no podía ser. Quería ver la nueva temporada como debe ser, recordando cómo habíamos llegado hasta aquí y pudiendo disfrutar cada momento. Y me ha costado meses encontrar el hueco para poder volver a ver las tres temporadas que ya existían. 
+Y esto, con *mi queridísimo Piscis*, quiero decir, **Stranger Things**, no podía ser. Quería ver la nueva temporada como debe ser, recordando cómo habíamos llegado hasta aquí y pudiendo disfrutar cada momento. Y me ha costado meses encontrar el hueco para poder volver a ver las tres temporadas que ya existían.
 
 Así que... aquí estamos. Voy a pegarme un revisionado de **Stranger Things** desde el comienzo, y así podré por fin ponerme al día. Os contaré cuando termine. *Let's go*.

@@ -7,7 +7,7 @@ tags:
 date: 2007-03-09 18:14:07
 ---
 
-> \- Este código no necesita un programador, ¡necesita un exorcista! 
+> \- Este código no necesita un programador, ¡necesita un exorcista!
   \- ¡Espíritu del mal, abandona este código!
 
 Varias horas después, seguimos con las mismas conversaciones.

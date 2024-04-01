@@ -14,8 +14,8 @@ Han sido tres días sin trabajar, pero he acabado más cansado aún. A mí al me
 
 **Conclusiones**:
 
-*   Me he equivocado de trabajo. Este tipo se saca varios miles de euros por cada charla de estas, de apenas tres días.
-*   La diferencia con mi trabajo anterior es abrumadora... tanta que creo que se pasan por el extremo contrario.
-*   Quieren hacer una tercera sesión (esta era la segunda, la primera me la perdí porque aún no estaba aquí) con un viaje a quién sabe dónde pasando un fin de semana entero con los compañeros de trabajo. Creo que he entrado en una secta pero aún no me he dado cuenta. Y como no lo cambien para hacerlo entre semana voy a exigir dos días libres.
+* Me he equivocado de trabajo. Este tipo se saca varios miles de euros por cada charla de estas, de apenas tres días.
+* La diferencia con mi trabajo anterior es abrumadora... tanta que creo que se pasan por el extremo contrario.
+* Quieren hacer una tercera sesión (esta era la segunda, la primera me la perdí porque aún no estaba aquí) con un viaje a quién sabe dónde pasando un fin de semana entero con los compañeros de trabajo. Creo que he entrado en una secta pero aún no me he dado cuenta. Y como no lo cambien para hacerlo entre semana voy a exigir dos días libres.
 
 Y ahora hay que volver al trabajo (que yo ya ni recuerdo lo que estaba haciendo). Menos mal que ya es viernes.

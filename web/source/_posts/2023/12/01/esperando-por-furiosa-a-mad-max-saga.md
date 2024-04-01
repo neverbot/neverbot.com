@@ -9,6 +9,4 @@ tags:
 
 {% youtube XJMuhwVlca4 %}
 
-
-
 Hace como un millón de años, existía en este blog que es su santa casa la etiqueta '[Esperando por...](/tags/esperando-por)', que servía para insertar impunemente contenidos del ancho internet que me despertaban interés (el *hype*, que hay que decir hoy en día). Recuperemos tan bonita tradición.

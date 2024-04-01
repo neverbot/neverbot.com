@@ -12,11 +12,11 @@ date: 2023-01-14 19:46:44
 
 **Futuro, ¿Qué futuro?**
 Santiago Niño-Becerra
-Editorial Ariel (Planeta), 2022, 256 páginas 
+Editorial Ariel (Planeta), 2022, 256 páginas
 
 ---
 
-Primera lectura del año, con una serie de análisis acerca de la situación actual y próxima por parte del economista [Santiago Niño-Becerra](https://sninobecerra.com/), cuyo nombre ha ido sonando durante la última década tras ser uno de los pocos economistas que "predijeron" la crisis del 2010. 
+Primera lectura del año, con una serie de análisis acerca de la situación actual y próxima por parte del economista [Santiago Niño-Becerra](https://sninobecerra.com/), cuyo nombre ha ido sonando durante la última década tras ser uno de los pocos economistas que "predijeron" la crisis del 2010.
 
 Esto hay que entrecomillarlo mucho, teniendo en cuenta que "Los Economistas" (*con mayúsculas*) son cada vez más un gremio de pensamiento único en el que es difícil ser una voz discordante o plantear alternativas al Gran Hermano que todo lo sabe. Todos los medios, toda la prensa escrita, todos los libros pontifican los mismos principios una y otra vez, y cuando se vuelve a repetir una de estas crisis internacionales que "*son una cosa que pasa una vez en la vida*" pero llevamos cuatro, niegan la mayor y la única solución sigue siendo seguir como estamos.
 

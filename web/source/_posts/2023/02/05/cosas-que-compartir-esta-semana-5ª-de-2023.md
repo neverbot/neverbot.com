@@ -16,7 +16,7 @@ La semana pasada (la cuarta del año) estuve bastante ocupado con asuntos del Mu
 
   Directo a las entrañas.
 
-- Curioso tema el de este [artículo del **New York Times**](https://www.nytimes.com/2023/01/25/business/layoffs-remote-work.html) acerca de cómo es perder tu trabajo ahora que muchos están/estamos trabajando en remoto, sin tener contacto con compañeros. Esta frase concreta también ha sido bastante directa: 
+- Curioso tema el de este [artículo del **New York Times**](https://www.nytimes.com/2023/01/25/business/layoffs-remote-work.html) acerca de cómo es perder tu trabajo ahora que muchos están/estamos trabajando en remoto, sin tener contacto con compañeros. Esta frase concreta también ha sido bastante directa:
 
   > “I don’t have any expectation for any company I work for to prioritize my interests”
 
@@ -32,7 +32,7 @@ La semana pasada (la cuarta del año) estuve bastante ocupado con asuntos del Mu
   
   > For many years, even Tiktok's critics grudgingly admitted that no matter how surveillant and creepy it was, it was really good at guessing what you wanted to see. But Tiktok couldn't resist the temptation to show you the things *it* wants you to see, rather than what *you* want to see. The enshittification has begun, and now it is unlikely to stop.
   
-  Por una casualidad de los *clicks*, he llegado también a este otro artículo suyo de Diciembre: ["Metaverse" means "Pivot to Video"](https://doctorow.medium.com/metaverse-means-pivot-to-video-adbe09319038). Son textos largos para leer cuando tengáis un rato, pero 100% recomendables acerca de la situación actual de las plataformas sociales en *el Internet*. 
+  Por una casualidad de los *clicks*, he llegado también a este otro artículo suyo de Diciembre: ["Metaverse" means "Pivot to Video"](https://doctorow.medium.com/metaverse-means-pivot-to-video-adbe09319038). Son textos largos para leer cuando tengáis un rato, pero 100% recomendables acerca de la situación actual de las plataformas sociales en *el Internet*.
 
 ![](./cosas-que-compartir-esta-semana-5ª-de-2023/4ui2ocqoqcw71.jpg){width=70%}
 
@@ -44,4 +44,3 @@ La semana pasada (la cuarta del año) estuve bastante ocupado con asuntos del Mu
   - [**Spill**](https://www.spill-app.com/), creada por un *ex-Twitter*, ha recibido 2,75M$.
   
   Mi pronóstico de analista tecnológico es: Las probabilidades de llegar al año son escasas.
-

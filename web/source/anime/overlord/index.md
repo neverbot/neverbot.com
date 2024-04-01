@@ -15,11 +15,11 @@ date: 2022-11-17 21:53:14
 
 ![10a928](./index/10a928.jpg){width=350px .left}
 
-El origen de **Overlord** es una serie de novelas ligeras japonesas, escritas por **Kugane Maruyama** con algo de arte por alguien que firma como *so-bin*. 
+El origen de **Overlord** es una serie de novelas ligeras japonesas, escritas por **Kugane Maruyama** con algo de arte por alguien que firma como *so-bin*.
 
 > Novelas ligeras, ¿de qué me estás hablando? Cuando alguien intenta explicar qué es eso de novela ligera, *light novel* o ライトノベル, suele hacer un paralelismo con lo que ahora se llama *young adult* como género o demografía (ya tanto me da una cosa que otra)... hablando de lo habitual que es estar relacionado con el mundo del manga y el anime, y de cómo se publica en tiradas de libros baratos... y sí, tiene un poco de todo esto, pero está también relacionado con asuntos estilísticos y de escritura. Párrafos cortos, profusión de diálogos y minimalismo en los argumentos, el principal objetivo es siempre la facilidad y fluidez de lectura. La gente que antes tenía blogs ahora escribe en Twitter. Pues lo mismo.
 >
-> Y suele incluir (como el manga shonen) uso de *furigana* para aclarar cómo se leen los *kanjis* que el público joven o con menos vocabulario puede desconocer (vocabulario de escritura, si se me entiende... en japonés puedes no conocer cómo se lee una palabra pero si la escuchas puedes conocer el significado). 
+> Y suele incluir (como el manga shonen) uso de *furigana* para aclarar cómo se leen los *kanjis* que el público joven o con menos vocabulario puede desconocer (vocabulario de escritura, si se me entiende... en japonés puedes no conocer cómo se lee una palabra pero si la escuchas puedes conocer el significado).
 
 ## Sinopsis
 
@@ -47,4 +47,3 @@ El origen de **Overlord** es una serie de novelas ligeras japonesas, escritas po
 ## Manga
 
 ## Anime
-

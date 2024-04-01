@@ -23,7 +23,7 @@ Pero, por ahora, *I'm in*.
 
 ![american-horror-story](./movidas-catodicas-fun-house-mystery-dungeon/american-horror-story-9610257.jpg)
 
-Me sorprendo a mí mismo, tras tantos años de escuchar recomendaciones sobre **American Horror Story**, empezándola  a estas alturas desde cero. Que son ya 12 temporadas seguidas, pero allá vamos. 
+Me sorprendo a mí mismo, tras tantos años de escuchar recomendaciones sobre **American Horror Story**, empezándola  a estas alturas desde cero. Que son ya 12 temporadas seguidas, pero allá vamos.
 
 Ayuda mucho que la serie sea una *antología de series*, cada temporada es una historia distinta, con distintas premisas, personajes, localizaciones y hasta momentos históricos. Muchos actores se mantienen, sí, pero haciendo papeles distintos de una a otra y teniendo mayor o menor peso en la narración.
 

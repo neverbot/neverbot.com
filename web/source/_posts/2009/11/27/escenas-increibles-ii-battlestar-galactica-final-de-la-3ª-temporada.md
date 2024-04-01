@@ -19,9 +19,9 @@ Tras un último salto _FTL_ (quizá si digo _hiperespacial_ se entienda mejor) e
 Y en ese momento (minuto 2:10 del video aproximadamente) reaparece la nave de _Starbuck_ junto a la de _Apollo_, diciendo:
 
 > **Kara Thrace (Starbuck)**: Hi, Lee.
-> 
+>
 > **Lee Adama (Apollo)**: Kara?
-> 
+>
 > **Thrace**: Don't freak out, it really is me (laughs). It's going to be okay. I've been to Earth. I know where it is. And I'm going to take us there.
 
 Zoom out, la cámara atraviesa la flota humana, la flota cylon, se aleja del sistema, sale de la galaxia y vuelve a entrar hasta quedar enfocada sobre ¿la Tierra? Fin de temporada.

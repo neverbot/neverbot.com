@@ -7,7 +7,7 @@ author: neverbot
 date: 2023-10-16 17:39:25
 ---
 
-Una lista cronológica, ordenada según los acontecimientos dentro del mundo de Star Wars. 
+Una lista cronológica, ordenada según los acontecimientos dentro del mundo de Star Wars.
 
 Algunas de las cosas de esta lista estarán marcadas como {% badge "orange" "Legacy" %}, lo que significa que _la nueva oficialidad_ de Disney ya no las considera canónicas, pero yo sí, y aquí las cosas son como yo quiero. Esto es el **canon neverbot**.
 
@@ -123,7 +123,6 @@ Actualizado a Octubre de 2023.
 
 {% endtimeline %}
 
-
 ## Fuera de orden y continuidad
 
 {% timeline %}
@@ -153,4 +152,3 @@ Actualizado a Octubre de 2023.
 {% endyear %}
 
 {% endtimeline %}
-

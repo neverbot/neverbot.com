@@ -10,12 +10,12 @@ date: 2013-05-17 22:39:22
 
 {% youtube D1RDbp6sa3A %}
 
-> *There's too much caffeine* 
+> *There's too much caffeine*
 >
-> *In your bloodstream* 
+> *In your bloodstream*
 >
-> *And a lack of real spice* 
+> *And a lack of real spice*
 >
 > *In your life.*
 
-[**The Smiths**](http://en.wikipedia.org/wiki/The_smiths), _[A rush and a push and the land is ours](http://www.youtube.com/watch?v=D1RDbp6sa3A)_.
+[**The Smiths**](http://en.wikipedia.org/wiki/The_smiths), *[A rush and a push and the land is ours](http://www.youtube.com/watch?v=D1RDbp6sa3A)*.

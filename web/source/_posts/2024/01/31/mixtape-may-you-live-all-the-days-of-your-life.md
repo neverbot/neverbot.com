@@ -19,7 +19,7 @@ En orden alfabético:
 4. [Black Eyed Peas feat. J Balvin - Ritmo (Bad Boys For Life)](https://www.youtube.com/watch?v=EzKkl64rRbM)
 5. [CHiCO - Ace (Shangri-La Frontier Ending 1)](https://www.youtube.com/watch?v=Ob-y0_JKWog) ([el anime de Shangri-La](https://neverbot.com/anime-de-otono-desigual/) lo ha petado fuertemente en *chez-neverbot*, dos veces en esta lista)
 6. [Dua Lipa - Don't Start Now](https://www.youtube.com/watch?v=oygrmJFKYZY)
-7. [Ecstacy - Suicidal-Idol](https://www.youtube.com/watch?v=vMHA1DjKke8) 
+7. [Ecstacy - Suicidal-Idol](https://www.youtube.com/watch?v=vMHA1DjKke8)
 8. [Ed Sheeran and Justin Bieber - I Don't Care](https://www.youtube.com/watch?v=y83x7MgzWOA)
 9. [Ed Sheeran feat. Khalid - Beautiful People](https://www.youtube.com/watch?v=mj0XInqZMHY)
 10. [FIFTY FIFTY - Cupid (Twin Version) (Sped Up)](https://www.youtube.com/watch?v=NXXrFByT6mo) (versión acelerada, la que lo ha petado en TikTok)

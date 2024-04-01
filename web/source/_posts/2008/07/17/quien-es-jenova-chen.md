@@ -18,8 +18,6 @@ Tras esto se dedicó a hacer el juego con el que les conocí, como parte de su p
 
 Y ahora están enfrascados en el desarrollo de [flower](http://www.thatgamecompany.com/flower.html) (original no es el nombre, qué le vamos a hacer), para PS3. Os dejo con [el video](http://www.gametrailers.com/player/25232.html?type=flv) de la feria E3 de este año (que está teniendo lugar mientras escribo esto) porque realmente merece la pena.
 
-  
-
 Hace juegos bonitos y sencillos. Recalco el **bonitos**, porque es algo que apenas se ve hoy día. Y se preocupa por mantener una verdadera jugabilidad sencilla con curva de aprendizaje cero, donde todo es obvio: echad una partida a flOw y lo entenderéis; no hay tutorial, no hay instrucciones, no hay varios botones, todo es sencillo y simple.
 
 ![flower](./quien-es-jenova-chen/flower_banner.jpg "flower")

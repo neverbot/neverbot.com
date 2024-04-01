@@ -19,14 +19,14 @@ Total, yo ya hace tiempo que no les compro nada...
 
 **Opiniones al respecto**:
 
-*   DrBoiffard en [mushroomcorporation.com](http://www.mushroomcorporation.com/?p=60) (extensa y con la que no puedo sino estar de acuerdo en todo).
-*   MrPengo en [a Clockwork Orange](http://www.cworange.net/index.php?entry=entry061201-120016).
-*   [Microsiervos](http://www.microsiervos.com/archivo/weblogs/electronic-arts-mentalidad-1-0.html) les asigna el calificativo de Mentalidad 1.0
-*   [Mangas Verdes](http://mangasverdes.es/2006/11/30/electronic-arts-autistas-en-la-red/) los llaman Autistas en la red.
-*   [Ecetia](http://www.ecetia.com/2006/11/30/electronic-arts-espana-se-dispara-en-el-pie/) cuenta cómo EA España se dispara en el pie.
-*   En [anaitgames](http://www.anait.es/?p=2191) hacen un análisis bastante acertado, resumiendo en que están en su derecho pero que las cosas no se hacen así.
-*   [Enrique Dans](http://edans.blogspot.com/2006/11/independencia-y-sumision.html) se sorprende bastante de este comportamiento por parte de una empresa tan grande.
-*   [Error500.net](http://error500.net/electronic-arts-quiere-flores) dice que EA sólo quiere flores.
+* DrBoiffard en [mushroomcorporation.com](http://www.mushroomcorporation.com/?p=60) (extensa y con la que no puedo sino estar de acuerdo en todo).
+* MrPengo en [a Clockwork Orange](http://www.cworange.net/index.php?entry=entry061201-120016).
+* [Microsiervos](http://www.microsiervos.com/archivo/weblogs/electronic-arts-mentalidad-1-0.html) les asigna el calificativo de Mentalidad 1.0
+* [Mangas Verdes](http://mangasverdes.es/2006/11/30/electronic-arts-autistas-en-la-red/) los llaman Autistas en la red.
+* [Ecetia](http://www.ecetia.com/2006/11/30/electronic-arts-espana-se-dispara-en-el-pie/) cuenta cómo EA España se dispara en el pie.
+* En [anaitgames](http://www.anait.es/?p=2191) hacen un análisis bastante acertado, resumiendo en que están en su derecho pero que las cosas no se hacen así.
+* [Enrique Dans](http://edans.blogspot.com/2006/11/independencia-y-sumision.html) se sorprende bastante de este comportamiento por parte de una empresa tan grande.
+* [Error500.net](http://error500.net/electronic-arts-quiere-flores) dice que EA sólo quiere flores.
 
 Y, a estas alturas, la noticia ya llega al mundo anglosajón y aparece en [Kotaku](http://www.kotaku.com/gaming/ea/ea-punishes-spanish-site-for-negative-comments-218624.php). ¿Se habrá enterado ya alguien en la empresa matriz?
 

@@ -15,7 +15,7 @@ date: 2010-02-28 20:53:40
 Esto me ha recordado una conversación que tuve con alguien hace tiempo, y que podría resumirse del siguiente modo:
 
 > **Interlocutor**: _\[...\] así que mi abuelo se dedica a la homeopatía._
-> 
+>
 > **Yo**: _Entonces, ¿Tu abuelo se gana la vida timando a la gente?_
 
 Que duda cabe que aquello hizo que la relación que tenía con esa persona se resintiera.

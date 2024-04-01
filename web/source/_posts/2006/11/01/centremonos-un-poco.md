@@ -23,7 +23,6 @@ Y claro, cómo no, hay que incluir una forma de puntuación porque el universo n
 
 Unos ejemplos (por orden libros, tebeos, videojuegos, cine y televisión):
 
-  
 * El señor de los anillos, Rob Liefeld, los Final Fantasy, Episodio II, Salsa Rosa.
   
 * Los libros malos de Mundodisco, R.A. Salvatore, la Patrulla-X desde hace mucho, juegos de pescar, boxear o conducir trenes, por ejemplo, el rol japonés en general, la mayor parte de las comedias románticas (aunque siempre las veo), la mayor parte de Disney de la última década, Buffy la cazavampiros.

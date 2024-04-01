@@ -9,7 +9,7 @@ date: 2007-01-10 18:44:21
 ---
 
 > **Previously on neverbot**:
-> 
+>
 > Nuestro protagonista estaba manteniendo conversaciones bilaterales (¿puede una conversación no ser bilateral?) con una nueva empresa...
 
 Mmmm, iba a escribir todo el post en ese tono hasta que me he dado cuenta de que estaba hablando de mí mismo en tercera persona, y eso ya me parece cachondeo. Tampoco hay mucho que contar, pero estoy aburridísimo en mi trabajo actual y aún me queda casi una hora de jornada, y en algo tengo que llenar el tiempo.

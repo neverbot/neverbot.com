@@ -14,8 +14,8 @@ Ha terminado Perdidos.
 
 Internet hierve con opiniones múltiples que se reducen a dos posibles:
 
-*   a) El final es el perfecto, porque se centra en los personajes, y la serie iba de eso.
-*   b) El final es un timo, porque la serie es sobre los misterios y no los resuelve.
+* a) El final es el perfecto, porque se centra en los personajes, y la serie iba de eso.
+* b) El final es un timo, porque la serie es sobre los misterios y no los resuelve.
 
 Lógicamente, comprenderéis que estoy completamente de acuerdo con la primera opción. Los misterios son un añadido. La isla entera es el _McGuffin_ que ha servido de excusa durante seis temporadas para contar las relaciones personales de los protagonistas. El viaje de la razón a la fe de _Jack_, la traición de _Michael_, la evolución de _Sawyer_ hasta comprometerse con _Juliet_, las indecisiones de _Kate_, la pérdida del poder de _Ben_, las dudas y la culpa de _Locke_. Seis años de construcción a base de pequeños matices que hacen que los comportamientos de todos ellos tengan perfecto sentido.
 

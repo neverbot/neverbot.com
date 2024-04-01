@@ -27,32 +27,31 @@ Logo de Halo por Borzz, sacado de [halo.bungie.org](http://halo.bungie.org/logos
 
 El caso es que con esas premisas llegamos a [Halo 3](http://en.wikipedia.org/wiki/Halo_3). Abrimos el juego, metemos el disco en una nueva plataforma ([XBox 360](http://en.wikipedia.org/wiki/Xbox_360), también llamada "plataforma que ejecuta el Halo y por eso me la he comprado") y las impresiones que uno recibe son las siguientes:
 
-1.  Vaya interfaz más raro... ¿por qué no lo habrán hecho más parecido a los anteriores? Muchas opciones que no sé para que son ni creo que vaya a usar (cine, forge, etc). Nueva campaña, dificultad normal, ahí vamos.
-    
-2.  Mira dónde estoy, en mitad de la jungla. Y no me explican nada... los que no hayan jugado a los anteriores van a estar más perdidos que un pulpo en un garaje.
-    
-3.  Uy, uy, uy, estos gráficos... están bien, pero acabo de jugar a cosas como [Gears of War](http://en.wikipedia.org/wiki/Gears_of_War), y no estamos al mismo nivel.
-    
-4.  Muhahaha, Jefe Maestro, Marines del UNSC e Inquisidor todos en el mismo bando, fantástico. Desgraciadamente al Inquisidor no lo vamos a controlar nunca, sólo es un pseudo-compañero de juego online controlado por la máquina.
-    
-5.  ¿Quién me ha **cambiado de sitio los botones** de cambiar de arma y recargar? Dos juegos con los mismos botones y me cambian en el tercero. Cuando hace dos días que has jugado por última vez a los anteriores te vuelves loco y haces el ridículo.
-    
-6.  Uy, le he dado al botón que no era. Qué chulo eso de la **granada escudo**. ¿Por qué nadie me explica cómo se utiliza todo este equipo especial?
-    
+1. Vaya interfaz más raro... ¿por qué no lo habrán hecho más parecido a los anteriores? Muchas opciones que no sé para que son ni creo que vaya a usar (cine, forge, etc). Nueva campaña, dificultad normal, ahí vamos.
+
+2. Mira dónde estoy, en mitad de la jungla. Y no me explican nada... los que no hayan jugado a los anteriores van a estar más perdidos que un pulpo en un garaje.
+
+3. Uy, uy, uy, estos gráficos... están bien, pero acabo de jugar a cosas como [Gears of War](http://en.wikipedia.org/wiki/Gears_of_War), y no estamos al mismo nivel.
+
+4. Muhahaha, Jefe Maestro, Marines del UNSC e Inquisidor todos en el mismo bando, fantástico. Desgraciadamente al Inquisidor no lo vamos a controlar nunca, sólo es un pseudo-compañero de juego online controlado por la máquina.
+
+5. ¿Quién me ha **cambiado de sitio los botones** de cambiar de arma y recargar? Dos juegos con los mismos botones y me cambian en el tercero. Cuando hace dos días que has jugado por última vez a los anteriores te vuelves loco y haces el ridículo.
+
+6. Uy, le he dado al botón que no era. Qué chulo eso de la **granada escudo**. ¿Por qué nadie me explica cómo se utiliza todo este equipo especial?
 
 Tras las primeras impresiones (no todas ellas muy positivas, como se puede ver) empiezo a jugar en serio. Y me termino el juego en tres o cuatro días. No he contado exactamente el tiempo, pero calculo que no más de seis u ocho horas. Por 60 euros me parece lo que viene a ser un robo a mano armada. Las grandes faltas del juego que he encontrado, a grandes rasgos:
 
-*   **No he usado el equipo nuevo durante todo el juego**. Primero porque (obviamente) no he leído el libro de instrucciones ni pienso hacerlo. Segundo porque no me lo han explicado in-game. Y tercero porque no me ha parecido que fuera necesario. Había varios tipos de "cosas" que podía intercambiar, algo sobre un camuflaje y lo que parecían distintos tipos de protecciones, pero no las he usado. Las armas nuevas tampoco, excepto el martillo de los Brutes y más por divertimento que por necesidad real. Ni los nuevos vehículos, cuya presencia era más bien testimonial. Si había un Warthog eso era lo que me quedaba. O el tanque Scorpion, claro. El resto eran apenas medios de transporte hasta mi siguiente punto de control. Creo que queda bien claro que hay carencias de diseño de niveles si todo el equipamiento nuevo no tiene razón de ser en cuestiones de game-design.
-    
-*   La tan cacareada **nueva inteligencia artificial es un fraude**. Entendámonos, que esto se ve más fácil si se sabe un mínimo de informática y de desarrollo de juegos: La IA de un juego no tiene que ser inteligente, tiene que ser efectiva, y no hay diferencia en cómo percibía el jugador el comportamiento de los enemigos en el anterior juego y en este. Puede que internamente ahora todos los miembros de un mismo grupo se estén dando órdenes más complejas, pero desde fuera sólo se ve a cuatro tíos escondiéndose y saliendo de vez en cuando a pegar tiros y lanzar granadas. Y si tienen armas cuerpo a cuerpo siguen siendo blancos fáciles a larga distancia, haciendo que a veces esto parezca un juego de 1995. Creía que ya lo habíamos superado, porque a estas alturas ver a un enemigo al que te cargas a cien metros sin que te detecte no es aceptable. O son enemigos torpes o van de sobrados.
-    
-*   Y, quizá como efecto secundario de tener tanta inteligencia, **el juego es mucho más fácil**. Se nota especialmente en los niveles de los Flood, donde puedes escoger la útil táctica de "corre y no mires atrás" sin enfrentarte más que a los enemigos necesarios, que suelen ser pocos. Esos niveles duraron muy poco tiempo jugando así. No dudo que en modo heroico será más difícil, pero no creo que lo rejuegue en bastante tiempo, así que me quedaré sin saberlo.
-    
-*   Exceptuando (y sólo un poco) los gráficos, **no hay salto generacional apreciable**. No hay muchos más enemigos por nivel, o comportamientos realmente sorprendentes, ni nada que realmente te deje con la boca abierta.
-    
-*   No me he enterado de la historia \[**Posibles spoilers en este párrafo, sáltatelo si quieres**\]. Sigo sin saber quién o qué es el Gravemind, todo el tema relacionado con los Flood está cogido con pinzas y sucede demasiado rápido. Parece ser que hay algo relacionado con los humanos y/o sus antepasados pero no hay quien se entere, así que el tema forerunner sigue siendo un misterio. No sé que es eso que hay enterrado bajo Nueva Mombasa. Cuando viajas al Arca y se reconstruye el primer Halo, sólo juegas un nivel, mientras que la primera vez que lo visitas es un juego entero. \[**Fin de los spoilers**\]
-    
-*   Y, por último, \[**Spoiler again**\] intentar repetir el emocionante final del primer juego con otro nivel centrado en la huída en un Warthog es como intentar un sucedáneo cutre de la gloria original. \[**Fin de los spoilers**\]
+* **No he usado el equipo nuevo durante todo el juego**. Primero porque (obviamente) no he leído el libro de instrucciones ni pienso hacerlo. Segundo porque no me lo han explicado in-game. Y tercero porque no me ha parecido que fuera necesario. Había varios tipos de "cosas" que podía intercambiar, algo sobre un camuflaje y lo que parecían distintos tipos de protecciones, pero no las he usado. Las armas nuevas tampoco, excepto el martillo de los Brutes y más por divertimento que por necesidad real. Ni los nuevos vehículos, cuya presencia era más bien testimonial. Si había un Warthog eso era lo que me quedaba. O el tanque Scorpion, claro. El resto eran apenas medios de transporte hasta mi siguiente punto de control. Creo que queda bien claro que hay carencias de diseño de niveles si todo el equipamiento nuevo no tiene razón de ser en cuestiones de game-design.
+
+* La tan cacareada **nueva inteligencia artificial es un fraude**. Entendámonos, que esto se ve más fácil si se sabe un mínimo de informática y de desarrollo de juegos: La IA de un juego no tiene que ser inteligente, tiene que ser efectiva, y no hay diferencia en cómo percibía el jugador el comportamiento de los enemigos en el anterior juego y en este. Puede que internamente ahora todos los miembros de un mismo grupo se estén dando órdenes más complejas, pero desde fuera sólo se ve a cuatro tíos escondiéndose y saliendo de vez en cuando a pegar tiros y lanzar granadas. Y si tienen armas cuerpo a cuerpo siguen siendo blancos fáciles a larga distancia, haciendo que a veces esto parezca un juego de 1995. Creía que ya lo habíamos superado, porque a estas alturas ver a un enemigo al que te cargas a cien metros sin que te detecte no es aceptable. O son enemigos torpes o van de sobrados.
+
+* Y, quizá como efecto secundario de tener tanta inteligencia, **el juego es mucho más fácil**. Se nota especialmente en los niveles de los Flood, donde puedes escoger la útil táctica de "corre y no mires atrás" sin enfrentarte más que a los enemigos necesarios, que suelen ser pocos. Esos niveles duraron muy poco tiempo jugando así. No dudo que en modo heroico será más difícil, pero no creo que lo rejuegue en bastante tiempo, así que me quedaré sin saberlo.
+
+* Exceptuando (y sólo un poco) los gráficos, **no hay salto generacional apreciable**. No hay muchos más enemigos por nivel, o comportamientos realmente sorprendentes, ni nada que realmente te deje con la boca abierta.
+
+* No me he enterado de la historia \[**Posibles spoilers en este párrafo, sáltatelo si quieres**\]. Sigo sin saber quién o qué es el Gravemind, todo el tema relacionado con los Flood está cogido con pinzas y sucede demasiado rápido. Parece ser que hay algo relacionado con los humanos y/o sus antepasados pero no hay quien se entere, así que el tema forerunner sigue siendo un misterio. No sé que es eso que hay enterrado bajo Nueva Mombasa. Cuando viajas al Arca y se reconstruye el primer Halo, sólo juegas un nivel, mientras que la primera vez que lo visitas es un juego entero. \[**Fin de los spoilers**\]
+
+* Y, por último, \[**Spoiler again**\] intentar repetir el emocionante final del primer juego con otro nivel centrado en la huída en un Warthog es como intentar un sucedáneo cutre de la gloria original. \[**Fin de los spoilers**\]
 
 Además, básicamente hay dos agujeros negros de diseño imperdonables: Centrarse demasiado en el juego online (que yo aún no he probado en ninguno de los tres juegos porque no me importa), olvidándose de la campaña principal, y olvidarse de que el potencial jugador no sólo es el que viene de los juegos anteriores, sino que podría ser alguien que no sepa nada del universo Halo, y habría que explicarle muchas más cosas.
 

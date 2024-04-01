@@ -76,7 +76,6 @@ Esta obra fue continuada años después en otro tomo titulado Man-Machine Interf
 
 *Viñeta de ManMachine Interface -Ghost In The Shell II*.{.center}
 
-
 Dado que este articulo deja de lado sus otras obras no de ciencia-ficción, hay ciertas cosas que debo dejar de lado. De todas formas, tengo que recomendar sus dos libros de ilustraciones, Intron Depot I y II (el segundo con el subtitulo Blades), existentes únicamente en japonés pero posibles de encontrar en España (aunque a elevado precio dado que son de importación) realmente magistrales tanto en presentación como en contenido.
 
 Y, como final, también convendría mencionar otra obra de ciencia-ficción del autor: Dominion, aunque mucho más orientada hacia el humor pese a su ambientación futurista. Nuevamente una mujer (Leona Ozaki) perteneciente a un cuerpo policial (la Tank Police) es la protagonista de las aventuras, en este caso mucho más desenfadadas. Persecución de criminales a lo largo y ancho de la ciudad a bordo de tanques (provocando el consabido nivel de destrucción que implicaría el utilizar un cuerpo policial de este tipo). Personajes mucho mas cómicos y alejados del tono de ci-fi "hard" que Shirow proporciona a sus otras obras mas 'serias'. Estructurada en dos miniseries (Dominion: Tank Police y Dominion: Conflicto), es también bastante recomendable pero, dado que queda fuera de la finalidad original de este artículo, tendremos que dejarla para otro día.

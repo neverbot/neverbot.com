@@ -9,10 +9,10 @@ date: 2007-09-19 13:45:53
 
 Y por fin, tras arduos intentos convertidos en [largas discusiones](/mis-5-mejores/), [pensamientos laterales](/yo-queria-escribir-de-mis-cinco-canciones-del-momento/) y unos cuantos borradores en los que no me decidía a dejar sólo cinco (y cuando por fin me decidía pasaba el tiempo y ya quería cambiar), mis cinco canciones del momento:
 
-> [Coldplay](http://www.coldplay.com/) - [In my place](http://www.mystrands.com/track/2697244/ref/12) 
-  [Franz Ferdinand](http://en.wikipedia.org/wiki/Franz_Ferdinand_%28band%29) - [Take me out](http://www.mystrands.com/track/3232126/ref/12) 
-  [White Stripes](http://www.whitestripes.com/) - [Seven nation army](http://www.mystrands.com/track/2921537/ref/12) 
-  [Bran van 3000](http://www.branvan3000.com/) - [Drinking in L.A.](http://www.mystrands.com/track/1365188/ref/12) 
+> [Coldplay](http://www.coldplay.com/) - [In my place](http://www.mystrands.com/track/2697244/ref/12)
+  [Franz Ferdinand](http://en.wikipedia.org/wiki/Franz_Ferdinand_%28band%29) - [Take me out](http://www.mystrands.com/track/3232126/ref/12)
+  [White Stripes](http://www.whitestripes.com/) - [Seven nation army](http://www.mystrands.com/track/2921537/ref/12)
+  [Bran van 3000](http://www.branvan3000.com/) - [Drinking in L.A.](http://www.mystrands.com/track/1365188/ref/12)
   [Oasis](http://www.oasisinet.com) - [Half the world away](http://www.mystrands.com/track/1476623/ref/12)
 
 Conste que sólo son momentáneas, dentro de un mes serán diferentes, y así tendre otra razón para otro post absurdo con una lista de cinco "algo".

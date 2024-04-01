@@ -22,15 +22,15 @@ Veinticinco años después de su estreno, esta película debería ser de visiona
 Pues siendo sinceros no está al mismo nivel que la primera, pero lo cierto es que no es una mala película. La contraposición entre los protagonistas y el reto al que se enfrentan no está tan bien llevada, y el final de la trama parece un poco apresurado. Lógicamente ningún enemigo futuro de los cazafantasmas será tan increíble como el muñeco de los _Marshmallows_, pero dentro de lo que cabe esta sigue siendo divertida.
 
 > Añado una **pequeña nota sobre los malditos bastardos hijos de mala madre de las distribuidoras españolas**: Lo que han puesto a la venta son dos películas dentro de un pack de cartulina. El diseño es lo más horrendo que he visto en muchísimo tiempo, con unos colores verdes chillones lamentables. Las cajas de los dvds vienen completamente peladas, con un único disco, y hasta el plástico de las cajas está agujereado para utilizar menos material en la fabricación. El único extra interesante del primer disco es un microreportaje sobre la primera película que me parece lamentable, y estoy convencido de que en veinticinco años tienen que haberse producido extras mucho más jugosos (aunque en la carátula indica que contiene "Documentales" en plural, y no es cierto).
-> 
+>
 > El único extra decente de la segunda película son los dos primeros capítulos de la serie de animación basada en estos mismos cazafantasmas, que fué doblada y emitida en televisión en su momento... pero en este caso se nos proporciona únicamente en inglés. Lamentable. Los menús de los dos dvds son los mismos, con una imagen de colores estridentes que parece diseñada por un alumno de un curso de dos días de manejo de Photoshop, y que es un insulto al buen gusto.
-> 
+>
 > ![200912191305.jpg](./resenas-cinematograficas-relampago-ix/200912191305.jpg)  
-> 
+>
 > Por si fuera poco, en ambas películas se nos castiga con un vídeo de varios minutos (que no se puede pasar) sobre lo malos que son los piratas y cómo arderemos todos en el infierno. He pagado por las películas y no puedo pasar lo que no me interesa.
-> 
+>
 > En 1999, sin embargo, parece ser que hubo [una edición en dvd mucho mejor que esta](http://www.zonadvd.com/modules.php?name=Reviews&rop=showcontent&id=464).
-> 
+>
 > **Conclusión**: Luego os preguntáis por qué nos descargamos películas de internet. Yo me pregunto por qué he pagado por este producto tan lamentable.
 
 ![200912191308.jpg](./resenas-cinematograficas-relampago-ix/200912191308.jpg)**[El truco del manco](http://es.wikipedia.org/wiki/El_truco_del_manco)** (2008)

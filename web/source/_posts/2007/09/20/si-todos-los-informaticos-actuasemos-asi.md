@@ -19,9 +19,9 @@ Podemos puntualizar que estas labores bordean los límites de la legalidad, porq
 Me lo he estado pensando mejor y he decidido cancelar la entrevista, enviándoles este email:
 
 > Hola xxx,
-> 
+>
 > tenemos concertada una entrevista para Telefónica I+D para mañana viernes, te escribo porque he estado pensando mejor lo que podéis ofrecerme y prefiero cancelar la entrevista. A estas alturas, con una cierta formación y experiencia, prefiero trabajar en compañías que desarrollen proyectos propios internos que ser tratado como un junior con el único objetivo de revenderme al mejor postor. Lo cierto es que si quisiera trabajar para Telefónica I+D me entrevistaría directamente con ellos y muy probablemente obtendría el trabajo. Siento cancelar la entrevista, pero ahora tengo más información sobre la empresa y las tareas que realiza, y no parece estar muy en consonancia con mis objetivos de futuro ni a corto ni largo plazo.
-> 
+>
 > Con mis disculpas por el tiempo gastado (a la par que mi agradecimiento), un saludo,
 
 Honestamente, es para este tipo de cosas para las que sí debería existir estas cosas son las únicas que se me ocurren para que exista algo como un colegio de ingenieros informáticos, para defender nuestros derechos ante actitudes empresariales como esta. Para eso y para que no haya titulados que estén aceptando sueldos y condiciones laborales muy por debajo de las condiciones de mercado, porque se creen lo que los caraduras de recursos humanos de algunas empresas les dicen. Hay quienes no tienen el carácter suficiente para saber cuándo decir que no a algo, y saber que hay muchas ofertas en la calle y muchos trabajos buenos esperando.

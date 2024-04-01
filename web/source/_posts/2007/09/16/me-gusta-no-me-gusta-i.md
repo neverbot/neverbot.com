@@ -25,9 +25,9 @@ Sección Me gusta / No me gusta, toma uno. Periodicidad: desconocida. Número de
 **No me gusta:**
 
 > Los programadores que no dejan un espacio despues del símbolo de comentario en el código.
-> 
+>
 > `//Esto lo odio...`
-> 
+>
 > `// Esto es diferente.`
-> 
+>
 > Es irracional y estúpido, pero no me gusta.

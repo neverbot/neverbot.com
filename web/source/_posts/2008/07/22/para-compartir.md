@@ -7,10 +7,10 @@ tags:
 date: 2008-07-22 10:52:15
 ---
 
-> *   ¿Saben ya qué desean?
-> *   Sí, nos traes **dos** pizzas Piamontesa.
-> *   **¿Para compartir?**
-> *   ¿...?
+> * ¿Saben ya qué desean?
+> * Sí, nos traes **dos** pizzas Piamontesa.
+> * **¿Para compartir?**
+> * ¿...?
 
 Ayer, comiendo con un amigo en un Gino's.
 

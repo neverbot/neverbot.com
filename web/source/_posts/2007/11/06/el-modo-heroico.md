@@ -11,10 +11,10 @@ Este mes, tal y como he podido leer en [mondo-pixel](http://www.mondo-pixel.com/
 
 El caso es que hace unas semanas que compré [Halo 3](http://en.wikipedia.org/wiki/Halo_3). Pese a que soy un freak compulsivo de esta serie, no tuve demasiada prisa por comprarlo porque aún estaba inmerso en mi "rejuego" de la saga completa, esta vez en modo heroico. Todos los Halo tienen cuatro modos de dificultad:
 
-*   Fácil: si juegas así no mereces que te hable,
-*   Normal: que se ajusta bastante bien a lo que yo entiendo por un juego divertido,
-*   Heroico: donde las cosas empiezan a ser bastante chungas desde la perspectiva de mi habilidad videojueguil, y
-*   Legendario: que es un modo completamente imposible perpetrado por mentes desviadas.
+* Fácil: si juegas así no mereces que te hable,
+* Normal: que se ajusta bastante bien a lo que yo entiendo por un juego divertido,
+* Heroico: donde las cosas empiezan a ser bastante chungas desde la perspectiva de mi habilidad videojueguil, y
+* Legendario: que es un modo completamente imposible perpetrado por mentes desviadas.
 
 ![Halo](./el-modo-heroico/halo_solar.jpg "Halo")
 

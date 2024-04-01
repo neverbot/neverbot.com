@@ -10,13 +10,13 @@ date: 2006-11-30 16:42:31
 
 Aquí, igual que en muchos otros blogs del mundo, intento que todos los enlaces internet de la web sean "amigables al usuario" si es que tal término se puede utilizar. Casi siempre son enlaces del tipo:
 
-> www.miweb.com/archivo/categoría/nombre-del-post
+> <www.miweb.com/archivo/categoría/nombre-del-post>
 
 o algo similar. No es necesario ni entrar a través de dicho enlace para saber de qué va lo que vamos a ver.
 
 Por defecto la mayor parte de [CMSs](http://en.wikipedia.org/wiki/Content_management_system) (gestores de páginas, blogs, etc) crean los enlaces permanentes con un código o ID relativo al post:
 
-> www.miweb.com/?post=número
+> <www.miweb.com/?post=número>
 
 Hay que reconocer que, de cara a la administración interna del sistema (administración automática por parte del propio programa, quiero decir) todo es mucho más fácil con una ID, nunca hay IDs repetidas mientras que el texto plano sí puede estarlo: puedes ponerle el mismo título a dos posts en un blog y eso debe ser comprobado porque, si no, el primero dejaría de ser accesible para siempre jamás.
 

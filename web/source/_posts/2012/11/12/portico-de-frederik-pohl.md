@@ -17,7 +17,7 @@ Descubierta en el sistema solar una estación espacial alienígena abandonada mu
 
 _Portada de la edición original, por Boris Vallejo. Ni punto de comparación con [lo que tenemos hoy en día](https://www.instagram.com/p/R7awpKyxCo/)._
 
-{% instagram https://www.instagram.com/p/R7awpKyxCo/ %}
+{% instagram <https://www.instagram.com/p/R7awpKyxCo/> %}
 
 Pese a tener un punto de partida a priori muy apto para una novela de ciencia ficción _hard_, se convierte en una novela _soft_ donde deberían primar la construcción de los personajes y sus relaciones. Por desgracia se pierde en plantear situaciones repetitivas y un elenco de secundarios confusos y perfectamente intercambiables entre ellos, e interrumpe constantemente la narración con pequeños anexos a modo de carteles encontrados en la estación **Pórtico**, que en ocasiones no añaden nada al trasfondo y rompen el flujo de lectura.
 

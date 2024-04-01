@@ -13,9 +13,9 @@ Después de un primer pensamiento de "Empezamos mal..." trató de convencerme pa
 
 Así que tras un rápido diálogo de "Si tú no juegas a estas cosas porque no te interesan, no te van a gustar", respondido por un "Que sí, que quiero probar alguno", decidí que lo mejor era que escogiera qué quería probar de entre los juegos que tenía. Y ahí me mató con dos frases:
 
-> \- Pero si son todos el mismo juego. 
-  \- ¿Qué? 
-  \- Sí, mira, son todos un tío con un arma. 
+> \- Pero si son todos el mismo juego.
+  \- ¿Qué?
+  \- Sí, mira, son todos un tío con un arma.
   \- ...
 
 Y es que lo peor es que no puedo quitarle la razón. Los juegos que tenía en ese momento eran [Gears of War](http://en.wikipedia.org/wiki/Gears_of_War), [Call of Duty 4](http://en.wikipedia.org/wiki/Call_of_duty_4), [Mass Effect](http://en.wikipedia.org/wiki/Mass_effect), [Assassin's Creed](http://en.wikipedia.org/wiki/Assasins_creed), [Bioshock](http://en.wikipedia.org/wiki/Bioshock), [Halo 2](http://en.wikipedia.org/wiki/Halo_2) y [3](http://en.wikipedia.org/wiki/Halo_3) y [Lost Planet](http://en.wikipedia.org/wiki/Lost_planet).

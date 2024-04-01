@@ -22,6 +22,6 @@ Su propuesta: que recupere mi teléfono, y que me vuelve a llamar en un par de h
 
 Una vez que lo recuperé y pasaron ese par de horas, volvió a llamarme la misma persona, me tomó el resto de datos y dio de alta una incidencia (que me llegó inmediatamente por email, para poder hacer seguimiento de la misma a través de la página de Apple Care).
 
-No sé si finalmente el resto del servicio será igual de bueno, pero por de pronto me han demostrado que **están muy por encima** del servicio que proporcionan Movistar, Vodafone, Orange y Yoigo (he tenido que vérmelas con todos ellos). 
+No sé si finalmente el resto del servicio será igual de bueno, pero por de pronto me han demostrado que **están muy por encima** del servicio que proporcionan Movistar, Vodafone, Orange y Yoigo (he tenido que vérmelas con todos ellos).
 
 **Un paso más cerca de que me compre un Mac.**

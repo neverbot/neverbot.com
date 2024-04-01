@@ -18,7 +18,7 @@ Al hilo del post que escribí acerca de [mi abandono de Twitter](/not-on-twitter
 
   Es sorprendente que hayan cerrado **Revue**, teniendo en cuenta que las newsletters están siendo el sustituto de las redes sociales, que fueron el sustituto de los blogs, que fueron el sustituto de los foros, que fueron el sustituto de...
 
-- Esto me recordó un artículo que leí el mes pasado (me costó volver a encontrarlo, no recordaba la web ni el título) acerca de la curva de aprendizaje que tiene administrar comunidades online: [Hey Elon: Let Me Help You Speed Run The Content Moderation Learning Curve](https://www.techdirt.com/2022/11/02/hey-elon-let-me-help-you-speed-run-the-content-moderation-learning-curve/). 
+- Esto me recordó un artículo que leí el mes pasado (me costó volver a encontrarlo, no recordaba la web ni el título) acerca de la curva de aprendizaje que tiene administrar comunidades online: [Hey Elon: Let Me Help You Speed Run The Content Moderation Learning Curve](https://www.techdirt.com/2022/11/02/hey-elon-let-me-help-you-speed-run-the-content-moderation-learning-curve/).
 
   El recién llegado siempre cree que tiene la fórmula para *solucionar todos los errores* que existen en los demás lugares, olvidando que todos los anteriores ya pasaron por allí, y antes que ellos varias décadas de diseño de juegos online... *nunca contrates a un community manager para hacer el trabajo de un game designer*.
 
@@ -38,4 +38,4 @@ Al hilo del post que escribí acerca de [mi abandono de Twitter](/not-on-twitter
 
   En la foto, el antiguo [Edificio Singer de Nueva York](https://en.wikipedia.org/wiki/Singer_Building) (ya demolido), que *claramente* era una prueba de la existencia del Imperio de Tartaria.
   
-  Fantástico [artículo en Never Was Magazine](https://neverwasmag.com/2021/10/lost-empire-of-tartaria/), y [otro en Bloomberg](https://www.bloomberg.com/news/features/2021-04-27/inside-architecture-s-wildest-conspiracy-theory). 
+  Fantástico [artículo en Never Was Magazine](https://neverwasmag.com/2021/10/lost-empire-of-tartaria/), y [otro en Bloomberg](https://www.bloomberg.com/news/features/2021-04-27/inside-architecture-s-wildest-conspiracy-theory).

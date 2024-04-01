@@ -8,10 +8,10 @@ date: 2008-03-03 22:34:48
 ---
 
 > \[en mitad de una conversación telefónica\]
-> \- blablablabla... ¿qué estás haciendo? 
-  \- Nada, te escucho. 
-  \- No es verdad, estás pensando en algo, deja de comerte la cabeza. 
-  \- No, en serio, te estaba escuchando con atención. 
+> \- blablablabla... ¿qué estás haciendo?
+  \- Nada, te escucho.
+  \- No es verdad, estás pensando en algo, deja de comerte la cabeza.
+  \- No, en serio, te estaba escuchando con atención.
   \- Pero no mientas, si **te escucho pensar desde aquí**, se oyen los engranajes golpeándose.
   \[...\]
 

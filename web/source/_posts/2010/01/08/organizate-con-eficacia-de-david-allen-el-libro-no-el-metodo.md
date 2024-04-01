@@ -22,19 +22,19 @@ El caso de _Getting things done_ es el siguiente: el autor postula un método fu
 
 Como muchos otros ensayos temáticos del estilo, parece verse forzado a cumplir dos objetivos:
 
-1.  Superar las trescientas páginas, sí o sí.
-2.  Estar escrito teniendo en mente que puede estar leyéndolo un niño de cinco años.
+1. Superar las trescientas páginas, sí o sí.
+2. Estar escrito teniendo en mente que puede estar leyéndolo un niño de cinco años.
 
 El primer punto ya lo hace demencial, porque se hace notoria la inmensa cantidad de paja que destila cada capítulo. Los mismos conceptos son explicados página, tras página, tras página, cuando ya los has entendido perfectamente en el primer párrafo. Ejemplar en este caso la explicación de lo que es un brainstorming, perdón, una _lluvia de ideas_, cuestión que se alarga durante **seis** interminables páginas (y eso que incluye un pie de página mencionando que ya se ha explicado cien páginas más atrás). Si a estas alturas de la vida uno no sabe lo que es un _brainstorming_, no sé qué hace leyendo este libro.
 
 Si a esto le añadimos el segundo punto, apaga y vámonos. El autor nos quiere explicar (por poner otro ejemplo) las bondades de tener un puesto de trabajo en el domicilio particular, satélite de la oficina (podríamos entrar en la definición de _esclavitud_ con este tema, pero esto lo dejaremos también para los post dedicados a _¿Quién se ha llevado mi queso?_). En lugar de mencionar sin más dichas bondades que, llegado a ciertos puntos de responsabilidad, realmente pueden ser interesantes, para poder repasar tareas del día siguiente, o incluso terminar trabajo pendiente, nos encontramos con que el autor entra en recomendaciones sobre cómo ha de ser el escritorio, llegando incluso a incluir una lista de objetos que debemos tener que incluye (cito textualmente):
 
-*   Post-it medianos
-*   Clips
-*   Una grapadora y grapas
-*   Cinta adhesiva
-*   Gomas elásticas
-*   \[...\]
+* Post-it medianos
+* Clips
+* Una grapadora y grapas
+* Cinta adhesiva
+* Gomas elásticas
+* \[...\]
 
 Me encanta el detalle de que los Post-it sean medianos, y el concepto de que hace un lustro que no utilizo clips, cinta adhesiva ni gomas elásticas para nada relativo al trabajo.
 

@@ -27,10 +27,10 @@ Frente a la **aparente imposibilidad del estreno simultáneo**, obtenemos audien
 
 **Pensamientos finales**:
 
-*   Sin estreno simultáneo a nivel global, **se hace imposible capitalizar correctamente** productos para un público tan especializado, que buscará soluciones más rápidas y mejores que las que pueden dar los canales de televisión. Léase descargas y subtitulados hechos por los propios aficionados.
-*   Por otro lado, **es complicado controlar ese proceso de globalización** tantas veces. Se puede hacer con un libro de _Harry Potter_, pero: ¿podría hacerse si salieran dieciocho libros anuales de _Harry Potter_? Veo complicado que no hubiera filtraciones antes o después.
-*   _Cuatro_ no ha utilizado publicidad en el último episodio... creo que porque ha dado el tema por perdido. Sabe que no ha ganado dinero con _Perdidos_, e intenta capitalizar lo que queda, el _Buzz_. Es decir, **aprovechar el** _**marketing**_ de que ellos son quienes han emitido la serie, quienes han hecho el esfuerzo, quienes son los más mejores y los más modernos.
-*   El **desastre de retransmisión** que han hecho puede incluso haberse cargado ese _Buzz_ que creo intentaban conseguir.
+* Sin estreno simultáneo a nivel global, **se hace imposible capitalizar correctamente** productos para un público tan especializado, que buscará soluciones más rápidas y mejores que las que pueden dar los canales de televisión. Léase descargas y subtitulados hechos por los propios aficionados.
+* Por otro lado, **es complicado controlar ese proceso de globalización** tantas veces. Se puede hacer con un libro de _Harry Potter_, pero: ¿podría hacerse si salieran dieciocho libros anuales de _Harry Potter_? Veo complicado que no hubiera filtraciones antes o después.
+* _Cuatro_ no ha utilizado publicidad en el último episodio... creo que porque ha dado el tema por perdido. Sabe que no ha ganado dinero con _Perdidos_, e intenta capitalizar lo que queda, el _Buzz_. Es decir, **aprovechar el** _**marketing**_ de que ellos son quienes han emitido la serie, quienes han hecho el esfuerzo, quienes son los más mejores y los más modernos.
+* El **desastre de retransmisión** que han hecho puede incluso haberse cargado ese _Buzz_ que creo intentaban conseguir.
 
 La conclusión es, por tanto, que veo difícil que este esquema se repita a corto plazo. Se ha intentado en mayor o menor medida con _Heroes_, _FlashForward_ (del mismo creador) y _Fringe_, pero en ningún caso han conseguido las mismas reacciones, por quedarse en terreno de nadie. Haciendo las series algo más sencillas para atacar a un público más global, no han gustado tanto en ningún extremo del espectro de espectadores. _Heroes_ ha sido cancelada tras arrastrarse varios años, _FlashForward_ tuvo que ser paralizada para intentar controlar el desaguisado (y dudo que acabe correctamente) y _Fringe_ se ha quedado un poco en terreno de nadie, como una serie de segunda fila.
 

@@ -20,9 +20,9 @@ Vuelvo a mirarlo desde el trabajo. Una página casi plana. Quiere tener aspecto 
 Un día después, leo un magnífico post en **_Con los pies en la arena_**, titulado [Con cara de tontos](http://irene.milleiro.com/general/con-cara-de-tontos/). Su autora ha investigado un poco más que yo (es decir, más que cero) y ha encontrado quienes están detrás de la fundación. Las veinte empresas principales del Ibex 35. Cito:
 
 > _Pero en el “Quienes somos” no encontré lo que buscaba. Sonaba raro._ [_La Voz de Galicia_](http://www.lavozdegalicia.es/dinero/2010/02/25/00031267112424053908958.htm "Las empresas del Ibex, famosos y anónimos se unen para salir de la crisis") _me lo descubrió: el Consejo Superior de Cámaras de Comercio y las 20 principales empresas del Ibex35, a través de algo llamado la “_[_Fundación Confianza_](http://fundacionconfianza.es/ "Fundación Confianza")_“. Entre esas empresas, nombres que nos sonarán a todos:_ **_BBVA, Caja Madrid, Endesa, Iberdrola, la Caixa, el Santander_**_…_
-> 
+>
 > _\[...\]_
-> 
+>
 > _Pero esto no es todo, amigos. [**El proyecto contará con una ayuda de “la Administración” de 600.000 Euritos**](http://www.prnoticias.es/index.php/prmarketing/98/10053157-fundacion-confianza-presenta-una-campana-de-interes-publico-con-la-que-superar-la-crisis "Fundación confianza presenta una campaña ‘de interés público’ con la que superar la crisis"). Yes, como lo oyen. Y tú y yo aquí, **con cara de tontos**._
 
 Las mismas empresas gigantes que han causado la situación actual. Las mismas empresas gigantes a quienes ya hemos sacado de su agujero con millones de euros salidos de los bolsillos de todos los asalariados. Las mismas empresas que siguen chupando del bote, viviendo de la especulación y la usura. Empresas que ahora gastan cientos de miles de euros para conseguir un lavado de imagen, intentando que todo el mundo sonría y actúe como si ya no pasara nada. _Venga, aquí no hay nada que ver, circulen, circulen y a seguir pasando por caja_.

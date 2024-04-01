@@ -10,22 +10,23 @@ date: 2008-06-14 11:56:54
 **Anteriormente, en Neverbot**: [¿Que superhéroe eres?](/which-superhero-are-you/) Ahora: [¿Qué supervillano eres?](http://www.thesuperheroquiz.com/villain) (Me encantan los tests de personalidad me dan resultados tan chulos).
 
 **You are Apocalypse**
- - Apocalypse 83%
- - Magneto 79%
- - Dr. Doom 70%
- - Mystique 64%
- - The Joker 60%
- - Lex Luthor 58%
- - Poison Ivy 58%
- - Mr. Freeze 58%
- - Catwoman 54%
- - Green Goblin 52%
- - Riddler 51%
- - Juggernaut 48%
- - Dark Phoenix 44%
- - Venom 42%
- - Kingpin 35%
- - Two-Face 28%
+
+- Apocalypse 83%
+- Magneto 79%
+- Dr. Doom 70%
+- Mystique 64%
+- The Joker 60%
+- Lex Luthor 58%
+- Poison Ivy 58%
+- Mr. Freeze 58%
+- Catwoman 54%
+- Green Goblin 52%
+- Riddler 51%
+- Juggernaut 48%
+- Dark Phoenix 44%
+- Venom 42%
+- Kingpin 35%
+- Two-Face 28%
 
 You believe in survival of the fittest and you believe that you are the fittest.![Apocalypse](./which-super-villain-are-you/apocalypse.jpg "Apocalypse")
 

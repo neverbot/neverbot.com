@@ -10,7 +10,7 @@ date: 2023-05-27 20:33:55
 
 [***MyHouse.wad***, Inside Doom’s Most Terrifying Mod](https://www.youtube.com/watch?v=5wAo54DHDY0).{.center}
 
-El año que toda la prensa y todos los jugadores va a pasar discutiendo acerca de *Zelda: Tears of the Kingdom* como el mejor juego del año, ha aparecido algo que está tan por encima que no juega ni en la misma liga. 
+El año que toda la prensa y todos los jugadores va a pasar discutiendo acerca de *Zelda: Tears of the Kingdom* como el mejor juego del año, ha aparecido algo que está tan por encima que no juega ni en la misma liga.
 
 Un nivel para *Doom II*. En el 2023. [***MyHouse.wad***](https://www.youtube.com/watch?v=5wAo54DHDY0).
 

@@ -15,13 +15,13 @@ date: 2006-12-03 18:46:33
 Lex Luthor ([Gene Hackman](http://www.imdb.com/name/nm0000432/)) en [Superman](http://www.imdb.com/title/tt0078346/).
 
 > Trust me, Clark. Our friendship is going to be the stuff of legend.
-> 
+>
 > Some people are meant to be alone...
-> 
+>
 > Trust me, I have nothing to hide.
-> 
+>
 > I like to keep my mind open to extreme possibilities.
-> 
+>
 > I guess it's up to me to show the world the real Lex Luthor.
 
 Lex Luthor ([Michael Rosenbaum](http://www.imdb.com/name/nm0742146/)) en [Smallville](http://www.tv.com/smallville/show/1718/summary.html).

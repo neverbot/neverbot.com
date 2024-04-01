@@ -36,6 +36,3 @@ Yo de [**Ron Livingston**](https://en.wikipedia.org/wiki/Ron_Livingston) lo acab
 Una serie creada por [**Peter Farrely**](https://en.wikipedia.org/wiki/Peter_Farrelly) (la mitad de los [Hermanos Farrely](https://en.wikipedia.org/wiki/Farrelly_brothers)) obligatoriamente va a tener muchas cosas interesantes de ver... y en este caso las tiene. Casi hasta el secundario más ridículo, apenas un personaje cliché, acaba teniendo algún episodio centrado en él que te deja con la boca abierta. Hay temas duros (*Sam Loudermilk*, el personaje protagonista, es un ex-alcohólico que ahora hace de cínico consejero para un grupo de adictos), que a veces parecen cómicos y a veces parecen serios, aunque en la tragicomedia creo que caemos más de lado trágico que del cómico muchas veces, para enderezarse unos minutos después.
 
 Dos temporadas en la plataforma de *AT&T* hasta que la cerraron, la tercera se emitió en *Prime Video* y al terminar ha quedado en un limbo del que nada se sabe. Quizá se quede ahí, porque la serie se mueve siempre en un estrecho margen entre la calidad y el tedio, y parece que nunca termina de despegar y alcanzar las cotas que promete. Recomendable pero con reticencias, podéis probar a ver un par de capítulos y valorar.
-
-
-

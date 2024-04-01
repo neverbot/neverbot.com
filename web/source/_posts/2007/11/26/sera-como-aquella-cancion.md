@@ -7,13 +7,13 @@ tags:
 date: 2007-11-26 13:47:22
 ---
 
-> Y yo no quiero volver, no me repitas jamás que no sabes qué hora es. 
+> Y yo no quiero volver, no me repitas jamás que no sabes qué hora es.
 >
-> Las 7:27 ¿o no? Ya terminé... 
+> Las 7:27 ¿o no? Ya terminé...
 >
-> No te echaré de menos en septiembre... 
+> No te echaré de menos en septiembre...
 >
-> Verano muerto, veré a las chicas pasar. 
+> Verano muerto, veré a las chicas pasar.
 >
 > Será como aquella canción de los años 80.
 

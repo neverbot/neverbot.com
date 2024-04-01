@@ -15,5 +15,5 @@ En fin, mis recomendaciones para esta película son las mismas que para el tebeo
 Y unos pensamientos finales que tenía ayer por la noche rondando por la cabeza:
 
 > El [Búho Nocturno](http://en.wikipedia.org/wiki/Characters_of_Watchmen#Nite_Owl_.28Dan_Dreiberg.29) de la película no se parece mucho al del tebeo... y **es mejor Batman que Batman**. Creo que ayer vi la mejor pelea superheroica que se haya rodado en cine... aunque sólo durara un par de minutos y fuese un calco de la misma escena en 300 con Leónidas.
-> 
+>
 > [Rorschach](http://en.wikipedia.org/wiki/Rorschach_(comics)) **es mejor Batman que Batman**, y no pensé que se atrevieran a contar su parte de la historia igual que en el tebeo. Y es el único de todos los personajes que tiene página propia en la Wikipedia.

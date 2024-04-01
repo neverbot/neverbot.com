@@ -12,17 +12,17 @@ Estaba recordando [Alta Fidelidad](http://www.imdb.com/title/tt0146882/) (sobre 
 
 Candidatos a bote pronto (y si no os gustan es que no tenéis criterio musical, y punto):
 
-*   John Lennon - [Imagine](http://www.mystrands.com/track/422170/ref/12)
-*   Green Day - [Basket Case](http://www.mystrands.com/track/336920/ref/12) (una de Green Day va a estar, aunque escoger sólo una es demasiado complicado)
-*   Lynyrd Skynyrd - [Sweet Home Alabama](http://www.mystrands.com/track/728980/ref/12) (mejor comienzo de una canción ever)
-*   Oasis - [Wonderwall](http://www.mystrands.com/track/923277/ref/12)
-*   Louis Armstrong - [What a Wonderful World](http://www.mystrands.com/track/2286082/ref/12)
-*   Alan Menken - [Beauty and the Beast](http://www.mystrands.com/track/160805/ref/12) (sí, la de la película)
-*   Black Eyed Peas - [Where is the Love](http://www.mystrands.com/track/3018242)
-*   Hoobastank - [The Reason](http://www.mystrands.com/track/3132914/ref/12) (esta es muy moderna, pero tenía que incluirla)
-*   Dire Straits - [Walk of Life](http://www.mystrands.com/track/4792426/ref/12)
-*   Eminem - [Lose Yourself](http://www.mystrands.com/track/2833554/ref/12) (los puristas levantarán la voz, pero es que a mí me gusta)
-*   Maná - [Clavado en un Bar](http://www.mystrands.com/track/1315611/ref/12) (hasta aquí no hay nada en castellano... esto me preocupa)
+* John Lennon - [Imagine](http://www.mystrands.com/track/422170/ref/12)
+* Green Day - [Basket Case](http://www.mystrands.com/track/336920/ref/12) (una de Green Day va a estar, aunque escoger sólo una es demasiado complicado)
+* Lynyrd Skynyrd - [Sweet Home Alabama](http://www.mystrands.com/track/728980/ref/12) (mejor comienzo de una canción ever)
+* Oasis - [Wonderwall](http://www.mystrands.com/track/923277/ref/12)
+* Louis Armstrong - [What a Wonderful World](http://www.mystrands.com/track/2286082/ref/12)
+* Alan Menken - [Beauty and the Beast](http://www.mystrands.com/track/160805/ref/12) (sí, la de la película)
+* Black Eyed Peas - [Where is the Love](http://www.mystrands.com/track/3018242)
+* Hoobastank - [The Reason](http://www.mystrands.com/track/3132914/ref/12) (esta es muy moderna, pero tenía que incluirla)
+* Dire Straits - [Walk of Life](http://www.mystrands.com/track/4792426/ref/12)
+* Eminem - [Lose Yourself](http://www.mystrands.com/track/2833554/ref/12) (los puristas levantarán la voz, pero es que a mí me gusta)
+* Maná - [Clavado en un Bar](http://www.mystrands.com/track/1315611/ref/12) (hasta aquí no hay nada en castellano... esto me preocupa)
 
 Me faltan muchas... lo iré pensando a lo largo de esta semana, a ver si llego a una lista más o menos decente (segun vaya recordando canciones, estas sólo son las primeras que me han venido a la mente) de la que seleccionar mis 5 favoritas.
 

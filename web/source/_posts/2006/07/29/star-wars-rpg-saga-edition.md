@@ -17,9 +17,9 @@ Pese a que ahora no hay mucha más información, por lo que se ha estado contand
 
 Algunos enlaces con más datos sobre el futuro libro:
 
-*   Noticia original en [EN World](http://www.enworld.org/showthread.php?t=169200)
-*   Noticia en los [foros de Wizards](http://boards1.wizards.com/showthread.php?t=662400)
-*   En portada de [SWRPGNetwork](http://www.swrpgnetwork.com/)
-*   El libro ya incluído en [Amazon](http://www.amazon.com/gp/product/0786943564/qid=1151670714/sr=1-2/ref=sr_1_2/104-6068107-7543123?redirect=true&s=books&v=glance&n=283155)
+* Noticia original en [EN World](http://www.enworld.org/showthread.php?t=169200)
+* Noticia en los [foros de Wizards](http://boards1.wizards.com/showthread.php?t=662400)
+* En portada de [SWRPGNetwork](http://www.swrpgnetwork.com/)
+* El libro ya incluído en [Amazon](http://www.amazon.com/gp/product/0786943564/qid=1151670714/sr=1-2/ref=sr_1_2/104-6068107-7543123?redirect=true&s=books&v=glance&n=283155)
 
 Con lo bueno que era el juego en edición [D6](http://www.rancorpit.com/) de [WEG](http://www.westendgames.com/)...

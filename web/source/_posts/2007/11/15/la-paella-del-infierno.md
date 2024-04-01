@@ -7,10 +7,10 @@ tags:
 date: 2007-11-15 09:37:38
 ---
 
-> *   **S**: \[...\] Como el [Cheminova](http://www.teacuerdas.com/nostalgia-juguetes-cheminova.htm) que se les regalaba a los niños antes, que estaba lleno de productos venenosos, [azufre](http://en.wikipedia.org/wiki/Sulfur) y vete a saber qué más cosas...
-> *   **P**: El Azufre no es venenoso, es lo que echa mi madre en la paella.
-> *   Silencio.
-> *   **I**: Eso es [azafrán](http://en.wikipedia.org/wiki/Saffron), no azufre.
+> * **S**: \[...\] Como el [Cheminova](http://www.teacuerdas.com/nostalgia-juguetes-cheminova.htm) que se les regalaba a los niños antes, que estaba lleno de productos venenosos, [azufre](http://en.wikipedia.org/wiki/Sulfur) y vete a saber qué más cosas...
+> * **P**: El Azufre no es venenoso, es lo que echa mi madre en la paella.
+> * Silencio.
+> * **I**: Eso es [azafrán](http://en.wikipedia.org/wiki/Saffron), no azufre.
 
 **Conversación verídica** (la identidad de los participantes ha sido ocultada para evitar represalias sociales)
 

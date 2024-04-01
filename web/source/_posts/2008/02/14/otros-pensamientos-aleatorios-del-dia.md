@@ -8,7 +8,7 @@ date: 2008-02-14 18:59:12
 ---
 
 > ¿Puede considerarse música el ruido de un carrete al rebobinar?
-> 
+>
 > Sólo si la cámara es Canon...
 
 Además de ser el nombre de la categoría en la que pongo tontunas en este blog... quiero decir, aquí todo son tontunas, pero en este caso más. Aparte de eso también es el asunto con el que spameo a diario a mis compañeros de trabajo con alguna tontería similar (de hecho me odian un poco por ello, pero con cariño):

@@ -12,7 +12,7 @@ Apuntes rápidos sobre algunas de las series de anime que empiezan en esta nueva
 
 ![Kimizero](./anime-de-otono-desigual/kimizero.jpg)
 
-Las tardes de otoño siempre transcurren mejor cuando están acompañadas de alguna comedia romántica de las sencillas; lugares comunes y clichés que nos templan los sentimientos antes del frío invierno. Para mi desgracia tendré que seguir buscando, porque este primer intento ha sido infructuoso. 
+Las tardes de otoño siempre transcurren mejor cuando están acompañadas de alguna comedia romántica de las sencillas; lugares comunes y clichés que nos templan los sentimientos antes del frío invierno. Para mi desgracia tendré que seguir buscando, porque este primer intento ha sido infructuoso.
 
 経験済みなキミと、経験ゼロなオレが、お付き合いする話。, ***Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai Suru Hanashi***, "*You Were Experienced, I Wasn't, And This is How We Started Dating*". Con estos títulos cada día me lo ponéis más difícil, es más sencillo que nos entendamos usando el sobrenombre de [**Kimizero**](https://en.wikipedia.org/wiki/You_Were_Experienced,_I_Was_Not:_Our_Dating_Story).
 
@@ -34,7 +34,7 @@ Muy emotivo ese comienzo contándonos lo rápido que envejece un grupo de aventu
 
 ![Shangri-la Frontier](./anime-de-otono-desigual/shangri-la-frontier.jpg)
 
-Un muchacho acostumbrado a jugar a videojuegos lamentables empieza a jugar a un juego *online* bueno. Ya está. Esa es la premisa, nadie se ha exprimido demasiado el cerebro con esto, así que no nos confundamos que sabemos a lo que estamos yendo. 
+Un muchacho acostumbrado a jugar a videojuegos lamentables empieza a jugar a un juego *online* bueno. Ya está. Esa es la premisa, nadie se ha exprimido demasiado el cerebro con esto, así que no nos confundamos que sabemos a lo que estamos yendo.
 
 En la línea de los *Isekai-tangenciales* (término que me acabo de inventar): no es un protagonista que llega a un nuevo mundo pero, metafóricamente, es como si lo fuera. Si haces estas cosas de machacar teclas y botones *online* le verás la gracia (*I'm in*), si no, lo veo complicado.
 

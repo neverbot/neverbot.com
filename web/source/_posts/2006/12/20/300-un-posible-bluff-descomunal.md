@@ -17,9 +17,9 @@ Una de las cosas que me quedaban pendiente por leer de él era [300](http://en.w
 
 Honestamente, es un bluff. Apaisado y muy espectacular, pero se acerca más a un libro de ilustraciones que a un verdadero cómic. La narrativa es prácticamente nula, siendo casi todas las páginas una gran ilustración con algunas pequeñas viñetas alrededor para tener dónde colocar los bocadillos. Se lee en apenas unos minutos, y es que la historia no da para mucho más.
 
-*   Introducción: Pues parece que va a haber guerra, ¿no?
-*   Nudo: Pues sí que había guerra, sí. Un montón de cadáveres.
-*   Desenlace: Pasa lo que tenía que pasar.
+* Introducción: Pues parece que va a haber guerra, ¿no?
+* Nudo: Pues sí que había guerra, sí. Un montón de cadáveres.
+* Desenlace: Pasa lo que tenía que pasar.
 
 Lo más fácil que se me ocurre para establecer una comparación es el [Shanna: La diablesa](http://en.wikipedia.org/wiki/Shanna_the_She-Devil) de [Frank Cho](http://en.wikipedia.org/wiki/Frank_cho) que se publicó hace poco. Si te gusta el autor merece la pena, pero no esperes que te cuente nada más aparte de lo obvio. Que vale, está bien. No se le puede pedir mucho más a un volumen único con el pequeño número de páginas que tiene. Es un experimento más como otro cualquiera, y viniendo de Frank Miller se le puede echar un vistazo para ver que tal está.
 
