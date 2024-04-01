@@ -1,20 +1,86 @@
 {
   "env": {
+    "es6": true,
+    "node": true,
+    "mocha": true,
     "browser": true,
     "commonjs": true,
     "es2021": true
   },
-  "extends": [
-    "standard",
-    "eslint:recommended",
-    "plugin:prettier/recommended"
-  ],
-  "parserOptions": {
-    "ecmaVersion": "latest"
-  },
+  "parser": "",
+  "parserOptions": {},
+  "globals": {},
+  "extends": [],
+  "plugins": [],
   "rules": {},
-  "plugins": [
-    "prettier",
-    "json-format"
+  "overrides": [
+    {
+      "files": [
+        "*.js",
+        "*.json"
+      ],
+      "parser": "@babel/eslint-parser",
+      "parserOptions": {
+        "requireConfigFile": false,
+        "ecmaVersion": 2018,
+        "sourceType": "module",
+        "allowImportExportEverywhere": true,
+        "ecmaFeatures": {
+          "experimentalObjectRestSpread": true
+        },
+        "babelOptions": {
+          "parserOpts": {
+            "plugins": [
+              "importAssertions"
+            ]
+          }
+        }
+      },
+      "extends": [
+        "eslint:recommended",
+        "plugin:prettier/recommended",
+        "plugin:import/errors",
+        "plugin:import/warnings"
+      ],
+      "plugins": [
+        "prettier",
+        "json-format"
+      ],
+      "rules": {
+        "prettier/prettier": [
+          "error",
+          {},
+          {
+            "usePrettierrc": true
+          }
+        ],
+        "no-console": 1,
+        "no-debugger": 1,
+        "require-atomic-updates": 0,
+        "import/extensions": [
+          "warn",
+          "always",
+          {
+            "js": "always",
+            "json": "always"
+          }
+        ]
+      }
+    },
+    {
+      "files": [
+        "*.md"
+      ],
+      "parser": "eslint-plugin-markdownlint/parser",
+      "extends": [
+        "plugin:markdownlint/recommended"
+      ],
+      "rules": {
+        "markdownlint/md013": "off",
+        "markdownlint/md024": "off",
+        "markdownlint/md033": "off",
+        "markdownlint/md041": "off"
+      }
+    }
   ]
 }

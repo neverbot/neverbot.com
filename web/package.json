@@ -7,7 +7,10 @@
     "build": "npx hexo generate",
     "clean": "npx hexo clean",
     "deploy": "npx hexo deploy",
-    "server": "npx hexo server"
+    "server": "npx hexo server",
+    "lint": "npx eslint . --ext js,json,md",
+    "lint:quiet": "npx eslint . --ext js,json,md --quiet",
+    "lint:fix": "npx eslint . --ext js,json,md --fix"
   },
   "dependencies": {
     "hexo": "^7.1.1",
@@ -28,14 +31,13 @@
     "hexo-tag-instagram": "^1.1.0"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "^7.24.1",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
-    "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-json-format": "^2.0.1",
-    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-markdownlint": "^0.5.0",
     "eslint-plugin-prettier": "^5.1.3",
-    "eslint-plugin-promise": "^6.1.1",
     "prettier": "^3.2.5"
   },
   "hexo": {
