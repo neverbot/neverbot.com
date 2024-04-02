@@ -22,6 +22,7 @@ Además del _blog_ en sí (comentarios/_posts_ en orden cronológico inverso), t
 - [About/Acerca de...](/about/), la página que estás leyendo ahora mismo.
 - **Libros**:
   - [Lista de los Premios Hugo de novela que voy leyendo](/los-premios-hugo/) (aunque esta iniciativa quedó parada apenas empezó).
+  - Lista de [lecturas](/lecturas/).
   - La [categoría de libros](/tags/libros).
 - **Televisión**:
   - [Índice general sobre temática de televisión](/tv/) en esta página.
