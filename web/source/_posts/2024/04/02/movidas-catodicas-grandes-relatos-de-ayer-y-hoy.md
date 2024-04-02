@@ -24,7 +24,7 @@ Sinceramente, no sé si para alguien que no la haya visto puede representar lo m
 
 ![many-saints-of-newark](./movidas-catodicas-grandes-relatos-de-ayer-y-hoy/many-saints-of-newark.jpg)
 
-Pues no te lo pierdas, que han hecho una película precuela de *Los Soprano* y yo sin haberme enterado. La incluyo aquí porque, además de no ser tampoco nada del otro mundo, es poco más que un episodio aparte contándonos la historia de *Dickie Moltisanti* (el padre de *Christopher* que se menciona en múltiples ocasiones en la serie original, en la que por razones obvias no aparece).
+Pues no te lo pierdas, que han hecho una película precuela de *Los Soprano* y yo sin haberme enterado. La incluyo aquí porque, además de no ser tampoco nada del otro mundo, es poco más que un episodio aparte contándonos la historia de *Dickie Moltisanti* (el padre de *Christopher* que se menciona en múltiples ocasiones en la serie original, en la que por razones obvias no aparece), durante los años 60 y 70.
 
 Correcta, con algunos buenos actores en papeles clave y con el hijo de [*James Gandolfini*](https://www.imdb.com/name/nm0001254/) haciendo el papel del propio *Tony Soprano* de joven... aunque la película no va sobre él, no os dejéis engañar.
 
