@@ -133,7 +133,10 @@ feed:
 
 related_posts:
   enabled: true
-  # enable_env_name: prod
+  # only calculate related_posts when env is production
+  # npx hexo generate --pro
+  # npx hexo server --pro
+  enable_env_name: pro
   filter_threshold: 0.3
   related_count: 5
   weight:

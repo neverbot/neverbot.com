@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "npx hexo generate",
+    "build:pro": "npx hexo generate --pro",
     "clean": "npx hexo clean",
     "deploy": "npx hexo deploy",
     "server": "npx hexo server",
