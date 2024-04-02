@@ -7,7 +7,7 @@ tags:
   - blog
 ---
 
-[Como decía por aquí](https://neverbot.com/mixtape-the-force-is-strong-in-this-one/) no hace tanto, soy un señor mayor que sigue preparando *mixtapes* (o cds, o simplemente carpetas con *emepetreses* dentro, que para el caso es lo mismo). En enero he estado escuchando mucho top y *billboard* de hace tres o cuatro años, y al final me ha salido una lista bastante larga.
+[Como decía por aquí](/mixtape-the-force-is-strong-in-this-one/) no hace tanto, soy un señor mayor que sigue preparando *mixtapes* (o cds, o simplemente carpetas con *emepetreses* dentro, que para el caso es lo mismo). En enero he estado escuchando mucho top y *billboard* de hace tres o cuatro años, y al final me ha salido una lista bastante larga.
 
 ![cover](./mixtape-may-you-live-all-the-days-of-your-life/cover.jpg)
 
