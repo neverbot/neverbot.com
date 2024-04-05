@@ -9,7 +9,7 @@ date: 2006-07-26 16:03:04
 
 ## ¿Qué es esto?
 
-Esta es la página personal de Iván Alonso. Si nos conocemos quizá haya sido con el nombre de **Folken** ([muds](http://en.wikipedia.org/wiki/MUD) varios, [cYbErDaRk.NeT](http://www.cyberdark.net/index2.php)), **Ddraencara** ([XBox Live](https://live.xbox.com/es-ES/Profile?pp=0&GamerTag=ddraencara) o [World of Warcraft](http://eu.battle.net/wow/en/character/shendralar/Ddraencara/) por ejemplo) o, desde hace ya tiempo, **neverbot**, el _nick_ más habitual que utilizo.
+Esta es la página personal de Iván Alonso. Si nos conocemos quizá haya sido con el nombre de **Folken** ([muds](http://en.wikipedia.org/wiki/MUD) varios, [cYbErDaRk.NeT](http://www.cyberdark.net/index2.php)), **Ddraencara** (~~[XBox Live](https://live.xbox.com/es-ES/Profile?pp=0&GamerTag=ddraencara)~~ o [World of Warcraft](http://eu.battle.net/wow/en/character/shendralar/Ddraencara/) por ejemplo) o, desde hace ya tiempo, **neverbot** ([Xbox Live](https://account.xbox.com/en-us/profile?gamertag=neverbot5133)), el _nick_ más habitual que utilizo.
 
 ## ¿De qué hablo aquí?
 
