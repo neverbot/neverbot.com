@@ -11,18 +11,21 @@ Una lista cronológica, ordenada según los acontecimientos dentro del mundo de 
 
 Algunas de las cosas de esta lista estarán marcadas como {% badge "orange" "Legacy" %}, lo que significa que _la nueva oficialidad_ de Disney ya no las considera canónicas, pero yo sí, y aquí las cosas son como yo quiero. Esto es el **canon neverbot**.
 
-![Timeline Star Wars de la Wikipedia](./index/star-wars-timeline-wikipedia.png)
+![Timeline Star Wars de la Wikipedia](./index/star-wars-timeline-wikipedia-4924135.png)
 
 *[Wikipedia](https://en.wikipedia.org/wiki/Star_Wars#Fictional_timeline): dónde va cada cosa desde 2014, fecha de creación del nuevo canon Disney.*{.center}
 
 ## Timeline
 
-Actualizado a Octubre de 2023.
+Actualizado a Mayo de 2024.
 
 {% timeline %}
 
 {% year "36-19 B" "Star Wars: Tales of the Jedi" "2022, Tv, Animación (1 temporada, 6 capítulos)" %}
 ![img](./index/k3nWQb0E8mLSR8acSkJP78VRVMv.jpg){.left width=150px}*Adéntrate en las vidas de dos Jedi completamente diferentes, antes de las precuelas cinematográficas: Ahsoka Tano y el Conde Dooku.*
+
+Los episodios de Dooku encajan aquí cronológicamente. Los episodios de Ahsoka están dispersos hasta el comienzo de Rebels.
+
 {% endyear %}
 
 {% year "32 BBY" "Episode I The Phantom Menace" "1999, Cine" %}
@@ -49,7 +52,15 @@ Actualizado a Octubre de 2023.
 ![img](./index/50709-star-wars-episode-iii-revenge-of-the-sith-0-230-0-345-crop.jpg){.left width=150px}*Culminación de la trilogía de precuelas, muestra el ascenso de Palpatine al poder y el colapso de la República Galáctica. La relación entre Anakin y el Maestro Jedi Obi-Wan Kenobi se deteriora, y Anakin es seducido por el lado oscuro de la Fuerza. Además, se revela la ejecución de la Orden 66, que lleva al exterminio de los Jedi y al nacimiento del Imperio Galáctico.*
 {% endyear %}
 
-{% year "19 BBY" "Star Wars: The Bad Batch" "2021, Tv, Animación (2 temporadas, 32 capítulos)" %}
+{% year "20 BBY - 9 ABY" "Star Wars: Tales of the Empire" "2024, Tv, Animación (1 temporada, 6 capítulos)" %}
+
+![660ef3cacd91b](./index/660ef3cacd91b.jpg){.left width=150px}*La segunda entrega de Tales of the Jedi, llamada Tales of the Empire, está ambientada en diferentes épocas de la línea temporal de Star Wars, con un camino siguiendo a una joven Morgan Elsbeth y el otro siguiendo a la ex Jedi Barriss Offee.*
+
+Los episodios están localizados en distintas épocas, desde el final de la trilogía de precuelas (20~19 BBY) hasta después de la trilogía original, en algún momento entre las temporadas de *The Mandalorian* (¿9 ABY?).
+
+{% endyear %}
+
+{% year "19 BBY" "Star Wars: The Bad Batch" "2021, Tv, Animación (3 temporadas, 47 capítulos)" %}
 ![img](./index/5Q6z9bjy8dHKA5T8kNmCd8hj6Gl.jpg){.left width=150px}*Serie de animación que sigue a un grupo de soldados clon con habilidades únicas conocidos como la Clone Force 99 "The Bad Batch", después de los eventos de "Star Wars: The Clone Wars", mientras tratan de encontrar su lugar en una galaxia en cambio tras el final de las Guerras Clon y la ascensión del Imperio Galáctico.*
 {% endyear %}
 
