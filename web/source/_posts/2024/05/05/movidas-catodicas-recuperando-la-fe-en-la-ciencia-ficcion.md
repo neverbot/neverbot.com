@@ -44,3 +44,5 @@ Pero, verdad absoluta del universo:
 *Todo lo que hace [Lee Pace](https://www.imdb.com/name/nm1195855/) mola*.{.center}
 
 El argumento requiere algo más de compromiso por parte del espectador, porque los viajes estelares de años, los *cryosueños* de siglos, y la dinastía genética en la que el mismo actor hace de media docena de personas en el tiempo (idénticas, pero no la misma) pueden hacer que te pierdas si no prestas atención. Pero aquí hemos venido a prestar atención.
+
+**Actualización**: he terminado de ver la segunda temporada, y en el par de capítulos finales hay una colección de *deus ex machina* tan flagrante que esto ha perdido muchos enteros como para andar recomendándolo. Parece que había ganas de bajar el nivel. Tendré que leer los libros.
