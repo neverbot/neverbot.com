@@ -163,3 +163,29 @@ Los episodios están localizados en distintas épocas, desde el final de la tril
 {% endyear %}
 
 {% endtimeline %}
+
+## Todavía no estrenadas
+
+{% timeline %}
+
+{% year " " "The Acolyte" "2024, Tv" "" %} 
+
+![663653eacba87](./index/663653eacba87.jpg){.left width=150px}[thetvdb.com](https://thetvdb.com/series/the-acolyte).
+
+{% endyear %}
+
+{% year " " "Skeleton Crew" "2024, Tv" "" %} 
+
+![628fe0684eb28](./index/628fe0684eb28.jpg){.left width=150px}[thetvdb.com](https://thetvdb.com/series/star-wars-skeleton-crew).
+
+{% endyear %}
+
+{% year " " "Lego Star Wars: Rebuild the Galaxy" "2024, Tv, Animación" "last" %}
+![lego-star-wars-rebuild-the-galaxy-key-art-poster_c1d4c115](./index/lego-star-wars-rebuild-the-galaxy-key-art-poster_c1d4c115.jpeg){.left width=150px}{% badge "orange" "No canon" %}
+
+[thetvdb.com](https://thetvdb.com/series/lego-star-wars-rebuild-the-galaxy).
+
+{% endyear %}
+
+{% endtimeline %}
+
