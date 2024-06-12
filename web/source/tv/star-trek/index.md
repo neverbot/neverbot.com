@@ -13,11 +13,11 @@ Probablemente es imposible que vaya a terminar algún día este "*proyecto*", ya
 
 ## Las Series
 
-![Timeline de series de Star Trek](./index/eh4ii5gtnx21zp598u6dhhn9tmcysyx.png)
+![Timeline de series de Star Trek](./index/timeline.png)
 
-*[Wikipedia](https://en.wikipedia.org/wiki/Star_Trek): en 2023 están emitiéndose cinco series de Star Trek. Esto es una locura*.{.center}
+*[Wikipedia](https://en.wikipedia.org/wiki/Star_Trek): en 2023 estaban emitiéndose simultáneamente cinco series de Star Trek. Esto es una locura*.{.center}
 
-Una lista de lo que tenemos por delante, actualizada a **Noviembre de 2023**:
+Una lista de lo que tenemos por delante, actualizada a **Junio de 2024**:
 
 | Serie | Temps | Eps | Emisión |
 | ----- | :---: | :-: | ------- |
@@ -27,9 +27,9 @@ Una lista de lo que tenemos por delante, actualizada a **Noviembre de 2023**:
 | [*Deep Space Nine*](https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine) | 7 | 176 | Enero 1993 – Mayo 1999 |
 | [*Voyager*](https://en.wikipedia.org/wiki/Star_Trek:_Voyager) | 7 | 172 | Enero 1995 – Mayo 2001 |
 | [*Enterprise*](https://en.wikipedia.org/wiki/Star_Trek:_Enterprise) | 4 | 98 | Sep 2001 – Mayo 2005 |
-| [*Discovery*](https://en.wikipedia.org/wiki/Star_Trek:_Discovery) | 4 | 55 | Sept 2017 – **presente** |
+| [*Discovery*](https://en.wikipedia.org/wiki/Star_Trek:_Discovery) | 5 | 65 | Sept 2017 – **presente** |
 | [*Short Treks*](https://en.wikipedia.org/wiki/Star_Trek:_Short_Treks) | 2 | 10 | Octubre 2018 – Enero 2020 |
-| *[Picard](https://en.wikipedia.org/wiki/Star_Trek:_Picard)* | 3 | 30 | Enero 2020 – **presente** |
+| *[Picard](https://en.wikipedia.org/wiki/Star_Trek:_Picard)* | 3 | 30 | Enero 2020 – Abril 2023 |
 | [*Lower Decks*](https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks) | 4 | 40 | Agosto 2020 – **presente** |
 | [*Prodigy*](https://en.wikipedia.org/wiki/Star_Trek:_Prodigy) | 1 | 20 | Octubre 2021 – **presente** |
 | [*Strange New Worlds*](https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds) | 2 | 20 | Mayo 2022 – **presente** |
