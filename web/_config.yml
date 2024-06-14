@@ -56,13 +56,43 @@ prismjs:
   tab_replace: ''
 
 post_asset_folder: true
-# marked:
+
+# with marked:
 #   prependRoot: true
 #   postAsset: true
+# with hexo-renderer-markdown
+# markdown:
+#   plugins:
+#     markdown-it-texmath:
+#       disabled: true
 markdown:
+  preset: 'default'
+  render:
+    html: true
+    xhtmlOut: false
+    langPrefix: 'language-'
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: '“”‘’'
+  enable_rules:
+  disable_rules:
   plugins:
-    markdown-it-texmath:
-      disabled: true
+    - markdown-it-attrs
+  anchors:
+    level: 2
+    collisionSuffix: ''
+    permalink: false
+    permalinkClass: 'header-anchor'
+    permalinkSide: 'left'
+    permalinkSymbol: '¶'
+    case: 0
+    separator: '-'
+  images:
+    lazyload: false
+    prepend_root: false
+    post_asset: false
+  inline: false  # https://markdown-it.github.io/markdown-it/#MarkdownIt.renderInline
   
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
