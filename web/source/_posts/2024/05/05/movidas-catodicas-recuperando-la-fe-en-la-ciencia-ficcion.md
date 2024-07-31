@@ -13,9 +13,9 @@ tags:
 
 Tengamos un momento de calma y sosiego, porque a esto le di un tiento casi sin querer, y he venido a descubrir que existe una cosa llamada el [MonsterVerse](https://en.wikipedia.org/wiki/MonsterVerse) que incluye ya cinco películas y dos series. 
 
-**A favor**: esto se puede ver de forma completamente independiente, pero tiene suficientes detallitos para que te entren ganas de ver todas las películas relacionadas. Sale [Kurt Russell](https://www.imdb.com/name/nm0000621/). Sale Godzilla. Hay múltiples momentos temporales con los personajes de jóvenes y de viejos. Sale [Wyatt Russell](https://www.imdb.com/name/nm0751518/), hijo Kurt Russell y Goldie Hawn, y yo sin haberme enterado de esto tampoco. Desconozco muchas cosas. Muy conspiración y mucho conspiración.
+**A favor**: esto se puede ver de forma completamente independiente, pero tiene suficientes detallitos para que te entren ganas de ver todas las películas relacionadas. Sale [Kurt Russell](https://www.imdb.com/name/nm0000621/). Sale Godzilla. Hay múltiples momentos temporales con los personajes de jóvenes y de viejos. Sale [Wyatt Russell](https://www.imdb.com/name/nm0751518/), hijo Kurt Russell y Goldie Hawn, y yo sin haberme enterado de esto tampoco (desconozco muchas cosas). Y muy conspiración y mucho conspiración.
 
-**En contra**: los personajes estilo *chica-que-siempre-está-enfadada* que no añaden mucho a la trama además de estar siempre enfadada a mí cada vez que me cargan más. A los japoneses les sale bien a veces en anime, el rollo [*tsundere*](https://en.wikipedia.org/wiki/Tsundere) tienen sus fans, pero no estoy entre ellos.
+**En contra**: los personajes estilo *chica-que-siempre-está-enfadada* que no añaden mucho a la trama además de estar siempre enfadada a mí cada vez me cargan más. A los japoneses les sale bien a veces en anime, el rollo [*tsundere*](https://en.wikipedia.org/wiki/Tsundere) tienen sus fans, pero no estoy entre ellos.
 
 Si ignoramos esto último, que yo soy *especialito*, todo bien aquí.
 
