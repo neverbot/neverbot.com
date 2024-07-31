@@ -10,3 +10,7 @@ date: 2024-07-31 11:56:47
 - [![Revisionado de Star Trek](/sidebar/banner-star-trek.jpg)](/tv/star-trek/) [Revisionado Star Trek](/tv/star-trek/)
 
 - [![Los premios Hugo](/sidebar/banner-premios-hugo.jpg)](/los-premios-hugo/) [Los premios Hugo](/los-premios-hugo/)
+
+- [![Shingeki no Kyojin](/sidebar/banner-shingeki-no-kyojin.jpg)](/anime/shingeki-no-kyojin/) [Shingeki no Kyojin](/anime/shingeki-no-kyojin/)
+
+- [![Mushoku Tensei](/sidebar/banner-mushoku-tensei.jpg)](/anime/mushoku-tensei/) [Mushoku Tensei](/anime/mushoku-tensei/)
