@@ -7,7 +7,7 @@ date: 2023-07-26 13:56:00
 
 ---
 
-Diecisite años han pasado desde que me dio por registrar el dominio [neverbot.com](https://neverbot.com/) y empezar con aquella incipiente moda de *blogear*. Ni uno, ni dos, ni tres, sino diecisiete.
+Diecisiete años han pasado desde que me dio por registrar el dominio [neverbot.com](https://neverbot.com/) y empezar con aquella incipiente moda de *blogear*. Ni uno, ni dos, ni tres, sino diecisiete.
 
 Durante el año 2018 lo dejé apartado de forma prácticamente indefinida, hasta que lo retomé a finales de 2022 (por eso no hay entradas para los años 12 a 16).
 
