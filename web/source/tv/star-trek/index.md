@@ -17,7 +17,7 @@ Probablemente es imposible que vaya a terminar algún día este "*proyecto*", ya
 
 *[Wikipedia](https://en.wikipedia.org/wiki/Star_Trek): en 2023 estaban emitiéndose simultáneamente cinco series de Star Trek. Esto es una locura*.{.center}
 
-Una lista de lo que tenemos por delante, actualizada a **Junio de 2024**:
+Una lista de lo que tenemos por delante, actualizada a **Julio de 2024**:
 
 | Serie | Temps | Eps | Emisión |
 | ----- | :---: | :-: | ------- |
@@ -31,7 +31,7 @@ Una lista de lo que tenemos por delante, actualizada a **Junio de 2024**:
 | [*Short Treks*](https://en.wikipedia.org/wiki/Star_Trek:_Short_Treks) | 2 | 10 | Octubre 2018 – Enero 2020 |
 | *[Picard](https://en.wikipedia.org/wiki/Star_Trek:_Picard)* | 3 | 30 | Enero 2020 – Abril 2023 |
 | [*Lower Decks*](https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks) | 4 | 40 | Agosto 2020 – **presente** |
-| [*Prodigy*](https://en.wikipedia.org/wiki/Star_Trek:_Prodigy) | 1 | 20 | Octubre 2021 – **presente** |
+| [*Prodigy*](https://en.wikipedia.org/wiki/Star_Trek:_Prodigy) | 2 | 40 | Octubre 2021 – ¿Julio 2024? |
 | [*Strange New Worlds*](https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds) | 2 | 20 | Mayo 2022 – **presente** |
 | [*Very Short Treks*](https://en.wikipedia.org/wiki/Star_Trek:_Very_Short_Treks) | 1 | 5 | Sep 2023 – Oct 2023 |
 
@@ -47,19 +47,21 @@ Ahora bien, si queremos hacer el visionado cronológico, ni intentemos calcularl
 
 | Título | Elenco | Fecha |
 | ------ | ------ | ----- |
-| Star Trek: La película | *La Serie Original* | Dic 1979 |
-| Star Trek II: La ira de Khan | *La Serie Original* | Junio 1982 |
-| Star Trek III: En busca de Spock | *La Serie Original* | Junio 1984 |
-| Star Trek IV: Misión: salvar la Tierra | *La Serie Original* | Nov 1986 |
-| Star Trek V: La última frontera | *La Serie Original* | Junio 1989 |
-| Star Trek VI: Aquél país desconocido | *La Serie Original* | Dic 1991 |
-| Star Trek: La próxima generación | *La Nueva Generación* | Nov 1994 |
-| Star Trek: Primer contacto | *La Nueva Generación* | Nov 1996 |
-| Star Trek: Insurrección | *La Nueva Generación* | Dic 1998 |
-| Star Trek: Némesis | *La Nueva Generación* | Dic 2002 |
-| Star Trek | *Reboot (Kelvin Timeline)* | Mayo 2009 |
-| Star Trek: En la oscuridad | *Reboot (Kelvin Timeline)* | Mayo 2013 |
-| Star Trek: Más allá | *Reboot (Kelvin Timeline)* | Julio 2016 |
+| [*Star Trek: La película*](https://en.wikipedia.org/wiki/Star_Trek:_The_Motion_Picture) | *La Serie Original* | Dic 1979 |
+| [*Star Trek II: La ira de Khan*](https://en.wikipedia.org/wiki/Star_Trek_II:_The_Wrath_of_Khan) | *La Serie Original* | Junio 1982 |
+| [*Star Trek III: En busca de Spock*](https://en.wikipedia.org/wiki/Star_Trek_III:_The_Search_for_Spock) | *La Serie Original* | Junio 1984 |
+| [*Star Trek IV: Misión: salvar la Tierra*](https://en.wikipedia.org/wiki/Star_Trek_IV:_The_Voyage_Home) | *La Serie Original* | Nov 1986 |
+| [*Star Trek V: La última frontera*](https://en.wikipedia.org/wiki/Star_Trek_V:_The_Final_Frontier) | *La Serie Original* | Junio 1989 |
+| [*Star Trek VI: Aquél país desconocido*](https://en.wikipedia.org/wiki/Star_Trek_VI:_The_Undiscovered_Country) | *La Serie Original* | Dic 1991 |
+| [*Star Trek: La próxima generación*](https://en.wikipedia.org/wiki/Star_Trek_Generations) | *La Nueva Generación* | Nov 1994 |
+| [*Star Trek: Primer contacto*](https://en.wikipedia.org/wiki/Star_Trek:_First_Contact) | *La Nueva Generación* | Nov 1996 |
+| [*Star Trek: Insurrección*](https://en.wikipedia.org/wiki/Star_Trek:_Insurrection) | *La Nueva Generación* | Dic 1998 |
+| [*Star Trek: Némesis*](https://en.wikipedia.org/wiki/Star_Trek:_Nemesis) | *La Nueva Generación* | Dic 2002 |
+| [*Star Trek*](https://en.wikipedia.org/wiki/Star_Trek_(2009_film)) | *Reboot (Kelvin Timeline)* | Mayo 2009 |
+| [*Star Trek: En la oscuridad*](https://en.wikipedia.org/wiki/Star_Trek_Into_Darkness) | *Reboot (Kelvin Timeline)* | Mayo 2013 |
+| [*Star Trek: Más allá*](https://en.wikipedia.org/wiki/Star_Trek_Beyond) | *Reboot (Kelvin Timeline)* | Julio 2016 |
+| **Películas para Tv** |  |  |
+| [*Star Trek: Section 31*](https://en.wikipedia.org/wiki/Star_Trek:_Section_31) | *Star Trek: Discovery* | ¿2025? |
 
 ### La línea temporal Kelvin
 
@@ -82,7 +84,7 @@ Esta lista puede ser ignorable si no os interesa, y según vaya descubriendo nue
 | [*Star Trek: Phoenix*](https://en.wikipedia.org/wiki/Star_Trek:_Phoenix) |      2010 |     1     |
 | [*Star Trek: New Voyages*](https://en.wikipedia.org/wiki/Star_Trek:_New_Voyages) | 2004-2016 |    10     |
 | [*Star Trek: Of Gods and Men*](https://en.wikipedia.org/wiki/Star_Trek:_Of_Gods_and_Men) |      2008 |     -     |
-| [*Star Trek Continues*](https://en.wikipedia.org/wiki/Star_Trek_Continues) | 2013-2017 |    13     |
+| [*Star Trek Continues*](https://en.wikipedia.org/wiki/Star_Trek_Continues) | 2013-2017 |    11     |
 | [*Prelude to Axanar*](https://en.wikipedia.org/wiki/Prelude_to_Axanar) |      2014 |     -     |
 | [*Star Trek: Renegades*](https://en.wikipedia.org/wiki/Star_Trek:_Renegades) |      2015 |     -     |
 
@@ -92,10 +94,13 @@ Pues una mezcla. Voy a empezar el visionado teniendo en cuenta la fecha de estre
 
 ## Registro personal
 
-| Serie | Episodio | Fecha | Stardate | Título |
+El orden de los episodios dentro de cada temporada es según fecha de emisión. Por ejemplo, para la primera temporada de la serie original, [en la Wikipedia](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Original_Series_episodes#Season_1_(1966%E2%80%9367)) es así cómo están ordenados, mientras que [en Memory Alpha](https://memory-alpha.fandom.com/wiki/TOS_Season_1) los números de episodio (1x01, 1x02, ...) se asignan según un código de producción... un lío vaya. Por si acaso indico el título de cada episodio, para que no nos confundamos.
+
+| Serie | Episodio | Fecha revisión | Año / Fecha estelar | Título |
 | :---: | -------- | ----: | -------: | ------ |
 | TOS   | s00e01 | 30/1/2023 | 2254 / - | [The Cage (primer piloto)](/star-trek-el-episodio-piloto-perdido/) |
-| TOS   | s01e01 | 2/2/2023 | 2266 / 1513.1 | [The Man Trap](/star-trek-la-serie-original-primera-temporada/#the-man-trap-(s01e01)) |
+| TOS   | s01e01 | 2/2/2023 | 2266 / 1513.1 | [The Man Trap](/star-trek-la-serie-original-s01e01) |
+| TOS   | s01e02 | 31/7/2024 | 2266 / 1533.6 | [Charlie X](/star-trek-la-serie-original-s01e02) |
 
 Leyenda:
 
