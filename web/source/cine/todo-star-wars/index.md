@@ -155,7 +155,10 @@ Los episodios están localizados en distintas épocas, desde el final de la tril
 {% endyear %}
 
 {% year " " "Star Wars: Visions (_temporada 1_)" "2021, Tv, Animación (1 temporada, 9 capítulos)" %}
-![img](./index/8yECMpsZ8wAvra4Sow6Bz9WOO5f.jpg){.left width=150px}{% badge "orange" "No canon" %}
+![img](./index/8yECMpsZ8wAvra4Sow6Bz9WOO5f.jpg){.left width=150px}{% badge "orange" "No canon" %} {% badge "gold" "[imdb](https://www.imdb.com/title/tt13622982/)" %}
+
+*La primera temporada de “Star Wars: Visions” es una antología animada que presenta nueve cortometrajes, cada uno creado por diferentes estudios de anime japoneses. Ofrece una reinterpretación fusionando la estética y la narrativa del anime con el universo de Star Wars. Cada episodio cuenta una historia independiente con personajes y tramas originales y tramas, destacando por su diversidad de estilos visuales y enfoques narrativos.*
+
 {% endyear %}
 
 {% year " " "Star Wars: Visions (_temporada 2_)" "2023, Tv, Animación (1 temporada, 9 capítulos)" "last" %}
