@@ -37,7 +37,9 @@ Los episodios de Dooku encajan aquí cronológicamente. Los episodios de Ahsoka 
 {% endyear %}
 
 {% year "22-19 B" "Star Wars: Clone Wars" "2003, Tv, Animación (3 temporadas, 25 capítulos)" %}
-![img](./index/2lsuke69bRdyB1sxtKmavtwkc35.jpg){.left width=150px}{% badge "orange" "Legacy" %} *Dirigida por Genndy Tartakovsky, se centra en las intensas batallas entre los Jedi y los separatistas, así como en la evolución de personajes como Anakin Skywalker y el papel de los soldados clon en la guerra. A lo largo de sus episodios, presenta momentos épicos de combate, duelos de sables de luz y la creciente amenaza del Conde Dooku y el general Grievous.*
+![img](./index/2lsuke69bRdyB1sxtKmavtwkc35.jpg){.left width=150px}{% badge "orange" "Legacy" %}
+
+*Dirigida por Genndy Tartakovsky, se centra en las intensas batallas entre los Jedi y los separatistas, así como en la evolución de personajes como Anakin Skywalker y el papel de los soldados clon en la guerra. A lo largo de sus episodios, presenta momentos épicos de combate, duelos de sables de luz y la creciente amenaza del Conde Dooku y el general Grievous.*
 {% endyear %}
 
 {% year "22 BBY" "Star Wars: The Clone Wars" "2008, Cine, Animación" %}
