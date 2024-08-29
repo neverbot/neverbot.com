@@ -43,7 +43,7 @@ Los episodios de Dooku encajan aquí cronológicamente. Los episodios de Ahsoka 
 {% endyear %}
 
 {% year "22 BBY" "Star Wars: The Clone Wars" "2008, Cine, Animación" %}
-![img](./index/MV5BYTJiYTMyMGEtNjE0Zi00MzczLWI3ZWYtMmFkMDk0NWVjZGYzXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_QL75_UY562_CR2,0,380,562_.jpg){.left width=150px} *Largometraje de animación que sirve como introducción a la serie de televisión del mismo nombre. La historia se desarrolla durante las Guerras Clon y sigue a los Jedi Obi-Wan Kenobi y Anakin Skywalker, junto con su nueva aprendiz Ahsoka Tano, mientras luchan contra las fuerzas separatistas.*
+![img](./index/MV5BYTJiYTMyMGEtNjE0Zi00MzczLWI3ZWYtMmFkMDk0NWVjZGYzXk.jpg){.left width=150px} *Largometraje de animación que sirve como introducción a la serie de televisión del mismo nombre. La historia se desarrolla durante las Guerras Clon y sigue a los Jedi Obi-Wan Kenobi y Anakin Skywalker, junto con su nueva aprendiz Ahsoka Tano, mientras luchan contra las fuerzas separatistas.*
 {% endyear %}
 
 {% year "22-19 B" "Star Wars: The Clone Wars" "2008, Tv, Animación (7 temporadas, 133 capítulos)" %}
