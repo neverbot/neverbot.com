@@ -9,7 +9,7 @@ date: 2023-02-01 11:34:27
 
 El blog **Crónicas de Taslar** (ya desaparecido) hizo hace unos años una guía de revisionado cronológico de todo [Star Trek](https://thetvdb.com/series/star-trek), incluyendo recomendación de qué era prescindible y qué no. Lo publicaron en un archivo *pdf* que lleva años dando vueltas por mis discos duros, y echando un vistazo he descubierto que estaba basado en la web [The Star Trek Chronology Project](http://thestartrekchronologyproject.blogspot.com/), que está actualizada. En los últimos tiempos he estado viendo algo de [Star Trek Picard](https://thetvdb.com/series/star-trek-picard) y [Lower Decks](https://thetvdb.com/series/star-trek-lower-decks), y me he animado a empezar por el principio con un **revisionado de todo Star Trek**.
 
-Probablemente es imposible que vaya a terminar algún día este "*proyecto*", ya que llevamos casi 800 capítulos sumando unas cosas y otras, pero aquí hemos venido a jugar. Y si voy  tomando notas de cada capítulo que vea, las probabilidades de que me anime a continuar son mucho mayores. Así que vamos a ello.
+Probablemente sea imposible que vaya a terminar algún día este "*proyecto*", ya que llevamos casi 800 capítulos sumando unas cosas y otras, pero aquí hemos venido a jugar. Y si voy tomando notas de cada capítulo que vea, las probabilidades de que me anime a continuar son mucho mayores. Así que vamos a ello.
 
 ## Las Series
 
@@ -97,7 +97,7 @@ Pues una mezcla. Voy a empezar el visionado teniendo en cuenta la fecha de estre
 El orden de los episodios dentro de cada temporada es según fecha de emisión. Por ejemplo, para la primera temporada de la serie original, [en la Wikipedia](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Original_Series_episodes#Season_1_(1966%E2%80%9367)) es así cómo están ordenados, mientras que [en Memory Alpha](https://memory-alpha.fandom.com/wiki/TOS_Season_1) los números de episodio (1x01, 1x02, ...) se asignan según un código de producción... un lío vaya. Por si acaso indico el título de cada episodio, para que no nos confundamos.
 
 | Serie | Episodio | Fecha revisión | Año / Fecha estelar | Título |
-| :---: | -------- | ----: | -------: | ------ |
+| :---: | :------: | ----: | -------: | ------ |
 | TOS   | s00e01 | 30/1/2023 | 2254 / - | [The Cage (primer piloto)](/star-trek-el-episodio-piloto-perdido/) |
 | TOS   | s01e01 | 2/2/2023 | 2266 / 1513.1 | [The Man Trap](/star-trek-la-serie-original-s01e01) |
 | TOS   | s01e02 | 31/7/2024 | 2266 / 1533.6 | [Charlie X](/star-trek-la-serie-original-s01e02) |
@@ -115,10 +115,12 @@ Leyenda:
 - **LOW**: Lower Decks.
 - **PRO**: Prodigy.
 - **SNW**: Strange New Worlds.
-- *Short Treks* y las películas no tienen una abreviatura concreta.
+- **ST**: Short Treks.
+- Las películas no tienen una abreviatura concreta.
 
 ## Enlaces de interés
 
+- [The Star Trek Chronology Project](http://thestartrekchronologyproject.blogspot.com/).
 - [Memory Alpha](https://memory-alpha.fandom.com), la wiki específica sobre todo **Star Trek**.
 - En [tor.com](https://www.tor.com/) hicieron lo mismo: [Star Trek ReWatch](https://www.tor.com/series/star-trek-rewatch/).
 - En el blog [Let's Watch Star Trek](https://www.letswatchstartrek.com) están en ello.
