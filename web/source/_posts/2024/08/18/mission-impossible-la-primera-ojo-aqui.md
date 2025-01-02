@@ -16,3 +16,8 @@ Tenía yo miedo de sufrir una *retrorotura* al refrescar esta primera aparición
 
 Si es que no podía salir mal. Y no salió mal.
 
+La película se presenta como una fiesta del engaño, donde nada es lo que parece y todo puede cambiar en un abrir y cerrar de ojos. Desde la inolvidable escena inicial en Praga, con su combinación de tensión y traición, queda claro que Brian De Palma vino a jugar. Es una lección de cómo construir suspense con cada detalle: los ángulos inclinados, los silencios inquietantes, y la música de Danny Elfman que le da ese toque de magia nostálgica.  
+
+Por supuesto, si hay una secuencia que se ha incrustado en la memoria colectiva, es la del robo en el cuartel general de la CIA. Ethan Hunt colgando de un cable, sudando la gota gorda, en una coreografía de precisión que demuestra que, a veces, menos es más. Nada de explosiones exageradas ni persecuciones interminables; solo tensión pura y un silencio ensordecedor que te hace aguantar la respiración.  
+
+Y luego está ese final en el tren bala, que para la época era una oda al exceso pero que ahora, con ojos modernos, se siente deliciosamente retro. Los efectos especiales pueden haber envejecido un poco (no mucho), pero la energía de la escena, con helicópteros dentro de túneles y Cruise aferrándose al techo como un gato callejero, sigue siendo magnética. Un recordatorio de lo que puede suceder cuando una película está dirigida con estilo, interpretada con carisma y no tiene miedo de ser un poquito extravagante.  
