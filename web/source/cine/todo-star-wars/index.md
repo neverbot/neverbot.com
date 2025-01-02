@@ -43,7 +43,7 @@ Los episodios de Dooku encajan aquí cronológicamente. Los episodios de Ahsoka 
 {% endyear %}
 
 {% year "22 BBY" "Star Wars: The Clone Wars" "2008, Cine, Animación" %}
-![img](./index/MV5BYTJiYTMyMGEtNjE0Zi00MzczLWI3ZWYtMmFkMDk0NWVjZGYzXk.jpg){.left width=150px} *Largometraje de animación que sirve como introducción a la serie de televisión del mismo nombre. La historia se desarrolla durante las Guerras Clon y sigue a los Jedi Obi-Wan Kenobi y Anakin Skywalker, junto con su nueva aprendiz Ahsoka Tano, mientras luchan contra las fuerzas separatistas.*
+![img](./index/clone-wars-movie.jpg){.left width=150px} *Largometraje de animación que sirve como introducción a la serie de televisión del mismo nombre. La historia se desarrolla durante las Guerras Clon y sigue a los Jedi Obi-Wan Kenobi y Anakin Skywalker, junto con su nueva aprendiz Ahsoka Tano, mientras luchan contra las fuerzas separatistas.*
 {% endyear %}
 
 {% year "22-19 B" "Star Wars: The Clone Wars" "2008, Tv, Animación (7 temporadas, 133 capítulos)" %}
@@ -159,7 +159,9 @@ Los episodios están localizados en distintas épocas, desde el final de la tril
 {% year " " "Star Wars: Visions (_temporada 1_)" "2021, Tv, Animación (1 temporada, 9 capítulos)" %}
 ![img](./index/8yECMpsZ8wAvra4Sow6Bz9WOO5f.jpg){.left width=150px}{% badge "orange" "No canon" %} {% badge "gold" "[imdb](https://www.imdb.com/title/tt13622982/)" %}
 
-*La primera temporada de “Star Wars: Visions” es una antología animada que presenta nueve cortometrajes, cada uno creado por diferentes estudios de anime japoneses. Ofrece una reinterpretación fusionando la estética y la narrativa del anime con el universo de Star Wars. Cada episodio cuenta una historia independiente con personajes y tramas originales y tramas, destacando por su diversidad de estilos visuales y enfoques narrativos.*
+*La primera temporada de “Star Wars: Visions” es una antología  animada, compuesta por nueve cortometrajes, cada uno creado por diferentes estudios de anime japoneses. Cada episodio cuenta una historia independiente con personajes y tramas originales, ofreciendo una reinterpretación que fusiona la estética y la narrativa del anime con el universo de Star Wars.*
+
+En verano de 2024 volví a ver esta primera temporada y fui escribiendo mis [impresiones sobre cada uno de los episodios/cortos aquí](/star-wars-visions-temporada-1/).
 
 {% endyear %}
 
