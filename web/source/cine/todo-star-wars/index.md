@@ -21,6 +21,8 @@ Algunas de las cosas de esta lista estarán marcadas como {% badge "orange" "Leg
 
 Actualizado a Enero de 2025.
 
+Este timeline es cronológico según los eventos dentro del propio mundo ficticio de Star Wars, no según la fecha de estreno de las películas o series en cines o canales de television.
+
 {% timeline %}
 
 {% year "132 B" "The Acolyte" "2024, Tv (1 temporada, 8 capítulos)" "" %} 
