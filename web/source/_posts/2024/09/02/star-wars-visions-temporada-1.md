@@ -4,9 +4,8 @@ author: neverbot
 tags:
   - tv
   - star wars
-date: 2025-01-02 20:57:55
+date: 2024-09-02 20:57:55
 ---
-
 
 *Este post forma parte de una serie sobre [todo Star Wars](/cine/todo-star-wars/), es recomendable empezar por ahí.*
 
