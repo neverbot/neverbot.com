@@ -103,6 +103,6 @@ Pendiente.
 
 ## Enlaces de interés
 
-- En el blog [The McGyver Project](http://themacgyverproject.blogspot.com/) tienen una seccion en el que tambien hicieron un [revisionado de toda la franquicia](http://themacgyverproject.blogspot.com/2017/01/mission-impossible.html).
-- La [wiki de Mission: Impossible](https://missionimpossible.fandom.com/wiki/Main_Page) en **fandom.com**.
+- En el blog [The McGyver Project](http://themacgyverproject.blogspot.com/) tienen una sección en el que también hicieron un [revisionado de toda la franquicia](http://themacgyverproject.blogspot.com/2017/01/mission-impossible.html).
+- La [wiki de Mission: Impossible](https://missionimpossible.fandom.com/wiki/Main_Page) en [fandom.com](https://www.fandom.com/).
 
