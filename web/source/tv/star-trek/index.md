@@ -100,7 +100,7 @@ Pues una mezcla. Voy a empezar el visionado teniendo en cuenta la fecha de estre
 
 El orden de los episodios dentro de cada temporada es según fecha de emisión. Por ejemplo, para la primera temporada de la serie original, [en la Wikipedia](https://en.wikipedia.org/wiki/List_of_Star_Trek:_The_Original_Series_episodes#Season_1_(1966%E2%80%9367)) es así cómo están ordenados, mientras que [en Memory Alpha](https://memory-alpha.fandom.com/wiki/TOS_Season_1) los números de episodio (1x01, 1x02, ...) se asignan según un código de producción... un lío vaya. Por si acaso indico el título de cada episodio, para que no nos confundamos.
 
-| Serie | Episodio | Fecha revisión | Año / Fecha estelar | Título |
+| Serie | Episodio | Fecha revisión | Año / Fecha estelar | Título y Reseña |
 | :---: | :------: | ----: | -------: | ------ |
 | TOS   | s00e01 | 30/1/2023 | 2254 / - | [The Cage (primer piloto)](/star-trek-el-episodio-piloto-perdido/) |
 | TOS   | s01e01 | 2/2/2023 | 2266 / 1513.1 | [The Man Trap](/star-trek-la-serie-original-s01e01) |
