@@ -23,7 +23,7 @@ No quiero entrar mucho en el folleto turístico mal entendido acerca de las fies
 >
 > Anthony Hopkins en Mission: Impossible 2
 
-Que no es que a mí me importe mucho esto, pero vaya, que son dos minutos de documentacion para no meter la pata. Y más hacerle a *Anthony Hopkins* soltar estas frases (no aparece ni en los créditos pese a tener varios minutos en la película). Hollywood a veces tiene una visión muy peculiar del mundo.  
+Que no es que a mí me importe mucho esto, pero vaya, que son dos minutos de documentacion para no meter la pata. Y más para hacerle a *Anthony Hopkins* soltar estas frases (no aparece ni en los créditos pese a tener varios minutos en la película). Hollywood a veces tiene una visión muy peculiar del mundo.  
 
 En cualquier caso, esta *Mission: Impossible 2* nos queda como el hijo rebelde de la saga: imperfecto, exagerado, pero lleno de momentos de entretenimiento noventero dando sus últimos estertores ante el cambio de siglo. Pero si hablamos de algo noventero, recordemos que la película empieza con esta banda sonora. Y eso no nos lo puede quitar nadie.
 
