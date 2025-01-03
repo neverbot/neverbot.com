@@ -1,10 +1,13 @@
 ---
-title: Mission Impossible, la primera, ojo aquí
+title: "Mission: Impossible, la primera, ojo aquí"
 author: neverbot
 date: 2024-08-18 00:51:04
 tags: 
   - cine
+  - "mission: impossible"
 ---
+
+*Este post forma parte de una serie sobre [Mission: Impossible](/cine/misiones-imposibles/), es recomendable empezar por ahí.*
 
 Montaña rusa de adrenalina que viaja en el tiempo desde 1996 hasta el salón de tu casa para recordarte que ya no se hacen películas como las de antes.
 

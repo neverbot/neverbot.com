@@ -13,4 +13,5 @@ Recopilatorio de temas de **Cine** de los que hemos hablado por aquí:
 - [Índice general sobre temática de cine](/cine/), la página que estás leyendo.
 - [Revisionado de todo Star Wars](/cine/todo-star-wars/) (*estoy loquísimo*).
 - [Reseñas cinematográficas relámpago](/tags/resenas-cinematograficas-relampago/), categoría de *posts* con micro reseñas sobre películas vistas.
+- Una serie de posts sobre la franquicia [Misión Imposible](/cine/misiones-imposibles/), *because of reasons*.
 - Los *posts* [categorizados como cine](/tags/cine).

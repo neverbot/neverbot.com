@@ -33,6 +33,7 @@ Además del _blog_ en sí (comentarios/_posts_ en orden cronológico inverso), t
   - [Índice general sobre temática de cine](/cine/) en esta página.
   - [Reseñas cinematográficas relámpago](/tags/resenas-cinematograficas-relampago/), categoría de _posts_ con micro reseñas sobre películas vistas.
   - [Revisionado completo de todo Star Wars](/cine/todo-star-wars/).
+  - Una serie de posts sobre la franquicia [Misión Imposible](/cine/misiones-imposibles/), *because of reasons*.
   - La [categoría cine](/tags/cine).
 - **Anime**:
   - [Índice general sobre temática de Anime](/anime/) en esta página.
