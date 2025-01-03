@@ -14,3 +14,5 @@ date: 2024-07-31 11:56:47
 - [![Shingeki no Kyojin](/sidebar/banner-shingeki-no-kyojin.jpg)](/anime/shingeki-no-kyojin/) [Shingeki no Kyojin](/anime/shingeki-no-kyojin/)
 
 - [![Mushoku Tensei](/sidebar/banner-mushoku-tensei.jpg)](/anime/mushoku-tensei/) [Mushoku Tensei](/anime/mushoku-tensei/)
+
+- [![Mission: Impossible](/sidebar/banner-mission-impossible.jpg)](/cine/misiones-imposibles/) [Mission: Impossible](/cine/misiones-imposibles/)
