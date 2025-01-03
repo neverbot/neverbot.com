@@ -15,9 +15,9 @@ Probablemente sea imposible que vaya a terminar algún día este "*proyecto*", y
 
 ![Timeline de series de Star Trek](./index/timeline.png)
 
-*[Wikipedia](https://en.wikipedia.org/wiki/Star_Trek): en 2023 estaban emitiéndose simultáneamente cinco series de Star Trek. Esto es una locura*.{.center}
+*[Timeline de la Wikipedia](https://en.wikipedia.org/wiki/Star_Trek): en 2023 estaban emitiéndose simultáneamente cinco series. Esto es una locura*.{.center}
 
-Una lista de lo que tenemos por delante, actualizada a **Julio de 2024**:
+Una lista de lo que tenemos por delante, actualizada a **Enero de 2025**:
 
 | Serie | Temps | Eps | Emisión |
 | ----- | :---: | :-: | ------- |
@@ -27,13 +27,15 @@ Una lista de lo que tenemos por delante, actualizada a **Julio de 2024**:
 | [*Deep Space Nine*](https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine) | 7 | 176 | Enero 1993 – Mayo 1999 |
 | [*Voyager*](https://en.wikipedia.org/wiki/Star_Trek:_Voyager) | 7 | 172 | Enero 1995 – Mayo 2001 |
 | [*Enterprise*](https://en.wikipedia.org/wiki/Star_Trek:_Enterprise) | 4 | 98 | Sep 2001 – Mayo 2005 |
-| [*Discovery*](https://en.wikipedia.org/wiki/Star_Trek:_Discovery) | 5 | 65 | Sept 2017 – **presente** |
+| [*Discovery*](https://en.wikipedia.org/wiki/Star_Trek:_Discovery) | 5 | 65 | Sept 2017 – Mayo 2024 |
 | [*Short Treks*](https://en.wikipedia.org/wiki/Star_Trek:_Short_Treks) | 2 | 10 | Octubre 2018 – Enero 2020 |
 | *[Picard](https://en.wikipedia.org/wiki/Star_Trek:_Picard)* | 3 | 30 | Enero 2020 – Abril 2023 |
-| [*Lower Decks*](https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks) | 4 | 40 | Agosto 2020 – **presente** |
-| [*Prodigy*](https://en.wikipedia.org/wiki/Star_Trek:_Prodigy) | 2 | 40 | Octubre 2021 – ¿Julio 2024? |
+| [*Lower Decks*](https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks) | 5 | 50 | Agosto 2020 – Diciembre 2024 |
+| [*Prodigy*](https://en.wikipedia.org/wiki/Star_Trek:_Prodigy) | 2 | 40 | Octubre 2021 – Julio 2024 |
 | [*Strange New Worlds*](https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds) | 2 | 20 | Mayo 2022 – **presente** |
 | [*Very Short Treks*](https://en.wikipedia.org/wiki/Star_Trek:_Very_Short_Treks) | 1 | 5 | Sep 2023 – Oct 2023 |
+| **Futuro** |  |  |  |
+| [Starfleet Academy](https://en.wikipedia.org/wiki/Star_Trek:_Starfleet_Academy_(TV_series)) | 1 | 10 | ¿2025? |
 
 Esta ordenación está hecha por fecha de emisión original, no por fecha estelar, es decir, el momento cronológico dentro del propio universo de **Star Trek** en el que sucede el contenido de cada capítulo. Durante mucho tiempo la serie original (la del *Capitán Kirk* de **William Shatner** y el *Doctor Spock* de **Leonard Nimoy**) fue la primera también cronológicamente, pero hay que tener en cuenta que casi toda **Enterprise** sucede casi un siglo antes que esto, ya que narra los acontecimientos de la primera misión de exploración del espacio profundo y la primera nave llamada *Enterprise*.
 
@@ -62,6 +64,8 @@ Ahora bien, si queremos hacer el visionado cronológico, ni intentemos calcularl
 | [*Star Trek: Más allá*](https://en.wikipedia.org/wiki/Star_Trek_Beyond) | *Reboot (Kelvin Timeline)* | Julio 2016 |
 | **Películas para Tv** |  |  |
 | [*Star Trek: Section 31*](https://en.wikipedia.org/wiki/Star_Trek:_Section_31) | *Star Trek: Discovery* | ¿2025? |
+
+*Desde 2016 sin una película de Star Trek, nunca desde el estreno de la película original habíamos pasado tantos años sin una aparición en cines*.{.center}
 
 ### La línea temporal Kelvin
 
