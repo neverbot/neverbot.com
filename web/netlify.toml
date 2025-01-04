@@ -17,3 +17,16 @@
   to = "https://neverbot.com/:splat"
   status = 301
   force = true
+
+# redirect from old permalinks with categories and subcategories
+[[redirects]]
+  from = "/archivo/:category/:subcategory/:title"
+  to = "/:title"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/archivo/:category/:title"
+  to = "/:title"
+  status = 301
+  force = true
