@@ -7,7 +7,7 @@ tags:
   - "mission: impossible"
 ---
 
-*Este post forma parte de una serie sobre [Mission: Impossible](/cine/misiones-imposibles/), es recomendable empezar por ahí.*
+*Este post forma parte de [una serie de entradas sobre Mission: Impossible](/cine/misiones-imposibles/), es recomendable empezar por ahí.*
 
 Montaña rusa de adrenalina que viaja en el tiempo desde 1996 hasta el salón de tu casa para recordarte que ya no se hacen películas como las de antes.
 

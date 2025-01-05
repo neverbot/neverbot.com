@@ -7,7 +7,7 @@ tags:
   - "mission: impossible"
 ---
 
-*Este post forma parte de una serie sobre [Mission: Impossible](/cine/misiones-imposibles/), es recomendable empezar por ahí.*
+*Este post forma parte de [una serie de entradas sobre Mission: Impossible](/cine/misiones-imposibles/), es recomendable empezar por ahí.*
 
 Dejamos la precisión de Brian De Palma para aterrizar directamente en una locura de motocicletas voladoras, explosiones a cámara lenta y palomas blancas en pleno vuelo. *[Mission: Impossible 2](https://www.imdb.com/title/tt0120755/)* es la secuela en la que [Tom Cruise](https://www.imdb.com/name/nm0000129/) decidió que la sutileza era opcional y que lo suyo iba a ser un desfile de testosterona estilizada. ¿El responsable? [John Woo](https://www.imdb.com/name/nm0000247/), maestro del cine de acción de Hong Kong, que trajo consigo su arsenal de movimientos en cámara lenta, tiroteos coreografiados y simbolismos visuales.  
 
