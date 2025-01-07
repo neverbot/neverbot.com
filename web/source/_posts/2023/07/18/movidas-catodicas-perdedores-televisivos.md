@@ -27,7 +27,7 @@ Sobre el papel tiene todo lo que podría interesarme (esos *matones-que-nos-gust
 
 La serie es australiana, por cierto, por si de primeras os chocan los acentos de los actores. Por culturilla general: es una serialización de una película del 2005 que fue escrita, dirigida y protagonizada por el señor de la foto, [**Scott Ryan**](https://en.wikipedia.org/wiki/Scott_Ryan_(actor)), que aquí vuelve a escribir y protagonizar.
 
-### [Loudermilk](https://thetvdb.com/series/bupkis) (*AT&T Audience*, *Amazon Prime Video*, 2017, 3 temporadas)
+### [Loudermilk](https://thetvdb.com/series/loudermilk) (*AT&T Audience*, *Amazon Prime Video*, 2017, 3 temporadas)
 
 ![loudermilk](./movidas-catodicas-perdedores-televisivos/loudermilk.jpg)
 
