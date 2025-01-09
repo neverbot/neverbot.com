@@ -7,7 +7,7 @@ tags:
 date: 2009-02-15 15:13:58
 ---
 
-Esta semana ha sido **San Valentín**, y no he dicho nada al respecto, aunque [en años anteriores](/?s=san+valent%C3%ADn) siempre he aprovechado. Me estoy haciendo mayor.
+Esta semana ha sido **San Valentín**, y no he dicho nada al respecto, aunque [en años anteriores](/fechas-senaladas) siempre he aprovechado. Me estoy haciendo mayor.
 
 Ha sido **mi primera semana de trabajo en casa**, aunque aún haciendo algún proyecto para mi anterior empresa, compatibilizando el tiempo entre montar el despacho, trabajar y adecuar la casa.
 
