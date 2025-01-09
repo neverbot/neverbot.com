@@ -184,3 +184,13 @@ related_posts:
   #   - vs.net
   #   - ado.net
   #   - .net
+
+sitemap:
+  path: 
+    - sitemap.xml
+    - sitemap.txt
+  template: ./sitemap_template.xml
+  template_txt: ./sitemap_template.txt
+  rel: true
+  tags: true
+  categories: true
