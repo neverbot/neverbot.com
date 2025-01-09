@@ -7,7 +7,7 @@ author: neverbot
 date: 2023-05-03 23:53:43
 ---
 
-![nada_importa](./nada-importa-el-libro/nada_importa.jpg){.right width=50%}
+![Nada Importa, el libro](./nada-importa-el-libro/nada_importa.jpg){.right width=50%}
 
 Últimamente he recomendado en [varias](/nada-importa/) [ocasiones](/cosas-que-compartir-esta-semana-5%C2%AA-de-2023/) por aquí algunos textos de [Jesús Terrés](https://nadaimporta.com), autor de unas cuantas cosas en internet desde hace ya unos cuantos años, así que no era de extrañar que acabara haciéndome con el libro que publicó en el 2020 [con Círculo de Tiza](https://circulodetiza.es/libros/nada-importa/), recopilando textos suyos sueltos de aquí y de allá.
 

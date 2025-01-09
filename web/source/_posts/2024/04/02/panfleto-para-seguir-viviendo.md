@@ -6,7 +6,7 @@ tags:
   - libros
 ---
 
-![panfleto-para-seguir-viviendo](./panfleto-para-seguir-viviendo/panfleto-para-seguir-viviendo.jpg){.left width=50%}
+![Panfleto para seguir viviendo](./panfleto-para-seguir-viviendo/panfleto-para-seguir-viviendo.jpg){.left width=50%}
 
 **Panfleto para seguir viviendo**
 Fernando Díaz (pseudónimo)
