@@ -5,6 +5,7 @@ date: 2024-01-31 19:58:48
 tags:
   - música
   - blog
+  - mixtapes
 ---
 
 [Como decía por aquí](/mixtape-the-force-is-strong-in-this-one/) no hace tanto, soy un señor mayor que sigue preparando *mixtapes* (o cds, o simplemente carpetas con *emepetreses* dentro, que para el caso es lo mismo). En enero he estado escuchando mucho top y *billboard* de hace tres o cuatro años, y al final me ha salido una lista bastante larga.
