@@ -15,7 +15,7 @@ Empecé muchos, dejé medio docena a medio leer, otra media docena empezados del
 Es necesario arreglar esto durante los próximos años, y remontar el buen hábito de la lectura. Conseguir además encontrar tiempo para escribir un pequeño *post* con alguna reseña quizá sea ya ciencia-ficción, pero al menos hay que intentarlo. Esta página irá recogiendo los artículos que escriba sobre los libros que vaya leyendo (orden cronológico inverso):
 
 - [Panfleto para seguir viviendo](/panfleto-para-seguir-viviendo/), de Fernando Díaz.
-- [Nada Importa](/nada-importa-el-libro), de Jesús Terrés.
+- [Nada Importa](/nada-importa-el-libro/), de Jesús Terrés.
 - [Futuro, ¿Qué futuro?](/futuro-¿que-futuro/) de Santiago Niño-Becerra.
 - [El espíritu del Mago](/el-espiritu-del-mago-de-javier-negrete/), Javier Negrete.
 - [El Sr. Penumbra y su librería 24 horas abierta](/el-respetable-oficio-de-traductor/), Robin Sloan.

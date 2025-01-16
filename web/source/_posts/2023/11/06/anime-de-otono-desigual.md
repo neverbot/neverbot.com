@@ -22,7 +22,7 @@ Le he concendido tres capítulos y medio, hasta el primer *girito* argumental, p
 
 ![Frieren](./anime-de-otono-desigual/frieren.jpg)
 
-[**Frieren**](https://en.wikipedia.org/wiki/Frieren) sin embargo me ha llegado al corazoncito con sólo ver el primer capítulo. Está basado en un manga de relativo éxito, por lo que era esperable un arte decente, y el anime viene firmado por [Madhouse](https://en.wikipedia.org/wiki/Madhouse_(company)). Haciendo una búsqueda rápida en el contenido de esta santa casa, ya los hemos mencionado [hablando de Death Note](/miercoles-de-tebeos-bakuman), [High School of the Dead](/del-fanservice-como-nueva-cultura-pop) y hasta [La chica que saltaba a través del tiempo](/la-chica-que-saltaba-a-traves-del-tiempo), así que asumimos que son de nuestro agrado.
+[**Frieren**](https://en.wikipedia.org/wiki/Frieren) sin embargo me ha llegado al corazoncito con sólo ver el primer capítulo. Está basado en un manga de relativo éxito, por lo que era esperable un arte decente, y el anime viene firmado por [Madhouse](https://en.wikipedia.org/wiki/Madhouse_(company)). Haciendo una búsqueda rápida en el contenido de esta santa casa, ya los hemos mencionado [hablando de Death Note](/miercoles-de-tebeos-bakuman/), [High School of the Dead](/del-fanservice-como-nueva-cultura-pop/) y hasta [La chica que saltaba a través del tiempo](/la-chica-que-saltaba-a-traves-del-tiempo/), así que asumimos que son de nuestro agrado.
 
 葬送のフリーレン, ***Sōsō no Furīren***, "*Frieren, the Final Farewell to the Dead*".
 

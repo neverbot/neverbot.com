@@ -23,24 +23,24 @@ Además del _blog_ en sí (comentarios/_posts_ en orden cronológico inverso), t
 - **Libros**:
   - [Lista de los Premios Hugo de novela que voy leyendo](/los-premios-hugo/) (aunque esta iniciativa quedó parada apenas empezó).
   - Lista de [lecturas](/lecturas/).
-  - La [categoría de libros](/tags/libros).
+  - La [categoría de libros](/tags/libros/).
 - **Televisión**:
   - [Índice general sobre temática de televisión](/tv/) en esta página.
   - [Movidas catódicas](/tags/movidas-catodicas/), categoría propia de _posts_ con micro reseñas sobre series vistas.
   - [Revisionado completo de todo Star Trek](/tv/star-trek/).
-  - La [categoría de televisión](/tags/tv).
+  - La [categoría de televisión](/tags/tv/).
 - **Cine**:
   - [Índice general sobre temática de cine](/cine/) en esta página.
   - [Reseñas cinematográficas relámpago](/tags/resenas-cinematograficas-relampago/), categoría de _posts_ con micro reseñas sobre películas vistas.
   - [Revisionado completo de todo Star Wars](/cine/todo-star-wars/).
   - Una serie de posts sobre la franquicia [Misión Imposible](/cine/misiones-imposibles/), *because of reasons*.
-  - La [categoría cine](/tags/cine).
+  - La [categoría cine](/tags/cine/).
 - **Anime**:
   - [Índice general sobre temática de Anime](/anime/) en esta página.
   - Todo [Shingeki no Kyojin - Ataque a los Titanes](/anime/shingeki-no-kyojin/).
   - [Revisionado de Overlord](/anime/overlord/).
   - [Revisionado de Mushoku Tensei](/anime/mushoku-tensei/).
-  - La [categoría de anime](/tags/anime).
+  - La [categoría de anime](/tags/anime/).
 
 ## Me puedes encontrar en
 
@@ -49,7 +49,7 @@ Además del _blog_ en sí (comentarios/_posts_ en orden cronológico inverso), t
 - [GitHub](https://github.com/neverbot)
 - [Instagram](http://instagram.com/neverbot)
 - [Letterboxd](http://letterboxd.com/neverbot/)
-- ~~[Twitter](http://twitter.com/neverbot)~~. [Ya no uso Twitter](/not-on-twitter-anymore), aunque aún mantengo la cuenta.
+- ~~[Twitter](http://twitter.com/neverbot)~~. [Ya no uso Twitter](/not-on-twitter-anymore/), aunque aún mantengo la cuenta.
 - [Flickr](http://www.flickr.com/photos/neverbot/). No lo utilizo desde 2016, aunque aún mantengo la cuenta.
 
 y en muchos otros lugares. Con mi nombre real estoy en:

@@ -103,8 +103,8 @@ El orden de los episodios dentro de cada temporada es según fecha de emisión. 
 | Serie | Episodio | Fecha revisión | Año / Fecha estelar | Título y Reseña |
 | :---: | :------: | ----: | -------: | ------ |
 | TOS   | s00e01 | 30/1/2023 | 2254 / - | [The Cage (primer piloto)](/star-trek-el-episodio-piloto-perdido/) |
-| TOS   | s01e01 | 2/2/2023 | 2266 / 1513.1 | [The Man Trap](/star-trek-la-serie-original-s01e01) |
-| TOS   | s01e02 | 31/7/2024 | 2266 / 1533.6 | [Charlie X](/star-trek-la-serie-original-s01e02) |
+| TOS   | s01e01 | 2/2/2023 | 2266 / 1513.1 | [The Man Trap](/star-trek-la-serie-original-s01e01/) |
+| TOS   | s01e02 | 31/7/2024 | 2266 / 1533.6 | [Charlie X](/star-trek-la-serie-original-s01e02/) |
 
 Leyenda:
 

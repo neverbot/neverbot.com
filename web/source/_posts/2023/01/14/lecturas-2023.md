@@ -21,4 +21,4 @@ Es necesario arreglar esto durante el año 2023 y todos los próximos, y remonta
 
 ### Mayo
 
-- [Nada Importa](/nada-importa-el-libro), de Jesús Terrés.
+- [Nada Importa](/nada-importa-el-libro/), de Jesús Terrés.

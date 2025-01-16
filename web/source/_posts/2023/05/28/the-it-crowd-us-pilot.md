@@ -6,7 +6,7 @@ tags:
 date: 2023-05-28 15:18:51
 ---
 
-Decía hace poco, [hablando de **The Big Prize Door**](/movidas-catodicas-ciencia-ficcion-televisiva), que era fan de [**Chris O'Dowd**](https://www.imdb.com/name/nm1483369/) desde sus tiempos en [**The IT Crowd**](https://www.imdb.com/title/tt0487831/). Y ha querido la casualidad que, buscando información acerca de la serie, recordase que se intentó hacer una [versión americana](https://www.themoviedb.org/tv/43207-the-it-crowd) de [la serie británica](https://www.themoviedb.org/tv/2490-the-it-crowd).
+Decía hace poco, [hablando de **The Big Prize Door**](/movidas-catodicas-ciencia-ficcion-televisiva/), que era fan de [**Chris O'Dowd**](https://www.imdb.com/name/nm1483369/) desde sus tiempos en [**The IT Crowd**](https://www.imdb.com/title/tt0487831/). Y ha querido la casualidad que, buscando información acerca de la serie, recordase que se intentó hacer una [versión americana](https://www.themoviedb.org/tv/43207-the-it-crowd) de [la serie británica](https://www.themoviedb.org/tv/2490-the-it-crowd).
 
 ![the-it-crowd-us](./the-it-crowd-us-pilot/the-it-crowd-us.jpg)
 

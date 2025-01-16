@@ -13,7 +13,7 @@ Durante el año 2018 lo dejé apartado de forma prácticamente indefinida, hasta
 
 Aniversarios:
 
-- [Duodécimo](/una-forma-como-cualquier-otra-de-perder-el-tiempo), [undécimo](/once/), [décimo](/y-diez/), [noveno](/nueve/), [octavo](/ocho/), [séptimo](/septimo-aniversario/), [sexto](/sexto-aniversario/), [quinto](/quinto-aniversario/), [cuarto](/cuarto-aniversario-de-neverbot-com/), [tercero](/tercer-aniversario-del-blog/).
+- [Duodécimo](/una-forma-como-cualquier-otra-de-perder-el-tiempo/), [undécimo](/once/), [décimo](/y-diez/), [noveno](/nueve/), [octavo](/ocho/), [séptimo](/septimo-aniversario/), [sexto](/sexto-aniversario/), [quinto](/quinto-aniversario/), [cuarto](/cuarto-aniversario-de-neverbot-com/), [tercero](/tercer-aniversario-del-blog/).
 
 - El primero y segundo no tuvieron *posts*.
 - [¡Hola Mundo!](/hello-world/), el primer *post.*
