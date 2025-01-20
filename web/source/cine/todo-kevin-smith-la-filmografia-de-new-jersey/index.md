@@ -1,6 +1,7 @@
 ---
 title: Todo Kevin Smith, la filmografía de New Jersey
 date: 2025-01-20 18:43:48
+author: neverbot
 tags:
   - cine
   - kevin smith
@@ -55,7 +56,7 @@ Otras cosas a las que la palabra "película" quizá les viene grande.
 ## Sobre Kevin Smith
 
 | Año  | ¿Qué es? | Título | En el blog |
-| :--: | :------: | :----- | ---------- |
+| :--: | :------- | :----- | ---------- |
 | 1999 | Libro | Kevin Smith y la Trilogía de New Jersey ([whakoom](https://www.whakoom.com/ediciones/276202/kevin_smith_y_la_trilogia_de_new_jersey-rustica_144_pp)) |  |
 | 2005 | Libro | The Mallrats Companion ([goodreads](https://www.goodreads.com/book/show/3243524-the-mallrats-companion)) |  |
 | 2005 | Libro | Silent Bob Speaks: The Selected Writings ([goodreads](https://www.goodreads.com/book/show/300885.Silent_Bob_Speaks)) |  |
