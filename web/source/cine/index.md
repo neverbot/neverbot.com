@@ -14,4 +14,5 @@ Recopilatorio de temas de **Cine** de los que hemos hablado por aquí:
 - [Revisionado de todo Star Wars](/cine/todo-star-wars/) (*estoy loquísimo*).
 - [Reseñas cinematográficas relámpago](/tags/resenas-cinematograficas-relampago/), categoría de *posts* con micro reseñas sobre películas vistas.
 - Una serie de posts sobre la franquicia [Misión Imposible](/cine/misiones-imposibles/), *because of reasons*.
+- [Todo Kevin Smith, la filmografía de New Jersey](/cine/todo-kevin-smith-la-filmografia-de-new-jersey/)
 - Los *posts* [categorizados como cine](/tags/cine).

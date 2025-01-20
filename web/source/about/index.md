@@ -11,6 +11,26 @@ date: 2006-07-26 16:03:04
 
 Esta es la página personal de Iván Alonso. Si nos conocemos quizá haya sido con el nombre de **Folken** ([muds](http://en.wikipedia.org/wiki/MUD) varios, [cYbErDaRk.NeT](http://www.cyberdark.net/index2.php)), **Ddraencara** (~~[XBox Live](https://live.xbox.com/es-ES/Profile?pp=0&GamerTag=ddraencara)~~ o [World of Warcraft](http://eu.battle.net/wow/en/character/shendralar/Ddraencara/) por ejemplo) o, desde hace ya tiempo, **neverbot** ([Twitter](https://x.com/neverbot), [Instagram](https://www.instagram.com/neverbot/), [Tumblr](https://neverbot.tumblr.com/), [Xbox Live](https://account.xbox.com/es-es/profile?gamertag=neverbot5133), etc), el _nick_ más habitual que utilizo.
 
+## Me puedes encontrar en
+
+- [neverbot.com](https://neverbot.com), obviamente.
+- [Tumblr](http://neverbot.tumblr.com/)
+- [GitHub](https://github.com/neverbot)
+- [Instagram](http://instagram.com/neverbot)
+- [Letterboxd](http://letterboxd.com/neverbot/)
+- ~~[Twitter](http://twitter.com/neverbot)~~. [Ya no uso Twitter](/not-on-twitter-anymore/), aunque aún mantengo la cuenta.
+- [Bluesky](https://bsky.app/profile/neverbot.bsky.social), por tener cuenta, pero como si no.
+- [Flickr](http://www.flickr.com/photos/neverbot/). No lo utilizo desde 2016, aunque aún mantengo la cuenta.
+
+y en muchos otros lugares. Con mi nombre real estoy en:
+
+- [LinkedIn](http://www.linkedin.com/in/ivanalonso) (red profesional)
+- ~~Facebook (no profesional)~~. [Ya no uso Facebook](https://www.instagram.com/p/_FU_gySxMi/).
+
+Muchos lugares y muy poco tiempo...
+
+![dog-on-the-internet-by-peter-steiner](./index/dog-on-the-internet-by-peter-steiner.jpg)
+
 ## ¿De qué hablo aquí?
 
 En principio de cualquier cosa que me cruce por la cabeza captando mi interés durante más de media hora, lo que viene siendo un _blog_, vaya. En la práctica suele ser sobre consumismo multimedia e internet en general, desde la perspectiva de lo mal que está el mundo la mayor parte de las veces, aunque estoy trabajando en practicar un punto de vista más positivo siempre que puedo.
@@ -34,6 +54,7 @@ Además del _blog_ en sí (comentarios/_posts_ en orden cronológico inverso), t
   - [Reseñas cinematográficas relámpago](/tags/resenas-cinematograficas-relampago/), categoría de _posts_ con micro reseñas sobre películas vistas.
   - [Revisionado completo de todo Star Wars](/cine/todo-star-wars/).
   - Una serie de posts sobre la franquicia [Misión Imposible](/cine/misiones-imposibles/), *because of reasons*.
+  - [Todo Kevin Smith, la filmografía de New Jersey](/cine/todo-kevin-smith-la-filmografia-de-new-jersey/)
   - La [categoría cine](/tags/cine/).
 - **Anime**:
   - [Índice general sobre temática de Anime](/anime/) en esta página.
@@ -41,25 +62,6 @@ Además del _blog_ en sí (comentarios/_posts_ en orden cronológico inverso), t
   - [Revisionado de Overlord](/anime/overlord/).
   - [Revisionado de Mushoku Tensei](/anime/mushoku-tensei/).
   - La [categoría de anime](/tags/anime/).
-
-## Me puedes encontrar en
-
-- [neverbot.com](https://neverbot.com), obviamente.
-- [Tumblr](http://neverbot.tumblr.com/)
-- [GitHub](https://github.com/neverbot)
-- [Instagram](http://instagram.com/neverbot)
-- [Letterboxd](http://letterboxd.com/neverbot/)
-- ~~[Twitter](http://twitter.com/neverbot)~~. [Ya no uso Twitter](/not-on-twitter-anymore/), aunque aún mantengo la cuenta.
-- [Flickr](http://www.flickr.com/photos/neverbot/). No lo utilizo desde 2016, aunque aún mantengo la cuenta.
-
-y en muchos otros lugares. Con mi nombre real estoy en:
-
-- [LinkedIn](http://www.linkedin.com/in/ivanalonso) (red profesional)
-- ~~Facebook (no profesional)~~. [Ya no uso Facebook](https://www.instagram.com/p/_FU_gySxMi/).
-
-Muchos lugares y muy poco tiempo...
-
-![dog-on-the-internet-by-peter-steiner](./index/dog-on-the-internet-by-peter-steiner.jpg)
 
 [_Peter Steiner en The New Yorker, 5 de julio de 1993_](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog).{.center}
 
