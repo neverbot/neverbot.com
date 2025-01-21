@@ -1,10 +1,12 @@
 ---
 title: Anime de otoño 2024
+author: neverbot
 tags:
   - blog
   - anime
-author: neverbot
+date: 2025-01-21 17:53:03
 ---
+
 
 Parece mentira, pero no he publicado más *posts* sobre [anime](/tags/anime/) precisamente desde finales del año anterior, en una misma entrada acerca del [Anime de otoño de 2023](/anime-de-otono-desigual/). Algunas cosas a las que le he dado un tiento a finales del año pasado:
 
