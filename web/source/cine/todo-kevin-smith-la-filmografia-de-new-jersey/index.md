@@ -57,14 +57,14 @@ Otras cosas a las que la palabra "película" quizá les viene grande.
 
 | Año  | ¿Qué es? | Título | En el blog |
 | :--: | :------- | :----- | ---------- |
-| 1999 | Libro | Kevin Smith y la Trilogía de New Jersey ([whakoom](https://www.whakoom.com/ediciones/276202/kevin_smith_y_la_trilogia_de_new_jersey-rustica_144_pp)) |  |
-| 2005 | Libro | The Mallrats Companion ([goodreads](https://www.goodreads.com/book/show/3243524-the-mallrats-companion)) |  |
-| 2005 | Libro | Silent Bob Speaks: The Selected Writings ([goodreads](https://www.goodreads.com/book/show/300885.Silent_Bob_Speaks)) |  |
-| 2007 | Libro | My Boring-Ass Life: The Uncomfortably Candid Diary of Kevin Smith ([goodreads)](https://www.goodreads.com/book/show/300889.My_Boring_Ass_Life) |  |
-| 2009 | Libro | Shootin' the Shit with Kevin Smith: The Best of the SModcast ([goodreads)](https://www.goodreads.com/book/show/6633415-shootin-the-shit-with-kevin-smith) |  |
-| 2012 | Libro | Tough Shit: Life Advice from a Fat, Lazy Slob Who Did Good ([goodreads](https://www.goodreads.com/book/show/12405612-tough-shit)) |  |
-| 2021 | Documental | Clerk ([imdb)](https://www.imdb.com/title/tt14024448/) |      |
-| 2021 | Libro | Kevin Smith's Secret Stash: The Definitive Visual History ([goodreads)](https://www.goodreads.com/book/show/56897840-kevin-smith-s-secret-stash) | |
+| 1999 | Libro | Kevin Smith y la Trilogía de New Jersey [[whakoom](https://www.whakoom.com/ediciones/276202/kevin_smith_y_la_trilogia_de_new_jersey-rustica_144_pp)] |  |
+| 2005 | Libro | The Mallrats Companion [[goodreads](https://www.goodreads.com/book/show/3243524-the-mallrats-companion)] |  |
+| 2005 | Libro | Silent Bob Speaks: The Selected Writings [[goodreads](https://www.goodreads.com/book/show/300885.Silent_Bob_Speaks)] |  |
+| 2007 | Libro | My Boring-Ass Life: The Uncomfortably Candid Diary of Kevin Smith [[goodreads](https://www.goodreads.com/book/show/300889.My_Boring_Ass_Life)] |  |
+| 2009 | Libro | Shootin' the Shit with Kevin Smith: The Best of the SModcast [[goodreads](https://www.goodreads.com/book/show/6633415-shootin-the-shit-with-kevin-smith)] |  |
+| 2012 | Libro | Tough Shit: Life Advice from a Fat, Lazy Slob Who Did Good [[goodreads](https://www.goodreads.com/book/show/12405612-tough-shit)] |  |
+| 2021 | Documental | Clerk [[imdb](https://www.imdb.com/title/tt14024448/)] |      |
+| 2021 | Libro | Kevin Smith's Secret Stash: The Definitive Visual History [[goodreads](https://www.goodreads.com/book/show/56897840-kevin-smith-s-secret-stash)] | |
 
 {.fixed-column1 .fixed-column2}
 
