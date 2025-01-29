@@ -8,7 +8,7 @@ tags:
   - mixtapes
 ---
 
-Siguiendo esta bonita tradición de ir apuntando las nuevas *mixtapes* que voy haciendo, como ya hice con *[The force is strong in this one](/mixtape-the-force-is-strong-in-this-one/)* y *[May you live all the days of your life](/mixtape-may-you-live-all-the-days-of-your-life/)*, seguimos con esta *TikTok Generation* que compilé a principios de 2024 porque sí. A ver si me animo y recopilo también aquí con enlaces a los videoclips todos los demás que hice durante el año pasado.
+Siguiendo esta bonita tradición de ir apuntando las nuevas *mixtapes* que voy haciendo, como ya hice con *[The force is strong in this one](/mixtape-the-force-is-strong-in-this-one/)* y *[May you live all the days of your life](/mixtape-may-you-live-all-the-days-of-your-life/)*, seguimos con esta *TikTok Generation* que compilé a principios de 2024 porque sí. A ver si me animo y recopilo también aquí con enlaces a los videoclips todas los demás que hice durante el año pasado.
 
 ![TikTok Generation](./mixtape-tiktok-generation/TikTok-Generation.jpg)
 
