@@ -19,7 +19,7 @@ Esta es la página personal de Iván Alonso. Si nos conocemos quizá haya sido c
 - [Instagram](http://instagram.com/neverbot)
 - [Letterboxd](http://letterboxd.com/neverbot/)
 - ~~[Twitter](http://twitter.com/neverbot)~~. [Ya no uso Twitter](/not-on-twitter-anymore/), aunque aún mantengo la cuenta.
-- [Bluesky](https://bsky.app/profile/neverbot.bsky.social), por tener cuenta, pero como si no.
+- [Bluesky](https://bsky.app/profile/neverbot.com) y [Mastodon](https://mastodon.social/@neverbot), por tener cuentas, pero como si no.
 - [Flickr](http://www.flickr.com/photos/neverbot/). No lo utilizo desde 2016, aunque aún mantengo la cuenta.
 
 y en muchos otros lugares. Con mi nombre real estoy en:
