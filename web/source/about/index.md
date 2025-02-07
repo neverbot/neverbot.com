@@ -31,6 +31,8 @@ Muchos lugares y muy poco tiempo...
 
 ![dog-on-the-internet-by-peter-steiner](./index/dog-on-the-internet-by-peter-steiner.jpg)
 
+[_Peter Steiner en The New Yorker, 5 de julio de 1993_](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog).{.center}
+
 ## ¿De qué hablo aquí?
 
 En principio de cualquier cosa que me cruce por la cabeza captando mi interés durante más de media hora, lo que viene siendo un _blog_, vaya. En la práctica suele ser sobre consumismo multimedia e internet en general, desde la perspectiva de lo mal que está el mundo la mayor parte de las veces, aunque estoy trabajando en practicar un punto de vista más positivo siempre que puedo.
@@ -62,8 +64,6 @@ Además del _blog_ en sí (comentarios/_posts_ en orden cronológico inverso), t
   - [Revisionado de Overlord](/anime/overlord/).
   - [Revisionado de Mushoku Tensei](/anime/mushoku-tensei/).
   - La [categoría de anime](/tags/anime/).
-
-[_Peter Steiner en The New Yorker, 5 de julio de 1993_](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog).{.center}
 
 Si quieres ponerte en contacto conmigo para cualquier tema, déjame una mención en [Twitter a @neverbot](http://twitter.com/neverbot).
 
