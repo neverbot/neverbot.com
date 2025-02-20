@@ -17,3 +17,4 @@ date: 2024-07-31 11:56:47
 
 - [![Mission: Impossible](/sidebar/banner-mission-impossible.jpg)](/cine/misiones-imposibles/) [Mission: Impossible](/cine/misiones-imposibles/)
 - [![Todo Kevin Smith](/sidebar/banner-kevin-smith.jpg)](/cine/todo-kevin-smith-la-filmografia-de-new-jersey/) [Todo Kevin Smith](/cine/todo-kevin-smith-la-filmografia-de-new-jersey/)
+- [![Saint Seiya](/sidebar/banner-saint-seiya.jpg)](/anime/saint-seiya/) [Saint Seiya](/anime/saint-seiya/)

@@ -64,6 +64,7 @@ Además del _blog_ en sí (comentarios/_posts_ en orden cronológico inverso), t
   - [Revisionado de Overlord](/anime/overlord/).
   - [Revisionado de Mushoku Tensei](/anime/mushoku-tensei/).
   - La [categoría de anime](/tags/anime/).
+  - Todo [Saint Seiya - Caballeros del Zodiaco](/anime/saint-seiya/).
 
 Si quieres ponerte en contacto conmigo para cualquier tema, déjame una mención en [Twitter a @neverbot](http://twitter.com/neverbot).
 

@@ -30,3 +30,5 @@ Recopilatorio de temas de **Anime** de los que hemos hablado por aquí:
 - [Apunte rápido sobre **High School of the Dead**](/del-fanservice-como-nueva-cultura-pop/) acerca del *fanservice* en general (post de 2012).
 
 - Apuntes sobre las **nuevas temporadas de anime**: [otoño 2023](/anime-de-otono-desigual/).
+
+- Todo [**Saint Seiya** - **Caballeros del Zodiaco**](/anime/saint-seiya/).
