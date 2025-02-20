@@ -21,7 +21,7 @@ El *anime* no solo fue un éxito en Japón, sino que arrasó en Europa y Latinoa
 
 Cualquiera podría suponer que, dada la fama que tienen los **Caballeros del Zodiaco** en el mundo de habla hispana, todas las obras relacionadas han sido ya editadas y traducidas a nuestro idioma... y no. De hecho solo una pequeña parte, al igual que pocas de las obras de *Kurumada* han llegado hasta aquí.
 
-Veamos el listado, actualizado a Febrero de 2025.
+Veamos el listado, actualizado a Febrero de 2025:
 
 {% timeline %}
 
@@ -58,7 +58,7 @@ Está [publicada por Ivrea en castellano](https://www.whakoom.com/ediciones/5750
 
 {% endyear %}
 
-{% year " " "Saint Seiya: The Lost Canvas – The Myth of Hades" "2006 - 2011, *[Weekly Shōnen Champion](https://en.wikipedia.org/wiki/Weekly_Shōnen_Champion)*, 25 tomos" "" %} 
+{% year " " "Saint Seiya: The Lost Canvas – Hades Mythology" "2006 - 2011, *[Weekly Shōnen Champion](https://en.wikipedia.org/wiki/Weekly_Shōnen_Champion)*, 25 tomos" "" %} 
 
 ![Saint Seiya: The Lost Canvas #1](./index/saint-seiya-lost-canvas-1.jpg){.left width=150px}{% badge "orange" "No canon" %}
 
@@ -66,7 +66,7 @@ Y aquí se nos empiezan a liar las cosas. En el mismo año 2006 en el que *Kurum
 
 La historia tiene puntos de inicio similares a *Next Dimension*, y por lo que se cuenta ambos autores intercambiaban ideas durante la creación de ambas obras, haciendo esto aún más confuso. ¿Por qué? No lo sé. Así son las cosas.
 
-[Publicada en castellano](https://www.whakoom.com/ediciones/5751/saint_seiya_the_lost_canvas-rustica_con_sobrecubierta) por Glénat/EDT.
+[Publicada en castellano](https://www.whakoom.com/ediciones/5751/saint_seiya_the_lost_canvas-rustica_con_sobrecubierta) por Glénat/EDT. Curiosidad: El primer tomo (en la foto) pone *Mithology* que está mal escrito, pero deben existir al menos tres ediciones (Logo de Glenat con i latina, logo de Glenat con Y griega, logo de EDT con Y griega).
 
 Además de los 25 tomos de *Lost Canvas*, existen:
 
