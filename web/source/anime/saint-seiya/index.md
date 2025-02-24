@@ -33,7 +33,7 @@ Además también existen:
 
 - *Saint Seiya Final Edition* (2021 - actualidad). También llamada edición *shinsōban*. Incluye algunos cambios y mejoras con respecto a la edición original. [Está siendo publicada](https://www.whakoom.com/ediciones/638684/saint_seiya_los_caballeros_del_zodiaco_final_edition-rustica) por Planeta, aún no se ha completado en Japón.
 - *Saint Seiya: Episode Zero* (2017 - 2018, capítulos incluidos en el primer tomo de la *Final Edition*).
-- *Saint Seiya: Origin* (2018) y *Saint Seiya: Destiny* (2018). Historias cortas, sin publicar en castellano, aparecerán en algún tomo de la *Final Edition*.
+- *Saint Seiya: Origin* (2018) y *Saint Seiya: Destiny* (2018). Historias cortas, sin publicar en castellano, aparecerán en los posteriores tomos de la *Final Edition* (*Origin* en el 10 y *Destiny* en el 13).
 - *Saint Paradise* (1990), una parodia SD/chibi escrita y dibujada por *Takaya Yamada* de la que no tengo constancia de que haya aparecido en castellano.
 
 {% endyear %}
