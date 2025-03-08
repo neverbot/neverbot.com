@@ -15,7 +15,6 @@ export default [
     ignores: [
       '**/node_modules/',
       'db.json',
-      '**/node_modules',
       '**/public',
       '**/package.json',
       '**/package-lock.json',
@@ -60,6 +59,7 @@ export default [
         // for themes
         ...globals.browser,
         ...globals.jquery,
+        hexo: true,
       },
       parserOptions: {
         requireConfigFile: false,
