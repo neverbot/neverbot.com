@@ -1,8 +1,0 @@
-!.*.json
-package.json
-package-lock.json
-db.json
-
-/node_modules
-/themes
-/public
