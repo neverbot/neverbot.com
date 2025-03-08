@@ -23,7 +23,7 @@ Cualquiera podría suponer que, dada la fama que tienen los **Caballeros del Zod
 
 Veamos el listado, actualizado a Febrero de 2025:
 
-{% timeline %}
+{% timeline 'noleft' %}
 
 {% year " " "Saint Seiya" "1986 - 1990, *[Weekly Shōnen Jump](https://en.wikipedia.org/wiki/Weekly_Shōnen_Jump)*, *[V Jump](https://en.wikipedia.org/wiki/V_Jump)*, 28 tomos" "" %} 
 
