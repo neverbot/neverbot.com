@@ -19,7 +19,7 @@ Algunas de las cosas de esta lista estarán marcadas como {% badge "orange" "Leg
 
 ## Timeline
 
-Actualizado a Enero de 2025.
+Actualizado a Marzo de 2025.
 
 Este timeline es cronológico según los eventos dentro del propio mundo ficticio de Star Wars, no según la fecha de estreno de las películas o series en cines o canales de television.
 
