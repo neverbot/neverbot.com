@@ -25,6 +25,16 @@ Este timeline es cronológico según los eventos dentro del propio mundo fictici
 
 {% timeline %}
 
+{% year "232 B" "Young Jedi Adventures" "2023, Tv (2 temporadas, ¿48 capítulos? - en emisión)" "" %} 
+
+![young-jedi-adventures](./index/young-jedi-adventures.jpg){.left width=150px}{% badge "lightgreen" "[tvdb](https://thetvdb.com/series/star-wars-young-jedi-adventures)"%} {% badge "gold" "[imdb](https://www.imdb.com/title/tt20674124/)"%}
+
+*Ambientada durante la era de la Alta República, sigue a jóvenes aprendices Jedi mientras estudian los caminos de la Fuerza, exploran la galaxia, ayudan a ciudadanos y criaturas necesitadas, y aprenden a lo largo del camino valiosas habilidades necesarias para convertirse en Jedi.*
+
+Es una serie infantil, por lo que la canonicidad es probablemente debatible, pero ahí está.
+
+{% endyear %}
+
 {% year "132 B" "The Acolyte" "2024, Tv (1 temporada, 8 capítulos)" "" %} 
 
 ![663653eacba87](./index/663653eacba87.jpg){.left width=150px}{% badge "lightgreen" "[tvdb](https://thetvdb.com/series/the-acolyte)"%} {% badge "gold" "[imdb](https://www.imdb.com/title/tt12262202/)"%}
