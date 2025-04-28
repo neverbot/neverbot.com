@@ -14,4 +14,4 @@ tags:
 >
 > *(noun)*
 >
-> a mystical land where 99% of all human productivity, motivation and achievement is store.
+> a mystical land where 99% of all human productivity, motivation and achievement is stored.
