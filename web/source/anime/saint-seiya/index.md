@@ -21,7 +21,7 @@ El *anime* no solo fue un éxito en Japón, sino que arrasó en Europa y Latinoa
 
 Cualquiera podría suponer que, dada la fama que tienen los **Caballeros del Zodiaco** en el mundo de habla hispana, todas las obras relacionadas han sido ya editadas y traducidas a nuestro idioma... y no. De hecho solo una pequeña parte, al igual que pocas de las obras de *Kurumada* han llegado hasta aquí.
 
-Veamos el listado, actualizado a Febrero de 2025:
+Veamos el listado, actualizado a Mayo de 2025:
 
 {% timeline 'noleft' %}
 
@@ -54,7 +54,7 @@ Además de los 20 tomos de este Episodio G, existen:
 
 ![Saint Seiya: Next Dimension - Myth of Hades #1](./index/saint-seiya-next-dimension-1.jpg){.left width=150px}La continuación canónica escrita y dibujada por el autor original, publicada a todo color en los tomos recopilatorios. Es a la vez secuela y precuela, contándonos la anterior guerra santa ocurrida durante el siglo XVIII con viajes en el tiempo, encarnaciones múltiples y demás mandangas.
 
-Está [publicada por Ivrea en castellano](https://www.whakoom.com/ediciones/5750/saint_seiya_next_dimension_-_myth_of_hades-rustica_con_sobrecubierta) hasta el tomo 14, faltando aún dos para terminar. 
+[Publicada por Ivrea en castellano](https://www.whakoom.com/ediciones/5750/saint_seiya_next_dimension_-_myth_of_hades-rustica_con_sobrecubierta) en 16 tomos. 
 
 {% endyear %}
 
@@ -67,6 +67,8 @@ Y aquí se nos empiezan a liar las cosas. En el mismo año 2006 en el que *Kurum
 La historia tiene puntos de inicio similares a *Next Dimension*, y por lo que se cuenta ambos autores intercambiaban ideas durante la creación de ambas obras, haciendo esto aún más confuso. ¿Por qué? No lo sé. Así son las cosas.
 
 [Publicada en castellano](https://www.whakoom.com/ediciones/5751/saint_seiya_the_lost_canvas-rustica_con_sobrecubierta) por Glénat/EDT. Curiosidad: El primer tomo (en la foto) pone *Mithology* que está mal escrito, pero deben existir al menos tres ediciones (Logo de Glenat con i latina, logo de Glenat con Y griega, logo de EDT con Y griega).
+
+Recién empezada (Mayo 2025) una nueva edición de Ivrea en tomos dobles.
 
 Además de los 25 tomos de *Lost Canvas*, existen:
 
