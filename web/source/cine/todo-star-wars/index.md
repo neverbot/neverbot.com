@@ -19,13 +19,13 @@ Algunas de las cosas de esta lista estarán marcadas como {% badge "orange" "Leg
 
 ## Timeline
 
-Actualizado a Marzo de 2025.
+Actualizado a Mayo de 2025.
 
 Este timeline es cronológico según los eventos dentro del propio mundo ficticio de Star Wars, no según la fecha de estreno de las películas o series en cines o canales de television.
 
 {% timeline %}
 
-{% year "232 B" "Young Jedi Adventures" "2023, Tv (2 temporadas, ¿48 capítulos? - en emisión)" "" %} 
+{% year "232 B" "Young Jedi Adventures" "2023, Tv (2 temporadas, 48 capítulos" "" %} 
 
 ![young-jedi-adventures](./index/young-jedi-adventures.jpg){.left width=150px}{% badge "lightgreen" "[tvdb](https://thetvdb.com/series/star-wars-young-jedi-adventures)"%} {% badge "gold" "[imdb](https://www.imdb.com/title/tt20674124/)"%}
 
@@ -47,6 +47,12 @@ Es una serie infantil, por lo que la canonicidad es probablemente debatible, per
 ![img](./index/k3nWQb0E8mLSR8acSkJP78VRVMv.jpg){.left width=150px}*Adéntrate en las vidas de dos Jedi completamente diferentes, antes de las precuelas cinematográficas: Ahsoka Tano y el Conde Dooku.*
 
 Los episodios de Dooku encajan aquí cronológicamente. Los episodios de Ahsoka están dispersos hasta el comienzo de Rebels.
+
+{% endyear %}
+
+{% year "??-16 B" "Star Wars: Tales of the Underworld" "2025, Tv, Animación (1 temporada, 6 capítulos)" %}
+
+![tales-of-the-underworld](./index/tales-of-the-underworld.jpg){.left width=150px}*Tercera serie de Tales of... después de Tales of the Jedi y Tales of the Empire. Ambientada en distintos años previos y durante las guerras clon, siguiendo momentos importantes en la vida de Asajj Ventress y Cad Bane.*
 
 {% endyear %}
 
@@ -108,7 +114,7 @@ Me niego a admitir que las series de animacion de los años 80 no sean canónica
 ![img](./index/vOUxo5sfXyQPIoF8rtYK1OVVBPi.jpg){.left width=150px}*"Star Wars Rebels" es una serie de animación situada entre los eventos de "Star Wars: Episode III - Revenge of the Sith" y "Star Wars: Episode IV - A New Hope". La serie sigue las aventuras de un variado grupo de rebeldes que luchan contra el Imperio Galáctico: Ezra Bridger, un joven con habilidades sensibles a la Fuerza; Kanan Jarrus, un Jedi superviviente; Hera Syndulla, la piloto y líder; Sabine Wren, una artista y experta en explosivos; Garazeb "Zeb" Orrelios, un guerrero Lasat; y Chopper, un droide astromecánico.*
 {% endyear %}
 
-{% year "5 BBY" "Andor" "2022, Tv (1 temporada, 12 capítulos)" %}
+{% year "5-1 B" "Andor" "2022, Tv (2 temporadas, 24 capítulos)" %}
 ![img](./index/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg){.left width=150px}{% badge "lightgreen" "[tvdb](https://thetvdb.com/series/andor)" %}
 
 *Seguimos al personaje de Cassian Andor, interpretado por Diego Luna, quien previamente apareció en la película "Rogue One: A Star Wars Story", cinco años antes de los eventos de "Rogue One", sumergiéndonos en el mundo del espionaje y la resistencia contra el Imperio Galáctico.*
@@ -246,16 +252,24 @@ Esta sección es potencialmente inmensa, existen muchas más series y miniseries
 
 {% timeline %}
 
-{% year "5 BBY" "Andor (*temporada 2*)" "2025, Tv" %}
-![img](./index/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg){.left width=150px}{% badge "lightgreen" "[tvdb](https://thetvdb.com/series/andor)" %}
-{% endyear %}
-
 {% year " " "Star Wars: Visions (*temporada* 3)" "2025, Tv" %}
 ![img](./index/star-wars-visions-1.jpg){.left width=150px}{% badge "orange" "No canon" %} {% badge "lightgreen" "[tvdb](https://thetvdb.com/series/star-wars-visions)" %}
 {% endyear %}
 
-{% year " " "The Mandalorian & Grogu" "2026, Cine" "last" %}
+{% year " " "The Mandalorian & Grogu" "2026, Cine" %}
 ![img](./index/mandalorian-and-grogu.jpg){.left width=150px}{% badge "lightgreen" "[tvdb](https://thetvdb.com/movies/the-mandalorian-and-grogu)" %}
+{% endyear %}
+
+{% year "11 ABY" "Ahsoka (*temporada 2*)" "2026, Tv" %}
+![img](./index/laCJxobHoPVaLQTKxc14Y2zV64J.jpg){.left width=150px}{% badge "lightgreen" "[tvdb](https://thetvdb.com/series/ahsoka)" %}
+{% endyear %}
+
+{% year "?" "Maul – Shadow Lord" "2026, Tv" %}
+
+{% endyear %}
+
+{% year "?" "Star Wars: Visions Presents" "2026, Tv" "last" %}
+
 {% endyear %}
 
 {% endtimeline %}
