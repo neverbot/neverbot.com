@@ -17,7 +17,7 @@ Probablemente sea imposible que vaya a terminar algún día este "*proyecto*", y
 
 *[Timeline de la Wikipedia](https://en.wikipedia.org/wiki/Star_Trek): en 2023 estaban emitiéndose simultáneamente cinco series. Esto es una locura*.{.center}
 
-Una lista de lo que tenemos por delante, actualizada a **Enero de 2025**:
+Una lista de lo que tenemos por delante, actualizada a **Noviembre de 2025**:
 
 | Serie | Temps | Eps | Emisión |
 | ----- | :---: | :-: | ------- |
@@ -32,7 +32,7 @@ Una lista de lo que tenemos por delante, actualizada a **Enero de 2025**:
 | *[Picard](https://en.wikipedia.org/wiki/Star_Trek:_Picard)* | 3 | 30 | Enero 2020 – Abril 2023 |
 | [*Lower Decks*](https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks) | 5 | 50 | Agosto 2020 – Diciembre 2024 |
 | [*Prodigy*](https://en.wikipedia.org/wiki/Star_Trek:_Prodigy) | 2 | 40 | Octubre 2021 – Julio 2024 |
-| [*Strange New Worlds*](https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds) | 2 | 20 | Mayo 2022 – **presente** |
+| [*Strange New Worlds*](https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds) | 3 | 30 | Mayo 2022 – **presente** |
 | [*Very Short Treks*](https://en.wikipedia.org/wiki/Star_Trek:_Very_Short_Treks) | 1 | 5 | Sep 2023 – Oct 2023 |
 | **Futuro** |  |  |  |
 | [Starfleet Academy](https://en.wikipedia.org/wiki/Star_Trek:_Starfleet_Academy_(TV_series)) | 1 | 10 | ¿2025? |
@@ -63,9 +63,9 @@ Ahora bien, si queremos hacer el visionado cronológico, ni intentemos calcularl
 | [*Star Trek: En la oscuridad*](https://en.wikipedia.org/wiki/Star_Trek_Into_Darkness) | *Reboot (Kelvin Timeline)* | Mayo 2013 |
 | [*Star Trek: Más allá*](https://en.wikipedia.org/wiki/Star_Trek_Beyond) | *Reboot (Kelvin Timeline)* | Julio 2016 |
 | **Películas para Tv** |  |  |
-| [*Star Trek: Section 31*](https://en.wikipedia.org/wiki/Star_Trek:_Section_31) | *Star Trek: Discovery* | ¿2025? |
+| [*Star Trek: Section 31*](https://en.wikipedia.org/wiki/Star_Trek:_Section_31) | *Star Trek: Discovery* | Enero 2025 |
 
-*Desde 2016 sin una película de Star Trek, nunca desde el estreno de la película original habíamos pasado tantos años sin una aparición en cines*.{.center}
+*Desde 2016 sin una película de Star Trek en cines, nunca desde el estreno de la película original habíamos pasado tantos años sin una aparición en sala grande*.{.center}
 
 ### La línea temporal Kelvin
 
