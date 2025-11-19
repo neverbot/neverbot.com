@@ -138,7 +138,7 @@ Me niego a admitir que las series de animacion de los años 80 no sean canónica
 {% endyear %}
 
 {% year "3 ABY" "Episode V The Empire Strikes Back" "1980, Cine" %}
-![img](./index/7BuH8itoSrLExs2YZSsM01Qk2no-0-230-0-345-crop.jpg){.left width=150px}*Segunda película de la trilogía original de Star Wars. La película continúa la lucha de la Alianza Rebelde contra el Imperio Galáctico y sigue a Luke Skywalker, Leia Organa, Han Solo tras la destrucción de la Estrella de la Muerte. Seremos testigos del entrenamiento de Luke como Jedi por parte de Yoda en el planeta Dagobah, mientras que Han y Leia buscan refugio en la ciudad de las nubes de Bespin, solo para caer en una trampa tendida por el temible Darth Vader.*
+![img](./index/7BuH8itoSrLExs2YZSsM01Qk2no-0-230-0-345-crop.jpg){.left width=150px}*Segunda película de la trilogía original de Star Wars. La película continúa la lucha de la Alianza Rebelde contra el Imperio Galáctico y sigue a Luke Skywalker, Leia Organa y Han Solo tras la destrucción de la Estrella de la Muerte. Seremos testigos del entrenamiento de Luke como Jedi por parte de Yoda en el planeta Dagobah, mientras que Han y Leia buscan refugio en la ciudad de las nubes de Bespin, solo para caer en una trampa tendida por el temible Darth Vader.*
 {% endyear %}
 
 {% year "4 ABY" "Episode VI Return of the Jedi" "1983, Cine" %}
