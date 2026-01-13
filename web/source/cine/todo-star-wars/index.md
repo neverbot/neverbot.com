@@ -19,7 +19,7 @@ Algunas de las cosas de esta lista estarán marcadas como {% badge "orange" "Leg
 
 ## Timeline
 
-Actualizado a Mayo de 2025.
+**Actualizado a Enero de 2026**.
 
 Este timeline es cronológico según los eventos dentro del propio mundo ficticio de Star Wars, no según la fecha de estreno de las películas o series en cines o canales de television.
 
@@ -27,7 +27,7 @@ Este timeline es cronológico según los eventos dentro del propio mundo fictici
 
 {% year "232 B" "Young Jedi Adventures" "2023, Tv (2 temporadas, 48 capítulos" "" %} 
 
-![young-jedi-adventures](./index/young-jedi-adventures.jpg){.left width=150px}{% badge "lightgreen" "[tvdb](https://thetvdb.com/series/star-wars-young-jedi-adventures)"%} {% badge "gold" "[imdb](https://www.imdb.com/title/tt20674124/)"%}
+![young-jedi-adventures](./index/young-jedi-adventures.jpg){.left width=150px}{% badge "#6CD591" "[tvdb](https://thetvdb.com/series/star-wars-young-jedi-adventures)"%} {% badge "gold" "[imdb](https://www.imdb.com/title/tt20674124/)"%}
 
 *Ambientada durante la era de la Alta República, sigue a jóvenes aprendices Jedi mientras estudian los caminos de la Fuerza, exploran la galaxia, ayudan a ciudadanos y criaturas necesitadas, y aprenden a lo largo del camino valiosas habilidades necesarias para convertirse en Jedi.*
 
@@ -37,7 +37,7 @@ Es una serie infantil, por lo que la canonicidad es probablemente debatible, per
 
 {% year "132 B" "The Acolyte" "2024, Tv (1 temporada, 8 capítulos)" "" %} 
 
-![663653eacba87](./index/663653eacba87.jpg){.left width=150px}{% badge "lightgreen" "[tvdb](https://thetvdb.com/series/the-acolyte)"%} {% badge "gold" "[imdb](https://www.imdb.com/title/tt12262202/)"%}
+![663653eacba87](./index/663653eacba87.jpg){.left width=150px}{% badge "#6CD591" "[tvdb](https://thetvdb.com/series/the-acolyte)"%} {% badge "gold" "[imdb](https://www.imdb.com/title/tt12262202/)"%}
 
 *Ambientada al final de la era de la Alta República, aproximadamente cien años antes de los eventos de “La Amenaza Fantasma”, y sigue a un Maestro Jedi que investiga una serie de crímenes, lo que lo lleva a enfrentarse con una antigua padawan y a descubrir oscuros secretos relacionados con el surgimiento del lado oscuro.*
 
@@ -95,7 +95,7 @@ Los episodios están localizados en distintas épocas, desde el final de la tril
 {% endyear %}
 
 {% year "15 BBY" "Star Wars: Droids" "1985, Tv, Animación (1 temporada, 13 capítulos más 2 especiales)" %}
-![img](./index/star-wars-droids.jpg){.left width=150px}{% badge "orange" "Legacy" %} {% badge "lightgreen" "[tvdb](https://thetvdb.com/series/droids)" %}
+![img](./index/star-wars-droids.jpg){.left width=150px}{% badge "orange" "Legacy" %} {% badge "#6CD591" "[tvdb](https://thetvdb.com/series/droids)" %} {% badge "#7bc4ff" "[tmdb](https://www.themoviedb.org/tv/25-star-wars-droids)" %}
 
 Me niego a admitir que las series de animacion de los años 80 no sean canónicas. Esta tambien la podemos encontrar con el título: *Star Wars: Droids - The Adventures of R2-D2 and C-3PO*.
 
@@ -115,7 +115,7 @@ Me niego a admitir que las series de animacion de los años 80 no sean canónica
 {% endyear %}
 
 {% year "5-1 B" "Andor" "2022, Tv (2 temporadas, 24 capítulos)" %}
-![img](./index/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg){.left width=150px}{% badge "lightgreen" "[tvdb](https://thetvdb.com/series/andor)" %}
+![img](./index/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg){.left width=150px}{% badge "#6CD591" "[tvdb](https://thetvdb.com/series/andor)" %}
 
 *Seguimos al personaje de Cassian Andor, interpretado por Diego Luna, quien previamente apareció en la película "Rogue One: A Star Wars Story". Cinco años antes de los eventos de "Rogue One", nos sumergimos en el mundo del espionaje y la resistencia contra el Imperio Galáctico.*
 
@@ -132,7 +132,7 @@ La escogí al terminar su segunda temporada como una de las series a incluir en 
 {% endyear %}
 
 {% year "3 ABY" "Star Wars: Ewoks" "1985, Tv (2 temporadas, 35 episodios más 2 especiales)" %}
-![Star Wars: Ewoks](./index/star-wars-ewoks.jpg){.left width=150px}{% badge "orange" "Legacy" %} {% badge "lightgreen" "[tvdb](https://thetvdb.com/series/ewoks)" %}
+![Star Wars: Ewoks](./index/star-wars-ewoks.jpg){.left width=150px}{% badge "orange" "Legacy" %} {% badge "#6CD591" "[tvdb](https://thetvdb.com/series/ewoks)" %}
 
 Me niego a admitir que las series de animacion de los años 80 no sean canónicas. Esta tambien la podemos encontrar con el título más simplificado: *Ewoks*.
 
@@ -154,7 +154,7 @@ Me niego a admitir que las series de animacion de los años 80 no sean canónica
 
 {% year "9 ABY" "Skeleton Crew" "2024, Tv (1 Temporada, 6 capítulos)" "" %} 
 
-![628fe0684eb28](./index/skeleton-crew.jpg){.left width=150px}{% badge "gold" "[imdb](https://www.imdb.com/title/tt20600980/)" %} {% badge "lightgreen" "[tvdb](https://thetvdb.com/series/star-wars-skeleton-crew)"%}
+![628fe0684eb28](./index/skeleton-crew.jpg){.left width=150px}{% badge "gold" "[imdb](https://www.imdb.com/title/tt20600980/)" %} {% badge "#6CD591" "[tvdb](https://thetvdb.com/series/star-wars-skeleton-crew)"%}
 
 *Seguimos a cuatro niños que, tras realizar un misterioso descubrimiento en su aparentemente seguro planeta natal, se pierden en la vasta galaxia. A lo largo de su travesía, se enfrentan a desafíos inesperados y conocen a diversos aliados y enemigos mientras intentan encontrar el camino de regreso a casa.*
 
@@ -211,7 +211,7 @@ Me niego a admitir que las series de animacion de los años 80 no sean canónica
 {% endyear %}
 
 {% year " " "Star Wars: Visions (_temporada 1_)" "2021, Tv, Animación (1 temporada, 9 capítulos)" %}
-![img](./index/star-wars-visions-1.jpg){.left width=150px}{% badge "orange" "No canon" %} {% badge "gold" "[imdb](https://www.imdb.com/title/tt13622982/)" %} {% badge "lightgreen" "[tvdb](https://thetvdb.com/series/star-wars-visions)"%}
+![img](./index/star-wars-visions-1.jpg){.left width=150px}{% badge "orange" "No canon" %} {% badge "gold" "[imdb](https://www.imdb.com/title/tt13622982/)" %} {% badge "#6CD591" "[tvdb](https://thetvdb.com/series/star-wars-visions)"%} {% badge "#7bc4ff" "[tmdb](https://www.themoviedb.org/tv/114478-star-wars-visions)" %}
 
 *La primera temporada de “Star Wars: Visions” es una antología animada, compuesta por nueve cortometrajes, cada uno creado por diferentes estudios de anime japoneses. Cada episodio cuenta una historia independiente con personajes y tramas originales, ofreciendo una reinterpretación que fusiona la estética y la narrativa del anime con el universo de Star Wars.*
 
@@ -221,11 +221,16 @@ En verano de 2024 volví a ver esta primera temporada y fui escribiendo mis impr
 
 {% endyear %}
 
-{% year " " "Star Wars: Visions (_temporada 2_)" "2023, Tv, Animación (1 temporada, 9 capítulos)" "last" %}
-![img](./index/6NgLGcOHscy6yLXpKCQi4Mz1yVa.jpg){.left width=150px}{% badge "orange" "No canon" %} {% badge "gold" "[imdb](https://www.imdb.com/title/tt13622982/)" %} {% badge "lightgreen" "[tvdb](https://thetvdb.com/series/star-wars-visions)"%}
+{% year " " "Star Wars: Visions (_temporada 2_)" "2023, Tv, Animación (1 temporada, 9 capítulos)" %}
+![img](./index/6NgLGcOHscy6yLXpKCQi4Mz1yVa.jpg){.left width=150px}{% badge "orange" "No canon" %} {% badge "gold" "[imdb](https://www.imdb.com/title/tt13622982/)" %} {% badge "#6CD591" "[tvdb](https://thetvdb.com/series/star-wars-visions)"%} {% badge "#7bc4ff" "[tmdb](https://www.themoviedb.org/tv/114478-star-wars-visions)" %}
 
 *La segunda temporada de "Star Wars: Visions" amplía la serie con episodios realizados por estudios de animacion de todo el mundo (España, Irlanda, Chile, Reino Unido, etc). Cada episodio ofrece una visión única del universo de Star Wars, infundiendo la narrativa y la estética de las culturas y estilos propios de cada país y estudio.*
 
+{% endyear %}
+
+{% year " " "Star Wars: Visions (*temporada* 3)" "2025, Tv, Animación (1 temporada, 9 capítulos)" "last" %}
+
+![68d1f17350df1](./index/68d1f17350df1.jpg){.left width=150px} {% badge "orange" "No canon" %} {% badge "gold" "[imdb](https://www.imdb.com/title/tt13622982/)" %} {% badge "#6CD591" "[tvdb](https://thetvdb.com/series/star-wars-visions)" %} {% badge "#7bc4ff" "[tmdb](https://www.themoviedb.org/tv/114478-star-wars-visions)" %}
 {% endyear %}
 
 {% endtimeline %}
@@ -243,7 +248,7 @@ Esta sección es potencialmente inmensa, existen muchas más series y miniseries
 {% endyear %}
 
 {% year " " "Lego Star Wars: Rebuild the Galaxy" "2024, Tv, Animación (1 temporada, 4 capítulos)" "last" %}
-![Lego Star Wars: Rebuild the Galaxy](./index/rebuild-the-galaxy.jpg){.left width=150px}{% badge "orange" "No canon" %} {% badge "gold" "[imdb](https://www.imdb.com/title/tt32306451/)" %} {% badge "lightgreen" "[tvdb](https://thetvdb.com/series/lego-star-wars-rebuild-the-galaxy)"%}
+![Lego Star Wars: Rebuild the Galaxy](./index/rebuild-the-galaxy.jpg){.left width=150px}{% badge "orange" "No canon" %} {% badge "gold" "[imdb](https://www.imdb.com/title/tt32306451/)" %} {% badge "#6CD591" "[tvdb](https://thetvdb.com/series/lego-star-wars-rebuild-the-galaxy)"%}
 
 *Miniserie animada de cuatro episodios en la que seguimos a Sig Greebling, un joven pastor de nerfs que, al activar accidentalmente una antigua reliquia Jedi capaz de reescribir la realidad, altera el universo de Star Wars, asignando roles inesperados a personajes conocidos. Acompañado por un Jedi olvidado, Sig emprende una aventura para restaurar el equilibrio en la galaxia.*
 
@@ -255,23 +260,23 @@ Esta sección es potencialmente inmensa, existen muchas más series y miniseries
 
 {% timeline %}
 
-{% year " " "Star Wars: Visions (*temporada* 3)" "2025, Tv" %}
-![img](./index/star-wars-visions-1.jpg){.left width=150px}{% badge "orange" "No canon" %} {% badge "lightgreen" "[tvdb](https://thetvdb.com/series/star-wars-visions)" %}
-{% endyear %}
-
 {% year " " "The Mandalorian & Grogu" "2026, Cine" %}
-![img](./index/mandalorian-and-grogu.jpg){.left width=150px}{% badge "lightgreen" "[tvdb](https://thetvdb.com/movies/the-mandalorian-and-grogu)" %}
+![img](./index/mandalorian-and-grogu.jpg){.left width=150px}{% badge "#6CD591" "[tvdb](https://thetvdb.com/movies/the-mandalorian-and-grogu)" %}
 {% endyear %}
 
 {% year "11 ABY" "Ahsoka (*temporada 2*)" "2026, Tv" %}
-![img](./index/laCJxobHoPVaLQTKxc14Y2zV64J.jpg){.left width=150px}{% badge "lightgreen" "[tvdb](https://thetvdb.com/series/ahsoka)" %}
+![img](./index/laCJxobHoPVaLQTKxc14Y2zV64J.jpg){.left width=150px}{% badge "#6CD591" "[tvdb](https://thetvdb.com/series/ahsoka)" %}
 {% endyear %}
 
-{% year "?" "Maul – Shadow Lord" "2026, Tv" %}
+{% year "?" "Star Wars: Maul – Shadow Lord" "2026, Tv" %}
 
 {% endyear %}
 
-{% year "?" "Star Wars: Visions Presents" "2026, Tv" "last" %}
+{% year "?" "Star Wars: Visions Presents - The Ninth Jedi" "2026, Tv" %}
+
+{% endyear %}
+
+{% year "?" "Star Wars: Starfighter" "2027, Cine" "last" %}
 
 {% endyear %}
 
