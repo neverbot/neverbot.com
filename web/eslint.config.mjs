@@ -72,6 +72,41 @@ export default [
     },
   },
   {
+    files: ['**/*.mjs'],
+    ignores: [],
+    rules: {
+      'prettier/prettier': [
+        'error',
+        {},
+        {
+          usePrettierrc: true,
+        },
+      ],
+      'no-console': 'warn',
+    },
+    plugins: {
+      prettier,
+      importPlugin,
+    },
+    languageOptions: {
+      parser: babelParser,
+      ecmaVersion: 2018,
+      sourceType: 'module',
+      globals: {
+        ...globals.node,
+        hexo: true,
+      },
+      parserOptions: {
+        requireConfigFile: false,
+        allowImportExportEverywhere: true,
+
+        ecmaFeatures: {
+          experimentalObjectRestSpread: true,
+        },
+      },
+    },
+  },
+  {
     files: ['**/*.json'],
     ignores: ['**/package.json', '**/package-lock.json'],
     plugins: {

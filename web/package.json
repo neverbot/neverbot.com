@@ -2,7 +2,6 @@
   "name": "neverbot.com",
   "version": "1.0.0",
   "private": true,
-  "type": "module",
   "scripts": {
     "build": "npx hexo generate",
     "build:pro": "npx hexo generate --pro",

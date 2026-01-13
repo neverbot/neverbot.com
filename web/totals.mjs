@@ -1,4 +1,4 @@
-/* eslint-disable no-console */
+ // execute: node totals.mjs
 
 import Hexo from 'hexo';
 const hexo = new Hexo(process.cwd(), { silent: true });
