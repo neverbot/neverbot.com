@@ -46,5 +46,8 @@
   },
   "hexo": {
     "version": "8.1.1"
+  },
+  "overrides": {
+    "strip-ansi": "^6.0.1"
   }
 }
