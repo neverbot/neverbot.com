@@ -117,11 +117,14 @@ Me niego a admitir que las series de animacion de los años 80 no sean canónica
 {% year "5-1 B" "Andor" "2022, Tv (2 temporadas, 24 capítulos)" %}
 ![img](./index/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg){.left width=150px}{% badge "lightgreen" "[tvdb](https://thetvdb.com/series/andor)" %}
 
-*Seguimos al personaje de Cassian Andor, interpretado por Diego Luna, quien previamente apareció en la película "Rogue One: A Star Wars Story", cinco años antes de los eventos de "Rogue One", sumergiéndonos en el mundo del espionaje y la resistencia contra el Imperio Galáctico.*
+*Seguimos al personaje de Cassian Andor, interpretado por Diego Luna, quien previamente apareció en la película "Rogue One: A Star Wars Story". Cinco años antes de los eventos de "Rogue One", nos sumergimos en el mundo del espionaje y la resistencia contra el Imperio Galáctico.*
+
+La escogí al terminar su segunda temporada como una de las series a incluir en [Lo mejor de 2025](/lo-mejor-de-2025/), porque es una cosa maravillosa.
+
 {% endyear %}
 
 {% year "0 BBY" "Rogue One: A Star Wars Story" "2005, Cine" %}
-![img](./index/258128-rogue-one-a-star-wars-story-0-230-0-345-crop.jpg){.left width=150px}*Justo antes de los eventos de "Star Wars: Episode IV - A New Hope", conocemos a un grupo de rebeldes liderados por Jyn Erso, quien es reclutada por la Alianza Rebelde para robar los planos de la Estrella de la Muerte, la temible estación espacial del Imperio Galáctico capaz de destruir planetas enteros.*
+![img](./index/258128-rogue-one-a-star-wars-story-0-230-0-345-crop.jpg){.left width=150px}*Justo antes de los eventos de "Star Wars: Episode IV - A New Hope", conocemos a un grupo de rebeldes liderados por Jyn Erso, reclutada por la Alianza Rebelde para robar los planos de la Estrella de la Muerte, la temible estación espacial del Imperio capaz de destruir planetas enteros.*
 {% endyear %}
 
 {% year "0 BBY" "Episode IV A New Hope" "1977, Cine" %}
