@@ -14,8 +14,8 @@
     "lint:fix": "npx eslint . --ext js,json,md --fix"
   },
   "dependencies": {
-    "hexo": "^7.3.0",
-    "hexo-asset-link": "^2.2.3",
+    "hexo": "^8.1.1",
+    "hexo-asset-link": "^2.3.1",
     "hexo-fontawesome": "^2.4.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
@@ -33,19 +33,19 @@
     "hexo-tag-instagram": "^1.1.0"
   },
   "devDependencies": {
-    "@babel/eslint-parser": "^7.27.0",
-    "@eslint/js": "^9.24.0",
-    "eslint": "^9.24.0",
-    "eslint-config-prettier": "^10.1.1",
-    "eslint-plugin-import": "^2.31.0",
-    "eslint-plugin-jsonc": "^2.20.0",
-    "eslint-plugin-markdownlint": "^0.6.0",
-    "eslint-plugin-prettier": "^5.2.6",
-    "globals": "^16.0.0",
-    "jsonc-eslint-parser": "^2.4.0",
-    "prettier": "^3.5.3"
+    "@babel/eslint-parser": "^7.28.6",
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-jsonc": "^2.21.0",
+    "eslint-plugin-markdownlint": "^0.9.0",
+    "eslint-plugin-prettier": "^5.5.4",
+    "globals": "^17.0.0",
+    "jsonc-eslint-parser": "^2.4.2",
+    "prettier": "^3.7.4"
   },
   "hexo": {
-    "version": "7.3.0"
+    "version": "8.1.1"
   }
 }
