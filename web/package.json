@@ -18,7 +18,7 @@
     "hexo-fontawesome": "^2.4.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
-    "hexo-generator-feed": "^3.0.0",
+    "hexo-generator-feed": "^4.0.0",
     "hexo-generator-index": "^4.0.0",
     "hexo-generator-sitemap": "^3.0.1",
     "hexo-generator-tag": "^2.0.0",
@@ -32,17 +32,18 @@
     "hexo-tag-instagram": "^1.1.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.29.0",
     "@babel/eslint-parser": "^7.28.6",
     "@eslint/js": "^9.39.2",
     "eslint": "^9.39.2",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-import": "^2.32.0",
-    "eslint-plugin-jsonc": "^2.21.0",
+    "eslint-plugin-jsonc": "^3.1.2",
     "eslint-plugin-markdownlint": "^0.9.0",
-    "eslint-plugin-prettier": "^5.5.4",
-    "globals": "^17.0.0",
-    "jsonc-eslint-parser": "^2.4.2",
-    "prettier": "^3.7.4"
+    "eslint-plugin-prettier": "^5.5.5",
+    "globals": "^17.4.0",
+    "jsonc-eslint-parser": "^3.1.0",
+    "prettier": "^3.8.1"
   },
   "hexo": {
     "version": "8.1.1"

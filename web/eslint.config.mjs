@@ -1,7 +1,7 @@
 import globals from 'globals';
 import babelParser from '@babel/eslint-parser';
 import eslintJsonc from 'eslint-plugin-jsonc';
-import eslintJsoncParser from 'jsonc-eslint-parser';
+import * as eslintJsoncParser from 'jsonc-eslint-parser';
 import prettier from 'eslint-plugin-prettier';
 import importPlugin from 'eslint-plugin-import';
 import markdownPlugin from 'eslint-plugin-markdownlint';
