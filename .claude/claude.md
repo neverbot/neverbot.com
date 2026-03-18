@@ -86,4 +86,5 @@ The theme provides custom Hexo tags (in `themes/neverbot/scripts/`):
 - Theme is a git submodule at `web/themes/neverbot` — remember to init/update submodules after clone
 - When committing theme changes: first commit inside the submodule (`cd web/themes/neverbot && git add ... && git commit`), then stage the updated submodule reference in the root repo (`git add web/themes/neverbot`) and commit there
 - Generated files (`web/public/`, `web/db.json`) are gitignored
-- Follow [Conventional Commits](https://www.conventionalcommits.org/). Commit messages must be **a single line only** — no body, no description paragraph, no blank lines, no `Co-Authored-By` or any other trailers.
+- Follow [Conventional Commits](https://www.conventionalcommits.org/). Commit messages must be **a single line only** — no body, no description paragraph, no blank lines, no `Co-Authored-By` or any other trailers. When a commit covers multiple unrelated topics, split into separate commits — one per topic.
+- **Never push** — only commit locally. The user handles pushing to remote.
