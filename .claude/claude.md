@@ -51,7 +51,7 @@ Netlify uses `npm run build:pro` from the `web/` base directory. Output goes to 
 
 - **ESLint 9** (flat config). Cannot upgrade to ESLint 10 yet because `eslint-plugin-import` lacks support (tracked at https://github.com/import-js/eslint-plugin-import/issues/3227). Alternative: `eslint-plugin-import-x` supports ESLint 10.
 - **Prettier**: 2 spaces, single quotes, 100 char line width, semicolons enabled. Config in `prettierrc.json`.
-- `npm install` requires `--legacy-peer-deps` due to `hexo-fontawesome` not supporting Hexo 8 in its peer dependencies (it works fine at runtime).
+- `npm install` requires `--legacy-peer-deps` due to `hexo-related-posts` not supporting Hexo 8 in its peer dependencies (PR pending: https://github.com/sergeyzwezdin/hexo-related-posts/pull/36). `hexo-fontawesome` is installed from GitHub (`github:hexojs/hexo-fontawesome`) to get Hexo 8 support (merged but unpublished to npm).
 - `@babel/core` is a required dev dependency for `@babel/eslint-parser`.
 
 ## Theme Custom Tags
