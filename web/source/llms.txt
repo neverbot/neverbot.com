@@ -1,0 +1,19 @@
+# neverbot.com
+
+> Blog personal de Iván Alonso (neverbot). Cultura pop, cine, televisión, anime, libros y cómics. Activo desde 2003.
+
+neverbot.com es un blog personal en español activo desde 2003. Los contenidos principales incluyen reseñas, opiniones y artículos sobre cultura pop, con series completas de seguimiento de franquicias y premios literarios.
+
+## Secciones
+
+- [Acerca de](https://neverbot.com/about/): Información sobre el autor y el blog
+- [Cine](https://neverbot.com/cine/): Artículos sobre cine, incluyendo revisiones completas de Star Wars, Misión Imposible y Kevin Smith
+- [Televisión](https://neverbot.com/tv/): Artículos sobre series de televisión, incluyendo revisión completa de Star Trek
+- [Anime](https://neverbot.com/anime/): Artículos sobre anime, incluyendo series completas de Shingeki no Kyojin, Overlord, Mushoku Tensei y Saint Seiya
+- [Lecturas](https://neverbot.com/lecturas/): Lista de lectura y reseñas de libros
+- [Los Premios Hugo](https://neverbot.com/los-premios-hugo/): Proyecto de lectura de todas las novelas ganadoras del premio Hugo
+- [Archivo](https://neverbot.com/archives/): Archivo completo de entradas por fecha
+- [Categorías](https://neverbot.com/categorias/): Índice de categorías
+- [Etiquetas](https://neverbot.com/etiquetas/): Índice de etiquetas
+- [RSS](https://neverbot.com/atom.xml): Feed Atom/RSS
+- [Sitemap](https://neverbot.com/sitemap.xml): Mapa del sitio XML
