@@ -31,6 +31,6 @@ Y no se puede escoger mejor [una canción](https://www.youtube.com/watch?v=8P09r
 
 Bueno, y qué le vamos a hacer, triplete de frikismo para las cosas que más me han gustado de este pasado 2025. Pero es que [Andor](https://en.wikipedia.org/wiki/Andor)... Andor es lo que los fans de [Star Wars](https://en.wikipedia.org/wiki/Star_Wars) necesitábamos. Siendo una serie, Andor es la mejor película de Star Wars en décadas. Sin sables láser. Sin Jedis.
 
-No me atreví a escribir por aquí sobre la serie cuando vi su primera temporada, porque quizá en el momento en que comenzaba un genocidio en nuestro *Mundo Real&trade;* se me hacía complicado hablar sobre el argumento: cómo nace una célula terrorista para intentar derrocar a un gobierno totalitario. Y hasta aquí puedo leer sin espantar a los potenciales lectores, y sin que se descuelguen varias personas por la ventana al grito de *[FBI, open up!](https://www.youtube.com/watch?v=wf9k3heENYc)*
+No me atreví a escribir por aquí sobre la serie cuando vi su primera temporada, porque quizá en el momento en que comenzaba un genocidio en nuestro *Mundo Real&trade;* se me hacía complicado hablar sobre el argumento: cómo nace una célula terrorista para intentar derrocar a un gobierno totalitario. Y hasta aquí puedo leer sin espantar a los potenciales lectores, y sin que se descuelguen varias personas por la ventana al grito de *[FBI, open up!](https://www.youtube.com/watch?v=wf9k3heENYc)*
 
 En mi nueva oficialidad, el canon oficial para comenzar a ver Star Wars ahora es: **Andor + Rogue One + A new hope**.
