@@ -1,5 +1,5 @@
 ---
-title: Todo Mortal Kombat
+title: Mortal Kombat
 tags:
   - cine
   - tv
@@ -9,6 +9,10 @@ date: 2026-06-12 12:00:00
 ---
 
 > Este artículo se irá ampliando sobre la marcha. Puedes volver aquí dentro de un tiempo y ver qué se ha añadido.
+
+Aprovechando que está a punto de estrenarse en cines [Mortal Kombat II](https://en.wikipedia.org/wiki/Mortal_Kombat_II_(film)), parece buen momento para echar la vista atrás y repasar todo lo que ha dado de sí esta franquicia fuera de los videojuegos: películas, secuelas, animaciones y series varias a lo largo de tres décadas.
+
+<p style="text-align: center"><img src="./index/mortal-kombat-logo.png" alt="Mortal Kombat" width="300"></p>
 
 Pocos videojuegos han generado un universo audiovisual tan caótico, irregular y a la vez fascinante como [Mortal Kombat](https://en.wikipedia.org/wiki/Mortal_Kombat). Nacido en los recreativos a principios de los 90 y rápidamente convertido en fenómeno cultural a base de polémica, fatalities y sangre poligonal, MK saltó al cine y a la televisión casi a la misma velocidad con la que se vendían sus cartuchos. Y desde entonces no ha parado.
 
@@ -23,6 +27,8 @@ El resultado es un mosaico de varias continuidades inconexas: una película de l
 | 2021 | [Mortal Kombat](https://en.wikipedia.org/wiki/Mortal_Kombat_(2021_film))                            | [Simon McQuoid](https://en.wikipedia.org/wiki/Simon_McQuoid)            |        |
 | 2026 | [Mortal Kombat II](https://en.wikipedia.org/wiki/Mortal_Kombat_II_(film))                           | Simon McQuoid                                                           |        |
 
+{.fixed-column1 .fixed-column4}
+
 ## Las películas (animadas)
 
 | Año  | Título                                                                                                             | Reseña |
@@ -33,6 +39,8 @@ El resultado es un mosaico de varias continuidades inconexas: una película de l
 | 2022 | [Mortal Kombat Legends: Snow Blind](https://en.wikipedia.org/wiki/Mortal_Kombat_Legends:_Snow_Blind)               |        |
 | 2023 | [Mortal Kombat Legends: Cage Match](https://en.wikipedia.org/wiki/Mortal_Kombat_Legends:_Cage_Match)               |        |
 
+{.fixed-column1 .fixed-column3}
+
 ## Las series
 
 | Años      | Título                                                                                                         | Formato                          | Reseña |
@@ -40,3 +48,5 @@ El resultado es un mosaico de varias continuidades inconexas: una película de l
 | 1996      | [Mortal Kombat: Defenders of the Realm](https://en.wikipedia.org/wiki/Mortal_Kombat:_Defenders_of_the_Realm)   | Animada (13 episodios)           |        |
 | 1998-1999 | [Mortal Kombat: Conquest](https://en.wikipedia.org/wiki/Mortal_Kombat:_Conquest)                               | Live-action (22 episodios)       |        |
 | 2011-2013 | [Mortal Kombat: Legacy](https://en.wikipedia.org/wiki/Mortal_Kombat:_Legacy)                                   | Web-series live-action (Machinima, 2 temporadas) |        |
+
+{.fixed-column1 .fixed-column4}
