@@ -16,7 +16,7 @@ Aprovechando que está a punto de estrenarse en cines [Mortal Kombat II](https:/
 
 Pocos videojuegos han generado un universo audiovisual tan caótico, irregular y a la vez fascinante como [Mortal Kombat](https://en.wikipedia.org/wiki/Mortal_Kombat). Nacido en los recreativos a principios de los 90 y rápidamente convertido en fenómeno cultural a base de polémica, fatalities y sangre poligonal, MK saltó al cine y a la televisión casi a la misma velocidad con la que se vendían sus cartuchos. Y desde entonces no ha parado.
 
-El resultado es un mosaico de varias continuidades inconexas: una película de los 90 con una banda sonora inolvidable y una secuela que pasó a la historia por motivos equivocados; series animadas para sábados por la mañana; series live-action para televisión por cable y, más tarde, para YouTube; una nueva saga de películas animadas para adultos; y un reboot moderno que en 2026 ya ha estrenado su segunda parte. Aquí intento poner en orden el lío.
+El resultado es un mosaico de varias continuidades inconexas: una película de los 90 con una banda sonora inolvidable y una secuela que ostenta el dudoso honor de aparecer en casi todas las listas de peores adaptaciones de videojuego de la historia (un [4% en Rotten Tomatoes](https://www.rottentomatoes.com/m/mortal_kombat_annihilation) lo certifica); series animadas para sábados por la mañana; series live-action para televisión por cable y, más tarde, para YouTube; una nueva saga de películas animadas para adultos; y un reboot moderno que en 2026 ya ha estrenado su segunda parte. Aquí intento poner en orden el lío.
 
 ## Las películas (live-action)
 
