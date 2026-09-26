@@ -7,7 +7,7 @@ tags:
   - internet 
 ---
 
-Hace ya un _tiempito_ dejé anotado por aquí que había [borrado todos los contenidos](./not-on-twitter-anymore/) de mi cuenta de Twitter, dejando únicamente el último tuit, que [se puede ver en el perfil](https://x.com/neverbot).
+Hace ya un _tiempito_ dejé anotado por aquí que había [borrado todos los contenidos](/not-on-twitter-anymore/) de mi cuenta de Twitter, dejando únicamente el último tuit, que [se puede ver en el perfil](https://x.com/neverbot).
 
 Por un lado, que ese último _tuit_ tenga contenido el primero, y sin embargo este primero no aparezca en el perfil, ya es sospechoso. Pero hoy he encontrado un enlace a una publicación absurda que hice en el 2015... y [yendo directamente aún se puede ver](https://x.com/neverbot/status/585810137127981056).
 

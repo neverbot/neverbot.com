@@ -8,7 +8,7 @@ tags:
 date: 2008-03-01 13:09:45
 ---
 
-Desde hace unos meses soy usuario de [Tele2](www.tele2.es) y, dentro de lo que cabe, no tengo queja. Ya.com "intentó" darme servicio sin ser capaz de conseguirlo durante más de cinco meses, y Tele2 lo hizo en apenas unos días, así que sólo por eso ya merecen algo de confianza.
+Desde hace unos meses soy usuario de Tele2 y, dentro de lo que cabe, no tengo queja. Ya.com "intentó" darme servicio sin ser capaz de conseguirlo durante más de cinco meses, y Tele2 lo hizo en apenas unos días, así que sólo por eso ya merecen algo de confianza.
 
 Pero **ahora sí tengo un problema**: he tenido que cambiar el ordenador de sitio, por lo que hasta que consiga un cable de la longitud necesaria voy a tirar (como estoy haciendo ahora mismo) de red inalámbrica. Desde el portátil con WinXp se empeña en decirme que la calidad de la conexión es excelente, pero es mentira porque todo va muy lento y no puedo jugar OnLine sin tener un ping brutal y caerme cada pocos minutos.
 
