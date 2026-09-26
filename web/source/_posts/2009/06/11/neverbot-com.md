@@ -12,7 +12,7 @@ date: 2009-06-11 10:49:20
 
 Sí, sí, llevo mes y medio sin actualizar la página, bla, bla, qué mala persona soy. Lo curioso de este blog es que si pasas casi dos meses sin escribir nada, tus estadísticas de visitas diarias siguen exactamente igual.
 
-Apenas entre la veintena y la treintena de personas siguen esta página a través de [sindicación Rss](feed://http//www.neverbot.com/feed/), y un número indeterminado entre tres y cuatro mil usuarios únicos mensuales llegan por una razón u otra (exceptuando picos de algún post determinado que pueden multiplicarlo por tres o cuatro sin explicación razonable alguna).
+Apenas entre la veintena y la treintena de personas siguen esta página a través de [sindicación Rss](/atom.xml), y un número indeterminado entre tres y cuatro mil usuarios únicos mensuales llegan por una razón u otra (exceptuando picos de algún post determinado que pueden multiplicarlo por tres o cuatro sin explicación razonable alguna).
 
 Pero la conclusión realmente extraña vuelve a ser que, independientemente de que yo escriba o no, esas cifras no parecen verse modificadas en lo que llevamos de 2009. Sorprendente. **Empiezo a ser innecesario incluso en mi propia página personal...**
 

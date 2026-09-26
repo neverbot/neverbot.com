@@ -26,7 +26,7 @@ Mes de Noviembre:
 * 606 páginas vistas de media diaria.
 * 377,4 MB de datos transferidos.
 
-Todos estos datos han salido del programa [Analog 6.0](http://www.analog.cx/) que es el que mi hosting, [Dreamhost](/hosting/), proporciona por defecto. Como no me fío un pelo (a priori) de la fiabilidad de sus resultados, este mes me he dado de alta en un par de servicios más, así que a partir de las estadísticas de Diciembre habrá unos cuantos datos para contrastar. Es de suponer que saldrán cifras menores, como sucede en todas las páginas web del planeta al usar sistemas un poco más fiables. Así que el mes que viene compararemos los datos de Analog con los de [StatCounter](http://www.statcounter.com/) y [Google Analytics](http://www.google.com/analytics/).
+Todos estos datos han salido del programa [Analog 6.0](http://www.analog.cx/) que es el que mi hosting, Dreamhost, proporciona por defecto. Como no me fío un pelo (a priori) de la fiabilidad de sus resultados, este mes me he dado de alta en un par de servicios más, así que a partir de las estadísticas de Diciembre habrá unos cuantos datos para contrastar. Es de suponer que saldrán cifras menores, como sucede en todas las páginas web del planeta al usar sistemas un poco más fiables. Así que el mes que viene compararemos los datos de Analog con los de [StatCounter](http://www.statcounter.com/) y [Google Analytics](http://www.google.com/analytics/).
 
 ![Visitas](./estadisticas-de-noviembre-4-meses-de-neverbot/VisitasNoviembre06.gif "Visitas")
 
