@@ -5,7 +5,6 @@
     var button = document.querySelector('[data-theme-toggle]');
     if (!button) return;
     var next = theme === 'dark' ? 'light' : 'dark';
-    button.textContent = next === 'dark' ? 'Dark' : 'Light';
     button.setAttribute('aria-label', 'Switch to ' + next + ' mode');
   }
 
