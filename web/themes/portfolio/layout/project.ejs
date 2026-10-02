@@ -18,6 +18,12 @@
       <% if (page.repo) { %>
         <dl><dt>Code</dt><dd><a href="<%= page.repo %>">Repository</a></dd></dl>
       <% } %>
+      <% if (page.docs) { %>
+        <dl><dt>Docs</dt><dd><a href="<%= page.docs %>">Documentation</a></dd></dl>
+      <% } %>
+      <% if (page.play) { %>
+        <dl><dt>Play</dt><dd><a href="<%= page.play %>"><%= page.play.replace(/^https?:\/\//, '').replace(/\/.*$/, '') %></a></dd></dl>
+      <% } %>
       <% if (page.demo) { %>
         <dl><dt>Live</dt><dd><a href="<%= page.demo %>"><%= page.demo.replace(/^https?:\/\//, '') %></a></dd></dl>
       <% } %>

@@ -1,7 +1,7 @@
 # Site
 title: Iván Alonso
 subtitle: Software engineer
-description: Software engineer. Game engines, developer tools and the web.
+description: "Software projects by Iván Alonso: game engines, developer tools and the web."
 author: Iván Alonso
 language: en
 timezone: Europe/Madrid
@@ -63,6 +63,7 @@ markdown:
     html: true
     linkify: true
     typographer: true
+    breaks: false
   plugins:
     - markdown-it-attrs
 
