@@ -1,0 +1,9 @@
+menu:
+  - title: Projects
+    url: /
+  - title: About
+    url: /about/
+
+social:
+  github: https://github.com/neverbot
+  linkedin: https://www.linkedin.com/in/ivanalonso

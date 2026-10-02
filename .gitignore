@@ -1,0 +1,5 @@
+node_modules/
+web/public/
+web/db.json
+.DS_Store
+*.log

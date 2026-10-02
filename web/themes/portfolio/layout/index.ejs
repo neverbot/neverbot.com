@@ -1,0 +1,24 @@
+<section class="intro">
+  <h1 class="intro-name"><%= config.title %></h1>
+  <p class="intro-text"><%= config.description %></p>
+</section>
+
+<ul class="project-grid">
+  <% site.posts.sort('date', -1).each(function (project) { %>
+    <li class="project-card">
+      <a href="<%- url_for(project.path) %>">
+        <span class="project-shot<%= project.screenshot ? '' : ' project-shot-empty' %>">
+          <% if (project.screenshot) { %>
+            <img src="<%- url_for(project.path + project.screenshot) %>" alt="<%= project.title %>" loading="lazy" width="1280" height="720">
+          <% } %>
+        </span>
+        <h2 class="project-title"><%= project.title %></h2>
+        <p class="project-summary"><%= project.summary %></p>
+        <p class="project-meta">
+          <span class="project-stack"><%= project.stack %></span>
+          <span class="project-status" data-status="<%= (project.status || '').toLowerCase() %>"><%= project.status %></span>
+        </p>
+      </a>
+    </li>
+  <% }); %>
+</ul>

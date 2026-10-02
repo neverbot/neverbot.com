@@ -1,0 +1,30 @@
+<article class="project">
+  <h1 class="project-page-title"><%= page.title %></h1>
+
+  <div class="project-body">
+    <aside class="project-aside">
+      <% if (page.years) { %>
+        <dl><dt>Years</dt><dd><%= page.years %></dd></dl>
+      <% } %>
+      <% if (page.role) { %>
+        <dl><dt>Role</dt><dd><%= page.role %></dd></dl>
+      <% } %>
+      <% if (page.stack) { %>
+        <dl><dt>Built with</dt><dd><%= page.stack %></dd></dl>
+      <% } %>
+      <% if (page.status) { %>
+        <dl><dt>Status</dt><dd><%= page.status %></dd></dl>
+      <% } %>
+      <% if (page.repo) { %>
+        <dl><dt>Code</dt><dd><a href="<%= page.repo %>">Repository</a></dd></dl>
+      <% } %>
+      <% if (page.demo) { %>
+        <dl><dt>Live</dt><dd><a href="<%= page.demo %>"><%= page.demo.replace(/^https?:\/\//, '') %></a></dd></dl>
+      <% } %>
+    </aside>
+
+    <div class="project-content">
+      <%- page.content %>
+    </div>
+  </div>
+</article>

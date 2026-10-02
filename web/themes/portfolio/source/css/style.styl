@@ -1,0 +1,293 @@
+:root
+  --shell oklch(0.21 0.014 148)
+  --surface oklch(0.255 0.016 148)
+  --surface-raised oklch(0.30 0.018 148)
+  --hairline oklch(0.38 0.014 148)
+
+  --text oklch(0.93 0.012 85)
+  --text-muted oklch(0.75 0.014 85)
+  --text-faint oklch(0.62 0.012 85)
+
+  --accent oklch(0.80 0.12 72)
+  --accent-bright oklch(0.87 0.13 75)
+
+  --serif ui-serif, 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif
+  --sans ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif
+  --mono ui-monospace, SFMono-Regular, Menlo, Consolas, monospace
+
+  --step-0 15px
+  --step-1 17px
+  --step-2 19px
+  --step-3 24px
+  --step-4 31px
+  --step-5 44px
+  --step-6 60px
+
+  --space-1 4px
+  --space-2 8px
+  --space-3 12px
+  --space-4 16px
+  --space-5 24px
+  --space-6 32px
+  --space-7 48px
+  --space-8 64px
+  --space-9 96px
+
+  --radius-card 10px
+  --radius-shot 6px
+
+  --edge inset 0 1px 0 oklch(1 0 0 / 0.05)
+  --lift 0 18px 36px -28px oklch(0 0 0 / 0.8)
+  --lift-high 0 26px 50px -30px oklch(0 0 0 / 0.85)
+
+  --ease cubic-bezier(0.22, 1, 0.36, 1)
+
+*
+  box-sizing border-box
+
+body
+  margin 0
+  background var(--shell)
+  color var(--text)
+  font-family var(--serif)
+  font-size var(--step-2)
+  line-height 1.65
+  -webkit-font-smoothing antialiased
+
+a
+  color var(--accent)
+  text-decoration none
+
+  &:hover
+    color var(--accent-bright)
+
+.label
+  font-family var(--sans)
+  font-size 12px
+  font-weight 800
+  letter-spacing 0.08em
+  text-transform uppercase
+
+// Shell
+.site-header,
+.main,
+.site-footer
+  max-width 1120px
+  margin 0 auto
+  padding-left var(--space-5)
+  padding-right var(--space-5)
+
+.site-header
+  display flex
+  align-items center
+  justify-content space-between
+  gap var(--space-5)
+  padding-top var(--space-6)
+  padding-bottom var(--space-6)
+
+.site-name
+  @extend .label
+  color var(--text)
+  font-size 13px
+
+.site-nav
+  display flex
+  gap var(--space-5)
+
+  a
+    @extend .label
+    color var(--text-faint)
+
+    &:hover
+      color var(--text)
+
+// Intro
+.intro
+  padding var(--space-9) 0 var(--space-8)
+  max-width 34ch
+
+.intro-name
+  margin 0
+  font-size var(--step-6)
+  font-weight 400
+  line-height 1.05
+  letter-spacing -0.03em
+
+.intro-text
+  margin var(--space-4) 0 0
+  max-width 48ch
+  color var(--text-muted)
+
+// Project grid
+.project-grid
+  list-style none
+  margin 0
+  padding 0 0 var(--space-9)
+  display grid
+  grid-template-columns repeat(2, 1fr)
+  gap var(--space-6)
+
+.project-card
+  background var(--surface)
+  border 1px solid var(--hairline)
+  border-radius var(--radius-card)
+  box-shadow var(--edge), var(--lift)
+  overflow hidden
+  transition transform 160ms var(--ease), background-color 160ms var(--ease), box-shadow 160ms var(--ease)
+
+  a
+    display block
+    color inherit
+
+  &:hover
+    background var(--surface-raised)
+    box-shadow var(--edge), var(--lift-high)
+    transform translateY(-2px)
+
+  &:hover .project-shot img
+    transform scale(1.02)
+
+.project-shot
+  display block
+  aspect-ratio 16 / 9
+  overflow hidden
+  border-bottom 1px solid var(--hairline)
+  background var(--shell)
+
+  img
+    width 100%
+    height 100%
+    object-fit cover
+    transition transform 320ms var(--ease)
+
+.project-shot-empty
+  background repeating-linear-gradient(135deg, oklch(0.23 0.014 148) 0 12px, oklch(0.25 0.015 148) 12px 24px)
+
+.project-title
+  margin var(--space-5) var(--space-5) var(--space-2)
+  font-size var(--step-3)
+  font-weight 400
+  letter-spacing -0.015em
+
+.project-summary
+  margin 0 var(--space-5)
+  font-size var(--step-1)
+  color var(--text-muted)
+
+.project-meta
+  margin var(--space-4) var(--space-5) var(--space-5)
+  display flex
+  align-items baseline
+  justify-content space-between
+  gap var(--space-3)
+
+.project-stack
+  @extend .label
+  color var(--text-faint)
+
+.project-status
+  @extend .label
+  font-size 11px
+  padding 3px 10px
+  border 1px solid var(--hairline)
+  border-radius 999px
+  color var(--text-faint)
+
+.project-status[data-status="active"]
+  color var(--accent)
+  border-color unquote('color-mix(in oklch, var(--accent) 40%, var(--hairline))')
+
+// Project page
+.project
+  padding-bottom var(--space-9)
+
+.project-page-title
+  margin var(--space-9) 0 var(--space-8)
+  font-size var(--step-5)
+  font-weight 400
+  line-height 1.1
+  letter-spacing -0.03em
+  text-align center
+
+.project-body
+  display grid
+  grid-template-columns 180px minmax(0, 68ch)
+  gap var(--space-7)
+  justify-content center
+
+.project-aside
+  border-right 1px solid var(--hairline)
+  padding-right var(--space-5)
+  text-align right
+
+  dl
+    margin 0 0 var(--space-5)
+
+  dt
+    @extend .label
+    color var(--text-faint)
+
+  dd
+    margin var(--space-1) 0 0
+    font-family var(--sans)
+    font-size 13px
+    color var(--text)
+
+.project-content
+  h2
+    margin var(--space-7) 0 var(--space-3)
+    font-size var(--step-3)
+    font-weight 400
+    letter-spacing -0.015em
+
+  p
+    margin 0 0 var(--space-4)
+
+  img
+    display block
+    width 100%
+    height auto
+    border 1px solid var(--hairline)
+    border-radius var(--radius-shot)
+
+  code
+    font-family var(--mono)
+    font-size 0.85em
+
+// Footer
+.site-footer
+  padding-top var(--space-5)
+  padding-bottom var(--space-8)
+  border-top 1px solid var(--hairline)
+
+  p
+    @extend .label
+    color var(--text-faint)
+    margin 0
+
+@media (max-width: 860px)
+  .project-grid
+    grid-template-columns 1fr
+
+  .intro
+    padding var(--space-8) 0 var(--space-7)
+
+  .project-body
+    grid-template-columns 1fr
+    gap var(--space-5)
+
+  .project-aside
+    border-right 0
+    border-bottom 1px solid var(--hairline)
+    padding 0 0 var(--space-4)
+    text-align left
+    display grid
+    grid-template-columns repeat(auto-fit, minmax(120px, 1fr))
+    gap var(--space-4)
+
+    dl
+      margin 0
+
+@media (prefers-reduced-motion: reduce)
+  *
+    transition none !important

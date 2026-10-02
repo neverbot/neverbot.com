@@ -1,0 +1,10 @@
+<header class="site-header">
+  <a class="site-name" href="<%- url_for('/') %>"><%= config.title %></a>
+  <nav class="site-nav">
+    <% theme.menu.forEach(function (item) { %>
+      <a href="<%- url_for(item.url) %>"><%= item.title %></a>
+    <% }); %>
+    <a href="<%= theme.social.github %>">GitHub</a>
+    <a href="<%= theme.social.linkedin %>">LinkedIn</a>
+  </nav>
+</header>
