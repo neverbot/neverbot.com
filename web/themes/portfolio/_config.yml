@@ -4,6 +4,18 @@ menu:
   - title: About
     url: /about/
 
+bio: Twenty years building software across consulting, e-commerce, start-ups, academic research and games. A third of them managing projects, which cured me of wanting to.
+
+avatars: 11
+
+roles:
+  - Software engineer
+  - Imaginaut
+  - Mad Scientist
+  - Software Artisan
+  - Game Designer
+  - I'm (often) awesome
+
 social:
   github: https://github.com/neverbot
   linkedin: https://www.linkedin.com/in/ivanalonso
