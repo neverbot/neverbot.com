@@ -1,4 +1,24 @@
 :root
+  --shell oklch(0.96 0.012 95)
+  --surface oklch(0.993 0.005 95)
+  --surface-raised oklch(0.999 0.003 95)
+  --hairline oklch(0.86 0.012 95)
+
+  --text oklch(0.26 0.018 150)
+  --text-muted oklch(0.45 0.015 120)
+  --text-faint oklch(0.52 0.012 110)
+
+  --accent oklch(0.56 0.14 52)
+  --accent-bright oklch(0.48 0.15 48)
+
+  --placeholder-a oklch(0.93 0.012 95)
+  --placeholder-b oklch(0.90 0.014 95)
+
+  --edge unquote('inset 0 1px 0 oklch(1 0 0 / 0.9)')
+  --lift unquote('0 16px 30px -26px oklch(0.3 0.03 150 / 0.45)')
+  --lift-high unquote('0 24px 44px -28px oklch(0.3 0.03 150 / 0.55)')
+
+[data-theme="dark"]
   --shell oklch(0.21 0.014 148)
   --surface oklch(0.255 0.016 148)
   --surface-raised oklch(0.30 0.018 148)
@@ -10,6 +30,15 @@
 
   --accent oklch(0.80 0.12 72)
   --accent-bright oklch(0.87 0.13 75)
+
+  --placeholder-a oklch(0.23 0.014 148)
+  --placeholder-b oklch(0.25 0.015 148)
+
+  --edge unquote('inset 0 1px 0 oklch(1 0 0 / 0.05)')
+  --lift unquote('0 18px 36px -28px oklch(0 0 0 / 0.8)')
+  --lift-high unquote('0 26px 50px -30px oklch(0 0 0 / 0.85)')
+
+:root
 
   --serif ui-serif, 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif
   --sans ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif
@@ -35,10 +64,6 @@
 
   --radius-card 10px
   --radius-shot 6px
-
-  --edge inset 0 1px 0 oklch(1 0 0 / 0.05)
-  --lift 0 18px 36px -28px oklch(0 0 0 / 0.8)
-  --lift-high 0 26px 50px -30px oklch(0 0 0 / 0.85)
 
   --ease cubic-bezier(0.22, 1, 0.36, 1)
 
@@ -92,6 +117,7 @@ a
 
 .site-nav
   display flex
+  align-items center
   gap var(--space-5)
 
   a
@@ -100,6 +126,21 @@ a
 
     &:hover
       color var(--text)
+
+.theme-toggle
+  @extend .label
+  appearance none
+  cursor pointer
+  color var(--text-faint)
+  background transparent
+  border 1px solid var(--hairline)
+  border-radius 999px
+  padding 5px 12px
+  transition color 160ms var(--ease), border-color 160ms var(--ease)
+
+  &:hover
+    color var(--text)
+    border-color var(--text-faint)
 
 // Intro
 .intro
@@ -161,7 +202,7 @@ a
     transition transform 320ms var(--ease)
 
 .project-shot-empty
-  background repeating-linear-gradient(135deg, oklch(0.23 0.014 148) 0 12px, oklch(0.25 0.015 148) 12px 24px)
+  background repeating-linear-gradient(135deg, var(--placeholder-a) 0 12px, var(--placeholder-b) 12px 24px)
 
 .project-title
   margin var(--space-5) var(--space-5) var(--space-2)

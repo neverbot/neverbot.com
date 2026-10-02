@@ -3,3 +3,5 @@ web/public/
 web/db.json
 .DS_Store
 *.log
+PRODUCT.md
+DESIGN.md

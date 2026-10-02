@@ -1,6 +1,14 @@
 <!DOCTYPE html>
-<html lang="<%= config.language %>">
+<html lang="<%= config.language %>" data-theme="light">
 <head>
+  <script>
+    try {
+      var stored = localStorage.getItem('theme');
+      if (stored === 'dark' || stored === 'light') {
+        document.documentElement.setAttribute('data-theme', stored);
+      }
+    } catch (error) {}
+  </script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title><% if (page.title) { %><%= page.title %> — <% } %><%= config.title %></title>
@@ -13,5 +21,6 @@
     <%- body %>
   </main>
   <%- partial('_partial/footer') %>
+  <script src="<%- url_for('/js/theme.js') %>" defer></script>
 </body>
 </html>
