@@ -62,7 +62,8 @@ live in their own repositories and pull it in as a dependency.
 ![A Doom level rendered in 3D: the map geometry with its original wall and floor
 textures](wadviewer.webp)
 
-That is *wadviewer*, which reads the WAD files of id Software's Doom and
+That is [wadviewer](https://github.com/neverbot/wadviewer), which reads the WAD
+files of id Software's Doom and
 rebuilds their levels as 3D geometry with the original textures. There is also
 *heist*, a game in progress.
 

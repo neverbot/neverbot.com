@@ -60,6 +60,5 @@ font layer, and the explosions are sprite strips. It is
 ## Afterwards
 
 Development stopped in 2023, and the engine was published on npm as
-`okinawa.js`. It has had two successors, both of them attempts to take the same
-ideas into 3D and into a compiled language: an unfinished C port, and
-[okinawa](/okinawa/), written in C++, which is the one still alive.
+`okinawa.js`. The ideas did not stop there: [okinawa](/okinawa/) takes them into
+3D and into C++, and is the one still alive.
