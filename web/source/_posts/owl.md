@@ -33,6 +33,23 @@ next to the code that deploys it.
 
 ![The dashboard index, listing what is loaded and from where](dashboards.webp)
 
+## A deliberate subset
+
+That file format is a subset of Grafana's own dashboard JSON, so an export
+usually drops straight in and renders; whatever Owl does not understand is
+ignored without complaint. There are four panel types (`timeseries`, `stat`,
+`gauge` and a tabular `events`) and that is the whole catalogue: no heatmaps,
+no bar gauges, no pie charts. A panel it cannot draw explains itself in place
+of the chart, and the rest of the dashboard still works.
+
+Queries go through its own PromQL parser instead of Prometheus's: the counter
+functions (`rate`, `irate`, `increase`, `delta`), the `_over_time` family,
+`histogram_quantile`, `topk` and `bottomk`, five aggregations with `by` and
+`without`, the four label matchers and plain arithmetic. No subqueries, no
+`offset`, no vector matching modifiers, no template variables. Anything outside
+the subset comes back as an error naming the construct it refused, which beats
+a silently empty chart.
+
 ## What it collects
 
 It scrapes any endpoint that speaks the [Prometheus text format](https://prometheus.io/docs/instrumenting/exposition_formats/) on an interval
