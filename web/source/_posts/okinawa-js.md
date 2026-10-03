@@ -1,0 +1,65 @@
+---
+title: okinawa.js
+date: 2014-02-08
+layout: project
+summary: A 2D game engine in plain JavaScript, with no runtime dependencies, that ended up powering dozens of small games on a programming platform for children and a handful of academic studies.
+stack: JavaScript · HTML5 canvas · webpack
+status: Archived
+years: 2014 – 2023
+role: Author
+repo: https://github.com/okinawa-dev/okinawa.js
+demo: https://dev.neverbot.com/okinawa-asteroids/
+screenshot: asteroids.webp
+logo: okinawa.webp
+---
+
+A 2D engine written in plain [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript),
+drawing on an HTML5 `<canvas>` with the 2D context, and with **no runtime
+dependencies at all**: webpack and babel build the bundle, and nothing else
+ships with it.
+
+## Where it was used
+
+It stopped being a hobby project fairly early. Dozens of small serious games
+on *pixie.es*, a programming learning platform for children, ran on it: the
+teaching side used [Google Blockly](https://developers.google.com/blockly) for
+the visual code blocks, and everything that moved on screen afterwards was
+okinawa.js. The platform was later bought by *Sngular* and renamed *Sngular
+Kids*.
+
+It also ran several serious games built for the Faculty of Psychology at
+[UNED](https://www.uned.es), used as instruments in academic studies.
+
+## What is in it
+
+A scene graph with a hierarchy of items that can be positioned and rotated
+relative to their parent, so a turret rotates with the tank it is bolted to.
+Scenes carry their own background collection with parallax, their own input
+controller and their own clock subscriptions.
+
+Movement does not have to be written by hand frame by frame: *trackers* drive an
+item along a bezier curve, a circle, a sine wave, or make it follow another
+item. On top of that there is a particle system, a small GUI layer (text,
+console, menus, windows), sprite and sound preloading, and CSS fonts rendered
+once to images and only re-rendered when the text changes.
+
+Input covers key subscriptions and real-time key state, combos of consecutive
+or simultaneous keys, and basic touch controls.
+
+What it deliberately does not have: no physics engine, no tilemaps, no entity
+component system, no editor. Collisions are a radius per item and nothing more.
+
+![A game of Asteroids: the ship, its particle trail, two shots in flight and the
+asteroids it is shooting at](asteroids-frame.webp)
+
+The screenshot is the demo that came with it, an Asteroids clone that exists to
+exercise the engine: the trail is the particle system, the HUD is the bitmap
+font layer, and the explosions are sprite strips. It is
+[still playable](https://dev.neverbot.com/okinawa-asteroids/).
+
+## Afterwards
+
+Development stopped in 2023, and the engine was published on npm as
+`okinawa.js`. It has had two successors, both of them attempts to take the same
+ideas into 3D and into a compiled language: an unfinished C port, and
+[okinawa](/okinawa/), written in C++, which is the one still alive.
