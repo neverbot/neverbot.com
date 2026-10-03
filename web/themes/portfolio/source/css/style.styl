@@ -105,9 +105,10 @@ a
 
 .site-header
   display flex
+  flex-wrap wrap
   align-items center
   justify-content space-between
-  gap var(--space-5)
+  gap var(--space-3) var(--space-5)
   padding-top var(--space-6)
   padding-bottom var(--space-6)
 
@@ -473,6 +474,19 @@ a
 
     dl
       margin 0
+
+@media (max-width: 480px)
+  .site-header,
+  .main,
+  .site-footer
+    padding-left var(--space-4)
+    padding-right var(--space-4)
+
+  .site-nav
+    gap var(--space-2)
+
+  .project-aside dd
+    overflow-wrap anywhere
 
 @media (prefers-reduced-motion: reduce)
   *
