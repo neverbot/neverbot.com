@@ -4,8 +4,8 @@ date: 2014-02-08
 layout: project
 summary: A 2D game engine in plain JavaScript, with no runtime dependencies, that ended up powering dozens of small games on a programming platform for children and a handful of academic studies.
 stack: JavaScript · HTML5 canvas · webpack
-status: Archived
-years: 2014 – 2023
+status: Dormant
+years: Since 2014
 role: Author
 repo: https://github.com/okinawa-dev/okinawa.js
 demo: https://dev.neverbot.com/okinawa-asteroids/
@@ -59,6 +59,6 @@ font layer, and the explosions are sprite strips. It is
 
 ## Afterwards
 
-Development stopped in 2023, and the engine was published on npm as
-`okinawa.js`. The ideas did not stop there: [okinawa](/okinawa/) takes them into
-3D and into C++, and is the one still alive.
+The engine is published on npm as `okinawa.js`. It gets no time from me these
+days, but the ideas carried on: [okinawa](/okinawa/) takes them into 3D and
+into C++, and is the one being worked on now.
