@@ -3,7 +3,7 @@ title: okinawa
 date: 2025-05-04
 layout: project
 summary: "A small 3D engine in C++ and OpenGL, the heir of a JavaScript 2D engine a decade older. It is a library, not a framework: it draws the world and leaves the game to the application."
-stack: C++ · OpenGL · GLFW · xmake
+stack: C++ · OpenGL · xmake
 status: Active
 years: Since 2025
 role: Author
