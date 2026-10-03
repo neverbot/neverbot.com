@@ -33,6 +33,9 @@ they drive on the right](pixie.webp){.inset}
 It also ran several serious games built for the Faculty of Psychology at
 [UNED](https://www.uned.es), used as instruments in academic studies.
 
+![One of the UNED games: a race on an athletics track, with the distance left
+and the elapsed time on screen](uned.webp)
+
 ## What is in it
 
 A scene graph with a hierarchy of items that can be positioned and rotated
