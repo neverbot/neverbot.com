@@ -27,17 +27,25 @@ the visual code blocks, and everything that moved on screen afterwards was
 okinawa.js. The platform was later bought by *Sngular* and renamed *Sngular
 Kids*.
 
-![A pixie.es exercise: the blocks the child assembles on the left, and the level
-they drive on the right](pixie.webp){.inset}
+![Blockly blocks on the left, a maze level on the right](pixie.webp){.inset}
+
+A *pixie.es* exercise: the child assembles the blocks on the left, and the level
+runs on the right.
+{.caption}
 
 It also ran several serious games built for the Faculty of Psychology at
 [UNED](https://www.uned.es), used as instruments in academic studies.
 
-![One of the UNED games: a race on an athletics track, with the distance left
-and the elapsed time on screen](uned.webp)
+![A race on an athletics track, with distance and time on screen](uned.webp)
 
-![Another one: a space shooter that awards more points for hitting the asteroid
-marked as the ingroup than the one marked as the outgroup](uned-asteroids.webp)
+One of the UNED games.
+{.caption}
+
+![A space shooter briefing screen listing two kinds of asteroid and their scores](uned-asteroids.webp)
+
+Another one: hitting the asteroid marked as the ingroup is worth twice the
+outgroup.
+{.caption}
 
 ## What is in it
 
@@ -58,13 +66,14 @@ or simultaneous keys, and basic touch controls.
 What it deliberately does not have: no physics engine, no tilemaps, no entity
 component system, no editor. Collisions are a radius per item and nothing more.
 
-![A game of Asteroids: the ship, its particle trail, two shots in flight and the
-asteroids it is shooting at](asteroids-frame.webp)
+![The ship, its particle trail, two shots in flight and the asteroids](asteroids-frame.webp)
 
-The screenshot is [the demo](https://dev.neverbot.com/okinawa-asteroids/) that
-came with it, an Asteroids clone that exists to exercise the engine: the trail
-is the particle system, the HUD is the bitmap font layer, and the explosions are
-sprite strips.
+The [demo](https://dev.neverbot.com/okinawa-asteroids/) that ships with the
+engine.
+{.caption}
+
+An Asteroids clone that exists to exercise the engine: the trail is the particle
+system, the HUD is the bitmap font layer, and the explosions are sprite strips.
 
 ## Afterwards
 
