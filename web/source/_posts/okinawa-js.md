@@ -27,7 +27,7 @@ the visual code blocks, and everything that moved on screen afterwards was
 okinawa.js. The platform was later bought by *Sngular* and renamed *Sngular
 Kids*.
 
-![Blockly blocks on the left, a maze level on the right](pixie.webp){.inset}
+![Blockly blocks on the left, a maze level on the right](pixie.webp)
 
 A *pixie.es* exercise: the child assembles the blocks on the left, and the level
 runs on the right.

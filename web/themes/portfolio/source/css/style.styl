@@ -64,6 +64,7 @@
 
   --radius-card 10px
   --radius-shot 6px
+  --shot-max-height 420px
 
   --ease cubic-bezier(0.22, 1, 0.36, 1)
 
@@ -414,24 +415,19 @@ a
 
   img
     display block
-    width 100%
+    width auto
     height auto
+    max-width 100%
+    max-height var(--shot-max-height)
     border 1px solid var(--hairline)
     border-radius var(--radius-shot)
 
-  img.inset
-    width auto
-    max-width 100%
-    margin-left auto
-    margin-right auto
-
   p.caption
+    max-width 58ch
     margin calc(var(--space-2) * -1) 0 var(--space-5)
-    font-family var(--sans)
-    font-size 13px
+    font-size var(--step-0)
     line-height 1.5
-    color var(--text-faint)
-    text-align center
+    color var(--text-muted)
 
   code
     font-family var(--mono)
