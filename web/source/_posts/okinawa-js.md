@@ -55,10 +55,10 @@ component system, no editor. Collisions are a radius per item and nothing more.
 ![A game of Asteroids: the ship, its particle trail, two shots in flight and the
 asteroids it is shooting at](asteroids-frame.webp)
 
-The screenshot is the demo that came with it, an Asteroids clone that exists to
-exercise the engine: the trail is the particle system, the HUD is the bitmap
-font layer, and the explosions are sprite strips. It is
-[still playable](https://dev.neverbot.com/okinawa-asteroids/).
+The screenshot is [the demo](https://dev.neverbot.com/okinawa-asteroids/) that
+came with it, an Asteroids clone that exists to exercise the engine: the trail
+is the particle system, the HUD is the bitmap font layer, and the explosions are
+sprite strips.
 
 ## Afterwards
 
