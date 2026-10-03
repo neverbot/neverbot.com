@@ -349,6 +349,27 @@ a
 .project
   padding-bottom var(--space-9)
 
+.project-logo
+  display flex
+  justify-content center
+  margin var(--space-9) 0 0
+
+.project-logo img
+  width auto
+  height 88px
+
+.project-logo-dark
+  display none
+
+[data-theme="dark"] .project-logo:has(.project-logo-dark) .project-logo-light
+  display none
+
+[data-theme="dark"] .project-logo-dark
+  display block
+
+.project-logo + .project-page-title
+  margin-top var(--space-5)
+
 .project-page-title
   margin var(--space-9) 0 var(--space-8)
   font-size var(--step-5)

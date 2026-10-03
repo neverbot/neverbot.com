@@ -1,4 +1,13 @@
 <article class="project">
+  <% if (page.logo) { %>
+    <p class="project-logo">
+      <img class="project-logo-light" src="<%- url_for('/images/logos/' + page.logo) %>" alt="">
+      <% if (page.logo_dark) { %>
+        <img class="project-logo-dark" src="<%- url_for('/images/logos/' + page.logo_dark) %>" alt="">
+      <% } %>
+    </p>
+  <% } %>
+
   <h1 class="project-page-title"><%= page.title %></h1>
 
   <div class="project-body">
