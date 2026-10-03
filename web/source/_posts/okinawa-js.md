@@ -27,6 +27,9 @@ the visual code blocks, and everything that moved on screen afterwards was
 okinawa.js. The platform was later bought by *Sngular* and renamed *Sngular
 Kids*.
 
+![A pixie.es exercise: the blocks the child assembles on the left, and the level
+they drive on the right](pixie.webp){.inset}
+
 It also ran several serious games built for the Faculty of Psychology at
 [UNED](https://www.uned.es), used as instruments in academic studies.
 
