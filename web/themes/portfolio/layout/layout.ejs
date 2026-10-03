@@ -11,7 +11,7 @@
   </script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title><% if (page.title) { %><%= page.title %> — <% } %><%= config.title %></title>
+  <title><%= config.title %><% if (page.title) { %> — <%= page.title %><% } %></title>
   <meta name="description" content="<%= page.description || page.summary || config.description %>">
   <link rel="stylesheet" href="<%- url_for('/css/style.css') %>">
 </head>
