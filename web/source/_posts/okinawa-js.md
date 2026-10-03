@@ -38,7 +38,8 @@ It also ran several serious games built for the Faculty of Psychology at
 
 ![A race on an athletics track, with distance and time on screen](uned.webp)
 
-One of the UNED games.
+One of the UNED games, built on the button-mashing of the classic
+[Track & Field](https://en.wikipedia.org/wiki/Track_%26_Field_(video_game)).
 {.caption}
 
 ![A space shooter briefing screen listing two kinds of asteroid and their scores](uned-asteroids.webp)
