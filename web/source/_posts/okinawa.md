@@ -1,11 +1,11 @@
 ---
 title: okinawa
-date: 2025-05-04
+date: 2026-06-18
 layout: project
 summary: "A small 3D engine in C++ and OpenGL, the heir of a JavaScript 2D engine a decade older. It is a library, not a framework: it draws the world and leaves the game to the application."
 stack: C++ · OpenGL · GLFW · xmake
 status: Active
-years: 2025 – today
+years: Since 2026
 role: Author
 repo: https://github.com/okinawa-dev/okinawa
 docs: https://okinawa-dev.github.io/okinawa/
@@ -18,6 +18,9 @@ A 3D engine in C++ on top of [OpenGL](https://www.opengl.org) and
 library that other projects consume from source. It takes its name, and a good
 part of its shape, from [okinawa.js](/okinawa-js/), the 2D engine in JavaScript
 that came ten years earlier.
+
+There was a first attempt the year before, written in C. It did not get far:
+the engine was rewritten from scratch in C++, and that is the one here.
 
 ## What it draws
 

@@ -4,7 +4,7 @@ date: 2014-02-08
 layout: project
 summary: A 2D game engine in plain JavaScript, with no runtime dependencies, that ended up powering dozens of small games on a programming platform for children and a handful of academic studies.
 stack: JavaScript · HTML5 canvas · webpack
-status: Dormant
+status: Idle
 years: Since 2014
 role: Author
 repo: https://github.com/okinawa-dev/okinawa.js
