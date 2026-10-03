@@ -61,7 +61,7 @@ markdown:
   preset: default
   render:
     html: true
-    linkify: true
+    linkify: false
     typographer: true
     breaks: false
   plugins:
