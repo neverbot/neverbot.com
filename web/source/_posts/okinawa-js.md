@@ -68,8 +68,8 @@ component system, no editor. Collisions are a radius per item and nothing more.
 
 ![The ship, its particle trail, two shots in flight and the asteroids](asteroids-frame.webp)
 
-The [demo](https://dev.neverbot.com/okinawa-asteroids/) that ships with the
-engine.
+The [demo](https://github.com/okinawa-dev/demo-asteroids) that ships with
+the engine.
 {.caption}
 
 An Asteroids clone that exists to exercise the engine: the trail is the particle
