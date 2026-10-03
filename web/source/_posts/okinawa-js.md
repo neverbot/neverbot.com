@@ -8,7 +8,6 @@ status: Idle
 years: Since 2014
 role: Author
 repo: https://github.com/okinawa-dev/okinawa.js
-demo: https://dev.neverbot.com/okinawa-asteroids/
 screenshot: asteroids.webp
 logo: okinawa.webp
 ---
