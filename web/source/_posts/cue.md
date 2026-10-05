@@ -23,7 +23,7 @@ the video itself, resolves the stream URLs, and hands them to
 [libmpv](https://mpv.io). There is no page to render, so there is nothing to
 show an ad in.
 
-![The queue sidebar on the left, the video playing on the right with its controls](player-full.webp){.wide}
+[![The queue sidebar on the left, the video playing on the right with its controls](player-full.webp)](player-full.webp)
 
 The queue on the left, the video on the right. The row playing now is tinted, and
 the chapter it is in shows under the seek bar.
@@ -56,7 +56,7 @@ read out of the timestamps in its description, but only when that list starts at
 zero. A description that merely mentions a few times is not a table of
 contents.
 
-![The inspector listing the chapters of the video with their timestamps](chapters.webp){.wide}
+[![The inspector listing the chapters of the video with their timestamps](chapters.webp)](chapters.webp)
 
 The chapter you are in is the one in bold.
 {.caption}
@@ -64,7 +64,7 @@ The chapter you are in is the one in bold.
 Thumbnail previews while scrubbing, built from YouTube's storyboard sheets.
 Subtitles you can size, colour, retime and export as SRT or WebVTT.
 
-![The subtitle page of the inspector, and a thumbnail preview above the seek bar](subtitles.webp){.wide}
+[![The subtitle page of the inspector, and a thumbnail preview above the seek bar](subtitles.webp)](subtitles.webp)
 
 Dragging the seek bar shows the frame you are heading for, and the chapter it
 belongs to.
