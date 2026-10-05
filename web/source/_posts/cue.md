@@ -23,7 +23,7 @@ the video itself, resolves the stream URLs, and hands them to
 [libmpv](https://mpv.io). There is no page to render, so there is nothing to
 show an ad in.
 
-![The queue sidebar on the left, the video playing on the right with its controls](player.webp)
+![The queue sidebar on the left, the video playing on the right with its controls](player-full.webp){.wide}
 
 The queue on the left, the video on the right. The row playing now is tinted, and
 the chapter it is in shows under the seek bar.
@@ -40,9 +40,10 @@ nothing to install the first time you open it.
 
 Format selection prefers whatever your chip decodes in hardware: AV1 on the
 Macs that support it, otherwise H.264, or VP9 where VideoToolbox handles it.
-Software decoding is the last resort, for videos that offer nothing else. A
-laptop playing an hour of video stays cool and quiet, which a browser tab
-playing the same video does not.
+Software decoding is the last resort, for videos that offer nothing else, and
+the gap matters: the same stream decoded on the CPU costs noticeably more power
+than one handed to the decode block, which is the difference between a quiet
+laptop and a warm one.
 
 Buffering is written to disk rather than held in memory, and a paused video
 keeps loading, up to about twenty minutes of 1080p. The seek bar shows how much
@@ -50,10 +51,12 @@ has arrived, which matters on a bad connection.
 
 ## The parts that make it a player and not a demo
 
-Chapters, taken from the video's own markers or parsed out of the timestamps in
-its description.
+Chapters, taken from the video's own markers when it has them, and otherwise
+read out of the timestamps in its description, but only when that list starts at
+zero. A description that merely mentions a few times is not a table of
+contents.
 
-![The inspector listing the chapters of the video with their timestamps](chapters.webp)
+![The inspector listing the chapters of the video with their timestamps](chapters.webp){.wide}
 
 The chapter you are in is the one in bold.
 {.caption}
@@ -61,7 +64,7 @@ The chapter you are in is the one in bold.
 Thumbnail previews while scrubbing, built from YouTube's storyboard sheets.
 Subtitles you can size, colour, retime and export as SRT or WebVTT.
 
-![The subtitle page of the inspector, and a thumbnail preview above the seek bar](subtitles.webp)
+![The subtitle page of the inspector, and a thumbnail preview above the seek bar](subtitles.webp){.wide}
 
 Dragging the seek bar shows the frame you are heading for, and the chapter it
 belongs to.
@@ -72,12 +75,12 @@ audio languages switchable without reloading the stream. A mini player that
 keeps playing in a small always-on-top window, without opening a second stream.
 
 Videos arrive by paste, by drag and drop, from a `cue://add` link, or from a
-bookmarklet the app installs into your browser. The queue is a SQLite file in
+bookmarklet the app walks you through installing. The queue is a SQLite file in
 your own library folder, with no account and no sync, and it imports and
 exports as a URL list, JSON or Takeout-style CSV.
 
 ## What it talks to
 
 YouTube, and nothing else. No analytics, no crash reporting, no metadata
-service, no sign-in. Anything that would need a server of mine is left out
-instead of hidden behind a switch.
+service, no sign-in. Anything that would need a server is left out instead of
+hidden behind a switch.

@@ -66,6 +66,7 @@
   --radius-card 10px
   --radius-shot 6px
   --shot-max-height 420px
+  --wide unquote('min(1072px, calc(100vw - 2 * var(--space-5)))')
 
   --ease cubic-bezier(0.22, 1, 0.36, 1)
 
@@ -482,6 +483,12 @@ a
     border 1px solid var(--hairline)
     border-radius var(--radius-shot)
 
+  img.wide
+    width var(--wide)
+    max-width none
+    max-height none
+    margin-left unquote('calc(50% - var(--wide) / 2 - (180px + var(--space-7)) / 2)')
+
   p.caption
     max-width 44ch
     margin calc(var(--space-2) * -1) auto var(--space-5)
@@ -556,6 +563,9 @@ a
     color var(--accent)
 
 @media (max-width: 860px)
+  .project-content img.wide
+    margin-left unquote('calc(50% - var(--wide) / 2)')
+
   .project-grid
     grid-template-columns 1fr
 
