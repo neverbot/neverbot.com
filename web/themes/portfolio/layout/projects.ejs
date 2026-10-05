@@ -1,0 +1,25 @@
+<article class="page">
+  <h1 class="page-title"><%= page.title %></h1>
+
+  <% var projects = site.posts.sort('date', -1); %>
+
+  <div class="index-lead"><%- page.content %></div>
+
+  <ol class="index">
+    <% projects.each(function (project) { %>
+      <li class="index-row">
+        <a href="<%- url_for(project.path) %>">
+          <span class="index-years"><%= project.years %></span>
+          <span class="index-body">
+            <span class="index-title"><%= project.title %></span>
+            <span class="index-summary"><%= project.summary %></span>
+            <span class="index-meta">
+              <span class="index-stack"><%= project.stack %></span>
+              <span class="index-status" data-status="<%= (project.status || '').toLowerCase() %>"><%= project.status %></span>
+            </span>
+          </span>
+        </a>
+      </li>
+    <% }); %>
+  </ol>
+</article>
