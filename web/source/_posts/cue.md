@@ -66,8 +66,9 @@ Subtitles you can size, colour, retime and export as SRT or WebVTT.
 
 [![The subtitle page of the inspector, and a thumbnail preview above the seek bar](subtitles.webp)](subtitles.webp)
 
-Dragging the seek bar shows the frame you are heading for, and the chapter it
-belongs to.
+The subtitle page of the inspector is open on the right, with the tracks the
+video offers and the controls for size, colour and timing. On the left, dragging
+the seek bar shows the frame you are heading for and the chapter it belongs to.
 {.caption}
 
 The original soundtrack of a dubbed video by default, with the other
