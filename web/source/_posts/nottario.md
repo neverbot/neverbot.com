@@ -5,7 +5,7 @@ layout: project
 summary: "A harness for your harness: a task, document and architecture store that coding agents talk to over MCP, so several of them share the same context."
 stack: Go · JavaScript · PostgreSQL · MCP · LLMs
 status: Active
-years: 2026 – today
+years: Since 2026
 role: Author
 repo: https://github.com/neverbot/nottario
 docs: https://neverbot.github.io/nottario/

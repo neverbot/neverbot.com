@@ -5,7 +5,7 @@ layout: project
 summary: A self-hosted metrics dashboard for your own server, with the dashboards defined as files rather than clicked together in a UI. If you think Grafana and Prometheus ask for too much RAM, this one is for you.
 stack: Go · JavaScript · SQLite
 status: Active
-years: 2026 – today
+years: Since 2026
 role: Author
 repo: https://github.com/neverbot/owl
 docs: https://neverbot.github.io/owl/

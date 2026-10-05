@@ -5,7 +5,7 @@ layout: project
 summary: "A multilanguage mudlib: it adds an entity component system on top of the classic room inheritance, and a single instance can hold several games at once."
 stack: LPC · DGD · MUD · ECS
 status: Active
-years: 2014 – today
+years: Since 2014
 role: Author
 repo: https://github.com/maldorne/hexagon
 play: https://maldorne.org/games/
