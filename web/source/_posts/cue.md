@@ -94,5 +94,5 @@ exports as a URL list, JSON or Takeout-style CSV.
 ## What it talks to
 
 YouTube, and nothing else. No analytics, no crash reporting, no metadata
-service, no sign-in. Any feature that would need a server of its own was
-discarded rather than built.
+service, no sign-in. Any feature that would need a server of its own is
+discarded.
