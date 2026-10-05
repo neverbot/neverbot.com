@@ -7,6 +7,7 @@ stack: Swift · AppKit · libmpv · SQLite
 status: Active
 years: Since 2026
 role: Author
+screenshot: player.webp
 repo: https://github.com/neverbot/cue
 logo: cue.webp
 ---
@@ -21,6 +22,12 @@ Cue does not open YouTube's player in a hidden web view. It asks YouTube for
 the video itself, resolves the stream URLs, and hands them to
 [libmpv](https://mpv.io). There is no page to render, so there is nothing to
 show an ad in.
+
+![The queue sidebar on the left, the video playing on the right with its controls](player.webp)
+
+The queue on the left, the video on the right. The row playing now is tinted, and
+the chapter it is in shows under the seek bar.
+{.caption}
 
 Resolving those URLs is the hard part, because YouTube signs them with a
 JavaScript routine that changes often. Cue runs that routine in
@@ -44,9 +51,23 @@ has arrived, which matters on a bad connection.
 ## The parts that make it a player and not a demo
 
 Chapters, taken from the video's own markers or parsed out of the timestamps in
-its description. Thumbnail previews while scrubbing, built from YouTube's
-storyboard sheets. Subtitles you can size, colour, retime and export as SRT or
-WebVTT. The original soundtrack of a dubbed video by default, with the other
+its description.
+
+![The inspector listing the chapters of the video with their timestamps](chapters.webp)
+
+The chapter you are in is the one in bold.
+{.caption}
+
+Thumbnail previews while scrubbing, built from YouTube's storyboard sheets.
+Subtitles you can size, colour, retime and export as SRT or WebVTT.
+
+![The subtitle page of the inspector, and a thumbnail preview above the seek bar](subtitles.webp)
+
+Dragging the seek bar shows the frame you are heading for, and the chapter it
+belongs to.
+{.caption}
+
+The original soundtrack of a dubbed video by default, with the other
 audio languages switchable without reloading the stream. A mini player that
 keeps playing in a small always-on-top window, without opening a second stream.
 
