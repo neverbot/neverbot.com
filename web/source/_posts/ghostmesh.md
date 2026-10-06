@@ -42,10 +42,17 @@ session is in your browser, which is also the only place anything is kept.
 
 ## Written to be extended
 
-Servers, image providers, upload providers and the proxies some networks need
-are all plugins, written in TypeScript and discovered when the project is built.
-The repository ships with those directories empty on purpose: it is a client,
-and which networks it reaches is not its business.
+Which networks the client offers is configuration: each server is a file
+declaring how to reach it and how to behave once there. The repository ships
+that directory empty on purpose, because which networks a client reaches is not
+the client's business.
+
+The rest is plugins, written in TypeScript and picked up when the project is
+built. They are the seams where it meets services of your own: somewhere to
+upload a file to before pasting its link, something that turns a link into an
+image the conversation can show inline, a proxy to fetch that image through when
+the site hosting it will not answer a browser directly. None of that is in the
+repository either. GhostMesh is the client; what it leans on is yours.
 
 Underneath it is Vue 3 with the composition API, Pinia for state, strict
 TypeScript, Tailwind, and a plain WebSocket for the IRC connection itself.
