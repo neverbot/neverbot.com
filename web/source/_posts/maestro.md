@@ -2,7 +2,7 @@
 title: Maestro
 date: 2026-08-31
 layout: project
-summary: "A workspace where game designers and their agents build the design of a game together. It holds the design, never a running game: no live instances, no players, no telemetry."
+summary: "A workspace where game designers and their AI agents build the design of a game together. It holds the design, never a running game: no live instances, no players, no telemetry."
 stack: Go · PostgreSQL · MCP · LLMs
 status: Active
 years: Since 2026
@@ -23,9 +23,9 @@ on itself, what nothing points at.
 ## It knows nothing about games
 
 There is no mission table, no zone table, no character table. A game declares
-its own vocabulary out of four primitives: a kind of thing, an instance of that
-kind, a kind of directed edge, and an edge. An MMORPG, a racing game and a
-metroidvania all fit without a line of new code.
+its own vocabulary out of four pieces: a kind of thing, one thing of that kind,
+a kind of link between two of them, and one such link. An MMORPG, a racing game
+and a metroidvania all fit without a line of new code.
 
 [![The catalogue of a game: its declared entity types with their counts, and the relation types that connect them](overview.webp)](overview.webp)
 
@@ -34,33 +34,40 @@ built into Maestro: skills, deities, guilds and realms are vocabulary this
 particular game declared for itself.
 {.caption}
 
-The edges carry their own fields, which is the part that earns the model. In a
+The links carry their own fields, which is the part that earns the model. In a
 metroidvania, whether a door swings both ways belongs to the door, not to either
-of the rooms it joins, so `is_one_way` is a declared field on the relation type
-and is checked on every write.
+of the rooms it joins, so the kind of link called `connects_to` declares a field
+of its own, `is_one_way`, and every door written has to fill it in.
 
 ## Questions worth asking
 
 [![An analysis run reporting that everything is reachable, with the number of starting points, entities and connections it followed](analysis.webp)](analysis.webp)
 
-A reachability pass over that same game: 247 starting points, 686 of 686
-entities reached, 34,090 connections followed, and a line naming how each kind
-of edge was treated.
+Asking that same game whether anything is out of reach. Starting from the 247
+places a player can begin, it walked 34,090 links and arrived at all 686 things
+in the game, so nothing in it is stranded.
 {.caption}
 
-Beside reachability there are prerequisite cycles, orphans, and routes: the
-claim that a particular path through the game can actually be walked, written
-down and then checked on demand. A saved view is a query plus a layout, so *the
-quests a Mage can reach between level 20 and 30, coloured by zone* is something
-you ask for rather than something you request as a feature. Every diagram also
-carries a text twin that gives the same answer to a reader who cannot see it.
+That is one of three checks. The others look for content that ends up requiring
+itself, directly or round a long loop, and for content that nothing connects to
+at all. On top of those, a designer can write down a route, the claim that some
+particular path through the game can be walked from start to finish, and have it
+re-checked whenever the game changes.
+
+Anything else is a question you compose. Ask for *the quests a Mage can reach
+between level 20 and 30, coloured by zone* and the answer is a diagram you can
+save and come back to, not a feature somebody has to build first. Each one is
+also written out in words, so the same answer reaches a reader who cannot see
+the picture.
 
 ## Two kinds of hands
 
-People work in the browser, agents work over MCP, and both hit the same data.
-Every tool is mirrored in REST, and the instance serves its agents a skill
-bundle, so one arrives already knowing how to declare a vocabulary and fill it,
-without being taught the model first.
+People work in the browser. Their agents work over MCP, the protocol an AI
+assistant uses to reach tools outside itself, and both sides read and write the
+same data. Everything an agent can do is also a plain HTTP request, and when one
+connects it is handed the instructions for this particular model, so it arrives
+knowing how to declare a vocabulary and fill it rather than having to be taught
+each time.
 
 The division of labour is the point. Filling the thing is an agent's job:
 declaring the vocabulary, writing hundreds of entities and the edges between
