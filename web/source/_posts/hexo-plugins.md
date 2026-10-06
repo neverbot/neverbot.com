@@ -31,7 +31,7 @@ are the plugin; the comics are not.
 and pages in several languages and lets the reader move between them. Each
 language gets its own posts, its own archives, tags and categories, and its own
 prefix in the URL, so switching language changes what is written and not only
-the words around it. [maldorne.org](https://maldorne.org) runs on it.
+the words around it.
 
 Both are on npm, and together they are downloaded a bit under 1,400 times a
 year, which is the honest size of this: small plugins, for a small corner of a
