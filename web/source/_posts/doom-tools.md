@@ -25,7 +25,7 @@ you can fly through it.
 
 [![A Doom level rendered in 3D with its original wall and floor textures](wadviewer.webp)](wadviewer.webp)
 
-The geometry rebuilt from the file's lines and sectors, textured and lit.
+The geometry rebuilt from the file's lines and sectors, with its textures on.
 {.caption}
 
 Almost no level people share is self-contained. The file holds the geometry and
