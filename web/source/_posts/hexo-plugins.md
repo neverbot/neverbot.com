@@ -10,10 +10,10 @@ role: Author and contributor
 screenshot: card.webp
 ---
 
-[Hexo](https://hexo.io) generates the blogs I keep, so when a plugin breaks, it
-breaks on sites I read every day. That is most of what follows: things I needed,
-published in case they were not only mine, and fixes sent back to plugins
-written by other people.
+I like static sites, and [Hexo](https://hexo.io) is the generator I keep coming
+back to. Over the years one need or another has ended in commits to somebody
+else's plugin, or in writing and publishing my own. This is what came out of
+that.
 
 ## Published
 
