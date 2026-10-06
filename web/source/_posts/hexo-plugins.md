@@ -2,18 +2,18 @@
 title: Hexo plugins
 date: 2026-01-13
 layout: project
-summary: Four blogs of mine run on Hexo, so its plugins are the code I maintain whether I meant to or not. Some I published, and some belong to other people and needed a patch to keep working.
-stack: JavaScript · Hexo · npm
+summary: I like static sites, and Hexo is the generator I keep coming back to. Over the years one need or another has ended in commits to somebody else's plugin, or in writing and publishing my own.
+stack: JavaScript · Hexo
 status: Active
 years: Since 2020
 role: Author and contributor
 screenshot: card.webp
 ---
 
-[Hexo](https://hexo.io) generates the four blogs I keep, so when a plugin
-breaks, it breaks on sites I read every day. That is most of what follows:
-things I needed, published in case they were not only mine, and fixes sent back
-to plugins written by other people.
+[Hexo](https://hexo.io) generates the blogs I keep, so when a plugin breaks, it
+breaks on sites I read every day. That is most of what follows: things I needed,
+published in case they were not only mine, and fixes sent back to plugins
+written by other people.
 
 ## Published
 
