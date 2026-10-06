@@ -22,7 +22,7 @@ on itself, what nothing points at.
 
 There is no mission table, no zone table, no character table. A game declares
 its own vocabulary out of four primitives: a kind of thing, an instance of that
-kind, a kind of directed edge, and an edge. An MMORPG, a racing career and a
+kind, a kind of directed edge, and an edge. An MMORPG, a racing game and a
 metroidvania all fit without a line of new code.
 
 [![The catalogue of a game: its declared entity types with their counts, and the relation types that connect them](overview.webp)](overview.webp)
