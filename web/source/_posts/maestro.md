@@ -59,8 +59,8 @@ carries a text twin that gives the same answer to a reader who cannot see it.
 
 People work in the browser, agents work over MCP, and both hit the same data.
 Every tool is mirrored in REST, and the instance serves its agents a skill
-bundle, so one arrives already knowing how to declare types and seed a few
-hundred entities without being walked through it. One token is one game.
+bundle, so one arrives already knowing how to declare a vocabulary and fill it,
+without being taught the model first.
 
 The division of labour is the point. Filling the thing is an agent's job:
 declaring the vocabulary, writing hundreds of entities and the edges between
