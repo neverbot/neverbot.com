@@ -51,16 +51,9 @@ The rest is plugins, written in TypeScript and picked up when the project is
 built. They are the seams where it meets services of your own: somewhere to
 upload a file to before pasting its link, something that turns a link into an
 image the conversation can show inline, a proxy to fetch that image through when
-the site hosting it will not answer a browser directly.
-
-One of them exists because of IRC's age. A browser can only open a WebSocket,
-and the protocol predates them by a decade. A network that runs its own
-WebSocket gateway needs nothing else: its configuration is that address, and the
-browser connects to the network itself. The ones that still only listen on a
-plain socket, port 6667 or the same thing under TLS, cannot be reached from a
-browser at all. For those, the configuration names the host and port, and the
-connection goes through a proxy you run, which opens that socket on the client's
-behalf and relays the traffic both ways.
+the site hosting it will not answer a browser directly, or one that bridges a
+network still speaking only the plain socket IRC was built on, which a browser
+cannot open.
 
 None of that lives in the repository. GhostMesh is the client; what it leans on
 is yours.
