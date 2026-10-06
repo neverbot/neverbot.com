@@ -32,8 +32,8 @@ characters, wrapping and aligning each cell, and fenced code blocks are framed
 between `╒═╡ lang ╞═╕` and `╘═══╛` with the syntax of the language still
 highlighted inside.
 
-Bold, italic and strikethrough are real font styles rather than a change of
-colour. That needs zero-width Unicode sentinels marking each run, and they have
+Bold and italic are real font styles rather than a change of colour. That needs
+zero-width Unicode sentinels marking each run, and they have
 a cost worth knowing: copy text out of the preview and the sentinels travel with
 it.
 
