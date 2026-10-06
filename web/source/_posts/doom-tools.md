@@ -38,14 +38,22 @@ wins, and anything it leaves out falls through to the base.
 It is also the first real application of [okinawa](/okinawa/), which is a good
 way to find out which parts of an engine you actually got right.
 
-## [wadconvert](https://github.com/neverbot/wadconvert)
+## Micro-tools
 
-Reads the same files and writes JSON: the vertices, the lines, the sides, the
-sectors and the things placed in them. Once a level is JSON it can be measured,
-diffed and queried with ordinary tools instead of a 1993 file format reader.
+The other two are small on purpose. They exist because looking at one level is a
+different problem from looking at a thousand of them, which is what a collection
+of these files turns into.
 
-## [waddup](https://github.com/neverbot/waddup)
+**[wadconvert](https://github.com/neverbot/wadconvert)** walks the archive's
+directory and pulls out what makes a level a level: the vertices, the lines
+between them, the sides of those lines, the sectors they enclose and the things
+placed inside. It writes that four ways, a compact JSON and a verbose one with
+the names spelled out, and the same pair in a small text format of its own.
+Compact when a thousand levels have to fit somewhere, verbose when a person has
+to read one. Once a level is JSON it can be measured, compared and queried with
+ordinary tools rather than with a reader for a format from 1993.
 
-The smallest of the three, and the one that came from an actual annoyance:
-collections of these files grow by accretion, the same level arrives twice under
-different names, and this says which ones are duplicates.
+**[waddup](https://github.com/neverbot/waddup)** answers the question that comes
+up as soon as the collection is large: which of these are the same file twice.
+They accumulate, the same level arrives under two names, and counting anything
+is wrong until the duplicates are gone.
