@@ -62,7 +62,13 @@ Every tool is mirrored in REST, and the instance serves its agents a skill
 bundle, so one arrives already knowing how to declare types and seed a few
 hundred entities without being walked through it. One token is one game.
 
-Most of the writing is an agent's job, but three things are edited where they
-are read: a name, a set of field values, and the body of a document. Each save
-states the version it was read at, so one landing on top of somebody else's is
-shown as a conflict with both values named, rather than quietly winning.
+The division of labour is the point. Filling the thing is an agent's job:
+declaring the vocabulary, writing hundreds of entities and the edges between
+them, keeping the prose attached to what it describes. That is work no designer
+should be doing by hand, and it is the half an agent is good at.
+
+The browser is for the other half. A designer arrives at a game somebody, or
+something, has already filled, and what they need is to understand it: to see
+the shape of what is there, to notice what does not hold together, and to ask
+the next question. The interface exists so that asking is cheap, and so that the
+answer can be looked at rather than read.
