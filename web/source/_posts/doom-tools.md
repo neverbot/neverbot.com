@@ -28,11 +28,15 @@ you can fly through it.
 The geometry rebuilt from the file's lines and sectors, textured and lit.
 {.caption}
 
-The useful part is that it loads a base WAD and a replacement one together, so a
-level somebody made in 1996 renders with the textures it was drawn against
-rather than with holes where they should be. It is also the first real
-application of [okinawa](/okinawa/), which is a good way to find out which parts
-of an engine you actually got right.
+Almost no level people share is self-contained. The file holds the geometry and
+little else, and the texture names inside it point at the base game's own
+archive, so opening one on its own renders it entirely white: every name
+resolves to nothing. The viewer loads both, the base first and the level on top,
+and settles the names the way Doom itself did. Whatever the later file defines
+wins, and anything it leaves out falls through to the base.
+
+It is also the first real application of [okinawa](/okinawa/), which is a good
+way to find out which parts of an engine you actually got right.
 
 ## [wadconvert](https://github.com/neverbot/wadconvert)
 
