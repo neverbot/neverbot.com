@@ -2,7 +2,7 @@
 title: Sublime Text plugins
 date: 2026-04-19
 layout: project
-summary: "Two small plugins for the editor I actually work in: a live Markdown preview drawn with box characters, and a logger that writes the console to disk so a plugin's import errors stop vanishing."
+summary: The editor I have used for half my life and the one I am still fastest in. The plugins I wrote to fix my own annoyances are published rather than left in my packages folder, in case they are somebody else's annoyances too.
 stack: Python · Sublime Text API
 status: Idle
 years: Since 2025
