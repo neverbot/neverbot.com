@@ -28,13 +28,8 @@ are the plugin; the comics are not.
 {.caption}
 
 **[hexo-multilang](https://github.com/neverbot/hexo-multilang)** manages a site
-whose posts are written in more than one language, which Hexo does not do on its
-own. It switches the content, not only the labels of the theme, and it carries a
-warning earned the hard way: every multi-language plugin registers generators
-under the same names (`index`, `archive`, `tag`, `category`), Hexo loads them in
-the order they appear in `package.json`, and tooling that sorts that file
-alphabetically will quietly change which one wins. The readme tells you to
-uninstall the rest rather than hope.
+whose posts are written in more than one language, switching the content and not
+only the labels of the theme. [maldorne.org](https://maldorne.org) runs on it.
 
 Both are on npm, and together they are downloaded a bit under 1,400 times a
 year, which is the honest size of this: small plugins, for a small corner of a
