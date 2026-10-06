@@ -27,11 +27,11 @@ The slider in a post on one of those blogs. The counter, the arrows and the dots
 are the plugin; the comics are not.
 {.caption}
 
-**[hexo-multilang](https://github.com/neverbot/hexo-multilang)** manages a site
-whose posts are written in more than one language. Each language gets its own
-posts, its own archives, tags and categories, and its own prefix in the URL, so
-what changes when you switch is the writing and not a translated interface over
-the same text. [maldorne.org](https://maldorne.org) runs on it.
+**[hexo-multilang](https://github.com/neverbot/hexo-multilang)** publishes posts
+and pages in several languages and lets the reader move between them. Each
+language gets its own posts, its own archives, tags and categories, and its own
+prefix in the URL, so switching language changes what is written and not only
+the words around it. [maldorne.org](https://maldorne.org) runs on it.
 
 Both are on npm, and together they are downloaded a bit under 1,400 times a
 year, which is the honest size of this: small plugins, for a small corner of a
