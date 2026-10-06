@@ -28,8 +28,10 @@ are the plugin; the comics are not.
 {.caption}
 
 **[hexo-multilang](https://github.com/neverbot/hexo-multilang)** manages a site
-whose posts are written in more than one language, switching the content and not
-only the labels of the theme. [maldorne.org](https://maldorne.org) runs on it.
+whose posts are written in more than one language. Each language gets its own
+posts, its own archives, tags and categories, and its own prefix in the URL, so
+what changes when you switch is the writing and not a translated interface over
+the same text. [maldorne.org](https://maldorne.org) runs on it.
 
 Both are on npm, and together they are downloaded a bit under 1,400 times a
 year, which is the honest size of this: small plugins, for a small corner of a
