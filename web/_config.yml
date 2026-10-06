@@ -35,6 +35,11 @@ post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
+highlight:
+  line_number: false
+  auto_detect: false
+  tab_replace: '  '
+  wrap: true
 
 # Home index
 index_generator:
