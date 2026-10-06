@@ -48,7 +48,8 @@ of these files turns into.
 directory and pulls out what makes a level a level: the vertices, the lines
 between them, the sides of those lines, the sectors they enclose and the things
 placed inside. It writes that four ways, a compact JSON and a verbose one with
-the names spelled out, and the same pair in a small text format of its own.
+the names spelled out, and the same pair in a small text format of its own (a
+domain-specific language, or DSL).
 Compact when a thousand levels have to fit somewhere, verbose when a person has
 to read one. Once a level is JSON it can be measured, compared and queried with
 ordinary tools rather than with a reader for a format from 1993.
