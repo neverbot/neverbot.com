@@ -53,12 +53,14 @@ upload a file to before pasting its link, something that turns a link into an
 image the conversation can show inline, a proxy to fetch that image through when
 the site hosting it will not answer a browser directly.
 
-One of those seams is not optional. A browser can only open a WebSocket, and IRC
-predates them by a decade: most networks still listen on a plain socket, port
-6667, or the same thing wrapped in TLS. Reaching one of those needs something in
-between that speaks WebSocket to the browser and the old protocol to the server,
-and passes the bytes across. The networks that run their own web gateway are the
-exception, not the rule.
+One of them exists because of IRC's age. A browser can only open a WebSocket,
+and the protocol predates them by a decade. A network that runs its own
+WebSocket gateway needs nothing else: its configuration is that address, and the
+browser connects to the network itself. The ones that still only listen on a
+plain socket, port 6667 or the same thing under TLS, cannot be reached from a
+browser at all. For those, the configuration names the host and port, and the
+connection goes through a proxy you run, which opens that socket on the client's
+behalf and relays the traffic both ways.
 
 None of that lives in the repository. GhostMesh is the client; what it leans on
 is yours.
