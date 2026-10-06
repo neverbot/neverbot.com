@@ -12,6 +12,8 @@ docs: https://neverbot.github.io/maestro/
 screenshot: card.webp
 ---
 
+A work in progress, under development right now as part of my PhD.
+
 A game grows past the point where one person can hold it in their head. Four
 hundred missions, a progression nobody can verify by eye, a zone somebody
 renamed last week. Maestro is where that design lives, and it answers the
