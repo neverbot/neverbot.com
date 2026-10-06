@@ -3,7 +3,7 @@ title: Doom tools
 date: 2025-04-30
 layout: project
 summary: "Three small C++ tools for the files Doom keeps its levels in: one that draws a map in 3D, one that turns a map into JSON, and one that finds the duplicates in a folder full of them."
-stack: C++ · OpenGL
+stack: C++ · OpenGL · okinawa
 status: Idle
 years: Since 2025
 role: Author
