@@ -13,7 +13,7 @@ screenshot: card.webp
 Sublime Text has been my editor for most of my working life. What follows is
 what I have written for it and published.
 
-## MarkdownPrettyPreview
+## [MarkdownPrettyPreview](https://github.com/neverbot/MarkdownPrettyPreview)
 
 A read-only preview of the Markdown file you are editing, opened in a sibling
 tab and redrawn as you type.
@@ -39,7 +39,7 @@ it.
 
 [Source](https://github.com/neverbot/MarkdownPrettyPreview).
 
-## SublimerLog
+## [SublimerLog](https://github.com/neverbot/SublimerLog)
 
 Sublime does not promise an order when it loads plugins, so a plugin that throws
 while being imported can fail before anything is listening, and its traceback
