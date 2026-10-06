@@ -10,10 +10,8 @@ role: Author
 screenshot: card.webp
 ---
 
-Sublime Text is where I write, and it has an odd property: the plugin API is
-small, old and documented in passing, so the gap between "this annoys me" and "I
-fixed it" is shorter than in editors with a proper extension marketplace. These
-two came out of that gap.
+Sublime Text has been my editor for most of my working life. What follows is
+what I have written for it and published.
 
 ## MarkdownPrettyPreview
 
@@ -27,17 +25,17 @@ characters and wraps inside each cell, and the code block sits between banners
 that name its language.
 {.caption}
 
-Everything is drawn with text, because the preview is a Sublime buffer and a
-buffer has no images and no HTML. Headings get an underline, task lists become
+Everything is drawn with text, because the preview is an ordinary Sublime
+buffer. Headings get an underline, task lists become
 `▢` and `▣`, blockquotes become a `▌` bar, tables are drawn with Unicode box
 characters, wrapping and aligning each cell, and fenced code blocks are framed
 between `╒═╡ lang ╞═╕` and `╘═══╛` with the syntax of the language still
 highlighted inside.
 
 Bold, italic and strikethrough are real font styles rather than a change of
-colour, which the buffer has no API for. Getting there needs zero-width Unicode
-sentinels around each run, a trick with a cost worth knowing: copy text out of
-the preview and the sentinels travel with it.
+colour. That needs zero-width Unicode sentinels marking each run, and they have
+a cost worth knowing: copy text out of the preview and the sentinels travel with
+it.
 
 [Source](https://github.com/neverbot/MarkdownPrettyPreview).
 
@@ -51,9 +49,8 @@ the plugins you name once it is itself up, so their import-time errors land in
 the file too.
 
 That turns a bug into something reproducible: start the editor, make it happen,
-read the file. It also keeps a copy of the previous run, which matters when the
-thing you are debugging only breaks on the first launch of the day. The reason I
-wrote it is less noble: coding agents cannot see the editor's console, and this
-leaves it on disk where they can read it.
+read the file. It keeps a copy of the previous log on startup, and it is also
+what lets a coding agent read the console, which it otherwise cannot see, by
+leaving it on disk.
 
 [Source](https://github.com/neverbot/SublimerLog).
