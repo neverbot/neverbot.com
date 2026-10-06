@@ -56,8 +56,7 @@ refused to install alongside Hexo 8.
 is the fix, and also still open.
 
 Waiting is not the same as being stuck. Both branches live in my own forks and
-install straight from GitHub, which is how four sites are running them right
-now:
+install straight from GitHub, which is how my sites are running them right now:
 
 ```json
 "hexo-generator-feed": "github:neverbot/hexo-generator-feed#feature/absolute-urls-in-content",
