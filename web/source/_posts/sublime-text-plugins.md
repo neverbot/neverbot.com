@@ -1,0 +1,59 @@
+---
+title: Sublime Text plugins
+date: 2026-04-19
+layout: project
+summary: "Two small plugins for the editor I actually work in: a live Markdown preview drawn with box characters, and a logger that writes the console to disk so a plugin's import errors stop vanishing."
+stack: Python · Sublime Text API
+status: Idle
+years: Since 2025
+role: Author
+screenshot: card.webp
+---
+
+Sublime Text is where I write, and it has an odd property: the plugin API is
+small, old and documented in passing, so the gap between "this annoys me" and "I
+fixed it" is shorter than in editors with a proper extension marketplace. These
+two came out of that gap.
+
+## MarkdownPrettyPreview
+
+A read-only preview of the Markdown file you are editing, opened in a sibling
+tab and redrawn as you type.
+
+[![The preview pane: underlined headings, a framed shell code block and a table drawn with box characters](preview.webp)](preview.webp)
+
+The preview of its own readme. Headings get rules, the table is drawn with box
+characters and wraps inside each cell, and the code block sits between banners
+that name its language.
+{.caption}
+
+Everything is drawn with text, because the preview is a Sublime buffer and a
+buffer has no images and no HTML. Headings get an underline, task lists become
+`▢` and `▣`, blockquotes become a `▌` bar, tables are drawn with Unicode box
+characters, wrapping and aligning each cell, and fenced code blocks are framed
+between `╒═╡ lang ╞═╕` and `╘═══╛` with the syntax of the language still
+highlighted inside.
+
+Bold, italic and strikethrough are real font styles rather than a change of
+colour, which the buffer has no API for. Getting there needs zero-width Unicode
+sentinels around each run, a trick with a cost worth knowing: copy text out of
+the preview and the sentinels travel with it.
+
+[Source](https://github.com/neverbot/MarkdownPrettyPreview).
+
+## SublimerLog
+
+Sublime does not promise an order when it loads plugins, so a plugin that throws
+while being imported can fail before anything is listening, and its traceback
+goes to a console nobody was watching. SublimerLog captures everything written
+to that console into a file, while still printing it, and can force a reload of
+the plugins you name once it is itself up, so their import-time errors land in
+the file too.
+
+That turns a bug into something reproducible: start the editor, make it happen,
+read the file. It also keeps a copy of the previous run, which matters when the
+thing you are debugging only breaks on the first launch of the day. The reason I
+wrote it is less noble: coding agents cannot see the editor's console, and this
+leaves it on disk where they can read it.
+
+[Source](https://github.com/neverbot/SublimerLog).
