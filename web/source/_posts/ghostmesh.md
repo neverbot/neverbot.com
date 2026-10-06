@@ -11,10 +11,11 @@ repo: https://github.com/neverbot/ghostmesh
 screenshot: card.webp
 ---
 
-IRC is still where a lot of software gets argued about, and the clients for it
-are either a desktop application from 1999 or a hosted service that wants an
-account. GhostMesh is a third option: a web client you open, point at the
-networks you use, and close.
+IRC is the chat protocol open-source projects have been arguing over since the
+late eighties, and a good part of them still live on it. The clients, though,
+are either a desktop application that looks its age or a hosted service that
+wants an account first. GhostMesh is a third option: a web client you open,
+point at the networks you use, and close.
 
 [![The client with the channel list on the left, a channel in the middle and the member list on the right](client.webp)](client.webp)
 
