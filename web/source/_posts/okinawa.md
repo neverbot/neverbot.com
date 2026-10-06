@@ -19,9 +19,6 @@ library that other projects consume from source. It takes its name, and a good
 part of its shape, from [okinawa.js](/okinawa-js/), the 2D engine in JavaScript
 that came ten years earlier.
 
-There was a false start a few weeks earlier, written in C. It did not get far:
-the engine was rewritten from scratch in C++, and that is the one here.
-
 ## What it draws
 
 A scene graph of objects that inherit their parent's transform, with items,
