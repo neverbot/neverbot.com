@@ -51,8 +51,17 @@ The rest is plugins, written in TypeScript and picked up when the project is
 built. They are the seams where it meets services of your own: somewhere to
 upload a file to before pasting its link, something that turns a link into an
 image the conversation can show inline, a proxy to fetch that image through when
-the site hosting it will not answer a browser directly. None of that is in the
-repository either. GhostMesh is the client; what it leans on is yours.
+the site hosting it will not answer a browser directly.
+
+One of those seams is not optional. A browser can only open a WebSocket, and IRC
+predates them by a decade: most networks still listen on a plain socket, port
+6667, or the same thing wrapped in TLS. Reaching one of those needs something in
+between that speaks WebSocket to the browser and the old protocol to the server,
+and passes the bytes across. The networks that run their own web gateway are the
+exception, not the rule.
+
+None of that lives in the repository. GhostMesh is the client; what it leans on
+is yours.
 
 Underneath it is Vue 3 with the composition API, Pinia for state, strict
 TypeScript, Tailwind, and a plain WebSocket for the IRC connection itself.
