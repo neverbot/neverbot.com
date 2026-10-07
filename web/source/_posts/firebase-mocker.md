@@ -17,7 +17,7 @@ which works, but is a separate program every developer on the team has to
 install, keep current and remember to start before running anything.
 
 Firebase Mocker is the same idea with the installing removed. It is a
-devDependency, it starts from inside the project's own test setup, and anyone
+`devDependency`, it starts from inside the project's own test setup, and anyone
 who clones the repository and runs the tests gets it without knowing it exists.
 
 ## Four servers, no client changes

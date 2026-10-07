@@ -10,6 +10,7 @@
 
   --accent oklch(0.56 0.14 52)
   --accent-bright oklch(0.48 0.15 48)
+  --code-bg oklch(0.915 0.014 95)
 
   --placeholder-a oklch(0.93 0.012 95)
   --placeholder-b oklch(0.90 0.014 95)
@@ -30,6 +31,7 @@
 
   --accent oklch(0.80 0.12 72)
   --accent-bright oklch(0.87 0.13 75)
+  --code-bg oklch(0.30 0.018 148)
 
   --placeholder-a oklch(0.23 0.014 148)
   --placeholder-b oklch(0.25 0.015 148)
@@ -87,6 +89,14 @@ a
 
   &:hover
     color var(--accent-bright)
+
+code
+  font-family var(--mono)
+  font-size 0.82em
+  padding 1px 4px
+  border-radius 3px
+  background var(--code-bg)
+  white-space nowrap
 
 .label
   font-family var(--sans)
@@ -515,9 +525,6 @@ a
     color var(--text-muted)
     text-align center
 
-  code
-    font-family var(--mono)
-    font-size 0.85em
 
   .highlight
     margin 0 0 var(--space-5)
@@ -580,9 +587,6 @@ a
   li
     margin 0 0 var(--space-2)
 
-  code
-    font-family var(--mono)
-    font-size 0.85em
 
   .note
     font-size var(--step-0)

@@ -31,7 +31,12 @@
         <dl><dt>Docs</dt><dd><a href="<%= page.docs %>">Documentation</a></dd></dl>
       <% } %>
       <% if (page.install) { %>
-        <dl><dt>Install</dt><dd><a href="<%= page.install %>"><%= page.install.replace(/^https?:\/\//, '').replace(/\/.*$/, '') %></a></dd></dl>
+        <%
+          var installHost = page.install.replace(/^https?:\/\//, '').replace(/\/.*$/, '');
+          var installNames = { 'www.npmjs.com': 'npm', 'npmjs.com': 'npm', 'addons.mozilla.org': 'Firefox Add-ons' };
+          var installName = installNames[installHost] || installHost;
+        %>
+        <dl><dt>Install</dt><dd><a href="<%= page.install %>"><%= installName %></a></dd></dl>
       <% } %>
       <% if (page.play) { %>
         <dl><dt>Play</dt><dd><a href="<%= page.play %>"><%= page.play.replace(/^https?:\/\//, '').replace(/\/.*$/, '') %></a></dd></dl>
