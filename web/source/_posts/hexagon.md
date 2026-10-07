@@ -2,7 +2,7 @@
 title: Hexagon
 date: 2014-08-26
 layout: project
-summary: "A multilanguage mudlib: it adds an entity component system on top of the classic room inheritance, and a single instance can hold several games at once."
+summary: "A multilanguage mudlib: it adds an entity component system on top of the classic room inheritance, and a single instance can host several persistent online text games at once."
 stack: LPC · DGD · MUD · ECS
 status: Active
 years: Since 2014
