@@ -44,6 +44,8 @@ unchanged. Porting a game does not start with rewriting it.
 
 ## One instance, several games, two languages
 
-A single running instance hosts more than one game, which is why the client
-opens on a hub rather than on a world. The mudlib is translated, so the same
-code can run an English game and a Spanish one.
+These are persistent online text games: a world the server keeps running
+whether or not anybody is connected, described in prose and played by typing
+rather than by looking. A single running instance hosts more than one of them,
+which is why the client opens on a hub rather than on a world. The mudlib is
+translated, so the same code can run an English game and a Spanish one.
