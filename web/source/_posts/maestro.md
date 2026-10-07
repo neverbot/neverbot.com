@@ -10,6 +10,7 @@ role: Author
 repo: https://github.com/neverbot/maestro
 docs: https://neverbot.github.io/maestro/
 screenshot: card.webp
+rank: 30
 ---
 
 A work in progress, under development right now as part of my PhD.

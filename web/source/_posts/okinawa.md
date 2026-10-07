@@ -11,6 +11,7 @@ repo: https://github.com/okinawa-dev/okinawa
 docs: https://okinawa-dev.github.io/okinawa/
 screenshot: card.webp
 logo: okinawa.webp
+rank: 100
 ---
 
 A 3D engine in C++ on top of [OpenGL](https://www.opengl.org) and

@@ -10,6 +10,7 @@ role: Author
 repo: https://github.com/neverbot/firebase-mocker
 install: https://www.npmjs.com/package/firebase-mocker
 screenshot: card.webp
+rank: 80
 ---
 
 Writing tests against Firestore leaves two bad options. Point them at the real

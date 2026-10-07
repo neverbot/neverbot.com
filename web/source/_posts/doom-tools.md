@@ -8,6 +8,7 @@ status: Idle
 years: Since 2025
 role: Author
 screenshot: card.webp
+rank: 110
 ---
 
 Doom shipped its maps, textures, sounds and sprites inside a single archive

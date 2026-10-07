@@ -8,6 +8,7 @@ status: Idle
 years: Since 2025
 role: Author
 screenshot: card.webp
+rank: 60
 ---
 
 Sublime Text has been my editor for most of my working life. What follows is

@@ -1,8 +1,8 @@
 ---
 title: Projects
 layout: projects
-description: Every project on this site, newest first.
+description: Every project on this site.
 ---
 
-Everything on this site, newest first. Some are still moving, some are
+Everything on this site. Some are still moving, some are
 finished.

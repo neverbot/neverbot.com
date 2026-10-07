@@ -10,6 +10,7 @@ role: Author
 repo: https://github.com/okinawa-dev/okinawa.js
 screenshot: asteroids.webp
 logo: okinawa.webp
+rank: 150
 ---
 
 A 2D engine written in plain [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript),

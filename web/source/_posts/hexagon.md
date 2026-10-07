@@ -11,6 +11,7 @@ repo: https://github.com/maldorne/hexagon
 play: https://maldorne.org/games/
 screenshot: client.webp
 logo: hexagon.webp
+rank: 140
 ---
 
 A *mudlib*: the layer of code that turns a bare [MUD](https://en.wikipedia.org/wiki/Multi-user_dungeon)

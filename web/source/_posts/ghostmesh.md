@@ -9,6 +9,7 @@ years: Since 2025
 role: Author
 repo: https://github.com/neverbot/ghostmesh
 screenshot: card.webp
+rank: 120
 ---
 
 IRC is the chat protocol open-source projects have been arguing over since the

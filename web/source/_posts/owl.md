@@ -12,6 +12,7 @@ docs: https://neverbot.github.io/owl/
 screenshot: host.webp
 logo: owl-light.svg
 logo_dark: owl-dark.svg
+rank: 50
 ---
 
 Observability sized for one machine: a single static [Go](https://go.dev) binary, one container
