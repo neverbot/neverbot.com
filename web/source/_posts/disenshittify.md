@@ -3,18 +3,22 @@ title: Disenshittify
 date: 2026-07-07
 layout: project
 summary: A Firefox extension that hides the parts of a platform that exist to serve the platform. Recommendation walls, infinite feeds, upsells, suggested posts, each one a switch you can turn off.
-stack: JavaScript · Firefox · esbuild
+stack: JavaScript · Firefox · Add-on
 status: Active
 years: Since 2026
 role: Author
 repo: https://github.com/neverbot/disenshittify
+install: https://addons.mozilla.org/en-US/firefox/addon/disenshittify/
 screenshot: card.webp
 ---
 
 Platforms get worse on purpose. The feed you asked for arrives wrapped in things
 you did not: videos nobody you follow posted, posts surfaced because a stranger
-liked them, a box offering to sell you the version without the boxes. This hides
-them.
+liked them, a box offering to sell you the version without the boxes.
+
+Disenshittify is a Firefox add-on that hides them. It is
+[published on Mozilla's add-on site](https://addons.mozilla.org/en-US/firefox/addon/disenshittify/),
+so installing it is one button.
 
 [![The extension popup on its three tabs, each listing the features it can hide with a switch and a count](popups.webp)](popups.webp)
 
