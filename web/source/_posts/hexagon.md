@@ -35,12 +35,27 @@ library is the layer that fills the gap.
 
 ![The web client, connected to the Hexagon games hub](client.webp)
 
-## Components next to inheritance
+## Features
 
 A classic LP mudlib builds its world through inheritance. Hexagon adds an
 entity component system next to it rather than replacing it, so features can
 be attached to objects as components while the inherited code keeps working
 unchanged. Porting a game does not start with rewriting it.
+
+The point of that split is that it keeps the data apart from the behaviour. The
+component holds its own state, which travels inside the save file of whatever
+carries it, and the code that gives that state meaning lives in the component
+itself. A room becomes a shop, a forge, a farm or a temple by attaching one from
+inside the game, standing in the room, with no file edited. Content is added and
+changed by playing, not by programming.
+
+The inhabitants are built the same way, which is what makes a town read as one.
+Each has a name and a surname, taken from a family that records its spouses, its
+parents and its dead, and whose descent, who gives the surname, is a decision of
+the culture rather than of the engine. They hold a job the settlement offers,
+work it at a particular place and have a house to come back to, and a timetable
+says which of the two the hour calls for. They walk there room by room instead of
+appearing, so the streets have people crossing them on their way somewhere.
 
 ## One instance, several games, two languages
 
