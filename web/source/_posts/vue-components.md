@@ -39,5 +39,4 @@ It is the most used thing I have published: 90 stars, and a few thousand
 downloads a year from people who presumably had the same afternoon I did.
 
 Tiptap has since published its own Vue 3 package, which is where anyone starting
-today should go, and the readme says so at the top. Leaving that line out would
-have been easy and dishonest.
+today should go, and the readme says so at the top.
