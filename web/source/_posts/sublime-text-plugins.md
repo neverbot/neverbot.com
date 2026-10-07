@@ -34,10 +34,11 @@ characters, wrapping and aligning each cell, and fenced code blocks are framed
 between `╒═╡ lang ╞═╕` and `╘═══╛` with the syntax of the language still
 highlighted inside.
 
-Bold and italic are real font styles rather than a change of colour. That needs
-zero-width Unicode sentinels marking each run, and they have
-a cost worth knowing: copy text out of the preview and the sentinels travel with
-it.
+Bold and italic are real font styles rather than a change of colour, and
+struck-through text really is crossed out. That needs zero-width Unicode
+sentinels marking each run, and a combining stroke on every struck character,
+since no colour scheme offers a strikethrough style. They have a cost worth
+knowing: copy text out of the preview and those marks travel with it.
 
 [Source](https://github.com/neverbot/MarkdownPrettyPreview).
 
