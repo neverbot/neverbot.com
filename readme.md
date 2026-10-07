@@ -18,19 +18,34 @@ npm run build    # writes web/public
 
 Each project is a markdown file in `web/source/_posts`, with its screenshots
 in a folder of the same name. The front matter carries the data shown on the
-card and in the sidebar:
+card, in the index and in the sidebar:
 
 ```yaml
 title: Hexagon
 summary: One or two lines, shown on the card.
-stack: C++ · ECS
-status: Active
-years: 2023 – today
+kind: Library            # the left column of /projects/
+stack: LPC · DGD · MUD · ECS
+status: Active           # Active, WIP or Idle
+years: Since 2014
 role: Author
-repo: https://github.com/...
+rank: 140                # listing order, lowest first, in steps of ten
+screenshot: client.webp
+logo: hexagon.webp       # optional, from themes/portfolio/source/images/logos
+repo: https://github.com/...     # optional, and so are the four below
+docs: https://...
+install: https://www.npmjs.com/package/...
+play: https://...
 demo: https://...
-screenshot: hexagon.webp
 ```
 
-`PRODUCT.md` and `DESIGN.md` describe who the site is for and the design
-system it is built on.
+Both listings are ordered by `rank` through the `project_list()` helper in
+`web/themes/portfolio/scripts/projects.js`, which falls back to the date for
+anything without one.
+
+## Deployment
+
+Netlify builds `web/` and publishes `web/public`, as `netlify.toml` says. The
+blog that used to live at this domain is now at `blog.neverbot.com`, and its
+posts hung straight off the root, so the catch-all redirect in that file sends
+anything this site does not serve to the subdomain. It is deliberately not
+forced, which is what lets these pages win over it.
