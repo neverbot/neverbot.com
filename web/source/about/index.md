@@ -20,9 +20,11 @@ including the typefaces, is served from this domain.
   `markdown-it-attrs` for figure captions
 - Plain CSS custom properties for the two colour schemes, in
   [OKLCH](https://oklch.com). No CSS framework
-- About twenty lines of vanilla JavaScript: the theme toggle, and the portrait
-  carousel and typewriter effect on the home page. Everything else works with
-  JavaScript turned off
+- A hundred lines of vanilla JavaScript in two files: the theme toggle, and the
+  portrait carousel and typewriter effect, which is only loaded on the home
+  page. Everything else works with JavaScript turned off
+- Code blocks are parsed while the site is built, never in the browser, and the
+  stylesheet uses almost none of it: everything is one colour except strings
 
 ### Typefaces
 
@@ -31,8 +33,8 @@ browser actually downloads, subset to Latin.
 
 - **[Petrona](https://fonts.google.com/specimen/Petrona)**, body text, in
   roman, italic and bold (73 KB). [SIL Open Font License 1.1][ofl]
-- **[Young Serif](https://fonts.google.com/specimen/Young+Serif)**, project
-  titles (27 KB). [SIL Open Font License 1.1][ofl]
+- **[Young Serif](https://fonts.google.com/specimen/Young+Serif)**, page and
+  project titles (27 KB). [SIL Open Font License 1.1][ofl]
 - **[Hanken Grotesk](https://fonts.google.com/specimen/Hanken+Grotesk)**,
   navigation, labels and metadata, in two weights (27 KB).
   [SIL Open Font License 1.1][ofl]
