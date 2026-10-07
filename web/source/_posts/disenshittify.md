@@ -32,8 +32,7 @@ them rather than because they were written for you.
 
 Nothing is all or nothing. Every item is its own switch, there is a master one
 for the whole extension, and after each page it reports what it removed, as a
-toast and as a number on the toolbar icon. That counter is the part I did not
-expect to care about: it turns an abstract complaint into a figure.
+toast and as a number on the toolbar icon.
 
 ## One registry, two consumers
 
