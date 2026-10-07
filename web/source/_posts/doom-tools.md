@@ -2,7 +2,7 @@
 title: Doom tools
 date: 2025-04-30
 layout: project
-summary: "C++ tools for the archives Doom keeps its levels in. The main one rebuilds a map in 3D from the flat lines and sectors it is really made of, puts the original textures back on, and lets you fly a camera through a level people are still making thirty years later."
+summary: "C++ tools for the archives Doom keeps its levels in. The main one rebuilds a map in 3D from its lines and sectors, with the original textures, and lets you fly through it."
 stack: C++ · OpenGL · okinawa
 status: Idle
 years: Since 2025
