@@ -34,21 +34,4 @@ Nothing is all or nothing. Every item is its own switch, there is a master one
 for the whole extension, and after each page it reports what it removed, as a
 toast and as a number on the toolbar icon.
 
-## One registry, two consumers
-
-A feature is a small module that declares how it applies itself, usually as CSS
-and occasionally with a hook for the cases CSS cannot reach. They all sit in one
-registry, and that registry is the only source of truth: an engine that knows
-nothing about any particular platform reads which features are on and applies
-them, reacting as the page changes, and the popup is generated from that same
-list. Adding a feature therefore adds its switch. Adding a whole platform is a
-folder, an entry and a line in the manifest.
-
-The published package is bundled, but **not minified and not obfuscated**: the
-files keep their original names and carry comments pointing back at the source
-they came from, and nothing is generated or evaluated once it reaches your
-browser. That is partly for the people who review extensions before they are
-published, and partly because an extension that can read every page you open has
-no business being unreadable itself.
-
 The only permission it asks for is storage, to remember which switches you set.
