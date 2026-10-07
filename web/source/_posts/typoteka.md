@@ -30,9 +30,10 @@ opening or a sidebar. Each style also tells the editor which named blocks an
 author may use, so writing for it is a matter of asking for a box or a
 single-column section rather than reproducing a look by hand.
 
-[![The style picker showing four styles, each with page thumbnails, a description and the fonts it uses](styles.webp)](styles.webp)
+[![The style picker, each style with page thumbnails, a description and the fonts it uses](styles.webp)](styles.webp)
 
-Four styles so far, from a plain undecorated one to a role-playing sourcebook.
+The styles that ship with it, from a plain undecorated one to a role-playing
+sourcebook.
 {.caption}
 
 ## The part that is design
