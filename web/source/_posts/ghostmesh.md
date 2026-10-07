@@ -4,7 +4,7 @@ date: 2025-04-25
 layout: project
 summary: An IRC client that runs in the browser and talks to several networks at once. No account, no sign-in, nothing stored anywhere but your own browser.
 stack: TypeScript · Vue · Tailwind
-status: Active
+status: Idle
 years: Since 2025
 role: Author
 repo: https://github.com/neverbot/ghostmesh

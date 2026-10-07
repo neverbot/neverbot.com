@@ -4,7 +4,7 @@ date: 2026-01-13
 layout: project
 summary: I like static sites, and Hexo is the generator I keep coming back to. Over the years one need or another has ended in commits to somebody else's plugin, or in writing and publishing my own.
 stack: JavaScript · Hexo
-status: Active
+status: Idle
 years: Since 2020
 role: Author and contributor
 screenshot: card.webp
