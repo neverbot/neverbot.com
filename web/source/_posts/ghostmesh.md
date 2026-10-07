@@ -10,6 +10,7 @@ role: Author
 repo: https://github.com/neverbot/ghostmesh
 screenshot: card.webp
 rank: 120
+kind: Web app
 ---
 
 IRC is the chat protocol open-source projects have been arguing over since the

@@ -11,6 +11,7 @@ repo: https://github.com/neverbot/disenshittify
 install: https://addons.mozilla.org/en-US/firefox/addon/disenshittify/
 screenshot: card.webp
 rank: 40
+kind: Browser add-on
 ---
 
 Platforms get worse on purpose. The feed you asked for arrives wrapped in things

@@ -9,6 +9,7 @@ years: Since 2020
 role: Author and contributor
 screenshot: card.webp
 rank: 90
+kind: Plugins
 ---
 
 I like static sites, and [Hexo](https://hexo.io) is the generator I keep coming

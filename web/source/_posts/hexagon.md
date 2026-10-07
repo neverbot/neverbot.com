@@ -12,6 +12,7 @@ play: https://maldorne.org/games/
 screenshot: client.webp
 logo: hexagon.webp
 rank: 140
+kind: Library
 ---
 
 A *mudlib*: the layer of code that turns a bare [MUD](https://en.wikipedia.org/wiki/Multi-user_dungeon)

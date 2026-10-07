@@ -11,6 +11,7 @@ repo: https://github.com/neverbot/vue-tiptap
 install: https://www.npmjs.com/package/vue-tiptap
 screenshot: card.webp
 rank: 130
+kind: Library
 ---
 
 A new front-end framework turns up every week. Of all of them, the one I keep

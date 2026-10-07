@@ -11,6 +11,7 @@ screenshot: player.webp
 repo: https://github.com/neverbot/cue
 logo: cue.webp
 rank: 20
+kind: Mac app
 ---
 
 YouTube's own watch-later list is a browser tab you never close. Cue is the

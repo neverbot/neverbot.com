@@ -11,6 +11,7 @@ repo: https://github.com/neverbot/nottario
 docs: https://neverbot.github.io/nottario/
 screenshot: board.webp
 rank: 70
+kind: Web app
 ---
 
 A self-hosted coordinator for developers and the agents working alongside

@@ -9,6 +9,7 @@ years: Since 2025
 role: Author
 screenshot: card.webp
 rank: 10
+kind: Web app
 ---
 
 Layout software ties the words to the way they look. Move a chapter and the
