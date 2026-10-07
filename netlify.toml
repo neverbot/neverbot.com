@@ -1,0 +1,21 @@
+# general build configuration
+[build]
+  base = "web/"
+  publish = "web/public"
+  command = "npm run build"
+
+# redirect from www.neverbot.com
+[[redirects]]
+  from = "https://www.neverbot.com/*"
+  to = "https://neverbot.com/:splat"
+  status = 301
+  force = true
+
+# The blog lived here until 2026 and its posts hung straight off the root, so
+# every path this site does not serve is one of its urls. This rule is not
+# forced on purpose: Netlify applies it only when no file of this site matches,
+# so the pages here win and everything else follows the blog to its subdomain.
+[[redirects]]
+  from = "/*"
+  to = "https://blog.neverbot.com/:splat"
+  status = 301
