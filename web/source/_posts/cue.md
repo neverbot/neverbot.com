@@ -4,7 +4,7 @@ date: 2026-09-11
 layout: project
 summary: "A watch-later queue for YouTube that lives on your Mac instead of in your browser: a native player with no ads, no embed and no tab eating your battery."
 stack: Swift · AppKit · libmpv · SQLite
-status: Active
+status: WIP
 years: Since 2026
 role: Author
 screenshot: player.webp
