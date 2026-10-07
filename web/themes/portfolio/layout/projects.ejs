@@ -9,7 +9,7 @@
     <% projects.forEach(function (project) { %>
       <li class="index-row">
         <a href="<%- url_for(project.path) %>">
-          <span class="index-years"><%= project.years %></span>
+          <span class="index-kind"><%= project.kind %></span>
           <span class="index-body">
             <span class="index-title"><%= project.title %></span>
             <span class="index-summary"><%= project.summary %></span>
