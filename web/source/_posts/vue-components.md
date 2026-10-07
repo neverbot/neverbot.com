@@ -2,7 +2,7 @@
 title: Vue components
 date: 2019-07-11
 layout: project
-summary: When a front end has to do more than sit there, I reach for Vue. A new framework appears every week and that one has outlasted most of them, so the pieces I needed are published as components.
+summary: A new front-end framework turns up every week. Of all of them, the one I keep coming back to is Vue, and the pieces worth reusing end up published as components.
 stack: JavaScript · Vue
 status: Idle
 years: Since 2019
