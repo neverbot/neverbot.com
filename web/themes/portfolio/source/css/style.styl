@@ -68,6 +68,7 @@
   --radius-card 10px
   --radius-shot 6px
   --shot-max-height 420px
+  --shot-max-height-tall 760px
 
   --ease cubic-bezier(0.22, 1, 0.36, 1)
 
@@ -517,6 +518,9 @@ code
     margin-right auto
     border 1px solid var(--hairline)
     border-radius var(--radius-shot)
+
+    &.tall
+      max-height var(--shot-max-height-tall)
 
   p.caption
     max-width 44ch
