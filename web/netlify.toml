@@ -1,7 +1,7 @@
 # general build configuration
 [build]
   base = "web/"
-  publish = "public"
+  publish = "web/public"
   command = "npm run build"
 
 # redirect from www.neverbot.com
