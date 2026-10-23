@@ -33,7 +33,8 @@ single-column section rather than reproducing a look by hand.
 
 [![The style picker, with the styles grouped under General, Fiction and Roleplaying games, each with page thumbnails, a description and the fonts it uses](styles.webp){.tall}](styles.webp)
 
-The styles there are to choose from, grouped by the kind of book they are for.
+Some of the first styles, grouped by the kind of book they are for. More are on
+the way.
 {.caption}
 
 ## The part that is design
