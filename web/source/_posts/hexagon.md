@@ -69,13 +69,15 @@ translated, so the same code can run an English game and a Spanish one.
 
 Hexagon belongs to [House of Maldorne](https://maldorne.org), the non-profit
 association I started around it. Most of the games it looks after were written in
-the nineties, by people who have long since moved on, and ran on machines that
-were switched off years ago. What is left of them is a backup somebody thought to
-keep: a folder of code for a driver nobody compiles any more. We get them to boot
-again and leave them open to anyone who wants to log in, original player files
-included. [Reinos de Leyenda](https://maldorne.org/games/) and two of its forks
-are back up that way.
+the nineties or the early 2000s, by people who have long since moved on, and ran
+on machines that were switched off years ago. What is left of them is a backup
+somebody thought to keep: a folder of code for a driver nobody compiles any more.
+We get them to boot again, write articles about how to compile and update older
+drivers, and leave them open to anyone who wants to log in, original player files
+included.
 
 Our own games sit next to them on the same server, and those are the ones running
 on Hexagon. The association also keeps a [blog](https://maldorne.org) where each
-recovery and each milestone gets written down.
+recovery and each milestone gets written down, and we develop
+[our own web client](https://github.com/maldorne/mud-web-client) to let players
+[log in from anywhere](https://maldorne.org/play/) without installing anything.
