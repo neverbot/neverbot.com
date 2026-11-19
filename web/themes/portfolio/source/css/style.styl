@@ -129,7 +129,9 @@ code
   color var(--text)
   font-size 13px
 
-.site-nav
+.site-nav,
+.nav-links,
+.nav-tools
   display flex
   align-items center
   gap var(--space-4)
@@ -724,6 +726,31 @@ code
       margin 0
 
 @media (max-width: 640px)
+  .site-header
+    display grid
+    grid-template-columns minmax(0, 1fr) auto
+    grid-template-areas 'name tools' 'links links'
+    align-items center
+    gap 0 var(--space-4)
+
+  .site-nav
+    display contents
+
+  .site-name
+    grid-area name
+
+  .nav-tools
+    grid-area tools
+    gap var(--space-1)
+    margin-right -7px
+
+  .nav-links
+    grid-area links
+    gap var(--space-5)
+
+  .nav-divider
+    display none
+
   .project-grid
     grid-template-columns 1fr
 
@@ -802,9 +829,6 @@ code
     padding-bottom var(--space-4)
     row-gap 0
 
-  .site-nav
-    gap var(--space-2)
-
   body
     font-size var(--step-1)
 
@@ -824,10 +848,17 @@ code
     width 44px
     height 44px
 
+  .nav-links .nav-text:first-child
+    padding-left 0
+
   .project-aside dd a
     display inline-block
     padding var(--space-2) 0
     margin calc(var(--space-2) * -1) 0
+
+@media (pointer: coarse) and (max-width: 640px)
+  .nav-tools
+    margin-right -13px
 
 @media (orientation: landscape) and (max-height: 500px)
   .site-header
@@ -856,13 +887,6 @@ code
 @media (max-width: 360px)
   .intro-role
     min-height 2lh
-
-@media (pointer: coarse) and (max-width: 360px)
-  .site-nav
-    gap 0
-
-  .nav-divider
-    margin 0 var(--space-2)
 
 @media (prefers-reduced-motion: reduce)
   *
