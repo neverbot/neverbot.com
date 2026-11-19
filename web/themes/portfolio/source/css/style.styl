@@ -893,3 +893,11 @@ code
 @media (prefers-reduced-motion: reduce)
   *
     transition none !important
+
+@css {
+  @media (prefers-reduced-motion: no-preference) {
+    @view-transition {
+      navigation: auto;
+    }
+  }
+}
