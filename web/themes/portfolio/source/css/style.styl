@@ -692,7 +692,17 @@ code
 
 @media (max-width: 860px)
   .project-grid
-    grid-template-columns 1fr
+    gap var(--space-5)
+
+  .project-title
+    margin var(--space-4) var(--space-4) var(--space-2)
+
+  .project-summary
+    margin 0 var(--space-4)
+
+  .project-meta
+    flex-wrap wrap
+    margin auto var(--space-4) var(--space-4)
 
   .intro
     padding var(--space-8) 0 var(--space-7)
@@ -714,6 +724,60 @@ code
       margin 0
 
 @media (max-width: 640px)
+  .project-grid
+    grid-template-columns 1fr
+
+  .intro
+    display grid
+    grid-template-columns 112px minmax(0, 1fr)
+    grid-template-rows 1fr auto auto 1fr auto
+    gap 0 var(--space-5)
+    padding var(--space-7) 0 var(--space-7)
+
+  .intro-portrait
+    grid-column 1
+    grid-row 1 / 5
+    width 112px
+
+  .intro-text
+    display contents
+
+  .intro-name
+    grid-column 2
+    grid-row 2
+    font-size clamp(38px, 11vw, 48px)
+
+  .intro-role
+    grid-column 2
+    grid-row 3
+    justify-self start
+    font-size var(--step-1)
+
+  .intro-bio
+    grid-column 1 / -1
+    grid-row 5
+    margin-top var(--space-5)
+
+  .project-page-title,
+  .page-title
+    margin var(--space-7) 0 var(--space-6)
+    font-size clamp(32px, 9vw, 44px)
+
+  .project-logo
+    margin-top var(--space-7)
+
+  .project-logo img
+    height 64px
+
+  .project-content h2,
+  .page-content h2
+    margin-top var(--space-6)
+
+  .project,
+  .page,
+  .project-grid
+    padding-bottom var(--space-8)
+
   .index-row a
     grid-template-columns 1fr
     gap var(--space-2)
@@ -733,11 +797,72 @@ code
     padding-left var(--space-4)
     padding-right var(--space-4)
 
+  .site-header
+    padding-top var(--space-4)
+    padding-bottom var(--space-4)
+    row-gap 0
+
   .site-nav
     gap var(--space-2)
 
+  body
+    font-size var(--step-1)
+
   .project-aside dd
     overflow-wrap anywhere
+
+@media (pointer: coarse)
+  .site-name,
+  .nav-text
+    padding var(--space-3) 0
+
+  .nav-text
+    padding-left var(--space-1)
+    padding-right var(--space-1)
+
+  .nav-icon
+    width 44px
+    height 44px
+
+  .project-aside dd a
+    display inline-block
+    padding var(--space-2) 0
+    margin calc(var(--space-2) * -1) 0
+
+@media (orientation: landscape) and (max-height: 500px)
+  .site-header
+    padding-top var(--space-4)
+    padding-bottom var(--space-4)
+
+  .intro
+    padding var(--space-6) 0 var(--space-7)
+
+  .intro-portrait
+    width 160px
+
+  .intro-text
+    padding-top 0
+
+  .intro-name
+    font-size var(--step-5)
+
+  .project-page-title,
+  .page-title
+    margin var(--space-7) 0 var(--space-6)
+
+  .project-logo
+    margin-top var(--space-7)
+
+@media (max-width: 360px)
+  .intro-role
+    min-height 2lh
+
+@media (pointer: coarse) and (max-width: 360px)
+  .site-nav
+    gap 0
+
+  .nav-divider
+    margin 0 var(--space-2)
 
 @media (prefers-reduced-motion: reduce)
   *
