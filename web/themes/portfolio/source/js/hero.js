@@ -58,6 +58,7 @@
       var base = image.getAttribute('src').replace(/01\.webp$/, '');
 
       setInterval(function () {
+        if (document.hidden) return;
         var n = order[at % order.length];
         at++;
         var pad = n < 10 ? '0' + n : String(n);
