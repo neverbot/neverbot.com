@@ -8,15 +8,26 @@
     button.setAttribute('aria-label', 'Switch to ' + next + ' mode');
   }
 
-  function apply(theme) {
+  function show(theme) {
     root.setAttribute('data-theme', theme);
+    var meta = document.querySelector('meta[name="color-scheme"]');
+    if (meta) meta.content = theme;
+    label(theme);
+  }
+
+  function apply(theme) {
+    show(theme);
     try {
       localStorage.setItem('theme', theme);
     } catch (error) {
       // private browsing, or storage disabled: the choice just does not persist
     }
-    label(theme);
   }
+
+  window.addEventListener('storage', function (event) {
+    if (event.key !== 'theme') return;
+    show(event.newValue === 'dark' ? 'dark' : 'light');
+  });
 
   label(root.getAttribute('data-theme') || 'light');
 
